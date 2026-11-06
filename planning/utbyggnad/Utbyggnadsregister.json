@@ -2276,7 +2276,7 @@
       ],
       "href": "/docs/fordjupning/ljud-och-prosodi/foneminventarium-och-artikulation",
       "requiredCoverage": "Vokaler, konsonanter, allofoner, artikulationsställe/-sätt och IPA; skilj fonemisk och fonetisk transkription med uttalsvariant.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X002",
@@ -2290,7 +2290,7 @@
       ],
       "href": "/docs/fordjupning/ljud-och-prosodi/stavelser-och-kvantitet",
       "requiredCoverage": "Stavelsegräns, betonad/obetonad stavelse, vokalkvalitet och längd; varför konsonantantal i skrift bara är en ledtråd.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X003",
@@ -2304,7 +2304,7 @@
       ],
       "href": "/docs/fordjupning/ljud-och-prosodi/reduktion-schwa-och-sammanhangande-tal",
       "requiredCoverage": "Schwa-bortfall, syllabiska sonoranter, assimilation, länkar mellan ord och vårdat kontra spontant tal; tidsstämplade ljudexempel.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X004",
@@ -2318,7 +2318,7 @@
       ],
       "href": "/docs/fordjupning/ljud-och-prosodi/ordaccent-och-morfologisk-struktur",
       "requiredCoverage": "Sammansättning, avledning, prefix, partikelverb och lånord; primär/sekundär accent och betydelseskiftande par.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X005",
@@ -2346,7 +2346,7 @@
       ],
       "href": "/docs/fordjupning/morfologi/morfem-allomorfi-och-produktivitet",
       "requiredCoverage": "Stam, rot, affix, böjning/avledning, nollmorf och allomorf; synkron analys skild från etymologi.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X007",
@@ -2361,7 +2361,7 @@
       ],
       "href": "/docs/fordjupning/morfologi/nominala-bojningsklasser-och-synkretism",
       "requiredCoverage": "Stark/svag/blandad substantivböjning, restformer och sammanfall; fulla paradigm samt gränsen mot adjektivisk deklination.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X008",
@@ -2375,7 +2375,7 @@
       ],
       "href": "/docs/fordjupning/morfologi/genusvariation-och-genuskonflikt",
       "requiredCoverage": "Der/das- och andra varierande ord, genus som skiljer betydelse, lånord och kongruens med personreferens; register/nation anges.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X009",
@@ -2389,7 +2389,7 @@
       ],
       "href": "/docs/fordjupning/morfologi/pluralvariation-dubbelplural-och-massord",
       "requiredCoverage": "Wörter/Worte och andra betydelseskillnader, lånordsplural, måttord, pluralia/singularia och räknebarhetsväxling; lexikal referens.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X010",
@@ -2403,7 +2403,7 @@
       ],
       "href": "/docs/fordjupning/morfologi/kompositionens-typer-och-fogeelement",
       "requiredCoverage": "Determinativa/koordinativa och andra analyser, huvudled, foge-s/-n/ø, intern struktur, produktivitet och restriktioner.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X011",
@@ -2417,7 +2417,7 @@
       ],
       "href": "/docs/fordjupning/morfologi/nominala-avledningssuffix",
       "requiredCoverage": "Suffixfamiljer med basordklass, genus, plural, betydelse och produktivitet; skilj suffix från bokstavsslut och lexikala undantag.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X012",
@@ -2432,7 +2432,7 @@
       ],
       "href": "/docs/fordjupning/morfologi/adjektiv-och-adverbavledning",
       "requiredCoverage": "-bar/-lich/-ig/-isch/-haft/-los, -weise och gränsen adjektiv/adverb; valens och semantisk begränsning.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X013",
@@ -2447,7 +2447,7 @@
       ],
       "href": "/docs/fordjupning/morfologi/verbavledning-och-partikelbildning",
       "requiredCoverage": "Prefix, partiklar, konversion och verbifiering; betoning, separerbarhet, aktionsart och valensändring med betydelseposter.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X014",
@@ -2461,7 +2461,7 @@
       ],
       "href": "/docs/fordjupning/morfologi/konversion-kortord-och-produktiva-nybildningar",
       "requiredCoverage": "Substantivering, initialord, förkortning, kontamination och lånordsanpassning; artikel, plural och böjning i faktisk användning.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X015",
@@ -2476,7 +2476,7 @@
       ],
       "href": "/docs/fordjupning/nominalfras/nominalfrasens-fullstandiga-struktur",
       "requiredCoverage": "Determinativ, kvantifikator, adjektivattribut, huvud, efterställda attribut; inbäddning och alternativa strukturträd.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X016",
@@ -2504,7 +2504,7 @@
       ],
       "href": "/docs/fordjupning/nominalfras/genitivattribut-och-dess-tolkningar",
       "requiredCoverage": "Possessiv, subjektiv, objektiv och andra relationer; placering, nästling, ambiguös referens och förlust vid von-omskrivning.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X018",
@@ -2518,7 +2518,7 @@
       ],
       "href": "/docs/fordjupning/nominalfras/apposition-och-kasus",
       "requiredCoverage": "Lös/bunden apposition, titlar, namn och mått; kongruens, kasusattraktion och belagd variation med etiketter.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X019",
@@ -2532,7 +2532,7 @@
       ],
       "href": "/docs/fordjupning/nominalfras/matt-mangd-och-partitivfraser",
       "requiredCoverage": "Ein Glas Wasser, ett kilo och numeruskongruens; partitiv genitiv/von, flertal och böjning i skilda frastyper.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X020",
@@ -2546,7 +2546,7 @@
       ],
       "href": "/docs/fordjupning/nominalfras/adjektivbojningens-svara-gransfall",
       "requiredCoverage": "Efter all-/manch-/solch-/beid-/viel-, flera adjektiv, dativvariation och parallell böjning; källbelagda alternativ får inte bli falska fel.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X021",
@@ -2560,7 +2560,7 @@
       ],
       "href": "/docs/fordjupning/nominalfras/substantiverade-adjektiv-och-nominal-ellips",
       "requiredCoverage": "Skillnad mellan utelämnat substantiv och självständigt substantiverat adjektiv; versal, artikel och böjning samt etwas/nichts Neues.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X022",
@@ -2575,7 +2575,7 @@
       ],
       "href": "/docs/fordjupning/nominalfras/egennamn-titlar-och-geografiska-namn",
       "requiredCoverage": "Genus, artiklar, namnens böjning, genitiv och namnkomplex; politiska/geografiska namn med variation och modifiering.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X023",
@@ -2590,7 +2590,7 @@
       ],
       "href": "/docs/fordjupning/verb-och-valens/valensteori-och-konstruktionens-argument",
       "requiredCoverage": "Komplement/supplement, obligatorisk/fakultativ valens, semantiska roller och testens begränsningar; ingen enda frågeordsmetod räcker.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X024",
@@ -2604,7 +2604,7 @@
       ],
       "href": "/docs/fordjupning/verb-och-valens/kasusalternation-och-betydelseandring",
       "requiredCoverage": "Objekt/prepositionskomplement, transitiv/intransitiv användning och olika lexembetydelser; varje alternation dokumenteras med exempel.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X025",
@@ -2618,7 +2618,7 @@
       ],
       "href": "/docs/fordjupning/verb-och-valens/dativens-olika-funktioner",
       "requiredCoverage": "Styrd dativ, benefaktiv, possessiv/pertinens, etisk och bedömande dativ; kriterier och kontext.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X026",

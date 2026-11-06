@@ -809,15 +809,15 @@
         "A04"
       ],
       "requiredCoverage": "All-, viel-, wenig-, manch-, solch- och parallell böjning; högfrekventa stamförändringar som teuer/hoch; belagd variation markeras och testas inte som entydig.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Adjektiv/flera-adjektiv-och-mangdord.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "A06",
@@ -830,15 +830,15 @@
         "A01"
       ],
       "requiredCoverage": "Regelbundna former, omljud och gut/besser/best-, viel/mehr/meist-; am schönsten respektive der schönste; attributiv komparativ får också kasusändelse.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Adjektiv/komparation.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "A07",
@@ -851,15 +851,15 @@
         "A06"
       ],
       "requiredCoverage": "Likhet, olikhet, ellips och hela jämförelsesatser; korrekt standardbruk och markerat regionalt talspråk; jämförelsesatsens ordföljd.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Adjektiv/als-wie-je-desto.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "A08",
@@ -874,15 +874,15 @@
         "Y04"
       ],
       "requiredCoverage": "Stolz auf + ackusativ, zufrieden mit + dativ samt infinitiv- och dass-konstruktioner; betydelser och rektion registreras tillsammans.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Adjektiv/adjektivens-komplement.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "R01",
@@ -961,15 +961,15 @@
         "A03"
       ],
       "requiredCoverage": "Meiner/meine/meins och artikelkonstruktioner som der meine; syftning och register; skillnaden mellan artikelord och självständig pronominell form.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Pronomen/sjalvstandiga-possessiver.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "R05",
@@ -1004,15 +1004,15 @@
         "R02"
       ],
       "requiredCoverage": "Artikelord respektive självständigt pronomen, kongruens och syftning; dies-/jen-/solch- i relevant omfattning; register och betonad kontrast.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Pronomen/demonstrativa.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "R07",
@@ -1026,15 +1026,15 @@
         "K04"
       ],
       "requiredCoverage": "Kasusstyrda personfrågor, welch- och was für ein; böjning och prepositionsfrågor; skillnad mellan formfråga och betydelsefråga.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Pronomen/frageord.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "R08",
@@ -1070,15 +1070,15 @@
         "S04"
       ],
       "requiredCoverage": "Högfrekventa indefiniter, ein-/kein- och varianter av böjning; man med enbart tredje singular verb och alternativa objektsformer; negativa uttryck utan spansk dubbelnegationsmodell.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Pronomen/indefinita.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "R10",
@@ -1092,15 +1092,15 @@
         "Y04"
       ],
       "requiredCoverage": "Refererande es, väder, es gibt + ackusativ, korrelat till sats och formellt förfälts-es; när es försvinner vid omflyttning och när det stannar.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Pronomen/es.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "R11",
@@ -1114,15 +1114,15 @@
         "P08"
       ],
       "requiredCoverage": "Da(r)- och wo(r)-former, saker/sakförhållanden kontra personer, preposition plus personpronomen, korrelat till dass-sats; r före vokal.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Pronomen/dar-och-wor.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "V01",

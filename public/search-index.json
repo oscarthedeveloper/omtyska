@@ -1,5 +1,47 @@
 [
   {
+    "id": "A08",
+    "t": "Adjektivens prepositioner och komplement",
+    "d": "Lär dig vilka prepositioner och kasus som styrs av tyskans adjektiv. Behärska konstruktioner som stolz auf + ackusativ, zufrieden mit + dativ samt adjektiv med rent dativ- och genitivobjekt.",
+    "h": "/docs/adjektiv/adjektivens-komplement",
+    "c": "Adjektiv",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. De viktigaste prepositionsstyrda adjektiven",
+      "Adjektiv med ackusativ (ofta känslor riktade mot något/någon)",
+      "Adjektiv med dativ (ofta relationer, tillstånd och härkomst)",
+      "2. Adjektiv med rent dativobjekt (utan preposition!)",
+      "3. Adjektiv med rent genitivobjekt",
+      "4. Kombination med dass-satser och infinitiv med zu",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Många tyska adjektiv kräver en specifik preposition och ett specifikt kasus: --- 1. De viktigaste prepositionsstyrda adjektiven Adjektiv med ackusativ (ofta känslor riktade mot något/någon) auf + ackusativ: stolz auf (stolt över) neugierig auf (nyfiken på) eifersüchtig auf (svartsjuk på) wütend / sauer auf (arg / sur på) über + ackusativ: froh über (glad över) glücklich über (lycklig över) traurig über (ledsen över) erstaunt über (förvånad över) für + ackusativ: dankbar für (tacksam för) bekannt für (känd för) zuständig für (ansvarig för) Adjektiv med dativ (ofta relationer, tillstånd och härkomst) mit + dativ: zufrieden mit (nöjd med) beschäftigt mit (upptagen med) einverstanden mit (överens om / införstådd med) verheiratet mit (gift med) von + dativ: abhängig von (beroende av) enttäuscht von (besviken på) überzeugt von (övertygad om) frei von (fri från) an + dativ: interessiert an (intresserad av) reich an (rik på) arm an (fattig på) schuld an (skyldig till) --- 2. Adjektiv med rent dativobjekt (utan preposition!) En rad vanliga adjektiv tar ett direkt personobjekt i dativ utan någon preposition alls. Dessa uttrycker ofta hur något upplevs av en person: --- 3. Adjektiv med rent genitivobjekt I formell stil och skrift finns ett fåtal adjektiv som styr ren genitiv : sicher : Ich bin mir dieser Sache ganz sicher. (Jag är helt säker på den saken.) bewusst : Er war sich der Gefahr bewusst. (Han var medveten om faran.) schuldig : Das Gericht sprach ihn des Mordes schuldig. (Domstolen förklarade honom skyldig till mord.) Lägg märke till det reflexiva dativpronomenet ( mir / sich ) tillsammans med genitivobjektet i sicher och bewusst . --- 4. Kombination med dass-satser och infinitiv med zu Om komplementet är en handling i stället för ett substantiv kopplas adjektivet samman via ett pronominaladverb (da[r]-form) eller direkt med en infinitivfras: Med dass-sats: Wir sind stolz darauf, dass unser Sohn das Examen bestanden hat. Ich bin froh darüber, dass du kommen konntest. Med infinitiv med zu: Sind Sie bereit dazu, die Verantwortung zu übernehmen ? Es ist wichtig, rechtzeitig anzukommen . --- Svenska interferenser och fallgropar 1. \"Stolt över\" : Översätt inte svenskans \"över\" med über . Stolt heter alltid stolz auf + ackusativ , aldrig stolz über . 2. \"Intresserad av\" : Översätt inte med von . Det heter interessiert an + dativ . 3. \"Besviken på\" : Översätt inte med auf . Det heter enttäuscht von + dativ . --- 10 autentiska exempel 1. Die Eltern sind unglaublich stolz auf ihre Tochter . (stolz auf + ackusativ.) 2. Bist du mit deinem neuen Job wirklich zufrieden ? (zufrieden mit + dativ.) 3. Deutschland ist arm an Rohstoffen , aber reich an Innovationen . (arm an / reich an + dativ.) 4. Der Erfolg der Reise ist stark vom Wetter abhängig . (abhängig von + dativ: vom = von dem.) 5. Ich bin dir unendlich dankbar für deine Hilfe. (Dativobjekt dir + prepositionsfras für deine Hilfe.) 6. Sie ist seinem Bruder vom Aussehen her verblüffend ähnlich . (Rent dativobjekt utan preposition: seinem Bruder ähnlich.) 7. Ich bin mir des Risikos durchaus bewusst . (Genitivobjekt: des Risikos bewusst.) 8. Wir waren sehr erstaunt über die schnelle Antwort . (erstaunt über + ackusativ.) 9. Niemand im Team war schuld an dem Missverständnis . (schuld an + dativ.) 10. Sind die Teilnehmer bereit dazu, den Vertrag zu unterschreiben ? (bereit dazu + infinitiv med zu.) ---",
+    "bl": ""
+  },
+  {
+    "id": "A07",
+    "t": "Jämförelser med als, wie och je … desto",
+    "d": "Lär dig konstruera jämförelser på tyska. Behärska als vid olikhet, wie vid likhet samt den proportionella dubbelkonstruktionen je … desto med dess unika ordföljd.",
+    "h": "/docs/adjektiv/als-wie-je-desto",
+    "c": "Adjektiv",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Likhetsjämförelser: (genau)so ... wie",
+      "2. Olikhetsjämförelser: Komparativ + als",
+      "3. Dubbelkonstruktionen: \"je … desto\" (ju … desto)",
+      "Ordföljdsregeln för je … desto:",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Den grundläggande skillnaden mellan als och wie bygger helt på om det råder likhet eller olikhet: [!WARNING] Varning för talspråkligt \"größer wie\"! I sydtyskt talspråk och dialekter hörs ofta größer wie eller größer als wie . I vårdad standardtyska, uppsatser, examina och officiella sammanhang räknas detta som ett klart grammatiskt fel : komparativ kräver alltid och enbart als ! --- 1. Likhetsjämförelser: (genau)so ... wie När två personer eller företeelser har samma grad av en egenskap används grundformen (positiv) omgiven av so ... wie : Anna ist genauso alt wie Lukas. (Anna är precis lika gammal som Lukas.) Mein Auto fährt so schnell wie deines. (Min bil kör lika snabbt som din.) Er verdient doppelt so viel wie früher. (Han tjänar dubbelt så mycket som förr.) Negation av likhet bildas med nicht so ... wie : Hamburg ist nicht so groß wie Berlin. (Hamburg är inte lika stort som Berlin.) --- 2. Olikhetsjämförelser: Komparativ + als Så fort adjektivet står i komparativ måste bindebindelsen vara als (än) : Berlin ist viel größer als Hamburg. (Berlin är mycket större än Hamburg.) Fliegen ist sicherer als Autofahren. (Att flyga är säkrare än att åka bil.) Die Prüfung war schwieriger, als ich erwartet hatte. (Provet var svårare än jag hade förväntat mig.) Lägg märke till att om jämförelsen följs av en hel sats sätts ett kommatecken ut framför als : ..., als ich dachte . --- 3. Dubbelkonstruktionen: \"je … desto\" (ju … desto) För att uttrycka att en förändring proportionellt hänger samman med en annan används paret je … desto (eller je … umso ): Ordföljdsregeln för je … desto: 1. Je-satsen: Inleds med je + komparativ . Fungerar som en underordnad bisats det böjda verbet står allra sist ! 2. Desto-satsen: Inleds med desto (eller umso) + komparativ . Denna enhet utgör tillsammans Position 1 i huvudsatsen det böjda verbet kommer omedelbart på Position 2 , direkt följt av subjektet! --- Svenska interferenser och fallgropar 1. \"Än\" översätts reflexmässigt fel: Många svensktalande frestas att översätta \"än\" med wie eller denn . Kom ihåg: efter komparativ heter det alltid als ( besser als ). 2. Desto-ordföljden glöms bort: På svenska kan vi säga \"desto mer du läser...\". På tyska MÅSTE det böjda verbet komma direkt efter komparativen: desto mehr liest du . --- 10 autentiska exempel 1. Er ist zwei Köpfe größer als sein jüngerer Bruder. (Komparativ olikhet med als: größer als.) 2. Sie spricht genauso fließend Deutsch wie ihr Kollege. (Likhetsjämförelse med genauso ... wie.) 3. Je früher wir losfahren, desto eher kommen wir an. (je med verbet sist i bisatsen; desto med verbet på position 2.) 4. Das neue Smartphone ist viel teurer als das alte Modell. (Komparativ teurer följs av als.) 5. Die Renovierung hat länger gedauert, als wir gedacht hatten. (Jämförelse med en fullständig bisats efter als.) 6. Kaffee schmeckt mir nicht so gut wie frisch gebrühter Tee. (Negerad likhet med nicht so gut wie.) 7. Je mehr man übt, desto sicherer fühlt man sich bei der Prüfung. (je-sats med übt sist; desto sicherer följt direkt av finit verb fühlt.) 8. Ein Zugticket ist heute oft billiger als ein Flug. (billiger als för prisjämförelse.) 9. Niemand im Team arbeitet so hart wie sie. (so hart wie för likvärdig intensitet.) 10. Je dunkler der Abend wurde, umso kälter fühlte es sich an. (umso som likvärdig synonym till desto.) ---",
+    "bl": ""
+  },
+  {
     "id": "A03",
     "t": "Blandad adjektivböjning",
     "d": "Lär dig hur adjektiv böjs efter ein, kein och possessiva artikelord (mein, dein, sein osv.). Fullständigt paradigm och analyssteg.",
@@ -15,6 +57,50 @@
       "Typiska svenska fallgropar"
     ],
     "b": "Kärnan på en halv minut Blandad adjektivböjning ( gemischte Adjektivdeklination ) används när ett adjektiv står efter ett ein-ord : Obestämd artikel: ein , eine Negationen: kein , keine Possessiva artikelord: mein , dein , sein , ihr , unser , euer , ihr/Ihr Principen är enkel att förstå om du tänker i termer av ansvar för signal : 1. När artikelordet saknar ändelse (i maskulin nominativ: ein , och neutral nominativ/ackusativ: ein ), har artikelordet inte signalerat ordets genus. Då måste adjektivet kliva fram och visa genuset med stark ändelse: Maskulin nominativ: ein gut er Freund (adjektivet visar maskulint -er ). Neutral nominativ/ackusativ: ein gut es Buch (adjektivet visar neutralt -es ). 2. I alla andra former (där artikelordet redan har en tydlig böjningsändelse som -e , -en , -em , -er , -es ): I dativ och genitiv får adjektivet alltid -en . I ackusativ maskulinum får adjektivet -en ( einen gut en Freund ). I femininum nominativ/ackusativ får adjektivet -e ( eine gut e Freundin ). --- Jämför: Tre sätt att uttrycka \"en bra vän\" --- Fullständigt böjningsparadigm: Blandad böjning Här är hela tabellen för adjektiv efter ein , kein och mein : Kasus Maskulinum ( Freund ) Femininum ( Freundin ) Neutrum ( Buch ) Plural ( Freunde ) :--- :--- :--- :--- :--- Nominativ ein gut er Freund eine gut e Freundin ein gut es Buch meine gut en Freunde Ackusativ einen gut en Freund eine gut e Freundin ein gut es Buch meine gut en Freunde Dativ einem gut en Freund einer gut en Freundin einem gut en Buch meinen gut en Freunden Genitiv eines gut en Freundes einer gut en Freundin eines gut en Buches meiner gut en Freunde [!NOTE] Observera pluralen! Ordet ein (\"en/ett\") kan självklart inte stå i plural i betydelsen \"flera\". I plural används istället negationen keine eller possessivpronomen som meine , deine , ihre . Adjektivändelsen i plural är i blandad böjning alltid -en i samtliga kasus! --- Steg för steg: Så analyserar du en blandad fras --- Typiska svenska fallgropar 1. Att glömma -er i maskulin nominativ: ⚠️ Fel: \"Er ist ein nett Mann.\" ✅ Rätt: \"Er ist ein nett er Mann.\" ( ein saknar ändelse - adjektivet måste ta -er ). 2. Att skriva -er i ackusativ: ⚠️ Fel: \"Ich sehe einen nett er Mann.\" ✅ Rätt: \"Ich sehe einen nett en Mann.\" (I ackusativ maskulinum slutar både artikel och adjektiv på -en ). 3. Att dubblera dativens m-ändelse på adjektivet: ⚠️ Fel: \"mit einem gutem Freund\" ✅ Rätt: \"mit einem gut en Freund.\" (När artikeln redan visar -em , tar adjektivet svag ändelse -en ).",
+    "bl": ""
+  },
+  {
+    "id": "A05",
+    "t": "Flera adjektiv, mängdord och specialformer",
+    "d": "Lär dig hur flera adjektiv i rad böjs, hur mängdord som viele, einige och manche påverkar efterföljande adjektiv, samt stamförändringar i teuer, dunkel och hoch.",
+    "h": "/docs/adjektiv/flera-adjektiv-och-mangdord",
+    "c": "Adjektiv",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Mängdord i plural: \"alle\" kontra \"viele/einige\"",
+      "Grupp 1: Determinerande ord som fungerar som bestämd artikel",
+      "Grupp 2: Obestämda räkneord och mängdord (plural)",
+      "2. Stamförändringar: teuer, dunkel och hoch",
+      "1. hoch &rarr; hoh- (c faller bort!)",
+      "2. teuer, sauer (obetonat -e- i stammen faller bort)",
+      "3. dunkel, edel (adjektiv på obetonat -el tappar stamvokalen e)",
+      "3. Oböjliga adjektiv",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "teure, dunkel - dunkle\", \"Känna till specialfallet hoch - hoher (c försvinner!)\", \"Upptäcka oböjliga adjektiv som slutar på -er (Berliner) och -a (rosa)\" ]} prerequisites={[ , , ]} / Kärnan på en halv minut När två eller flera adjektiv står framför samma substantiv gäller en enkel huvudregel: de böjs helt parallellt och får exakt samma ändelse : Stark böjning: gute r , starke r Kaffee (båda får stark ändelse -er) Svag böjning: der gute, starke Kaffee (båda får svag ändelse -e) Blandad böjning: ein gute r , starke r Kaffee (båda får stark signaländelse -er) --- 1. Mängdord i plural: \"alle\" kontra \"viele/einige\" En av de vanligaste osäkerheterna gäller vad som händer efter ord som alle, viele, einige, manche . Här delar tyskan upp orden i två grupper: Grupp 1: Determinerande ord som fungerar som bestämd artikel Dessa ord har själva fullständiga artikeländelser och utlöser därför svag adjektivböjning (-en i plural) : alle (alla) : alle neu en Bücher diese / jene (dessa / de där) : diese schön en Tage beide (båda) : beide groß en Fenster sämtliche (samtliga) : sämtliche wichtig en Punkte Grupp 2: Obestämda räkneord och mängdord (plural) Dessa ord räknas som adjektivliknande mängdord och utlöser parallell stark böjning (-e i nominativ/ackusativ plural) : viele (många) : viele neu e Bücher wenige (få) : wenige gut e Freunde einige (några) : einige interessant e Fragen mehrere (flera) : mehrere groß e Städte --- 2. Stamförändringar: teuer, dunkel och hoch Tre högfrekventa adjektiv genomgår förändringar i stammen så fort de får en böjningsändelse: 1. hoch hoh- (c faller bort!) Grundform: Das Haus ist hoch . Böjd form: ein hohes Gebäude , der hohe Turm (bokstaven c försvinner alltid framför böjningsändelse!) 2. teuer, sauer (obetonat -e- i stammen faller bort) Grundform: Der Wagen ist teuer . Böjd form: ein teures Auto , die teuren Uhren (inte teu-e-res!) 3. dunkel, edel (adjektiv på obetonat -el tappar stamvokalen e) Grundform: Der Wald ist dunkel . Böjd form: ein dunkler Wald , im dunklen Zimmer (inte dunke-ler!) --- 3. Oböjliga adjektiv Vissa adjektiv i tyskan får aldrig någon ändelse , oavsett genus, numerus och kasus: 1. Härledningar från ortsnamn på -er (skrivs med stor begynnelsebokstav!): der Berliner Senat die Schweizer Franken das Münchner Bier 2. Färger lånade från andra språk (särskilt de som slutar på vokal): ein rosa Hemd , die lila Bluse , eine orange Jacke (I vardagsspråk hörs ibland \"rosanes/lilaner\", men i standardspråk förblir de oböjda eller omskrivs som \"rosafarben\".) 3. Adjektivet prima och super : eine prima Idee , ein super Erfolg --- Svenska interferenser och fallgropar 1. Parallelländelse glöms bort : På svenska böjs inte alltid båda orden (\"god svensk mat\"), men på tyska måste båda ha stark ändelse utan artikel: gute s , deutsche s Essen . 2. \"Alle\" vs \"viele\" : Tänk på att efter alle måste adjektivet ha -en ( alle guten Freunde ), medan det efter viele har -e ( viele gute Freunde ). --- 10 autentiska exempel 1. Wir tranken eine Tasse heißen, schwarzen Tee. (Parallell stark böjning i maskulinum ackusativ: heißen, schwarzen.) 2. Alle neuen Mitarbeiter müssen an der Sicherheitsschulung teilnehmen. (Efter alle får adjektivet svag ändelse -en.) 3. Ich habe gestern viele interessante Menschen kennengelernt. (Efter viele får adjektivet stark parallelländelse -e i plural ackusativ.) 4. Das Flugzeug flog in einer sehr hohen Höhe. (hoch tappar bokstaven c vid böjning: hohen.) 5. Sie kaufte sich ein teures , elegantes Kleid für den Abend. (teuer tappar stam-e: teures; och parallell stark böjning: teures, elegantes.) 6. Wir gingen durch einen dunklen , tiefen Wald. (dunkel tappar stam-e framför ändelsen: dunklen.) 7. Die Berliner Polizei hat die Straßen gesperrt. (Stadsadjektiv på -er förblir oböjt och har stor bokstav.) 8. In der Ausstellung gab es einige historische Gemälde zu sehen. (einige tar parallell stark ändelse -e i plural.) 9. Zu ihrem Geburtstag trug sie ein hübsches rosa Kleid. (Färgordet rosa förblir oböjt.) 10. Beide alten Damen saßen ruhig auf der Parkbank. (beide styr svag böjning -en i plural.) ---",
+    "bl": ""
+  },
+  {
+    "id": "A06",
+    "t": "Komparativ och superlativ",
+    "d": "Lär dig hur tyskans adjektiv kompareras. Förstå regelbundna ändelser, omljudsregeln, oregelbundna former som gut/besser/am besten och hur attributiv komparativ böjs.",
+    "h": "/docs/adjektiv/komparation",
+    "c": "Adjektiv",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Omljud vid korta enstaviga adjektiv",
+      "2. De 5 stora oregelbundna komparationerna",
+      "3. Predikativ kontra attributiv superlativ",
+      "4. Den stora fällan: Attributiv komparativ böjs också!",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Komparativ (schneller) - Superlativ (am schnellsten)\", \"Behärska omljudsregeln: alt - älter, groß - größer, jung - jünger\", \"Lära dig de 5 oregelbundna: gut/besser, viel/mehr, gern/lieber, hoch/höher, nah/näher\", \"Skilja 'am besten' (predikativt) från 'das beste Buch' (attributivt)\", \"Förstå att attributiv komparativ får DUBBEL ändelse: ein schnell-er-es Auto!\" ]} prerequisites={[ , , ]} / Kärnan på en halv minut Tyska adjektiv kompareras i tre steg: 1. Positiv (grundform): schnell (snabb) 2. Komparativ: Stam + -er : schnell er (snabbare) 3. Superlativ: am + stam + -(e)sten : am schnell sten (snabbast) Ändelsen -est används i superlativ när stammen slutar på dentaler eller s-ljud ( -d, -t, -s, -ß, -z, -x ): alt am ält est en heiß am heiß est en --- 1. Omljud vid korta enstaviga adjektiv Många vanliga enstaviga adjektiv med stamvokalerna a, o, u får omljud (ä, ö, ü) i komparativ och superlativ: [!NOTE] Adjektiv med diftonger ( laut lauter , faul fauler ) eller flerstaviga adjektiv ( gesund gesünder/gesunder ) har sällan obligatoriskt omljud. --- 2. De 5 stora oregelbundna komparationerna Fem av tyskans vanligaste ord har helt oregelbundna stammar som måste pluggas in utantill: --- 3. Predikativ kontra attributiv superlativ Hur superlativ ser ut beror på om adjektivet står självständigt efter verbet eller framför ett substantiv: 1. Predikativt och adverbialt: am ...-(e)sten Dieser Wagen fährt am schnellsten . (Den här bilen kör snabbast.) Im Sommer ist es hier am schönsten . (På sommaren är det som finast här.) 2. Attributivt: bestämd artikel + -(e)ste + vanlig böjningsändelse Das ist das schnellste Auto der Welt. (Det här är världens snabbaste bil.) Er ist unser ältester Sohn. (Han är vår äldste son.) --- 4. Den stora fällan: Attributiv komparativ böjs också! När komparativen står framför ett substantiv fungerar den precis som vilket adjektiv som helst och måste få en vanlig adjektivändelse efter komparativändelsen -er : Detta kallas ibland \"dubbel-er\"-fällan: i ein älterer Mann är det första -er- komparativmärket och det andra -er maskulinum nominativ-ändelsen! --- Svenska interferenser och fallgropar 1. \"Mer snabb\" i stället för böjning: Tyskan använder aldrig mehr för att komparera vanliga adjektiv (som engelskans more ). Säg aldrig mehr schnell ; det heter uteslutande schneller . 2. Gern kontra gut: Kom ihåg att svenskans \"gärna/hellre/helst\" översätts med gern / lieber / am liebsten , inte med gut/besser . --- 10 autentiska exempel 1. Mein Bruder ist zwei Jahre älter als ich. (alt får omljud i komparativ: älter.) 2. Im Juli sind die Tage am längsten . (Predikativ superlativ med am längsten.) 3. Er trinkt morgens gern Kaffee, aber Tee trinkt er noch lieber . (gern kompareras oregelbundet: lieber.) 4. Wir suchen eine größere Wohnung im Stadtzentrum. (Attributiv komparativ: groß + omljud + er + svag/blandad ackusativändelse -e: größere.) 5. Der Mount Everest ist der höchste Berg der Erde. (hoch tappar c i komparativ och får c-h i superlativ: der höchste.) 6. Dieses Hotel war deutlich besser als das letzte. (gut kompareras till besser.) 7. Wer von euch kann am schnellsten schwimmen? (Adverbial superlativ: am schnellsten.) 8. Die nächste U-Bahn-Station ist nur fünf Minuten entfernt. (nah får c-h i superlativ: nächste.) 9. Sie hat die meisten Stimmen bei der Wahl erhalten. (viel kompareras oregelbundet: die meisten.) 10. Mit einem schnelleren Computer könnte ich viel produktiver arbeiten. (Komparativ med dativändelse -en: schnelleren.) ---",
     "bl": ""
   },
   {
@@ -598,6 +684,111 @@
     "bl": ""
   },
   {
+    "id": "R11",
+    "t": "Daran, darauf, woran och worauf",
+    "d": "Lär dig använda tyskans pronominaladverb (da- och wo-former). Förstå när de ersätter prepositioner för saker, hur bindebokstaven -r- fungerar och varför personer kräver preposition + personpronomen.",
+    "h": "/docs/pronomen/dar-och-wor",
+    "c": "Pronomen",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Den gyllene skiljelinjen: Saker kontra personer!",
+      "2. Pronominaladverb som bro till bisatser och infinitiver",
+      "3. Wo(r)-former som frågeord och relativa bindebindelser",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut I tyskan kan prepositioner inte kombineras direkt med neutrumpronomenet es . I stället bildas ett pronominaladverb : Felaktigt: \\ Ich denke an es. Rätt: Ich denke daran . (Jag tänker på det.) När prepositionen börjar på en vokal skjuts ett -r- in mellan delarna för att underlätta uttalet: --- 1. Den gyllene skiljelinjen: Saker kontra personer! Detta är den absolut viktigaste regeln att memorera: da(r)- och wo(r)-former används BARA för saker, idéer och handlingar – ALDRIG för levande människor! --- 2. Pronominaladverb som bro till bisatser och infinitiver När ett verb med fast preposition styr en hel bisats ( dass-sats ) eller en infinitivfras ( infinitiv med zu ), måste huvudsatsen förses med ett da(r)-ord som korrelat (ankare) : Med dass-sats: Ich freue mich darauf, dass du mich morgen besuchst. (Jag gläder mig åt att du besöker mig i morgon.) Er ärgert sich darüber, dass der Zug Verspätung hat. (Han förargar sig över att tåget är försenat.) Med infinitivfras: Wir hoffen darauf, die Prüfung zu bestehen . (Vi hoppas på att klara provet.) Hast du Lust dazu, ins Kino zu gehen ? (Har du lust till att gå på bio?) --- 3. Wo(r)-former som frågeord och relativa bindebindelser Frågeorden med wo(r)- fungerar på samma sätt som da(r)- : Som frågeord om saker: Worüber lacht ihr? – Über einen Witz. (Vad skrattar ni åt? – Åt ett skämt.) Woran denkst du gerade? – An meinen Urlaub. (Vad tänker du på just nu? – På min semester.) Som relativt pronomen efter neutrala pronomen som das, alles, etwas, nichts : Das ist alles, woran ich mich erinnern kann. (Det är allt som jag kan minnas.) Es gibt nichts, worüber wir uns Sorgen machen müssten. (Det finns inget som vi behöver oroa oss för.) --- Svenska interferenser och fallgropar 1. \"Tänka på honom\" : Säg aldrig \\ Ich denke daran när du syftar på en människa. Säg: Ich denke an ihn . 2. \"På det\" ordagrant : Översätt aldrig svenskans \"på det\" med \\ auf das eller \\ auf es . Det heter darauf . 3. Missad bindebokstav : Glöm inte -r- framför vokal: dar-auf , dar-über , wor-an . Da-auf existerar inte. --- 10 autentiska exempel 1. Ich erinnere mich noch sehr gut daran , wie wir uns damals kennengelernt haben. (daran som korrelat till wie-bisats.) 2. Denkst du noch oft an deine alte Schulfreundin? – Ja, ich denke oft an sie . (Personreferens: preposition + personligt pronomen an sie.) 3. Worauf wartet ihr hier eigentlich? – Wir warten auf das Taxi. (worauf som sakfråga med auf + ackusativ.) 4. Er hat sich sehr darüber gefreut, dass alle Kollegen zum Abschied kamen. (darüber som korrelat till dass-sats.) 5. Mit wem fährst du nach Italien? – Mit meinem Bruder. (Personfråga: mit wem.) 6. Womit hast du die Kiste geöffnet? – Mit einem Schraubenzieher. (Sakfråga med konsonant: womit.) 7. Wir haben lange darüber diskutiert, aber keine Einigung erzielt. (darüber för diskussionsämne.) 8. Bist du damit einverstanden, wenn wir den Termin verschieben? (damit einverstanden sein: nöjd med förslaget.) 9. Das ist genau das, wovor ich dich immer gewarnt habe! (wovor som relativt pronominaladverb efter das.) 10. Ich habe überhaupt keine Zweifel daran , dass sie das Projekt erfolgreich beendet. (Zweifel daran haben: tvivel på det.) ---",
+    "bl": ""
+  },
+  {
+    "id": "R06",
+    "t": "Der, dieser och andra demonstrativer",
+    "d": "Lär dig hur tyskans demonstrativa pronomen fungerar. Behärska der/die/das som självständiga pronomen, böjningen av dieser och jener samt skillnaden mellan derselbe och der gleiche.",
+    "h": "/docs/pronomen/demonstrativa",
+    "c": "Pronomen",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Självständigt \"der, die, das\"",
+      "Användning i tal och skrift:",
+      "2. Dieser, jener och solcher",
+      "dieser / diese / dieses (den här)",
+      "jener / jene / jenes (den där)",
+      "solcher / solche / solches (sådan)",
+      "3. \"Derselbe\" kontra \"der gleiche\"",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Demonstrativa pronomen pekar ut någon eller något med särskild eftertryck: 1. dieser, diese, dieses (den här / detta) : Syftar på något som är nära i tid eller rum. Böjs som bestämd artikel: Dieser Film ist großartig. (Den här filmen är fantastisk.) 2. der, die, das som självständigt pronomen (den / det / han / hon) : Mycket vanligt i talspråk för att ersätta er/sie/es med extra betoning: Kennst du Markus? – Nein, den kenne ich nicht. (Honom känner jag inte.) --- 1. Självständigt \"der, die, das\" När der, die, das används självständigt (utan efterföljande substantiv) böjs det nästan som den vanliga artikeln, utom i genitiv och dativ plural : Användning i tal och skrift: Som ackusativobjekt på position 1: Den habe ich gestern auf der Straße gesehen. (Honom såg jag på gatan igår.) Som genitivreferens: Ich kenne den Autor, aber dessen Bücher habe ich nie gelesen. (...men hans böcker har jag aldrig läst.) Wir trafen Maria und deren Freund. (...och hennes pojkvän.) Som dativ plural: Mit denen wollen wir nichts zu tun haben. (Med dem vill vi inte ha något att göra.) --- 2. Dieser, jener och solcher dieser / diese / dieses (den här) Böjs regelbundet med artikeländelser ( -er, -e, -es, -en, -em, -es ): Ich nehme diesen Pullover (mask ack). Aus diesem Grund (mask dat). In diesem Jahr (neut dat). jener / jene / jenes (den där) Pekar ut något som befinner sig längre bort i tid eller rum, eller kontrasteras mot dieser : Dieser Vorschlag ist gut, aber jener gefällt mir noch besser. Stilnivå: I modern vardagstyska ersätts jener oftast av der da eller der dort . Jener tillhör främst skriftspråk och litteratur. solcher / solche / solches (sådan) Solche Probleme haben wir schon oft gelöst. (Sådana problem...) Ofta i förbindelsen ein solcher (en sådan) : Ein solches Verhalten ist unakzeptabel. --- 3. \"Derselbe\" kontra \"der gleiche\" Tyskan skiljer knivskarpt mellan identisk enhet och likvärdig kopia: derselbe / dieselbe / dasselbe = en och samma individ/objekt (identitet): Wir wohnen im selben Haus. (Vi bor i samma hus – samma fysiska byggnad.) Er trägt heute denselben Anzug wie gestern. (Han har på sig samma kostym – han har inte bytt.) der / die / das gleiche = likadan / av samma slag (likhet, men skilda exemplar): Wir haben das gleiche Auto gekauft. (Vi har köpt likadan bil – samma modell och färg, men två olika bilar.) [!TIP] Minnesregel: Två personer kan ha die gleiche Jacke (två likadana jackor från samma butik), men de kan inte samtidigt ha på sig dieselbe Jacke ! --- Svenska interferenser och fallgropar 1. \"Honom\" som \"den\" : På svenska använder vi alltid personliga pronomen (\"honom/henne\"). På tyska låter det mycket naturligt att använda demonstrativet i tal: Den habe ich nicht gefragt . 2. Dessen vs sein : Använd dessen för att undvika missförstånd om vem som äger vad: Paul ging mit Peter und seiner Frau. (Peters fru eller Pauls fru? Oklart!) Paul ging mit Peter und dessen Frau. (Entydigt Peters fru!) --- 10 autentiska exempel 1. Wer ist die Frau da drüben? – Die kenne ich nicht. (Självständigt demonstrativ die i ackusativ femininum.) 2. Hast du den Schlüssel gefunden? – Nein, den suche ich schon seit einer Stunde. (den i ackusativ maskulinum på position 1.) 3. In diesem Moment verstand er, was passiert war. (diesem i maskulinum dativ.) 4. Wir sprachen mit dem Direktor und dessen Stellvertreter. (dessen som entydig genitivreferens till direktören.) 5. Glaubst du wirklich, dass das die richtige Entscheidung ist? (das som demonstrativt subjekt: att det där är rätt beslut.) 6. Mit denen habe ich früher zusammen studiert. (denen är dativ plural av självständigt demonstrativ.) 7. Sie tragen heute beide das gleiche Kleid, aber in verschiedenen Größen. (das gleiche för likadana klänningar.) 8. Er kam um 14 Uhr an und reiste am selben Tag wieder ab. (am selben Tag: exakt samma kalenderdag.) 9. Ein solcher Fehler darf uns nie wieder unterlaufen! (solcher som demonstrativt attribut.) 10. Dieser Weg führt direkt zum Hauptbahnhof. (dieser i nominativ maskulinum.) ---",
+    "bl": ""
+  },
+  {
+    "id": "R10",
+    "t": "Es som pronomen och platshållare",
+    "d": "Lär dig det tyska ordet es fyra olika roller. Förstå skillnaden mellan refererande es, opersonligt es, korrelat och det formella förfälts-es som försvinner vid omflyttning.",
+    "h": "/docs/pronomen/es",
+    "c": "Pronomen",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Funktion 1: Refererande es (personligt pronomen)",
+      "2. Funktion 2: Opersonligt \"es\" (fasta uttryck och väder)",
+      "3. Funktion 3: Konstruktionen \"es gibt\" + ackusativ",
+      "4. Funktion 4: Förfälts-es (Vorfeld-es) – platshållaren som försvinner",
+      "5. Funktion 5: Korrelat till bisatser och infinitiver",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "'Draußen stehen drei Autos' (es försvinner!)\", \"Använda es som objektkorrelat: 'Ich finde es wichtig, dass...'\" ]} prerequisites={[ , ]} / Kärnan på en halv minut Det tyska ordet es fyller fyra helt olika funktioner i syntaxen: Den viktigaste syntaxregeln gäller Förfälts-es (Vorfeld-es) : det existerar enbart för att fylla Position 1 i huvudsatsen. Så fort något annat led ställs först försvinner es helt och hållet : Es stehen viele Autos vor der Tür. Men: Vor der Tür stehen viele Autos. (INTE \\ Vor der Tür stehen es...) --- 1. Funktion 1: Refererande es (personligt pronomen) Här fungerar es som ett vanligt personligt pronomen i nominativ eller ackusativ och syftar tillbaka på ett substantiv av neutrum genus : Das Buch ist sehr spannend; ich habe es in zwei Tagen gelesen. Kennst du das neue Restaurant? – Ja, es ist ausgezeichnet. Detta es kan flyttas fritt och försvinner aldrig, eftersom det har ett konkret betydelseinnehåll: Gestern habe ich es gelesen. (es finns kvar!) --- 2. Funktion 2: Opersonligt \"es\" (fasta uttryck och väder) Detta es är ett grammatiskt obligatoriskt subjekt som inte refererar till någon specifik person eller sak: Väder och naturfenomen: Es regnet. / Es schneit. / Es donnert. / Es ist kalt. Tid och datum: Es ist spät. / Es ist halb acht. Kroppsförnimmelser och fasta idiom: Wie geht es Ihnen? – Es geht mir gut. Es tut mir leid. Hier riecht es nach frischem Kaffee. [!NOTE] Detta opersonliga es kan aldrig strykas , även om ordföljden ändras: Heute regnet es den ganzen Tag. (es stannar kvar!) Mir geht es gut. (es stannar kvar!) --- 3. Funktion 3: Konstruktionen \"es gibt\" + ackusativ Motsvarigheten till svenskans \"det finns\" är alltid es gibt följt av ackusativ : Es gibt hier einen schönen Park (mask ack). Gestern gab es ein schweres Unwetter (neut ack). In der Stadt gibt es viele Museen (plur ack). Även vid inversion stannar es kvar: Hier gibt es keinen Zweifel. --- 4. Funktion 4: Förfälts-es (Vorfeld-es) – platshållaren som försvinner När ett nytt eller obestämt subjekt ska introduceras i en berättelse sätter man ofta ett tomt es på Position 1 för att skjuta det egentliga subjektet till mittfältet: Es kamen gestern drei Briefe an. (Det anlände tre brev igår.) (Det egentliga subjektet är \"drei Briefe\" verbet kamen står i plural!) Om en annan satsdel (t.ex. ett tidsadverbial) flyttas till Position 1, faller detta es bort helt : Gestern kamen drei Briefe an. (INTE \\ Gestern kamen es drei Briefe an!) Auf dem Tisch liegen viele Dokumente. (INTE \\ Auf dem Tisch liegen es...) --- 5. Funktion 5: Korrelat till bisatser och infinitiver När en huvudsats föregriper en bisats eller en infinitivfras fungerar es som ett tillkännagivande korrelat: Som subjektkorrelat: Es ist wichtig, dass wir pünktlich sind . Som objektkorrelat: Ich finde es toll, dass du Deutsch lernst . Er hasst es , im Stau zu stehen . --- Svenska interferenser och fallgropar 1. \"Det finns\": Tänk på att det heter es gibt med ackusativ . Säg aldrig \\ Es ist ein Park när du menar existens, och glöm inte ackusativändelsen: Es gibt einen Park (inte ein Park ). 2. Kvarhängande förfälts-es: Det vanligaste stilfelet hos svenskar är att behålla \"det\" när en mening börjar med tid eller plats: Fel: \\ In Berlin gibt es viele Leute, und dort wohnen es Künstler. Rätt: ... und dort wohnen Künstler . --- 10 autentiska exempel 1. Wo hast du mein Wörterbuch hingelegt? – Es liegt drüben auf dem Schreibtisch. (Refererande es för das Wörterbuch.) 2. Gestern hat es im Süden Deutschlands heftig gestürmt. (Opersonligt es vid väder, kvarstår efter tidsadverbial.) 3. In dieser alten Bibliothek gibt es viele seltene Handschriften. (es gibt + ackusativ.) 4. Es haben sich gestern über hundert Teilnehmer angemeldet. (Förfälts-es: egentligt subjekt är över hundra deltagare.) 5. Gestern haben sich über hundert Teilnehmer angemeldet. (Samma mening med tidsadverbial först: förfälts-es försvinner spårlöst!) 6. Wie geht es deiner Familie nach dem Umzug? (Opersonligt es i fast hälsningsfras.) 7. Ich schätze es sehr, dass du mir immer ehrlich deine Meinung sagst. (Objektkorrelat es till efterföljande dass-sats.) 8. Es tut mir leid, dass ich dich gestern nicht anrufen konnte. (es tut mir leid som fast känslofras.) 9. Auf dem Marktplatz spielten fröhliche Kinder. (Korrekt utan es: platsadverbialet står först.) 10. Es ist verboten, auf dem gesamten Gelände zu rauchen. (Subjektkorrelat till efterföljande infinitivfras.) ---",
+    "bl": ""
+  },
+  {
+    "id": "R07",
+    "t": "Wer, wen, wem, was och welcher",
+    "d": "Lär dig ställa frågor på tyska med rätt frågeord och kasus. Behärska wer/wen/wem/wessen för personer, was för saker, samt skillnaden mellan welcher och was für ein.",
+    "h": "/docs/pronomen/frageord",
+    "c": "Pronomen",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Frågor med prepositioner: Person kontra sak!",
+      "2. \"Welcher\" kontra \"was für ein\"",
+      "1. welcher, welche, welches = Vilken (ur ett bestämt urval)",
+      "2. was für ein / eine = Vad för en / vad för slags",
+      "3. Översikt över övriga tyska frågeord",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Det tyska frågeordet för personer böjs i alla fyra kasus, precis som den bestämda artikeln: Frågeordet för saker är was (vad) : Nominativ: Was liegt auf dem Tisch? (Vad ligger på bordet?) Ackusativ: Was hast du gekauft? (Vad köpte du?) --- 1. Frågor med prepositioner: Person kontra sak! När ett verb styr en preposition (t.ex. warten auf , sprechen über ) beror frågan helt på om svaret är en människa eller ett dött ting: [!WARNING] Fråga aldrig \\ Auf was wartest du? eller \\ Mit was fährst du? i vårdad tyska! Även om det hörs i vardagligt talspråk kräver standardtyskan pronominaladverb: Worauf respektive Womit . --- 2. \"Welcher\" kontra \"was für ein\" Båda dessa frågeord översätts ofta med \"vilken\" på svenska, men har helt skilda innebörder: 1. welcher, welche, welches = Vilken (ur ett bestämt urval) Används när du väljer mellan redan kända alternativ ( Which one? ): Welcher Mantel gefällt dir besser – der blaue oder der schwarze? Böjs med starka artikeländelser: Maskulinum ackusativ: Welchen Film wollen wir sehen? Dativ: Aus welchem Land kommst du? 2. was für ein / eine = Vad för en / vad för slags Efterfrågar en kategori, egenskap eller sort ( What kind of? ): Was für ein Auto fährst du? – Einen VW Golf. Was für eine Musik hörst du gern? – Jazz. Lägg märke till att ordet ein böjs efter kasus och genus, medan was für står kvar orört: Maskulinum ackusativ: Was für einen Wagen suchst du? Dativ: Mit was für einem Computer arbeitest du? I plural försvinner ein : Was für Bücher liest du gern? --- 3. Översikt över övriga tyska frågeord För fullständighetens skull: de fasta adverbiala frågeorden som inte böjs i kasus: wo? = var? (befintlighet) wohin? = vart? (riktning) woher? = varifrån? (ursprung) wann? = när? warum / wieso / weshalb? = varför? wie? = hur? wie viel? / wie viele? = hur mycket? / hur många? --- Svenska interferenser och fallgropar 1. \"Vem hjälper du?\" : På svenska ser \"vem\" likadant ut som subjekt och objekt. Eftersom helfen styr dativ på tyska måste du säga: Wem hilfst du? , ALDRIG Wer hilfst du . 2. \"Vem ser du?\" : Sehen styr ackusativ: Wen siehst du? . 3. \"Vems\" : Svenskans s-genitiv heter wessen och följs direkt av substantivet utan artikel: Wessen Auto ist das? . --- 10 autentiska exempel 1. Wer hat an der Tür geklingelt? (Subjektfråga i nominativ: wer.) 2. Wen hast du gestern auf der Konferenz getroffen? (Ackusativobjektfråga för person: wen.) 3. Wem soll ich die Nachricht ausrichten? (Dativobjektfråga för person: wem.) 4. Wessen Jacke liegt hier auf dem Sofa? (Genitivfråga: wessen.) 5. Was hast du am Wochenende Schönes erlebt? (Sakfråga i ackusativ: was.) 6. Auf wen wartet ihr am Ausgang? (Preposition + personfråga i ackusativ: auf wen.) 7. Worüber habt ihr so lange diskutiert? (wo(r)-fråga om sak efter über: worüber.) 8. Welchen Zug nehmen wir nach Frankfurt? (welcher i maskulinum ackusativ: welchen.) 9. Mit was für einem Problem hat die Abteilung zu kämpfen? (was für ein böjt i maskulinum dativ: was für einem.) 10. Womit kann ich Ihnen heute behilflich sein? (Artig standardfras med womit.) ---",
+    "bl": ""
+  },
+  {
+    "id": "R09",
+    "t": "Man, jemand, niemand, etwas och nichts",
+    "d": "Lär dig använda tyskans indefinita pronomen. Förstå hur man ersätts av einen/einem i objektsform, böjningen av jemand och niemand samt regeln om enkel negation.",
+    "h": "/docs/pronomen/indefinita",
+    "c": "Pronomen",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Pronomenet \"man\" och dess dolda objektsformer",
+      "2. Jemand och niemand",
+      "3. Etwas och nichts",
+      "Kombination med substantiverade adjektiv",
+      "4. Ingen dubbelnegation på tyska!",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut De vanligaste indefinita pronomenen täcker personer och saker i positiv och negativ form: --- 1. Pronomenet \"man\" och dess dolda objektsformer Ordet man är mycket vanligt i tyskan för att uttrycka allmängiltiga påståenden, instruktioner och regler. Regel 1: Verbet står alltid i 3:e person singular (samma som er/sie/es ): Hier darf man nicht rauchen. (Här får man inte röka.) Wie schreibt man dieses Wort? (Hur skriver man det här ordet?) Regel 2 (viktig!): Ordet man kan bara vara subjekt ! Om \"man\" ska stå som objekt ersätts det av formerna från ein- : Ackusativobjekt einen : Lärm macht einen mit der Zeit verrückt. (Buller gör en galen med tiden.) Dativobjekt einem : Das hilft einem in schwierigen Situationen. (Det hjälper en i svåra situationer.) Reflexiv form sich : Man muss sich beeilen. (Man måste skynda sig.) --- 2. Jemand och niemand Dessa syftar på obestämda personer och böjs i kasus: I formell skrift är ändelserna -en och -em standarden: Hast du jemanden gesehen? (Har du sett någon?) Ich habe mit niemandem gesprochen. (Jag har inte talat med någon.) --- 3. Etwas och nichts Orden etwas (något / lite) och nichts (ingenting) är helt oböjliga . De ändrar sig aldrig oavsett kasus eller preposition: Möchtest du etwas trinken? (Vill du dricka något?) Ich weiß von nichts . (Jag vet ingenting / vet inte om något.) Kombination med substantiverade adjektiv När etwas eller nichts kombineras med ett adjektiv förvandlas adjektivet till ett substantiverat neutrum med stor bokstav och ändelsen -es : etwas + neu etwas Neues (något nytt) nichts + gut nichts Gutes (inget gott) etwas + interessant etwas Interessantes (något intressant) --- 4. Ingen dubbelnegation på tyska! Till skillnad från spanska ( no sé nada ) eller ryska har standardtyskan en strikt enkelnegationsprincip : Svenska: Ingen sa någonting. Tyska: Niemand hat etwas gesagt. (INTE \\ Niemand hat nichts gesagt!) [!CAUTION] Om du på tyska säger Niemand weiß nichts , betyder det logiskt: \"Ingen vet ingenting\" alltså vet alla något! För att säga \"ingen vet något\" måste du använda: Niemand weiß etwas . --- Svenska interferenser och fallgropar 1. \"Det gör man trött\" : Säg aldrig \\ Das macht man müde . Objektet kräver einen : Das macht einen müde . 2. \"Någon\" som artikel kontra pronomen : Framför substantiv används ein eller irgendein ( irgendein Mann ). Självständigt används jemand eller einer . --- 10 autentiska exempel 1. Hier kann man im Sommer herrlich schwimmen. (man med finit verb i 3:e person singular kann.) 2. Ständiger Stress macht einen auf Dauer krank. (einen som ackusativobjekt till man.) 3. Hat jemand meinen Schlüsselbund gesehen? (jemand som subjektsnominativ.) 4. Ich habe gestern mit niemandem über das Thema gesprochen. (niemandem i dativ efter prepositionen mit.) 5. Gibt es heute in der Zeitung etwas Neues ? (etwas Neues: substantiverat adjektiv med stor bokstav och -es.) 6. Er hat aus der ganzen Geschichte nichts gelernt . (nichts som oböjligt ackusativobjekt.) 7. Keiner von uns wusste die richtige Antwort auf die Frage. (keiner som självständigt pronomen.) 8. Niemand hat etwas zu den Plänen bemerkt. (Korrekt enkelnegation: niemand + etwas.) 9. Darf ich dir etwas Kaltes zu trinken anbieten? (etwas Kaltes.) 10. Wenn man müde ist, sollte man sich kurz ausruhen. (Reflexivt pronomen sich till man.) ---",
+    "bl": ""
+  },
+  {
     "id": "R02",
     "t": "Mich, mir, dich, dir",
     "d": "Lär dig de personliga pronomenen i objektsform: ackusativ (mich, dich, ihn, sie, uns, euch, sie, Sie) och dativ (mir, dir, ihm, ihr, uns, euch, ihnen, Ihnen).",
@@ -694,6 +885,26 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut Tyskans relativpronomen liknar de bestämda artiklarna ( der, die, das ), med fyra viktiga undantag i genitiv och dativ plural: Kasus Maskulinum Neutrum Femininum Plural :--- :--- :--- :--- :--- Nominativ der das die die Ackusativ den das die die Dativ dem dem der denen (Obs! Inte den) Genitiv dessen dessen deren deren --- 1. Den gyllene tvåstegsregeln För att välja rätt form av relativpronomen följer du alltid denna matematiskt säkra metod: Steg 1: Bestäm Genus och Numerus Titta på ordet som relativpronomenet syftar tillbaka på ( korrelatet i huvudsatsen): der Mann - Maskulinum, singular die Frau - Femininum, singular das Kind - Neutrum, singular die Freunde - Plural Steg 2: Bestäm Kasus Titta på vilken roll relativpronomenet spelar inuti själva relativsatsen : Är det subjekt? - Nominativ Är det direkt objekt? - Ackusativ Är det indirekt objekt / styrs av dativpreposition? - Dativ Anger det ägande ( vars )? - Genitiv --- 2. Exempel i praktiken Se hur samma korrelat ( der Mann - maskulinum) byter form beroende på kasus i bisatsen: Nominativ (subjekt): Der Mann, der dort drüben steht, ist mein Onkel. (Mannen SOM står där borta är min farbror.) Ackusativ (objekt): Der Mann, den wir gestern gesehen haben, heißt Thomas. (Mannen SOM vi såg igår... [wir = subjekt, den = ackusativobjekt]) Dativ (indirekt objekt): Der Mann, dem ich das Buch gegeben habe, ist Professor. (Mannen SOM jag gav boken till... [geben styr dativ]) Genitiv (ägande / vars): Der Mann, dessen Auto gestohlen wurde, rief die Polizei. (Mannen VARS bil blev stulen...) --- 3. Akta dig för \"denen\" och \"deren\" i plural I plural ser formerna ut så här: Die Kollegen, mit denen ich arbeite, sind sehr nett. (Kollegorna som jag arbetar med... [mit styr dativ - denen !]) Die Eltern, deren Kinder hier spielen, sitzen im Café. (Föräldrarna VARS barn leker här... [genitiv plural - deren ]) --- 10 autentiska exempel 1. Das Buch, das auf dem Tisch liegt, gehört mir. (nominativ neutrum: das.) 2. Die Frau, die ich gestern angerufen habe, kommt aus Hamburg. (ackusativ femininum: die.) 3. Der Kollege, dem du geholfen hast, bedankt sich herzlich. (dativ maskulinum efter helfen: dem.) 4. Das Kind, dessen Fahrrad kaputt ist, weint leise. (genitiv neutrum: dessen.) 5. Die Freunde, mit denen wir verreisen, wohnen in München. (dativ plural efter prepositionen mit: denen.) 6. Der Film, den wir gestern Abend geschaut haben, war fesselnd. (ackusativ maskulinum: den.) 7. Die Studentin, deren Vortrag so spannend war, hat ein Stipendium bekommen. (genitiv femininum: deren.) 8. Das ist der Bus, auf den wir seit zwanzig Minuten warten. (ackusativ maskulinum efter warten auf: den.) 9. Die Probleme, über die wir gesprochen haben, sind gelöst. (ackusativ plural efter sprechen über: die.) 10. Die Nachbarn, denen dieses Haus gehört, sind sehr gastfreundlich. (dativ plural efter gehören: denen.) ---",
+    "bl": ""
+  },
+  {
+    "id": "R04",
+    "t": "Possessiver utan substantiv",
+    "d": "Lär dig hur possessiva pronomen används självständigt utan substantiv. Förstå varför det heter meiner, deins och unseres och hur starka ändelser ersätter artikelordets nolländelse.",
+    "h": "/docs/pronomen/sjalvstandiga-possessiver",
+    "c": "Pronomen",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Böjningstabell för självständiga possessiver (Nominativ)",
+      "2. Böjning i alla fyra kasus",
+      "Exempel i olika kasus:",
+      "3. Den högtidliga varianten: \"der meine\" / \"der meinige\"",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "mit meinem (eller mit meinem)\", \"Känna igen den högtidliga formen 'der/die/das meine' i litteratur\", \"Undvika att svara 'das ist mein' – det är grammatiskt ofullständigt på tyska!\" ]} prerequisites={[ , , ]} / Kärnan på en halv minut Ett possessivt ord kan ha två olika grammatiska roller: 1. Artikelord (med substantiv): Får nolländelse i maskulinum nominativ samt neutrum nominativ/ackusativ: Das ist mein Koffer (mask). Das ist mein Buch (neut). 2. Självständigt pronomen (utan substantiv): Måste visa genus och kasus med stark ändelse eftersom det inte finns något substantiv: Ist das dein Koffer? – Ja, das ist meiner (-er för maskulinum!). Ist das dein Buch? – Ja, das ist meins (eller meines , -(e)s för neutrum!). [!WARNING] Att svara \\ Das ist mein eller \\ Das ist dein utan efterföljande substantiv är ett av de vanligaste felen hos svensktalande. På tyska krävs alltid: Das ist mein s eller Das ist mein er ! --- 1. Böjningstabell för självständiga possessiver (Nominativ) Lägg märke till hur ändelserna motsvarar den starka böjningen ( der -er, die -e, das -(e)s, die -e ): --- 2. Böjning i alla fyra kasus När ett självständigt possessivt pronomen står i ackusativ, dativ eller genitiv följer det precis samma böjningsmönster som den bestämda artikeln: Exempel i olika kasus: Ackusativ (maskulinum): Hast du einen Stift? Ich habe meinen vergessen. (Har du en penna? Jag har glömt min.) Dativ (femininum): Ich fahre mit meiner Schwester und er mit seiner . (Jag åker med min syster och han med sin.) Dativ (neutrum): Mit welchem Auto fahrt ihr? – Mit unserem . (Med vilken bil åker ni? – Med vår.) --- 3. Den högtidliga varianten: \"der meine\" / \"der meinige\" I äldre litteratur, poesi eller mycket högtidlig stil kan självständigt ägande uttryckas med bestämd artikel + possessiv med svag ändelse : Dein Wille geschehe, nicht der meine . (Ske din vilja, inte min.) Ich grüße dich und die Deinen . (Jag hälsar dig och de dina / din familj.) Er tat seine Pflicht och ich die meinige . (Han gjorde sin plikt och jag min.) I modern talad och skriven standardtyska är formerna meiner/meins dock fullständigt dominerande. --- Svenska interferenser och fallgropar 1. \"Det är mitt\" : På svenska slutar både \"mitt bord\" och \"det är mitt\" på -t. På tyska heter det med substantiv: mein Tisch (maskulinum!), men självständigt: Das ist mein er ! Genuset styrs alltid av det underförstådda substantivets tyska genus. 2. \"Eures\" staving : Lägg märke till att stammen vid euer ofta dras samman: eures eller euers . --- 10 autentiska exempel 1. Ist das dein Mantel an der Garderobe? – Nein, meiner ist schwarz. (meiner ersätter der Mantel i nominativ maskulinum.) 2. Ich habe meine Brille verlegt; leihst du mir bitte deine ? (deine ersätter die Brille i ackusativ femininum.) 3. Wem gehört dieses Fahrrad? – Das ist seins . (seins ersätter das Fahrrad i nominativ neutrum.) 4. Unser Garten ist viel kleiner als eurer . (eurer ersätter der Garten i nominativ maskulinum.) 5. Sie suchte ihren Schlüssel, aber fand nur meinen . (meinen ersätter den Schlüssel i ackusativ maskulinum.) 6. Mein Handy hat keinen Empfang. Funktioniert deins ? (deins ersätter das Handy i nominativ neutrum.) 7. Die Kinder spielen nicht mit unseren Spielsachen, sondern mit ihren . (ihren ersätter den Spielsachen i dativ plural.) 8. Jeder soll sich um seine eigenen Aufgaben kümmern; ich kümmere mich um meine . (meine ersätter die Aufgaben i ackusativ plural.) 9. Mein Pass liegt schon bereit, aber wo ist deiner ? (deiner ersätter der Pass i nominativ maskulinum.) 10. Nicht nur sein Haus wurde renoviert, sondern auch unseres . (unseres ersätter das Haus i nominativ neutrum.) ---",
     "bl": ""
   },
   {
@@ -1628,146 +1839,6 @@
       "Kommande lektion"
     ],
     "b": "Komma och skrivregler Huvud- och bisatser, relativsatser och infinitivgrupper enligt verifierat regelverk; sammanskrivning, bindestreck och citat; skilj bindande regel från rekommendation. G07 A2–B2"
-  },
-  {
-    "id": "A05",
-    "t": "Flera adjektiv, mängdord och specialformer",
-    "d": "All-, viel-, wenig-, manch-, solch- och parallell böjning; högfrekventa stamförändringar som teuer/hoch; belagd variation markeras och testas inte som entydig.",
-    "h": "/docs/adjektiv/flera-adjektiv-och-mangdord",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Flera adjektiv, mängdord och specialformer All-, viel-, wenig-, manch-, solch- och parallell böjning; högfrekventa stamförändringar som teuer/hoch; belagd variation markeras och testas inte som entydig. A05 B1–B2"
-  },
-  {
-    "id": "A06",
-    "t": "Komparativ och superlativ",
-    "d": "Regelbundna former, omljud och gut/besser/best-, viel/mehr/meist-; am schönsten respektive der schönste; attributiv komparativ får också kasusändelse.",
-    "h": "/docs/adjektiv/komparation",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Komparativ och superlativ Regelbundna former, omljud och gut/besser/best-, viel/mehr/meist-; am schönsten respektive der schönste; attributiv komparativ får också kasusändelse. A06 A1–B1"
-  },
-  {
-    "id": "A07",
-    "t": "Jämförelser med als, wie och je … desto",
-    "d": "Likhet, olikhet, ellips och hela jämförelsesatser; korrekt standardbruk och markerat regionalt talspråk; jämförelsesatsens ordföljd.",
-    "h": "/docs/adjektiv/als-wie-je-desto",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Jämförelser med als, wie och je … desto Likhet, olikhet, ellips och hela jämförelsesatser; korrekt standardbruk och markerat regionalt talspråk; jämförelsesatsens ordföljd. A07 A2–B2"
-  },
-  {
-    "id": "A08",
-    "t": "Adjektivens prepositioner och komplement",
-    "d": "Stolz auf + ackusativ, zufrieden mit + dativ samt infinitiv- och dass-konstruktioner; betydelser och rektion registreras tillsammans.",
-    "h": "/docs/adjektiv/adjektivens-komplement",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Adjektivens prepositioner och komplement Stolz auf + ackusativ, zufrieden mit + dativ samt infinitiv- och dass-konstruktioner; betydelser och rektion registreras tillsammans. A08 B1–B2"
-  },
-  {
-    "id": "R04",
-    "t": "Possessiver utan substantiv",
-    "d": "Meiner/meine/meins och artikelkonstruktioner som der meine; syftning och register; skillnaden mellan artikelord och självständig pronominell form.",
-    "h": "/docs/pronomen/sjalvstandiga-possessiver",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Possessiver utan substantiv Meiner/meine/meins och artikelkonstruktioner som der meine; syftning och register; skillnaden mellan artikelord och självständig pronominell form. R04 B1"
-  },
-  {
-    "id": "R06",
-    "t": "Der, dieser och andra demonstrativer",
-    "d": "Artikelord respektive självständigt pronomen, kongruens och syftning; dies-/jen-/solch- i relevant omfattning; register och betonad kontrast.",
-    "h": "/docs/pronomen/demonstrativa",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Der, dieser och andra demonstrativer Artikelord respektive självständigt pronomen, kongruens och syftning; dies-/jen-/solch- i relevant omfattning; register och betonad kontrast. R06 A2–B1"
-  },
-  {
-    "id": "R07",
-    "t": "Wer, wen, wem, was och welcher",
-    "d": "Kasusstyrda personfrågor, welch- och was für ein; böjning och prepositionsfrågor; skillnad mellan formfråga och betydelsefråga.",
-    "h": "/docs/pronomen/frageord",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Wer, wen, wem, was och welcher Kasusstyrda personfrågor, welch- och was für ein; böjning och prepositionsfrågor; skillnad mellan formfråga och betydelsefråga. R07 A1–B1"
-  },
-  {
-    "id": "R09",
-    "t": "Man, jemand, niemand, etwas och nichts",
-    "d": "Högfrekventa indefiniter, ein-/kein- och varianter av böjning; man med enbart tredje singular verb och alternativa objektsformer; negativa uttryck utan spansk dubbelnegationsmodell.",
-    "h": "/docs/pronomen/indefinita",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Man, jemand, niemand, etwas och nichts Högfrekventa indefiniter, ein-/kein- och varianter av böjning; man med enbart tredje singular verb och alternativa objektsformer; negativa uttryck utan spansk dubbelnegationsmodell. R09 A2–B2"
-  },
-  {
-    "id": "R10",
-    "t": "Es som pronomen och platshållare",
-    "d": "Refererande es, väder, es gibt + ackusativ, korrelat till sats och formellt förfälts-es; när es försvinner vid omflyttning och när det stannar.",
-    "h": "/docs/pronomen/es",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Es som pronomen och platshållare Refererande es, väder, es gibt + ackusativ, korrelat till sats och formellt förfälts-es; när es försvinner vid omflyttning och när det stannar. R10 A2–B2"
-  },
-  {
-    "id": "R11",
-    "t": "Daran, darauf, woran och worauf",
-    "d": "Da(r)- och wo(r)-former, saker/sakförhållanden kontra personer, preposition plus personpronomen, korrelat till dass-sats; r före vokal.",
-    "h": "/docs/pronomen/dar-och-wor",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Daran, darauf, woran och worauf Da(r)- och wo(r)-former, saker/sakförhållanden kontra personer, preposition plus personpronomen, korrelat till dass-sats; r före vokal. R11 B1–B2"
   },
   {
     "id": "V06",

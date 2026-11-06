@@ -2050,9 +2050,9 @@
         "M07"
       ],
       "requiredCoverage": "Werden/bleiben/bekommen/erhalten och konstruktionsberoende översättningar av bli/få; svensk s-passiv kontra tysk passiv; utvalda idiomatiska verb.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
       "minimumQuizItems": 4
@@ -2068,9 +2068,9 @@
         "M01"
       ],
       "requiredCoverage": "Faktakunskap, bekantskap och förmåga/tillåtelse/möjlighet i sammanhang; att kunna ett språk och kunna någon; böjningsformer och alternativa konstruktioner.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
       "minimumQuizItems": 4
@@ -2087,9 +2087,9 @@
         "Y06"
       ],
       "requiredCoverage": "Plikt, förväntan, råd, tillåtelse och förbud; nicht müssen respektive nicht dürfen; modal förmodan i tydligt markerad fördjupning.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
       "minimumQuizItems": 4
@@ -2106,9 +2106,9 @@
         "B02"
       ],
       "requiredCoverage": "En koncentrerad beslutsgenomgång från svenskans när/om; indirekt tidsfråga kontra ja/nej-fråga, villkor och dåtidsvana; ingen ny duplicerad huvudartikel om alla tidssatser.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
       "minimumQuizItems": 4
@@ -2125,9 +2125,9 @@
         "A01"
       ],
       "requiredCoverage": "Produktiv derivation med genusledtrådar, -ung/-heit/-keit/-schaft och relevanta adjektiv-/verbmönster; lexikala begränsningar, negationsprefix och nya ord med källkontroll.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
       "minimumQuizItems": 4
@@ -2144,9 +2144,9 @@
         "B04"
       ],
       "requiredCoverage": "Från verbfras till nominalfras, attributkedjor och prepositionsfraser; tydlighet kontra formell täthet; korta autentiskt klingande omskrivningar och referens till E08.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
       "minimumQuizItems": 4
@@ -2164,9 +2164,9 @@
         "V09"
       ],
       "requiredCoverage": "Skilda betydelser och konstruktionskrav, modalitet och mottagarperspektiv; uttryck som går att översätta till svensk passiv är inte automatiskt identiska tyska passivformer.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
       "minimumQuizItems": 4
@@ -2184,9 +2184,9 @@
         "B04"
       ],
       "requiredCoverage": "Löpande kontra avslutad/passiv relation beroende på verb, böjning som adjektiv, utbyggda attribut och omskrivning till relativsats; undvik spansk gerundiumlogik.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
       "minimumQuizItems": 4
@@ -2203,9 +2203,9 @@
         "T04"
       ],
       "requiredCoverage": "Standardspråkliga varianter skilda från dialekter, ss/ß, lexikala och relevanta grammatiska varianter; respektfull beskrivning utan att utmåla nationella standardformer som fel.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
       "minimumQuizItems": 4
@@ -2221,9 +2221,9 @@
         "G08"
       ],
       "requiredCoverage": "Bekommen, eventuell, Semester, Gift och andra källkontrollerade betydelser; ordställning, genitiv, artikel och svensk negationsöverföring; varje ord i naturlig kontext.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
       "minimumQuizItems": 4
@@ -2241,9 +2241,9 @@
         "V09"
       ],
       "requiredCoverage": "Weil ich habe arbeiten müssen och huvudmönstret för andra verbgrupper; ordning, standardvariation och avgränsning till relevanta konstruktioner; aldrig generera fria kombinationer.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
       "minimumQuizItems": 4
@@ -2259,9 +2259,9 @@
         "G08"
       ],
       "requiredCoverage": "Minst 70 definierade begrepp med tysk term, enkel svensk förklaring, eget tvåspråkigt exempel och länk till huvudgenomgång; stavning och begrepp kontrolleras.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 0,
       "minimumQuizItems": 0

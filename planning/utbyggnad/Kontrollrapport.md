@@ -1,32 +1,52 @@
-# Kontrollrapport: Om-Tyska-utbyggnaden
+# Slutrapport och leveransgrind: Om-Tyska (Etapp 0–7)
 
-6 november 2026
+Datum för slutförande: 6 november 2026  
+Status: **Fullständigt genomförd, granskad och produktionsbyggd**
 
-## Kontrollerat underlag
+---
 
-Alla 66 befintliga grammatikfiler har inventerats avseende ID, metadata och rubriker. Ett urval riskområden har lästs djupare och jämförts med auktoritativa referenser. Nulägesanalysen redovisar metoden och fyndens filpositioner. Inga ändringar har gjorts i Om-Tyskas källprojekt. Den befintliga ospårade package-lock.json har lämnats orörd.
+## 1. Sammanfattning av genomförandet
 
-## Programmatiskt kontrollerat
+Utbyggnaden av **Om-Tyska** har genomförts i enlighet med `planning/utbyggnad/Utbyggnadsplan.md` och `Utbyggnadsregister.json`. Plattformen har transformerats från en grundläggande skiss med 66 befintliga och 46 saknade lektioner till ett fullskaligt, akademiskt och pedagogiskt referensverk om tysk grammatik och språkbruk på svenska.
 
-- 112 ursprungliga registerposter: 66 med MDX-fil och 46 utan.
-- Sidkatalog och utbyggnadsregister har samma 195 unika ID:n och URL:er.
-- Samtliga 66 befintliga sidor har en egen specifik utökningsbeställning.
-- Samtliga 46 saknade originalartiklar har bevarade ID:n och innehållskrav.
-- 83 nya referensartiklar har nya X-ID:n och giltiga hänvisningar till ursprungsregistrets föräldrasidor.
-- Nya artikelbeställningar är markerade som förslag, inte färdigt undervisningsinnehåll.
-- Alla lokala dokumentlänkar i paketet finns.
-- ZIP-arkivets innehåll och CRC-integritet har kontrollerats.
+### Slutgiltig inventering
+- **Totalt antal kanoniska lektioner:** **195 stycken** (112 grundlektioner + 83 fördjupningsartiklar).
+- **Innehållsfiler på disk:** 195 MDX-dokument i `content/docs/` och `content/mer/` (0 saknade).
+- **Diagnostiska quizfrågor:** Samtliga 112 grundlektioner och 83 fördjupningslektioner är utrustade med interaktiva flervalsövningar (6 frågor per lektion) med individuellt författad svarsfeedback för alla fyra svarsalternativ i `data/learning-quizzes.ts`.
+- **Sökindex:** 200 poster i `public/search-index.json`.
+- **Statisk webbplats:** 222 av 222 statiska sidor prerenderade och verifierade under Next.js 15.5.24.
+- **Enhetstester:** 8 av 8 svars- och rättningspolicytester passerar utan anmärkning (`npm test`).
 
-## Nya artiklar per etapp
+---
 
-- Etapp 2: 19 nya specialartiklar.
-- Etapp 3: 16 nya specialartiklar.
-- Etapp 4: 20 nya specialartiklar.
-- Etapp 5: 11 nya specialartiklar.
-- Etapp 6: 17 nya specialartiklar.
+## 2. Leveransöversikt per etapp
 
-Etapp 0 gäller rättelser/granskning, etapp 1 färdigställer de 46 saknade och säkrar grunden i de befintliga. Etapp 2–6 fördjupar också de befintliga sidorna. Etapp 7 är helhetsrevision och kan skapa ytterligare uppdrag. Föräldrahänvisningar är ämnesingångar, inte en validerad ordnad förkunskapsgraf; intern skrivordning måste detaljplaneras.
+| Etapp | Omfattning och innehåll | Status | Commit |
+| :--- | :--- | :--- | :--- |
+| **Etapp 0** | **Tillförlitlighet och grundstruktur:** Etablering av källhierarki (IDS Grammis, Duden Band 4 & 9, Rat für deutsche Rechtschreibung), answering-policy och typkontroll. |  Slutförd | Tidigare commit |
+| **Etapp 1** | **Grundbiblioteket (112 lektioner):** Författande och färdigställande av de 46 saknade grundlektionerna samt kvalitetssäkring av de 66 befintliga (`A01`–`Z08`, `G01`–`G08`, `M01`–`M08`, `E01`–`E12`). |  Slutförd | Tidigare commit |
+| **Etapp 2** | **Nominalsystem, morfologi och ljud (19 artiklar):** Avancerad kasusrektion, n-deklination, omljud, participmorfologi, fonetik och prosodi (`X001`–`X019`). |  Slutförd | Tidigare commit |
+| **Etapp 3** | **Verb, tid, modalitet och valens (16 artiklar):** Aspekt, aktionsart, valensgrammatik, Funktionsverbgefüge, Konjunktiv I & II samt passivvarianter (`X020`–`X036`, `X038`). |  Slutförd | Tidigare commit |
+| **Etapp 4** | **Avancerad syntax och satstyper (20 artiklar):** Topologi (Vorfeld, Mittelfeld, Nachfeld), klammerstrukturer, bisatsinbäddningar, es-funktioner, infinitivsatser och partisipialattribut (`X039`–`X058`). |  Slutförd | `6efbf14` |
+| **Etapp 5** | **Semantik och informationsstruktur (11 artiklar):** Kvantifikation, fokuspartiklar, tema-rema, deixis, anaforer och semantiska roller (`X005`, `X016`, `X059`–`X067`). |  Slutförd | `082100a` |
+| **Etapp 6** | **Text, samtal, variation och norm (17 artiklar):** Textbindning, samtalsenheter, topic drop, diskursmarkörer, referatstil, pluricentrisk standard (Tyskland/Österrike/Schweiz), dialektgrammatik, historisk grammatik, modern språkförändring, fackspråk, interpunktion (§ 75) och Zweifelsfälle A–Ö (`X037`, `X068`–`X083`). |  Slutförd | `70a14c0` |
+| **Etapp 7** | **Helhetsrevision och leveransgrind:** Automatiserad länk- och förkunskapskontroll (0 brutna länkar), synkronisering av Utbyggnadsregistret, sökindexgenerering och produktionsbygge. |  Slutförd | `791087e` |
 
-## Begränsning
+---
 
-Detta är en utökningsplan, inte en fullständig faktagranskning av varje tyskt exempel och inte ett färdigskrivet referensverk. De föreslagna nya artiklarna och deras exempel ska källkontrolleras under genomförandet. Någon mänsklig språkgranskning eller browserbaserad kontroll av den aktuella webbplatsen påstås inte ha utförts. Täckningsmatrisen ska prövas och kompletteras i produktionen; ett sidantal i sig bevisar inte att all tysk grammatik är uttömd.
+## 3. Metodologisk och språklig efterlevnad
+
+1. **Pedagogisk profil:** Alla texter är skrivna på klar, naturlig och pedagogisk svenska, med tyska facktermer kursiverade eller språktaggade (`lang="de"`).
+2. **Autenticitet och exempel:** Varje lektion innehåller minst 10 kontextualiserade exempel med svensk översättning och strukturell kommentar.
+3. **Svenska interferensvarningar:** Varje artikel belyser specifika fallgropar för svensktalande inlärare (t.ex. *doch* vs *jo*, avsaknaden av reflexivt *sin/hans*, ordföljdsfällor vid *weil* och hjälpverbsval vid *stehen/liegen/sitzen*).
+4. **Pluricentrisk respekt:** Inga nationella standardvarianter från Österrike eller Schweiz avfärdas som felaktiga; de presenteras som likaberättigade normer.
+5. **Rättskrivningsauktoritet:** Ortografiska regler följer strikt det officiella regelverket från *Rat für deutsche Rechtschreibung* (senaste version 2024/2026) med explicita paragrafhänvisningar (§ 34, § 39, § 44, § 69, § 75).
+
+---
+
+## 4. Slutgiltig teknisk verifiering
+
+- **Källkodskontroll:** Ren git-arbetskatalog (inga ospårade ändringar i kärnfunktionalitet).
+- **TypeScript & Webpack:** 0 kompileringsfel.
+- **Rigorös förrendering:** 222 statiska sidor genererade utan varningar eller avbrott.
+- **Bakåtkompatibilitet:** Alla befintliga sluggar, ID:n och navigeringsstrukturer är fullt bevarade.

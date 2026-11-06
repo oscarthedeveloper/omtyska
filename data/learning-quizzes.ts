@@ -21591,4 +21591,1456 @@ export const LEARNING_QUIZZES: Record<string, LearningQuiz> = {
       }
     ]
   },
+  '/mer/werden-bleiben-bekommen': {
+    "lessonId": "E01",
+    "href": "/mer/werden-bleiben-bekommen",
+    "title": "Snabbkoll: Att bli och att få på tyska",
+    "questions": [
+      {
+        "id": "e01-q1",
+        "context": "Översättning av 'att bli'.",
+        "prompt": "Hur översätts 'Han blev läkare' till tyska?",
+        "options": [
+          "Er wurde Arzt.",
+          "Er blieb Arzt.",
+          "Er bekam Arzt.",
+          "Er kriegte Arzt."
+        ],
+        "answer": 0,
+        "explanation": "Bli i betydelsen övergång till ett nytt tillstånd eller yrke heter werden (preteritum: wurde).",
+        "feedback": [
+          "Korrekt! Werden uttrycker övergång till nytt tillstånd.",
+          "Fel. Bleiben betyder 'förbli / stanna kvar'.",
+          "Fel. Bekommen betyder 'få / erhålla', inte bli.",
+          "Fel. Kriegen är talspråk för bekommen (få)."
+        ]
+      },
+      {
+        "id": "e01-q2",
+        "context": "Falsk vän: bleiben.",
+        "prompt": "Vad betyder den tyska meningen \"Er blieb den ganzen Tag im Bett\"? ",
+        "options": [
+          "Han stannade/låg kvar i sängen hela dagen.",
+          "Han blev sängliggande hela dagen.",
+          "Han fick en hel säng.",
+          "Han köpte en säng."
+        ],
+        "answer": 0,
+        "explanation": "Bleiben betyder 'stanna / förbli', inte bli.",
+        "feedback": [
+          "Korrekt! Bleiben = stanna kvar / förbli i samma tillstånd.",
+          "Fel. 'Blev sängliggande' kräver verbet werden.",
+          "Fel. Bekommen betyder få.",
+          "Fel. Kaufen betyder köpa."
+        ]
+      },
+      {
+        "id": "e01-q3",
+        "context": "Översättning av 'att få'.",
+        "prompt": "Hur översätter man 'Hon fick en fin present'?",
+        "options": [
+          "Sie bekam ein schönes Geschenk.",
+          "Sie wurde ein schönes Geschenk.",
+          "Sie blieb ein schönes Geschenk.",
+          "Sie durfte ein schönes Geschenk."
+        ],
+        "answer": 0,
+        "explanation": "Att få något materiellt eller abstrakt heter bekommen (eller talspråkligt kriegen).",
+        "feedback": [
+          "Korrekt! Bekommen = att få / erhålla.",
+          "Fel. 'Sie wurde ein Geschenk' betyder att hon själv förvandlades till en present!",
+          "Fel. Bleiben betyder förbli.",
+          "Fel. Dürfen innebär att ha tillåtelse/lov att göra något."
+        ]
+      },
+      {
+        "id": "e01-q4",
+        "context": "Dürfen kontra bekommen.",
+        "prompt": "När används *dürfen* för det svenska ordet 'få'?",
+        "options": [
+          "När 'få' betyder att ha tillåtelse eller lov att göra en handling (t.ex. 'Får jag gå på bio?').",
+          "När man får en present på julafton.",
+          "När man drabbas av en förkylning.",
+          "När man tar emot ett brev på posten."
+        ],
+        "answer": 0,
+        "explanation": "Dürfen är ett modalverb som reglerar tillåtelse/tillstånd: 'Darf ich ins Kino gehen?'.",
+        "feedback": [
+          "Korrekt! Tillåtelse och regler uttrycks med dürfen.",
+          "Fel. Gåvor och paket tas emot med bekommen.",
+          "Fel. Sjukdomar 'får' man med bekommen.",
+          "Fel. Brev erhålls med bekommen/erhalten."
+        ]
+      },
+      {
+        "id": "e01-q5",
+        "context": "Bekommen-passiv (Rezipientenpassiv).",
+        "prompt": "Vad innebär konstruktionen i: \"Er bekam das Buch geschenkt\"? ",
+        "options": [
+          "Ett mottagarpassiv som betyder 'Han fick boken som gåva / Boken skänktes till honom'.",
+          "Att han gav bort boken till en vän.",
+          "Att han skrev boken själv.",
+          "Att boken försvann."
+        ],
+        "answer": 0,
+        "explanation": "Bekommen-passiv gör dativobjektet (mottagaren) till subjekt: bekommen + particip II.",
+        "feedback": [
+          "Korrekt! Rezipientenpassiv med bekommen sätter mottagaren som subjekt.",
+          "Fel. Han tog emot gåvan, gav inte bort den.",
+          "Fel. Ingen författarhandling avses.",
+          "Fel. Handlingen är en gåva."
+        ]
+      },
+      {
+        "id": "e01-q6",
+        "context": "Hjälpverb för werden och bleiben.",
+        "prompt": "Vilket hjälpverb bildar *werden* och *bleiben* perfekt med?",
+        "options": [
+          "sein (*ist geworden*, *ist geblieben*).",
+          "haben (*hat geworden*, *hat geblieben*).",
+          "tun.",
+          "machen."
+        ],
+        "answer": 0,
+        "explanation": "Både werden (tillståndsförändring) och bleiben (bibehållet tillstånd) bildar alltid perfekt med sein.",
+        "feedback": [
+          "Korrekt! Båda verben kräver undantagslöst 'sein' i perfekt.",
+          "Fel. Haben är strikt ogrammatiskt vid werden och bleiben.",
+          "Fel. Tun bildar inte standardperfekt.",
+          "Fel. Machen är ett helt annat verb."
+        ]
+      }
+    ]
+  },
+  '/mer/wissen-kennen-konnen': {
+    "lessonId": "E02",
+    "href": "/mer/wissen-kennen-konnen",
+    "title": "Snabbkoll: Wissen, kennen och können",
+    "questions": [
+      {
+        "id": "e02-q1",
+        "context": "Wissen kontra kennen.",
+        "prompt": "Vilket verb används för 'Känner du den här författaren?'?",
+        "options": [
+          "Kennst du diesen Autor?",
+          "Weißt du diesen Autor?",
+          "Kannst du diesen Autor?",
+          "Hast du diesen Autor?"
+        ],
+        "answer": 0,
+        "explanation": "Kennen används om bekantskap med personer, platser, konstverk och konkreta ting.",
+        "feedback": [
+          "Korrekt! Kennen styr ackusativobjekt för bekantskap med personer.",
+          "Fel. Wissen används för fakta, propositioner och bisatser.",
+          "Fel. Können avser förmåga eller kunnande i ett ämne/språk.",
+          "Fel. Haben betyder ha/äga."
+        ]
+      },
+      {
+        "id": "e02-q2",
+        "context": "Faktakunskap med wissen.",
+        "prompt": "Hur översätts 'Jag vet när tåget avgår'?",
+        "options": [
+          "Ich weiß, wann der Zug abfährt.",
+          "Ich kenne, wann der Zug abfährt.",
+          "Ich kann, wann der Zug abfährt.",
+          "Ich habe gewusst die Abfahrt."
+        ],
+        "answer": 0,
+        "explanation": "Wissen styr bisatser och propositionell faktakunskap (dass-, w-satser).",
+        "feedback": [
+          "Korrekt! Wissen + indirekt frågesats med wann.",
+          "Fel. Kennen kan aldrig styra en bisats inledd med wann eller dass.",
+          "Fel. Können kan inte styra en frågebisats på det sättet.",
+          "Fel. Ordföljden och hjälpverbet är felaktiga."
+        ]
+      },
+      {
+        "id": "e02-q3",
+        "context": "Können vid språk och färdigheter.",
+        "prompt": "Hur uttrycker man bäst 'Hon kan tyska mycket bra'?",
+        "options": [
+          "Sie kann sehr gut Deutsch.",
+          "Sie weiß sehr gut Deutsch.",
+          "Sie kennt sehr gut Deutsch.",
+          "Sie ist sehr gut Deutsch."
+        ],
+        "answer": 0,
+        "explanation": "Können används självständigt för språkkunskaper och inlärda färdigheter utan att 'sprechen' behöver sättas ut.",
+        "feedback": [
+          "Korrekt! Können + språk är idiomatisk tyska för att behärska ett språk.",
+          "Fel. Wissen används inte om språkfärdighet.",
+          "Fel. Kennen betyder att man känner till att språket existerar.",
+          "Fel. Sein anger identitet, inte färdighet."
+        ]
+      },
+      {
+        "id": "e02-q4",
+        "context": "Böjning av wissen.",
+        "prompt": "Vad är 1:a och 3:e person presens av verbet *wissen*?",
+        "options": [
+          "ich weiß / er weiß (preteritopresentiskt verb med vokalväxling och nolländelse).",
+          "ich wisse / er wisst.",
+          "ich wisse / er wisset.",
+          "ich gewusst / er gewusst."
+        ],
+        "answer": 0,
+        "explanation": "Wissen är ett preteritopresentiskt verb: vokalbyte i singular (weiß) och nolländelse i 1:a och 3:e person.",
+        "feedback": [
+          "Korrekt! 'ich weiß' och 'er weiß' har samma stam och saknar ändelse -t.",
+          "Fel. Formen wisst är 2:a person plural (ihr wisst).",
+          "Fel. Wisse är konjunktiv I.",
+          "Fel. Gewusst är perfektparticip."
+        ]
+      },
+      {
+        "id": "e02-q5",
+        "context": "Känna till en stad eller plats.",
+        "prompt": "Hur säger man 'Jag känner till Wien ganska väl'?",
+        "options": [
+          "Ich kenne Wien ziemlich gut.",
+          "Ich weiß Wien ziemlich gut.",
+          "Ich kann Wien ziemlich gut.",
+          "Ich habe Wien gewusst."
+        ],
+        "answer": 0,
+        "explanation": "Städer, gator och geografiska platser som man besökt eller är förtrogen med tar verbet kennen.",
+        "feedback": [
+          "Korrekt! Kennen används för bekantskap med städer och miljöer.",
+          "Fel. Wissen kan inte ta ett enkelt stadsnamn som ackusativobjekt.",
+          "Fel. Können avser förmåga, inte platser.",
+          "Fel. Preteritum av wissen passar inte."
+        ]
+      },
+      {
+        "id": "e02-q6",
+        "context": "Besvara en fråga.",
+        "prompt": "Hur svarar man på frågan \"Wo wohnt Anna?\" om man inte har den informationen?",
+        "options": [
+          "Ich weiß es nicht.",
+          "Ich kenne es nicht.",
+          "Ich kann es nicht.",
+          "Ich bin es nicht."
+        ],
+        "answer": 0,
+        "explanation": "Information och adresser är fakta, varför man svarar 'Ich weiß es nicht'.",
+        "feedback": [
+          "Korrekt! 'Ich weiß (es) nicht' är standardsvaret vid saknad information.",
+          "Fel. 'Ich kenne es nicht' betyder 'Jag känner inte till det tinget'.",
+          "Fel. 'Ich kann es nicht' betyder 'Jag förmår/klarar inte av det'.",
+          "Fel. 'Ich bin es nicht' betyder 'Det är inte jag'."
+        ]
+      }
+    ]
+  },
+  '/mer/mussen-sollen-durfen': {
+    "lessonId": "E03",
+    "href": "/mer/mussen-sollen-durfen",
+    "title": "Snabbkoll: Müssen, sollen och dürfen",
+    "questions": [
+      {
+        "id": "e03-q1",
+        "context": "Klassisk negationsfälla vid müssen.",
+        "prompt": "Vad betyder den tyska meningen \"Du musst das nicht machen\"? ",
+        "options": [
+          "Du behöver inte göra det (det är inte nödvändigt).",
+          "Du får inte göra det (det är absolut förbjudet).",
+          "Du måste genast göra det.",
+          "Du vill inte göra det."
+        ],
+        "answer": 0,
+        "explanation": "Nicht müssen negerar nödvändigheten: 'inte behöva/måste'. Det innebär inget förbud!",
+        "feedback": [
+          "Korrekt! 'Nicht müssen' betyder 'inte behöva' på tyska.",
+          "Fel. Förbud heter 'nicht dürfen'!",
+          "Fel. Negationen 'nicht' är med i meningen.",
+          "Fel. 'Inte vilja' uttrycks med nicht wollen."
+        ]
+      },
+      {
+        "id": "e03-q2",
+        "context": "Strikt förbud.",
+        "prompt": "Hur översätts 'Här får man inte röka' (rökförbud) till tyska?",
+        "options": [
+          "Hier darf man nicht rauchen.",
+          "Hier muss man nicht rauchen.",
+          "Hier soll man nicht rauchen.",
+          "Hier will man nicht rauchen."
+        ],
+        "answer": 0,
+        "explanation": "Förbud uttrycks alltid med nicht dürfen: 'man darf nicht'.",
+        "feedback": [
+          "Korrekt! 'Nicht dürfen' är den korrekta termen för förbud.",
+          "Fel. 'Man muss nicht rauchen' betyder att det är frivilligt att röka!",
+          "Fel. 'Man soll nicht' är en moralisk rekommendation, inte ett strikt förbud.",
+          "Fel. 'Man will nicht' avser vilja."
+        ]
+      },
+      {
+        "id": "e03-q3",
+        "context": "Uppdrag från annan person med sollen.",
+        "prompt": "Vad uttrycker meningen \"Der Arzt sagt, ich soll mehr Wasser trinken\"? ",
+        "options": [
+          "En ordination eller uppmaning från en annan person (läkaren).",
+          "Ett absolut fysiskt tvång som inte går att undvika.",
+          "Ett juridiskt förbud.",
+          "Att patienten själv har bestämt sig för det."
+        ],
+        "answer": 0,
+        "explanation": "Sollen förmedlar en annans vilja, uppmaning eller förväntan ('jag ska/bör enligt läkaren').",
+        "feedback": [
+          "Korrekt! Sollen återger en extern uppmaning eller instruktion.",
+          "Fel. Fysiskt tvång uttrycks med müssen.",
+          "Fel. Det är ingen lag eller förbud.",
+          "Fel. Eget beslut uttrycks med wollen."
+        ]
+      },
+      {
+        "id": "e03-q4",
+        "context": "Subjektiv modalitet med müssen.",
+        "prompt": "Vad betyder meningen \"Das Licht brennt, er muss zu Hause sein\"? ",
+        "options": [
+          "Ljuset är tänt, han måste (med all sannolikhet) vara hemma.",
+          "Han är beordrad av polisen att stanna hemma.",
+          "Han får inte lämna huset.",
+          "Han vill vara hemma."
+        ],
+        "answer": 0,
+        "explanation": "Müssen har här epistemisk/subjektiv betydelse: talaren drar en logiskt ofrånkomlig slutsats.",
+        "feedback": [
+          "Korrekt! Epistemisk slutsats: talaren är övertygad om att han är hemma.",
+          "Fel. Det rör inte en order från polisen.",
+          "Fel. Förbud uttrycks med dürfen nicht.",
+          "Fel. Vilja uttrycks med wollen."
+        ]
+      },
+      {
+        "id": "e03-q5",
+        "context": "Svenskt 'få' vid frågor om lov.",
+        "prompt": "Hur frågar man artigt 'Får jag öppna fönstret?' på tyska?",
+        "options": [
+          "Darf ich das Fenster öffnen?",
+          "Muss ich das Fenster öffnen?",
+          "Soll ich das Fenster öffnen?",
+          "Bekomme ich das Fenster öffnen?"
+        ],
+        "answer": 0,
+        "explanation": "Fråga om lov/tillåtelse ställs med dürfen: 'Darf ich...?'.",
+        "feedback": [
+          "Korrekt! Dürfen används för att be om lov eller tillåtelse.",
+          "Fel. 'Muss ich' betyder 'Är jag tvungen att öppna fönstret?'.",
+          "Fel. 'Soll ich' betyder 'Vill du att jag öppnar fönstret?'.",
+          "Fel. Bekommen kan inte ta infinitiv utan zu på det sättet."
+        ]
+      },
+      {
+        "id": "e03-q6",
+        "context": "Konjunktiv II av sollen och müssen.",
+        "prompt": "Hur skiljer sig *sollte* från *müsste* i rekommendationer?",
+        "options": [
+          "sollte uttrycker ett gott råd eller böra ('du borde göra det'); müsste uttrycker att något egentligen vore nödvändigt.",
+          "sollte är dåtid och müsste är framtid.",
+          "Båda är synonymer utan någon nyansskillnad.",
+          "Müsste används bara om katter."
+        ],
+        "answer": 0,
+        "explanation": "Sollte (borde) ger ett råd; müsste uttrycker en hypotetisk nödvändighet.",
+        "feedback": [
+          "Korrekt! Sollte = råd/böra; müsste = hypotetiskt måste.",
+          "Fel. Båda formerna är Konjunktiv II med presens/futurumbetydelse här.",
+          "Fel. Det finns en tydlig gradskillnad i nödvändighet.",
+          "Fel. De gäller alla subjekt."
+        ]
+      }
+    ]
+  },
+  '/mer/wenn-als-wann-ob': {
+    "lessonId": "E04",
+    "href": "/mer/wenn-als-wann-ob",
+    "title": "Snabbkoll: Wenn, als, wann eller ob?",
+    "questions": [
+      {
+        "id": "e04-q1",
+        "context": "Enstaka händelse i dåtid.",
+        "prompt": "Vilket ord ska användas i: \"[...] ich gestern nach Hause kam, schlief das Kind schon\"? ",
+        "options": [
+          "Als",
+          "Wenn",
+          "Wann",
+          "Ob"
+        ],
+        "answer": 0,
+        "explanation": "För en engångshändelse i förfluten tid används undantagslöst konjunktionen als.",
+        "feedback": [
+          "Korrekt! Als används för en specifik engångshändelse i dåtid.",
+          "Fel. Wenn i dåtid betyder 'varje gång som' (upprepad handling).",
+          "Fel. Wann är ett frågeord, inte en temporal tidsbisatskonjunktion.",
+          "Fel. Ob betyder 'om' vid osäkerhet/ja-nej-frågor."
+        ]
+      },
+      {
+        "id": "e04-q2",
+        "context": "Upprepad händelse i dåtid.",
+        "prompt": "Vilket ord ska användas i: \"[...] er mich früher besuchte, brachte er immer Blumen mit\"? ",
+        "options": [
+          "Wenn (eller 'Immer wenn')",
+          "Als",
+          "Wann",
+          "Ob"
+        ],
+        "answer": 0,
+        "explanation": "När en handling upprepades i dåtid ('varje gång som') används wenn (ofta förstärkt med immer wenn).",
+        "feedback": [
+          "Korrekt! Upprepad handling i dåtid ('varje gång') kräver wenn.",
+          "Fel. Als används endast för en enstaka unik händelse i dåtid.",
+          "Fel. Wann är frågeord.",
+          "Fel. Ob uttrycker villkor eller tvekan."
+        ]
+      },
+      {
+        "id": "e04-q3",
+        "context": "Frågeordet wann.",
+        "prompt": "Vilket ord ska väljas i: \"Ich weiß nicht, [...] der Zug ankommt\"? ",
+        "options": [
+          "wann",
+          "wenn",
+          "als",
+          "ob"
+        ],
+        "answer": 0,
+        "explanation": "Wann används i direkta och indirekta frågor om klockslag eller tidpunkt.",
+        "feedback": [
+          "Korrekt! Indirekt tidsfråga kräver frågeordet wann.",
+          "Fel. Wenn används för villkor eller temporala satser, inte indirekta frågor om klockslag.",
+          "Fel. Als avser dåtid.",
+          "Fel. Ob frågar OM tåget ankommer, inte VILKEN TID."
+        ]
+      },
+      {
+        "id": "e04-q4",
+        "context": "Indirekt ja/nej-fråga med ob.",
+        "prompt": "Hur översätts 'Jag undrar om det kommer att regna'?",
+        "options": [
+          "Ich frage mich, ob es regnen wird.",
+          "Ich frage mich, wenn es regnen wird.",
+          "Ich frage mich, als es regnen wird.",
+          "Ich frage mich, wann es regnen wird."
+        ],
+        "answer": 0,
+        "explanation": "Svenskans 'om' i betydelsen huruvida (ja eller nej) översätts med ob.",
+        "feedback": [
+          "Korrekt! Ob = huruvida / om (vid ja/nej-osäkerhet).",
+          "Fel. Wenn betyder 'om' i betydelsen 'ifall / förutsatt att' (konditionalis).",
+          "Fel. Als används inte för villkor.",
+          "Fel. Wann betyder 'när/vilken tid', inte 'om'."
+        ]
+      },
+      {
+        "id": "e04-q5",
+        "context": "Konditionalt wenn.",
+        "prompt": "Vilket ord ska användas i: \"[...] du Zeit hast, können wir einen Kaffee trinken\"? ",
+        "options": [
+          "Wenn",
+          "Als",
+          "Wann",
+          "Ob"
+        ],
+        "answer": 0,
+        "explanation": "Konditionellt 'om / ifall' i nutid eller framtid översätts alltid med wenn.",
+        "feedback": [
+          "Korrekt! Wenn är den konditionella konjunktionen (om/ifall).",
+          "Fel. Als används enbart för dåtidshändelser eller jämförelser.",
+          "Fel. Wann är frågeord.",
+          "Fel. Ob används vid indirekta frågor, inte vid villkorsbisatser."
+        ]
+      },
+      {
+        "id": "e04-q6",
+        "context": "Kontrast mellan wenn och ob.",
+        "prompt": "Vad är skillnaden mellan A: \"Sag mir, wenn er kommt\" och B: \"Sag mir, ob er kommt\"? ",
+        "options": [
+          "A betyder 'Säg till i det ögonblick han anländer'; B betyder 'Säg till om han överhuvudtaget kommer eller inte'.",
+          "Det finns ingen skillnad; de betyder exakt samma sak.",
+          "A är felaktig tyska och B är korrekt.",
+          "A används i skrift och B i tal."
+        ],
+        "answer": 0,
+        "explanation": "Wenn är temporalt/konditionellt (när/om det sker); ob frågar efter ja eller nej (huruvida han kommer).",
+        "feedback": [
+          "Korrekt! Wenn anger tidpunkten för ankomst; ob frågar om faktumet att han kommer.",
+          "Fel. Betydelseskillnaden är avgörande för förståelsen.",
+          "Fel. Båda meningarna är fullt grammatiska och idiomatiska.",
+          "Fel. Båda orden används i både skrift och tal."
+        ]
+      }
+    ]
+  },
+  '/mer/ordbildning': {
+    "lessonId": "E05",
+    "href": "/mer/ordbildning",
+    "title": "Snabbkoll: Prefix, suffix och ordbildning",
+    "questions": [
+      {
+        "id": "e05-q1",
+        "context": "Oskiljaktiga verbprefix.",
+        "prompt": "Vilken minnesregel sammanfattar tyskans oskiljaktiga verbprefix som ALDRIG tar ge- i particip II?",
+        "options": [
+          "be-, ge-, er-, ver-, zer-, ent-, emp-, miss-.",
+          "ab-, an-, auf-, aus-, bei-, mit-.",
+          "alla prefix som slutar på konsonant.",
+          "alla prefix som börjar på s-."
+        ],
+        "answer": 0,
+        "explanation": "De åtta klassiska oskiljaktiga prefixen är be-, ge-, er-, ver-, zer-, ent-, emp-, miss-.",
+        "feedback": [
+          "Korrekt! Dessa prefix är alltid obetonade och skiljs aldrig från stammen.",
+          "Fel. Ab-, an-, auf- etc. är skiljaktiga prefix med betoning.",
+          "Fel. Konsonantslut avgör inte skiljaktighet.",
+          "Fel. Ingen sådan regel finns."
+        ]
+      },
+      {
+        "id": "e05-q2",
+        "context": "Skiljaktiga verb i huvudsats.",
+        "prompt": "Hur placeras prefixet *auf* i meningen \"Er steht um sieben Uhr auf\"? ",
+        "options": [
+          "Det skiljs från verbet och placeras allra sist i huvudsatsen (högra verbklammern).",
+          "Det sätts direkt före subjektet.",
+          "Det försvinner helt ur meningen.",
+          "Det placeras på plats två bredvid verbet."
+        ],
+        "answer": 0,
+        "explanation": "I en tysk huvudsats i presens/preteritum vandrar det skiljaktiga prefixet till satsens slut (Rechte Satzklammer).",
+        "feedback": [
+          "Korrekt! Skiljaktiga prefix intar den högra satsklammern.",
+          "Fel. Prefixet står inte i förfältet.",
+          "Fel. Prefixet bär grundbetydelsen och får inte strykas.",
+          "Fel. På position 2 står endast det böjda finitverbet."
+        ]
+      },
+      {
+        "id": "e05-q3",
+        "context": "Genus hos avledningssuffix.",
+        "prompt": "Vilket grammatiskt genus får substantiv som slutar på *-ung, -heit, -keit, -schaft, -tät*?",
+        "options": [
+          "Alltid femininum (die).",
+          "Alltid maskulinum (der).",
+          "Alltid neutrum (das).",
+          "Det beror på personens biologiska kön."
+        ],
+        "answer": 0,
+        "explanation": "Dessa suffix är 100 % regelbundna och skapar undantagslöst feminina substantiv.",
+        "feedback": [
+          "Korrekt! -ung, -heit, -keit, -schaft, -tät ger alltid femininum (die).",
+          "Fel. Maskulina suffix är t.ex. -ling, -or, -ist.",
+          "Fel. Neutersuffix är t.ex. -chen, -lein, -ment, -um.",
+          "Fel. Grammatiskt genus bestäms här helt av morfologin."
+        ]
+      },
+      {
+        "id": "e05-q4",
+        "context": "Diminutivsuffix.",
+        "prompt": "Vilket genus får substantiv som bildas med diminutivsuffixen *-chen* eller *-lein* (t.ex. *das Mädchen, das Häuschen*)?",
+        "options": [
+          "Alltid neutrum (das).",
+          "Alltid femininum (die).",
+          "Alltid maskulinum (der).",
+          "Växlande genus."
+        ],
+        "answer": 0,
+        "explanation": "Diminutiver på -chen och -lein är utan undantag neutrum i tysk grammatik.",
+        "feedback": [
+          "Korrekt! Alla diminutivbildningar med -chen/-lein blir neutrum (das).",
+          "Fel. Även ord som syftar på kvinnor (das Mädchen) är grammatiskt neutrum.",
+          "Fel. Maskulinum förekommer inte för dessa diminutiver.",
+          "Fel. Det finns inga genusundantag för -chen och -lein."
+        ]
+      },
+      {
+        "id": "e05-q5",
+        "context": "Adjektivsuffixet -bar.",
+        "prompt": "Vad betyder adjektiv bildade med suffixet *-bar* (t.ex. *machbar, trinkbar, lesbar*)?",
+        "options": [
+          "Att något kan göras, drickas eller läsas (passiv möjlighet, '-bar / möjlig att').",
+          "Att något är förbjudet.",
+          "Att något tillhör det förflutna.",
+          "Att något luktar illa."
+        ],
+        "answer": 0,
+        "explanation": "Suffixet -bar motsvarar engelskans -able och svenskans -bar; det anger en potentiell passiv möjlighet.",
+        "feedback": [
+          "Korrekt! -bar anger passiv möjlighet ('kan göras').",
+          "Fel. Förbud uttrycks inte med -bar.",
+          "Fel. Tidsaspekt styrs inte av detta suffix.",
+          "Fel. Suffixet har ingen luktkoppling."
+        ]
+      },
+      {
+        "id": "e05-q6",
+        "context": "Sammansättningens bestämningsord.",
+        "prompt": "Vilket led avgör genus och numerus i ett sammansatt tyskt substantiv som *die Haustür*?",
+        "options": [
+          "Det sista ledet (Grundwort / efterledet: die Tür).",
+          "Det första ledet (Bestimmungswort / förledet: das Haus).",
+          "Mellanledet med eventuellt fogemorfem.",
+          "Det längsta ledet."
+        ],
+        "answer": 0,
+        "explanation": "Det sista ledet (huvudordet/efterledet) bestämmer alltid genus och böjningsmönster för hela sammansättningen.",
+        "feedback": [
+          "Korrekt! Efterledet (das Grundwort) styr hela ordets genus och böjning.",
+          "Fel. Förledet specificerar betydelsen men bestämmer inte grammatiskt genus.",
+          "Fel. Fogemorfemet förbinder bara leden.",
+          "Fel. Ordets längd saknar grammatisk betydelse."
+        ]
+      }
+    ]
+  },
+  '/mer/nominalstil': {
+    "lessonId": "E06",
+    "href": "/mer/nominalstil",
+    "title": "Snabbkoll: Nominalstil och utbyggda nominalfraser",
+    "questions": [
+      {
+        "id": "e06-q1",
+        "context": "Definition av nominalstil.",
+        "prompt": "Vad innebär 'Nominalstil' i tysk sakprosa och fackspråk?",
+        "options": [
+          "Att händelser och processer uttrycks med substantiv och prepositionsfraser i stället för finita verb och bisatser.",
+          "Att man tar bort alla substantiv ur texten.",
+          "Att alla ord skrivs med gemener.",
+          "Att man enbart använder talspråk."
+        ],
+        "answer": 0,
+        "explanation": "Nominalstil kondenserar verbala skeenden till abstrakta substantiv (t.ex. vid ankomst -> vid anländandet).",
+        "feedback": [
+          "Korrekt! Substantivering av processer ger hög informationstäthet.",
+          "Fel. Nominalstil kännetecknas av mycket substantiv, inte färre.",
+          "Fel. Tyska substantiv har alltid stor begynnelsebokstav.",
+          "Fel. Nominalstil är typisk för formell skrift, raka motsatsen till talspråk."
+        ]
+      },
+      {
+        "id": "e06-q2",
+        "context": "Omvandling från verbalstil till nominalstil.",
+        "prompt": "Hur omvandlas bisatsen \"Weil die Preise stiegen\" till nominalstil?",
+        "options": [
+          "Wegen des Preisanstiegs (eller Wegen des Steigens der Preise).",
+          "Weil die Preise gestiegen sind.",
+          "Die Preise steigen schnell.",
+          "Um Preise zu steigen."
+        ],
+        "answer": 0,
+        "explanation": "Konjunktionen weil + verb ersätts av prepositionen wegen + nominaliserat substantiv i genitiv.",
+        "feedback": [
+          "Korrekt! Wegen + genitivsubstantiv ersätter bisatsen.",
+          "Fel. Detta är fortfarande verbalstil med konjunktionen weil.",
+          "Fel. Detta är en huvudsats i presens.",
+          "Fel. Detta är en felaktig infinitivkonstruktion."
+        ]
+      },
+      {
+        "id": "e06-q3",
+        "context": "Stilistisk fördel med verbalstil.",
+        "prompt": "Varför föredras ofta verbalstil i pedagogiska texter och skönlitteratur?",
+        "options": [
+          "Eftersom den är mer levande, dynamisk och lättare att bearbeta för läsaren än tunga nominalkedjor.",
+          "Eftersom verb är förbjudna i vetenskapliga artiklar.",
+          "Därför att verbalstil tar mindre plats på papperet.",
+          "För att lura läsaren."
+        ],
+        "answer": 0,
+        "explanation": "Verbalstil gör aktörer och händelseförlopp konkreta och transparenta, vilket underlättar läsförståelsen.",
+        "feedback": [
+          "Korrekt! Verbal stil främjar läsbarhet och handlingsdynamik.",
+          "Fel. Vetenskapliga texter innehåller självklart verb.",
+          "Fel. Nominalstil är ofta mer kompakt i ordantal.",
+          "Fel. Stilistiken syftar till klar kommunikation."
+        ]
+      },
+      {
+        "id": "e06-q4",
+        "context": "Utbyggt participattribut.",
+        "prompt": "Hur avkodas det utbyggda participattributet i: \"die vom Minister angekündigten Maßnahmen\"? ",
+        "options": [
+          "Åtgärderna som ministern tillkännagav.",
+          "Ministern som tillkännagav åtgärderna.",
+          "Åtgärderna som ministern glömde bort.",
+          "Ministeriet som vidtog åtgärder."
+        ],
+        "answer": 0,
+        "explanation": "Kärnan är Maßnahmen, modifierad av participet angekündigten och dess agent vom Minister.",
+        "feedback": [
+          "Korrekt! Kärnsubstantivet är Maßnahmen (åtgärderna).",
+          "Fel. Huvudordet är åtgärderna, inte ministern.",
+          "Fel. Angekündigt betyder tillkännagiven, inte bortglömd.",
+          "Fel. Ministeriet är inte subjektet här."
+        ]
+      },
+      {
+        "id": "e06-q5",
+        "context": "Funktionsverbgefüge.",
+        "prompt": "Vad är ett exempel på en funktionsverbsfogning som hör till nominalstilen?",
+        "options": [
+          "eine Entscheidung treffen (istället för entscheiden).",
+          "schnell laufen.",
+          "ein Buch lesen.",
+          "laut singen."
+        ],
+        "answer": 0,
+        "explanation": "Funktionsverbgefüge kombinerar ett substantiverat handlingsord med ett semantiskt blekt verb (treffen, stellen, bringen).",
+        "feedback": [
+          "Korrekt! 'Eine Entscheidung treffen' är en klassisk FVG i nominal stil.",
+          "Fel. 'Schnell laufen' är ett vanligt verb med adverb.",
+          "Fel. 'Ein Buch lesen' är ett vanligt transitivt verb med objekt.",
+          "Fel. 'Laut singen' är verb med sättsadverbial."
+        ]
+      },
+      {
+        "id": "e06-q6",
+        "context": "Genitivstapling.",
+        "prompt": "Varför avråder moderna stilguider från överdriven genitivstapling som \"die Feststellung der Ursache des Problems der Maschine\"? ",
+        "options": [
+          "Det skapar en svårläst och ogenomtränglig abstraktion som försvårar förståelsen av vem som gör vad.",
+          "Eftersom genitiv är avskaffad i grundlagen.",
+          "Eftersom det blir för billigt att trycka.",
+          "Därför att kommatecken saknas."
+        ],
+        "answer": 0,
+        "explanation": "Flera på varandra staplade genitiver kallas 'Genitivkaskaden' och leder till kognitiv överbelastning hos läsaren.",
+        "feedback": [
+          "Korrekt! Genitivkaskader gör texten tungrodd och svår att avkoda.",
+          "Fel. Genitiven är fullt levande i skriftlig norm.",
+          "Fel. Tryckkostnad beror inte på kasusval.",
+          "Fel. Kommatecken ska inte sättas mellan attribut i samma nominalfras."
+        ]
+      }
+    ]
+  },
+  '/mer/passivalternativ': {
+    "lessonId": "E07",
+    "href": "/mer/passivalternativ",
+    "title": "Snabbkoll: Passivalternativ och passiviska uttryck",
+    "questions": [
+      {
+        "id": "e07-q1",
+        "context": "Alternativ med man.",
+        "prompt": "Hur fungerar pronomenet *man* som passiversättning i tysk sakprosa?",
+        "options": [
+          "Det används med aktivt verb i 3:e person singular för att förmedla en opersonlig, allmängiltig handling (*'Man sagt, dass...'*).",
+          "Det kan enbart användas i dåtid.",
+          "Det kräver alltid hjälpverbet werden.",
+          "Det används bara om män."
+        ],
+        "answer": 0,
+        "explanation": "'Man' motsvarar svenskans 'man' eller 'en' och gör att handlingen kan uttryckas aktivt utan att namnge en specifik aktör.",
+        "feedback": [
+          "Korrekt! 'Man' + aktivt verb är den vanligaste lediga passiversättningen.",
+          "Fel. Man böjs i alla tempus (man sagt, man sagte, man hat gesagt).",
+          "Fel. Werden bildar vanligt passiv; man tar aktiva verb.",
+          "Fel. Man är könsneutralt och syftar på människor i allmänhet."
+        ]
+      },
+      {
+        "id": "e07-q2",
+        "context": "Reflexiv passiversättning med sich lassen.",
+        "prompt": "Vad betyder meningen \"Das Manuskript lässt sich leicht lesen\"? ",
+        "options": [
+          "Manuskriptet kan lätt läsas / är lättläst (möjlighetsmodalitet).",
+          "Manuskriptet läser sig självt.",
+          "Manuskriptet vägrar att bli läst.",
+          "Manuskriptet måste skrivas om."
+        ],
+        "answer": 0,
+        "explanation": "'Sich lassen + Infinitiv' uttrycker en passiv möjlighet motsvarande 'kann gelesen werden'.",
+        "feedback": [
+          "Korrekt! Konstruktionen uttrycker modal passivitet: 'kan läsas'.",
+          "Fel. Böcker och manuskript kan inte läsa sig själva.",
+          "Fel. Ingen motvilja uttrycks här.",
+          "Fel. Inget påbud om omskrivning finns i meningen."
+        ]
+      },
+      {
+        "id": "e07-q3",
+        "context": "Pliktkonstruktionen sein + zu + Infinitiv.",
+        "prompt": "Vilken modal innebörd har konstruktionen i: \"Die Rechnung ist sofort zu begleichen\"? ",
+        "options": [
+          "Räkningen MÅSTE betalas omedelbart (tvingande plikt / müssen).",
+          "Räkningen har redan betalats.",
+          "Det är förbjudet att betala räkningen.",
+          "Räkningen kan betalas om man vill."
+        ],
+        "answer": 0,
+        "explanation": "'Sein + zu + Infinitiv' i myndighets- och affärstext uttrycker obligatorisk plikt motsvarande 'muss beglichen werden'.",
+        "feedback": [
+          "Korrekt! Sein + zu + infinitiv uttrycker tvingande passiv plikt.",
+          "Fel. Handlingen är ännu inte utförd.",
+          "Fel. Det är ett krav på betalning, inte ett förbud.",
+          "Fel. Konstruktionen är inte frivillig."
+        ]
+      },
+      {
+        "id": "e07-q4",
+        "context": "Adjektiv på -bar och -lich.",
+        "prompt": "Hur fungerar adjektiv som *machbar, sichtbar, verständlich* som passiversättning?",
+        "options": [
+          "De uttrycker att något 'kan göras', 'kan ses' eller 'kan förstås' (möjlighetspassiv).",
+          "De anger att handlingen är fullbordad.",
+          "De ersätter subjektet i huvudsatsen.",
+          "De kan endast användas i komparativ."
+        ],
+        "answer": 0,
+        "explanation": "Dessa adjektivsuffix bär en inbyggd passiv-modal betydelse (potentialis/möjlighet).",
+        "feedback": [
+          "Korrekt! Suffixen -bar och -lich uttrycker potentiell passivitet.",
+          "Fel. Fullbordad handling uttrycks med perfektparticip.",
+          "Fel. De fungerar som predikativ eller attribut, inte subjekt.",
+          "Fel. De kan böjas i alla komparationsgrader."
+        ]
+      },
+      {
+        "id": "e07-q5",
+        "context": "Rezipientenpassiv med gehören.",
+        "prompt": "Vad innebär den talspråkliga eller idiomatiska passivkonstruktionen med *gehören* i: \"Das gehört bestraft\"? ",
+        "options": [
+          "Det förtjänar / borde straffas (nödvändighet/bör).",
+          "Det tillhör en straffad person.",
+          "Det har redan bestraffats i rätten.",
+          "Det är helt lagligt."
+        ],
+        "answer": 0,
+        "explanation": "'Gehören + Partizip II' är en vardaglig passiversättning som uttrycker att något borde göras (motsvarar 'sollte bestraft werden').",
+        "feedback": [
+          "Korrekt! Uttrycker att något förtjänar eller borde åtgärdas.",
+          "Fel. Gehören har här inte betydelsen av ägande.",
+          "Fel. Det uttrycker talarens normkrav, inte att domen redan fallit.",
+          "Fel. Meningen förutsätter att handlingen var felaktig."
+        ]
+      },
+      {
+        "id": "e07-q6",
+        "context": "Stilistiskt val vid passivalternativ.",
+        "prompt": "Varför väljer en författare ofta passivalternativ framför regelrätt werden-passiv?",
+        "options": [
+          "För att variera texten stilistiskt och undvika monoton upprepning av hjälpverbet werden.",
+          "Eftersom werden är förbjudet i modern tyska.",
+          "För att verka mer osäker på sitt budskap.",
+          "För att spara bläck."
+        ],
+        "answer": 0,
+        "explanation": "Överanvändning av werden kan göra texten monoton och tung; passivalternativen ger elegant stilistisk variation.",
+        "feedback": [
+          "Korrekt! Stilistisk variation och dynamik är den främsta motiveringen.",
+          "Fel. Werden är ett av tyskans mest centrala hjälpverb.",
+          "Fel. Rätt valda passivalternativ ökar sakligheten och precisionen.",
+          "Fel. Typografisk ekonomi är inte den lingvistiska förklaringen."
+        ]
+      }
+    ]
+  },
+  '/mer/particip-som-attribut': {
+    "lessonId": "E08",
+    "href": "/mer/particip-som-attribut",
+    "title": "Snabbkoll: Particip som attribut",
+    "questions": [
+      {
+        "id": "e08-q1",
+        "context": "Partizip I som attribut.",
+        "prompt": "Vad uttrycker presensparticipet (*Partizip I*) när det används attributivt som i: \"das schlafende Kind\"? ",
+        "options": [
+          "En pågående, aktiv handling i samtidighet: barnet som sover.",
+          "En avslutad handling i förfluten tid.",
+          "Ett förbud mot att sova.",
+          "En framtida önskan."
+        ],
+        "answer": 0,
+        "explanation": "Partizip I (stam + -end + böjningsändelse) är alltid aktivt och uttrycker pågående process.",
+        "feedback": [
+          "Korrekt! Partizip I uttrycker pågående aktiv handling (presens/samtidighet).",
+          "Fel. Avslutad dåtidshandling uttrycks med Partizip II.",
+          "Fel. Participet innehåller inget förbud.",
+          "Fel. Det beskriver ett faktiskt pågående tillstånd."
+        ]
+      },
+      {
+        "id": "e08-q2",
+        "context": "Partizip II av transitiva verb.",
+        "prompt": "Vad uttrycker perfektparticipet (*Partizip II*) vid transitiva verb som i: \"das reparierte Auto\"? ",
+        "options": [
+          "Ett passivt och avslutat resultat: bilen som har blivit reparerad.",
+          "En aktiv handling som pågår just nu.",
+          "En bil som vägrar att starta.",
+          "En önskan om att köpa bil."
+        ],
+        "answer": 0,
+        "explanation": "Partizip II av transitiva verb är passivt och resulterande (det har reparerats av någon).",
+        "feedback": [
+          "Korrekt! Passivt och avslutat resultat efter en transitiv process.",
+          "Fel. Aktiv nutidshandling uttrycks med Partizip I (das reparierende Auto vore bilen som själv reparerar något).",
+          "Fel. Handlingen är tvärtom lyckosamt avslutad.",
+          "Fel. Ingen köpönskan uttrycks."
+        ]
+      },
+      {
+        "id": "e08-q3",
+        "context": "Partizip II av intransitiva verb med sein.",
+        "prompt": "Vad betyder konstruktionen i: \"der abgefahrene Zug\"? ",
+        "options": [
+          "Tåget som har avgått (aktivt men avslutat skeende med rörelseverb som tar sein).",
+          "Tåget som har blivit avgånget av konduktören.",
+          "Ett tåg som står stilla på perrongen.",
+          "Ett tåg som är trasigt."
+        ],
+        "answer": 0,
+        "explanation": "Intransitiva rörelse- och förändringsverb med sein bildar Partizip II med aktiv och avslutad betydelse.",
+        "feedback": [
+          "Korrekt! Aktivt och perfektiverat skeende hos intransitivt verb med sein.",
+          "Fel. Abfahren är intransitivt och har ingen passiv agent.",
+          "Fel. Tåget har redan lämnat stationen.",
+          "Fel. Ingen skada avses (i bokstavlig mening)."
+        ]
+      },
+      {
+        "id": "e08-q4",
+        "context": "Utvidgad participkedja (Erweitertes Partizip).",
+        "prompt": "Hur avkodar man en tysk utvidgad participfras som: \"die gestern vom Vorstand beschlossenen Maßnahmen\"? ",
+        "options": [
+          "Man identifierar artikeln (die) och huvudsubstantivet (Maßnahmen) som en ram, och läser mellanliggande adverb och particip som bestämningar.",
+          "Man läser orden baklänges från höger till vänster.",
+          "Man översätter enbart verbet i presens.",
+          "Man stryker alla ord mellan kommatecknen."
+        ],
+        "answer": 0,
+        "explanation": "Tyskans klammerstruktur omsluter alla komplement mellan artikeln och substantivet: [die ... Maßnahmen].",
+        "feedback": [
+          "Korrekt! Klammerstrukturen binder samman hela attributfrasen framför substantivet.",
+          "Fel. Tyska läses från vänster till höger med stöd av klammerprincipen.",
+          "Fel. Participet är dåtid/passivt.",
+          "Fel. Inga kommatecken finns inne i en sluten nominalfras."
+        ]
+      },
+      {
+        "id": "e08-q5",
+        "context": "Gerundiv med zu + presensparticip.",
+        "prompt": "Vad betyder meningen \"Das ist ein nicht zu unterschätzendes Risiko\"? ",
+        "options": [
+          "Detta är en risk som inte får / kan underskattas (passiv nödvändighet/möjlighet).",
+          "Detta är en risk som redan har underskattats.",
+          "Det finns ingen risk alls.",
+          "Risken är obetydlig."
+        ],
+        "answer": 0,
+        "explanation": "Zu + Partizip I fungerar som gerundiv och uttrycker att något måste eller kan göras.",
+        "feedback": [
+          "Korrekt! Modal passiv innebörd: 'en risk som inte får underskattas'.",
+          "Fel. Det handlar om framtida hänsyn, inte ett redan begånget misstag.",
+          "Fel. Risken är tvärtom högst påtaglig och allvarlig.",
+          "Fel. Betydelsen är den rakt motsatta: risken är betydande."
+        ]
+      },
+      {
+        "id": "e08-q6",
+        "context": "Böjning av particip som attribut.",
+        "prompt": "Vilka böjningsändelser tar particip när de står attributivt före ett substantiv?",
+        "options": [
+          "Exakt samma ändelser som vanliga adjektiv (svag, stark och blandad adjektivböjning).",
+          "De böjs aldrig, utan slutar alltid på -en.",
+          "De tar samma ändelser som finita verb (-e, -st, -t).",
+          "De böjs enbart i plural."
+        ],
+        "answer": 0,
+        "explanation": "Attributiva particip integreras fullt ut i adjektivens böjningssystem och tar stark, svag eller blandad ändelse.",
+        "feedback": [
+          "Korrekt! Particip följer adjektivböjningens alla regler till 100 %.",
+          "Fel. Oböjda particip förekommer endast som adverb eller i predikativ ställning.",
+          "Fel. De tar adjektivändelser, inte personändelser för verb.",
+          "Fel. De böjs i både singular och plural i alla fyra kasus."
+        ]
+      }
+    ]
+  },
+  '/mer/tyska-i-tyskland-osterrike-schweiz': {
+    "lessonId": "E09",
+    "href": "/mer/tyska-i-tyskland-osterrike-schweiz",
+    "title": "Snabbkoll: Tyska i Tyskland, Österrike och Schweiz",
+    "questions": [
+      {
+        "id": "e09-q1",
+        "context": "Pluricentrisk standard.",
+        "prompt": "Vad menas med att tyska är ett 'pluricentriskt' språk?",
+        "options": [
+          "Att det har flera officiella nationella standardcentra (Tyskland, Österrike, Schweiz) med egna likaberättigade normer.",
+          "Att språket styrs centralt från en myndighet i Berlin.",
+          "Att språket endast talas i ett enda land.",
+          "Att alla dialekter är officiella språk i EU."
+        ],
+        "answer": 0,
+        "explanation": "Tyska har tre nationella huvudvarieteter: Bundesdeutsch, Österreichisches Deutsch och Schweizer Hochdeutsch.",
+        "feedback": [
+          "Korrekt! Tyskland, Österrike och Schweiz är likvärdiga standardcentrum.",
+          "Fel. Det finns inget gemensamt centralt språkdepartement i Berlin.",
+          "Fel. Tyska är officiellt i sex europeiska länder.",
+          "Fel. Dialekter är talspråk utan allmän EU-status."
+        ]
+      },
+      {
+        "id": "e09-q2",
+        "context": "Bokstaven ß i Schweiz.",
+        "prompt": "Vilken ortografisk regel gäller för bokstaven *ß* i Schweiz och Liechtenstein?",
+        "options": [
+          "Den används inte alls; alla ord stavas med dubbel-s (*ss*).",
+          "Den är obligatorisk i alla ord som slutar på konsonant.",
+          "Den ersätts alltid med bokstaven z.",
+          "Den används enbart i tidningar men inte i skolan."
+        ],
+        "answer": 0,
+        "explanation": "Schweiz och Liechtenstein avskaffade ß officiellt under 1930-talet; ss används genomgående.",
+        "feedback": [
+          "Korrekt! I Schweiz används konsekvent 'ss' istället för 'ß'.",
+          "Fel. ß förekommer inte på schweiziska tangentbord.",
+          "Fel. Z ersätter inte s-ljud på det viset.",
+          "Fel. Avskaffandet är fullständigt i alla schweiziska domäner."
+        ]
+      },
+      {
+        "id": "e09-q3",
+        "context": "Österrikiska ord (Austriazismer).",
+        "prompt": "Vad betyder det österrikiska ordet *die Semmel*?",
+        "options": [
+          "Ett småfranska / rundstycke (motsvarande Tysklands *das Brötchen*).",
+          "En sorts tårta med marsipan.",
+          "En kopp kaffe med grädde.",
+          "En gaffel."
+        ],
+        "answer": 0,
+        "explanation": "Semmel är det österrikiska standardordet för småfranska / kuvertbröd.",
+        "feedback": [
+          "Korrekt! Semmel är den etablerade österrikiska motsvarigheten till Brötchen.",
+          "Fel. Bakverk heter t.ex. Torte, Krapfen.",
+          "Fel. Kaffe i Wien har många namn (Melange, Einspänner) men inte Semmel.",
+          "Fel. Gaffel heter Gabel."
+        ]
+      },
+      {
+        "id": "e09-q4",
+        "context": "Schweiziska ord (Helvetismer).",
+        "prompt": "Vad kallas mobiltelefonen i officiellt schweiziskt språkbruk och vardag?",
+        "options": [
+          "das Natel",
+          "das Handy",
+          "das Mobilfunkgerät",
+          "das Telefonchen"
+        ],
+        "answer": 0,
+        "explanation": "Natel (ursprungligen en förkortning för Nationales Autotelefonnetz) är det klassiska schweiziska ordet för mobiltelefon.",
+        "feedback": [
+          "Korrekt! 'das Natel' är en berömd och officiell helvetism.",
+          "Fel. 'das Handy' är normen i Tyskland och Österrike.",
+          "Fel. Det är en formell teknisk term, inte vardagsordet i Schweiz.",
+          "Fel. Ordet finns inte i etablerat bruk."
+        ]
+      },
+      {
+        "id": "e09-q5",
+        "context": "Hjälpverbsval i Österrike och Schweiz.",
+        "prompt": "Hur böjs *liegen* i perfekt i österrikisk och bayersk standardnorm?",
+        "options": [
+          "er ist gelegen",
+          "er hat gelegen",
+          "er wird gelegen",
+          "er tut liegen"
+        ],
+        "answer": 0,
+        "explanation": "Positionsverben stehen, liegen, sitzen bildar perfekt med sein i södra språkområdet.",
+        "feedback": [
+          "Korrekt! 'ist gelegen' är officiell standard i Österrike, Schweiz och södra Tyskland.",
+          "Fel. 'hat gelegen' är normen i norra och mellersta Tyskland.",
+          "Fel. Werden bildar passiv eller futurum.",
+          "Fel. Tun är en talspråklig omskrivningsform som inte ingår i standarden."
+        ]
+      },
+      {
+        "id": "e09-q6",
+        "context": "Hälsningsfraser.",
+        "prompt": "Vilken hälsningsfras är typisk och standardmässig i södra Tyskland och Österrike?",
+        "options": [
+          "Grüß Gott!",
+          "Moin!",
+          "Tach auch!",
+          "Glückauf!"
+        ],
+        "answer": 0,
+        "explanation": "Grüß Gott är den traditionella och formellt respekterade hälsningsfrasen i Oberdeutsch (Bayern och Österrike).",
+        "feedback": [
+          "Korrekt! 'Grüß Gott' är standard i Bayern och Österrike (även 'Grüezi' i Schweiz).",
+          "Fel. 'Moin' är typiskt för norra Tyskland.",
+          "Fel. 'Tach' är vardagligt i Ruhrområdet och Berlin.",
+          "Fel. 'Glückauf' är gruvarbetarhälsning i bergslagen."
+        ]
+      }
+    ]
+  },
+  '/mer/svenska-fallgropar-och-falska-vanner': {
+    "lessonId": "E10",
+    "href": "/mer/svenska-fallgropar-och-falska-vanner",
+    "title": "Snabbkoll: Svenska fallgropar och falska vänner",
+    "questions": [
+      {
+        "id": "e10-q1",
+        "context": "Falsk vän: bekommen.",
+        "prompt": "Vad betyder tyskans *bekommen*?",
+        "options": [
+          "att få / att erhålla.",
+          "att bli.",
+          "att komma fram.",
+          "att trivas."
+        ],
+        "answer": 0,
+        "explanation": "Bekommen betyder 'få/erhålla'. Att bli heter werden på tyska!",
+        "feedback": [
+          "Korrekt! Bekommen = få/erhålla. Den vanligaste fällan för svenskar!",
+          "Fel. 'Att bli' heter werden på tyska.",
+          "Fel. Att komma fram heter ankommen.",
+          "Fel. Att trivas heter sich wohlfühlen."
+        ]
+      },
+      {
+        "id": "e10-q2",
+        "context": "Falsk vän: menen.",
+        "prompt": "Hur översätts tyskans *meinen* bäst till svenska i de flesta sammanhang?",
+        "options": [
+          "anse / tycka / mena.",
+          "ha som avsikt / planera.",
+          "betyda.",
+          "påstå osanning."
+        ],
+        "answer": 0,
+        "explanation": "'Meinen' betyder anse eller tycka ('Was meinst du dazu?'). 'Att ha som avsikt' heter beabsichtigen/vorhaben.",
+        "feedback": [
+          "Korrekt! Meinen = tycka / anse / syfta på.",
+          "Fel. Planera/ha för avsikt heter vorhaben.",
+          "Fel. 'Betyda' om ord heter bedeuten.",
+          "Fel. Ljuga heter lügen."
+        ]
+      },
+      {
+        "id": "e10-q3",
+        "context": "Falsk vän: artig.",
+        "prompt": "Vad betyder det tyska adjektivet *artig* (om t.ex. ett barn)?",
+        "options": [
+          "lydig / väluppfostrad.",
+          "artig / hövlig mot vuxna.",
+          "konstnärlig.",
+          "konstig."
+        ],
+        "answer": 0,
+        "explanation": "Artig betyder snäll och lydig (om barn och djur). Svenskans 'hövlig/artig' heter höflich på tyska!",
+        "feedback": [
+          "Korrekt! Artig = snäll / lydig. Svenskans artig heter 'höflich'.",
+          "Fel. Hövlig/artig i svensk mening heter höflich.",
+          "Fel. Konstnärlig heter künstlerisch.",
+          "Fel. Konstig heter komisch/seltsam."
+        ]
+      },
+      {
+        "id": "e10-q4",
+        "context": "Falsk vän: öl.",
+        "prompt": "Vad betyder tyskans substantiv *das Öl*?",
+        "options": [
+          "olja (matolja eller motorolja).",
+          "öl (drycken).",
+          "en ö i havet.",
+          "en sorts lök."
+        ],
+        "answer": 0,
+        "explanation": "Das Öl är olja! Svenskans öl (drycken) heter das Bier.",
+        "feedback": [
+          "Korrekt! Das Öl = olja. Svenskt öl heter das Bier.",
+          "Fel. Drycken öl heter das Bier på tyska.",
+          "Fel. En ö heter die Insel.",
+          "Fel. Lök heter die Zwiebel."
+        ]
+      },
+      {
+        "id": "e10-q5",
+        "context": "Ordföljdsfälla: huvudsatsens adverbial.",
+        "prompt": "Var placeras tidsadverbialet i en tysk huvudsats som börjar med subjektet: \"Wir fahren [...] nach Berlin\"? ",
+        "options": [
+          "morgen (omedelbart efter det finita verbet i mittfältet).",
+          "mellan subjektet och verbet (*Wir morgen fahren*).",
+          "allra sist efter Berlin (*nach Berlin morgen*).",
+          "adverbial är förbjudna i huvudsats."
+        ],
+        "answer": 0,
+        "explanation": "I enlighet med V2 och TeKaMoLo står tidsadverbialet tidigt i mittfältet: 'Wir fahren morgen nach Berlin'.",
+        "feedback": [
+          "Korrekt! Direkt efter finita verbet: 'Wir fahren morgen nach Berlin'.",
+          "Fel. Verbet måste stå på position 2; 'Wir morgen fahren' är ogrammatiskt i tyskan.",
+          "Fel. Riktning (Lokal) står efter tid i mittfältet.",
+          "Fel. Adverbial är fullt normala."
+        ]
+      },
+      {
+        "id": "e10-q6",
+        "context": "Substantivens versaler.",
+        "prompt": "Vilket ortografiskt misstag gör svenskar allra oftast när de skriver tyska substantiv?",
+        "options": [
+          "Att skriva substantiv med liten begynnelsebokstav (i tyskan måste ALLA substantiv ha stor bokstav).",
+          "Att böja alla verb i futurum.",
+          "Att glömma punkten i slutet.",
+          "Att skriva baklänges."
+        ],
+        "answer": 0,
+        "explanation": "I tyskan har alla substantiv obligatorisk stor begynnelsebokstav (Großschreibung der Substantive).",
+        "feedback": [
+          "Korrekt! Alla substantiv skrivs med stor begynnelsebokstav i tyskan.",
+          "Fel. Verbböjning följer tempus, inte substantivens versaler.",
+          "Fel. Skiljetecken sätts som vanligt.",
+          "Fel. Tyska skrivs från vänster till höger."
+        ]
+      }
+    ]
+  },
+  '/mer/verbgrupper-och-oberfeld': {
+    "lessonId": "E11",
+    "href": "/mer/verbgrupper-och-oberfeld",
+    "title": "Snabbkoll: Verbgrupper, Ersatzinfinitiv och Oberfeld",
+    "questions": [
+      {
+        "id": "e11-q1",
+        "context": "Ersatzinfinitiv (dubbel infinitiv).",
+        "prompt": "Vad händer med modalverbets perfektparticip i perfekt när det åtföljs av ett huvudverb i infinitiv (t.ex. *höra*, *se*, *kunna*)?",
+        "options": [
+          "Participet ersätts av en infinitivform (Ersatzinfinitiv): *er hat kommen können* (inte *gekönnt*).",
+          "Participet sätts alltid i passiv.",
+          "Huvudverbet förvandlas till ett substantiv.",
+          "Hjälpverbet haben byts ut mot sein."
+        ],
+        "answer": 0,
+        "explanation": "När ett modalverb står tillsammans med en infinitiv ersätts participformen obligatoriskt av en infinitivform (*Ersatzinfinitiv*).",
+        "feedback": [
+          "Korrekt! Ersättningsinfinitiv (Ersatzinfinitiv) är obligatoriskt vid modalverb med huvudverb.",
+          "Fel. Konstruktionen är aktiv.",
+          "Fel. Båda verben förblir rena infinitiver.",
+          "Fel. Modalverb bildar alltid perfekt med haben."
+        ]
+      },
+      {
+        "id": "e11-q2",
+        "context": "Oberfeld-ordföljd i bisats.",
+        "prompt": "Var placeras det finita hjälpverbet *hat* i en bisats med Ersatzinfinitiv: \"...dass er das Buch [...]\"? ",
+        "options": [
+          "Framför de två infinitiverna i Oberfeld: *...dass er das Buch [hat lesen können]*.",
+          "Allra sist efter infinitiverna: *...dass er das Buch [lesen können hat]*.",
+          "Före subjektet i bisatsen.",
+          "Det stryks helt ur bisatsen."
+        ],
+        "answer": 0,
+        "explanation": "Vid Ersatzinfinitiv flyttas det finita hjälpverbet framför infinitivgruppen till det s.k. Oberfeld.",
+        "feedback": [
+          "Korrekt! Finit hjälpverb ställs framför den dubbla infinitiven i Oberfeld.",
+          "Fel. Att sätta 'hat' allra sist är ogrammatiskt i standardspråk vid dubbel infinitiv.",
+          "Fel. Subjektet behåller sin position tidigt i bisatsen.",
+          "Fel. Hjälpverbet krävs för att bilda perfekt."
+        ]
+      },
+      {
+        "id": "e11-q3",
+        "context": "Perceptionsverb med Ersatzinfinitiv.",
+        "prompt": "Vilka verb förutom modala verb kan bilda Ersatzinfinitiv vid perfekt med infinitivkomplement?",
+        "options": [
+          "sehen, hören, lassen och helfen (*Ich habe ihn kommen sehen*).",
+          "essen, trinken och schlafen.",
+          "kaufen, verkaufen och mieten.",
+          "wohnen, leben och reisen."
+        ],
+        "answer": 0,
+        "explanation": "Sehen, hören, lassen och ofta helfen tar ersättningsinfinitiv vid perfekt: 'Ich habe sie singen hören'.",
+        "feedback": [
+          "Korrekt! Sinnesverb (sehen, hören) samt lassen och helfen uppvisar Ersatzinfinitiv.",
+          "Fel. Dessa verb tar vanliga ackusativobjekt, inte infinitivkomplement.",
+          "Fel. Dessa är vanliga transitiva verb.",
+          "Fel. Dessa är intransitiva verb."
+        ]
+      },
+      {
+        "id": "e11-q4",
+        "context": "Modalverb utan huvudverb.",
+        "prompt": "Hur böjs modalverbet i perfekt när det står ENSAMT utan huvudverb (t.ex. \"Han har velat det\")?",
+        "options": [
+          "Med sitt vanliga particip II: *Er hat das gewollt*.",
+          "Med Ersatzinfinitiv: *Er hat das wollen*.",
+          "Med konjunktiv II: *Er hätte das gewollt*.",
+          "Det kan inte böjas i perfekt alls."
+        ],
+        "answer": 0,
+        "explanation": "När inget annat verb i infinitiv är närvarande använder modalverbet sitt vanliga svaga particip II (gewollt, gekonnt, gemusst).",
+        "feedback": [
+          "Korrekt! Utan huvudverb gäller det ordinarie participet: 'Er hat das gewollt'.",
+          "Fel. Ersatzinfinitiv kräver att ett annat verb i infinitiv föregår det.",
+          "Fel. Konjunktiv II uttrycker en hypotetisk tanke, inte ren dåtid.",
+          "Fel. Modalverb kan självklart böjas i perfekt."
+        ]
+      },
+      {
+        "id": "e11-q5",
+        "context": "Verbkomplex med tre verb.",
+        "prompt": "Vilken ordföljd är korrekt i huvudsats vid futurum exaktum eller modalverb med passiv: \"Das Haus wird morgen [...]\"? ",
+        "options": [
+          "abgerissen werden müssen (huvudverb i particip + passivt werden + finit/infinitivt modalverb).",
+          "müssen werden abgerissen.",
+          "abgerissen müssen werden.",
+          "werden abgerissen müssen."
+        ],
+        "answer": 0,
+        "explanation": "I slutet av satsen ordnas verben från det mest specifika till det mest överordnade: abgerissen + werden + müssen.",
+        "feedback": [
+          "Korrekt! Hierarkisk struktur i högra satsklammern: abgerissen werden müssen.",
+          "Fel. Huvudverbet måste inleda slutklustret här.",
+          "Fel. Hjälpverbet werden måste stå före modalverbet müssen.",
+          "Fel. Denna ordföljd bryter mot tyskans klammerhierarki."
+        ]
+      },
+      {
+        "id": "e11-q6",
+        "context": "Regional variation vid Oberfeld.",
+        "prompt": "Hur varierar placeringen av hjälpverbet i ett verbkluster i södra tyska dialekter jämfört med standardnormen?",
+        "options": [
+          "I södra dialekter och schweizertyska kan finitverbet ställas allra först eller varieras fritt i klustret.",
+          "I söder stryks alla verb.",
+          "I söder får man bara ha ett enda verb per mening.",
+          "Det finns ingen variation alls i tyska dialekter."
+        ],
+        "answer": 0,
+        "explanation": "Alemanniska och bayerska dialekter tillåter fler permutationer i verbklustret än vad standardspråket medger.",
+        "feedback": [
+          "Korrekt! Dialekterna i söder har rikare permutationsmöjligheter i verbkomplexet.",
+          "Fel. Satser i söder har självklart fullständiga verbstrukturer.",
+          "Fel. Komplexa verbstrukturer är mycket vanliga i dialekterna.",
+          "Fel. Dialektforskning visar omfattande ordföljdsvariation."
+        ]
+      }
+    ]
+  },
+  '/mer/grammatiska-termer': {
+    "lessonId": "E12",
+    "href": "/mer/grammatiska-termer",
+    "title": "Snabbkoll: Svensk–tysk grammatisk ordlista",
+    "questions": [
+      {
+        "id": "e12-q1",
+        "context": "Terminologi: Satsdelar.",
+        "prompt": "Vad heter 'direkt objekt' (ackusativobjekt) på tysk lingvistisk fackterminologi?",
+        "options": [
+          "das Akkusativobjekt (eller direktes Objekt).",
+          "das Subjekt.",
+          "das Prädikat.",
+          "das Adverbiale."
+        ],
+        "answer": 0,
+        "explanation": "Direktobjekt heter på tysk grammatikterminologi Akkusativobjekt eller direktes Objekt.",
+        "feedback": [
+          "Korrekt! Das Akkusativobjekt motsvarar svenskans direktobjekt.",
+          "Fel. Subjektet står i nominativ.",
+          "Fel. Prädikat är verbets satsdelsfunktion.",
+          "Fel. Adverbiale är omständighetsbestämning."
+        ]
+      },
+      {
+        "id": "e12-q2",
+        "context": "Terminologi: Verbens tempus.",
+        "prompt": "Vad motsvarar svenskans 'pluskvamperfekt' (hade gjort) på tyska?",
+        "options": [
+          "das Plusquamperfekt (eller die Vorvergangenheit).",
+          "das Perfekt.",
+          "das Präteritum (das Imperfekt).",
+          "das Futur I."
+        ],
+        "answer": 0,
+        "explanation": "Pluskvamperfekt heter das Plusquamperfekt och uttrycker förtidighet i det förflutna.",
+        "feedback": [
+          "Korrekt! Das Plusquamperfekt = svenskans pluskvamperfekt.",
+          "Fel. Das Perfekt motsvarar svenskans perfekt (har gjort).",
+          "Fel. Das Präteritum motsvarar svenskans preteritum/imperfekt (gjorde).",
+          "Fel. Das Futur I motsvarar framtid (ska göra)."
+        ]
+      },
+      {
+        "id": "e12-q3",
+        "context": "Terminologi: Modus.",
+        "prompt": "Vilka är tyskans tre huvudsakliga modi för verb?",
+        "options": [
+          "Indikativ (Indikativ), Konjunktiv (Konjunktiv I & II) och Imperativ (Befehlsform).",
+          "Presens, preteritum och perfekt.",
+          "Aktiv, passiv och reflexiv.",
+          "Singular, plural och dualis."
+        ],
+        "answer": 0,
+        "explanation": "Modus rör talarattityd: verklighet (Indikativ), möjlighet/indirekt tal (Konjunktiv) och befallning (Imperativ).",
+        "feedback": [
+          "Korrekt! Indikativ, Konjunktiv och Imperativ utgör verbets modussystem.",
+          "Fel. Det är tempuskategorier (tidsformer), inte modi.",
+          "Fel. Det är diateskategorier (genus verbi), inte modi.",
+          "Fel. Det är numeruskategorier (antal)."
+        ]
+      },
+      {
+        "id": "e12-q4",
+        "context": "Terminologi: Topologiska fält.",
+        "prompt": "Vad kallas satsens första position före det finita verbet i den tyska fältmodellen?",
+        "options": [
+          "das Vorfeld (förfältet).",
+          "das Mittelfeld (mittfältet).",
+          "das Nachfeld (efterfältet).",
+          "die Satzklammer (satsklammern)."
+        ],
+        "answer": 0,
+        "explanation": "Positionen före det finita verbet (Linke Satzklammer) i en V2-sats heter das Vorfeld.",
+        "feedback": [
+          "Korrekt! Das Vorfeld rymmer exakt en satsdel före det finita verbet.",
+          "Fel. Das Mittelfeld ligger mellan verbklamrarna.",
+          "Fel. Das Nachfeld ligger efter den högra satsklammern.",
+          "Fel. Satzklammer är ramen som verben bildar."
+        ]
+      },
+      {
+        "id": "e12-q5",
+        "context": "Terminologi: Kasus.",
+        "prompt": "Vad heter de fyra tyska kasusen på tyska?",
+        "options": [
+          "Nominativ (1. Fall), Genitiv (2. Fall), Dativ (3. Fall) och Akkusativ (4. Fall).",
+          "Subjekt, predikat, objekt och adverbial.",
+          "Singular, plural, maskulinum och femininum.",
+          "Positiv, komparativ, superlativ och elativ."
+        ],
+        "answer": 0,
+        "explanation": "De fyra tyska kasusen numreras traditionellt 1 till 4: Nominativ, Genitiv, Dativ, Akkusativ.",
+        "feedback": [
+          "Korrekt! Nominativ, Genitiv, Dativ och Akkusativ är de fyra kasusen.",
+          "Fel. Detta är satsdelar, inte kasus.",
+          "Fel. Detta är genus- och numeruskategorier.",
+          "Fel. Detta är adjektivens komparationsgrader."
+        ]
+      },
+      {
+        "id": "e12-q6",
+        "context": "Terminologi: Ordklasser.",
+        "prompt": "Vad betyder den tyska grammatiska termen *das Bindewort*?",
+        "options": [
+          "die Konjunktion (konjunktion / sambandsord).",
+          "das Substantiv.",
+          "das Verb.",
+          "das Pronomen."
+        ],
+        "answer": 0,
+        "explanation": "Bindewort är den traditionella tyska benämningen på en konjunktion (t.ex. und, aber, weil).",
+        "feedback": [
+          "Korrekt! Das Bindewort = die Konjunktion (sambandsord).",
+          "Fel. Substantiv kallas på tyska das Nomen eller das Hauptwort.",
+          "Fel. Verb kallas das Zeitwort eller das Tuwort.",
+          "Fel. Pronomen kallas das Fürwort."
+        ]
+      }
+    ]
+  },
 };

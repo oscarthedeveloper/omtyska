@@ -1,0 +1,179 @@
+---
+id: X030
+title: 'Passiverbarhet och subjektlös passiv'
+description: 'En fördjupad analys av passivering i tyskan: restriktioner för passiverbarhet, subjektlöst passiv vid intransitiva verb, dativobjektets orubblighet och förfälts-es.'
+slug: '/fordjupning/verb-och-valens/passiverbarhet-och-subjektlos-passiv'
+sidebar_position: 8
+category: 'Fördjupning'
+suggestedLevels: ['B2', 'C1', 'C2']
+rigoros: true
+prerequisites: ['M07']
+objectives:
+  - 'Definiera semantiska och syntaktiska restriktioner för vilka verb som kan bilda Vorgangspassiv'
+  - 'Analysera bildningen av subjektlöst opersonligt passiv vid intransitiva verb'
+  - 'Behärska dativobjektets bevarande och förstå varför dativ aldrig befordras till subjekt i tyskt passiv'
+  - 'Tillämpa reglerna för förfälts-es (Vorfeld-es) och dess obligatoriska radering i mittfältet'
+---
+
+<LessonIntro
+  situation="Du vill formulera meningar som 'här arbetas det', 'han blev hjälpt' eller 'det dansades hela natten' på tyska, och behöver förstå hur tyskan bildar passiv utan grammatiskt subjekt och varför dativobjekt behåller sitt kasus."
+  goals={[
+    "Avgöra vilka tyska verb som tillåter passivering och vilka som är blockerade",
+    "Konstruera subjektlöst passiv (unpersönliches Passiv) korrekt",
+    "Undvika den vanliga felkällan att göra ett dativobjekt till subjekt i passiv",
+    "Styra när förfälts-es (Es wird...) ska skrivas ut och när det absolut måste strykas"
+  ]}
+  prerequisites={[
+    { href: "/docs/modus/handelsepassiv", label: "M07: Vorgangspassiv med werden" }
+  ]}
+/>
+
+I traditionell grammatik framställs passiv ofta som en mekanisk omvandling: den aktiva satsens ackusativobjekt blir passivens subjekt, och subjektet omvandlas till en prepositionsfras med *von* eller *durch*.
+
+I tyskan är detta emellertid bara **ett av flera fall**. Tyskans passivsystem är unikt i sin förmåga att passivera även **intransitiva verb** helt utan ackusativobjekt, vilket resulterar i satser som **helt saknar grammatiskt subjekt** (*Subjektloses Passiv* / *Unpersönliches Passiv*).
+
+---
+
+## 1. Restriktioner för passiverbarhet: Vilka verb kan passiveras?
+
+Inte alla verb kan bilda *Vorgangspassiv* med *werden*. Möjligheten att passiveras styrs av verbets **semantiska egenskaper** och **valensstruktur**:
+
+```
+PASSIVERBARHET HOS TYSKA VERB
+  ├─> 1. Passiverbara verb:
+  │     - Transitiva verb med medveten handling/agens:
+  │       "Der Arzt untersucht den Patienten" -> "Der Patient wird untersucht."
+  │     - Intransitiva verb med mänsklig agens (subjektlöst passiv):
+  │       "Die Leute tanzen" -> "Es wird getanzt."
+  │       "Wir helfen ihm" -> "Ihm wird geholfen."
+  │
+  └─> 2. Icke-passiverbara verb (Passivblockering):
+        - Ägande, innehåll, mått: haben, besitzen, erhalten, enthalten, wiegen (om vikt: "Er wiegt 80 kg").
+        - Kognition och relation: kennen, wissen, ähneln, angehen.
+        - Reflexiva verb: sich waschen, sich beeilen, sich schämen (*Es wird sich geschämt).
+        - Opersonliga väder- och naturverb: regnen, schneien, donnern (*Es wird geregnet).
+        - Rörelseverb med hjälpverbet sein: ankommen, sterben, wachsen (*Es wird gestorben).
+```
+
+---
+
+## 2. Subjektlöst passiv (Unpersönliches Passiv)
+
+När ett intransitivt verb passiveras finns det inget ackusativobjekt som kan befordras till nominativsubjekt. Tyskan skapar då ett **subjektlöst passiv**:
+
+- Aktiv sats: *Hier arbeitet man Tag und Nacht.*
+- Passiv sats: *Hier wird Tag und Nacht gearbeitet.*
+
+Satsen har **inget grammatiskt subjekt överhuvudtaget**. Verbet *wird* står obligatoriskt i tredje person singularis, oavsett hur många människor som avses.
+
+### Dativobjektets orubblighet
+
+Ett fundamentalt särdrag i tysk syntax är att **dativobjektet aldrig befordras till subjekt** vid passivering med *werden*:
+
+```
+DATIV I AKTIV OCH PASSIV:
+Aktiv:   Die Kollegen gratulieren IHM (dativ).
+Passiv:  IHM (dativ) wird von den Kollegen gratuliert.
+         (Eller: "Es wird ihm gratuliert.")
+FEL:    *Er wird gratuliert. (Allvarligt fel!)
+```
+
+> [!CRITICAL]
+> På svenska kan ett indirekt objekt befordras till subjekt: *Han blev hjälpt*, *Hon gratulerades*. På tyska är detta omöjligt i *Vorgangspassiv*:
+> - Svenska: *Vi hjälpte honom.* -> *Han blev hjälpt.*
+> - Tyska: *Wir halfen ihm.* -> **Ihm wurde geholfen.** (\*_Er wurde geholfen_ är fel).
+
+---
+
+## 3. Förfälts-es (Vorfeld-es) och dess mekanism
+
+En av de mest missförstådda strukturerna i tysk grammatik är ordet **es** i inledningen av en passiv sats.
+
+Ordet *es* i satsen *Es wird heute nicht gearbeitet* är **inte ett verkligt subjekt**, utan en rent syntaktisk **platshållare** (*Vorfelelement / Dummy-Element*). Dess enda uppgift är att fylla tyskans förfält (*Vorfeld*) så att det finita verbet kan stå på position 2:
+
+```
+TOPOLOGISK FÄLTMODELL FÖR PLATSHÅLLARE:
+Förfält (Vorfeld)  │ Vänster klammer (Verb 2) │ Mittfält (Mittelfeld)       │ Höger klammer
+───────────────────┼───────────────────────────┼─────────────────────────────┼──────────────
+Es                 │ wird                      │ heute nicht                 │ gearbeitet.
+Heute              │ wird                      │ [---] nicht                 │ gearbeitet.
+Nicht              │ wird                      │ [---] gearbeitet.           │ 
+Hier               │ wird                      │ [---] getanzt.              │ 
+```
+
+### Den gyllene raderingsregeln
+
+Så fort **något annat led** placeras i förfältet (t.ex. ett adverbial som *heute* eller ett dativobjekt som *ihm*), **raderas es obligatoriskt**:
+
+- Rätt: *Es wird heute gefeiert.*
+- Rätt: *Heute wird gefeiert.*
+- Rätt: *Ihm wurde geholfen.*
+- Fel: *\*Heute wird **es** gefeiert.* (Grovt fel!).
+- Fel: *\*Ihm wurde **es** geholfen.* (Grovt fel!).
+
+---
+
+## 4. Analyserade kontextpar
+
+### Kontextpar 1: Subjektlöst passiv med dativ kontra personligt passiv med ackusativ
+
+- **Par A (Subjektlöst passiv vid dativverb):**  
+  *Den Verletzten **wurde** sofort geholfen.*
+- **Par B (Personligt passiv vid ackusativverb):**  
+  *Die Verletzten **wurden** sofort versorgt.*
+- **Analys:**  
+  I Par A styr verbet *helfen* dativ (*den Verletzten* = dativ plural). Eftersom dativ inte är ett subjekt, står verbet *wurde* i singular, och satsen saknar subjekt.  
+  I Par B styr verbet *versorgen* ackusativ i aktivum. Vid passivering befordras detta objekt till nominativsubjekt (*die Verletzten* = nominativ plural), vilket tvingar verbet att böjas i plural (*wurden*).
+
+### Kontextpar 2: Förfälts-es kontra platshållare vid bisats
+
+- **Par A (Huvudsats med förfälts-es):**  
+  *Es wurde den ganzen Abend gelacht und gesungen.*
+- **Par B (Underordnad bisats):**  
+  *Wir freuten uns, dass den ganzen Abend gelacht und gesungen wurde.*
+- **Analys:**  
+  I Par A står *es* på plats 1 för att förhindra att verbet inleder satsen.  
+  I Par B är förfältet blockerat av underordnaren *dass*, och verbet står sist. Eftersom *es* inte är ett semantiskt eller grammatiskt subjekt, kan det inte uppträda i bisatsen: *\*dass es gelacht wurde* är felaktigt när *gelacht* saknar objekt.
+
+---
+
+## 5. Tio autentiska exempel med lingvistisk kommentar
+
+1. **Am Wochenende wurde in den Straßen der Altstadt ausgelassen getanzt.** – *I helgen dansades det vilt på gatorna i gamla stan.*  
+   *Kommentar:* Subjektlöst passiv; tids- och rumsadverbial upptar förfältet, varför inget *es* kan förekomma.
+2. **Den Opfern der Naturkatastrophe muss unverzüglich geholfen werden.** – *Offren för naturkatastrofen måste ofördröjligen hjälpas.*  
+   *Kommentar:* Passiv med modalverb vid dativstyrande verb (*helfen*); *den Opfern* förblir dativ.
+3. **Es wurde bis tief in die Nacht über das neue Gesetz debattiert.** – *Det debatterades om den nya lagen ända in på småtimmarna.*  
+   *Kommentar:* *Es* står som syntaktisk platshållare i förfältet före *wurde*.
+4. **Hier wird nicht geraucht!** – *Här röks det inte! / Rökning förbjuden här!*  
+   *Kommentar:* Typisk tysk imperativisk/normativ passivsats utan subjekt.
+5. **Ihm wurde bei der feierlichen Zeremonie die Ehrenmedaille verliehen.** – *Han tilldelades hedersmedaljen vid den högtidliga ceremonin.*  
+   *Kommentar:* Verbet *verleihen* styr dativ (mottagare) och ackusativ (gåva); *die Ehrenmedaille* befordras till subjekt, medan *ihm* behåller sin dativform.
+6. **Jetzt wird aber geschlafen!** – *Nu ska det sovas!*  
+   *Kommentar:* Idiomatisk uppmaning till barn formulerad som subjektlöst passiv i presens.
+7. **Diesem Argument kann keineswegs zugestimmt werden.** – *Detta argument kan ingalunda godtas.*  
+   *Kommentar:* *zustimmen* styr dativ (*diesem Argument*); satsen förblir subjektlös med singularböjt *kann*.
+8. **Es wird gebeten, die Mobiltelefone während der Vorstellung auszuschalten.** – *Publiken ombeds stänga av mobiltelefonerna under föreställningen.*  
+   *Kommentar:* *Es* fungerar här som korrelat till den efterföljande infinitivfrasen.
+9. **Gegen die geplante Reform wurde landesweit protestiert.** – *Det protesterades mot den planerade reformen över hela landet.*  
+   *Kommentar:* Intransitivt verb (*protestieren*) bildar subjektlöst passiv med prepositionskomplement (*gegen*).
+10. **Dem Patienten darf nach der Operation nichts zu essen gegeben werden.** – *Patienten får inte ges något att äta efter operationen.*  
+    *Kommentar:* Dativus commodi bevaras i dativ (*dem Patienten*); *nichts* fungerar som ackusativiskt/nominativiskt led.
+
+---
+
+## 6. Svenska interferensfällor
+
+> [!WARNING]
+> 1. **Göra dativ till subjekt i passiv:** Den absolut vanligaste skandinavismen i tyskt passiv! Svenskar säger omedvetet \*_Er wurde geholfen_ (av *Han blev hjälpt*) eller \*_Ich wurde gratuliert_ (*Jag blev gratulerad*). Det är grova grammatikfel på tyska. Det heter strikt: **Ihm wurde geholfen**, **Mir wurde gratuliert**.
+> 2. **Kvarhålla *es* inne i satsen:** På svenska säger vi ofta *I går dansades det hela natten* (med *det* kvar i mittfältet). På tyska raderas platshållaren *es* direkt: **Gestern wurde die ganze Nacht getanzt** (ALDRIG \*_Gestern wurde es getanzt_).
+> 3. **Passivera verb som uttrycker tillstånd eller ägande:** Tyskan tillåter aldrig passiv av *haben*, *wissen* eller *kennen*: man kan inte säga \*_Das Auto wird von ihm gehabt_.
+
+<RelatedLessons
+  lessons={[
+    { label: 'M07: Vorgangspassiv med werden', href: '/docs/modus/handelsepassiv' },
+    { label: 'M08: Zustandspassiv med sein', href: '/docs/modus/tillstandspassiv' },
+    { label: 'X025: Dativens olika funktioner', href: '/docs/fordjupning/verb-och-valens/dativens-olika-funktioner' },
+    { label: 'X031: Mottagarpassiv och andra diatesalternativ', href: '/docs/fordjupning/verb-och-valens/mottagarpassiv-och-andra-diatesalternativ' }
+  ]}
+/>

@@ -2817,7 +2817,7 @@
       ],
       "href": "/docs/fordjupning/syntax/topologiska-falt-i-fullstandig-modell",
       "requiredCoverage": "Vorfeld, klamrar, Mittelfeld, Nachfeld och yttre fält; tomma fält, flera satstyper och analysalternativ.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X040",
@@ -2831,7 +2831,7 @@
       ],
       "href": "/docs/fordjupning/syntax/mittfaltets-ordning-och-scrambling",
       "requiredCoverage": "Kasus, animacitet, pronomen, bestämdhet, fokus och prosodi; granskade neutral-/kontrastkontexter i stället för rigid TeKaMoLo.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X041",
@@ -2846,7 +2846,7 @@
       ],
       "href": "/docs/fordjupning/syntax/efterfalt-och-extraposition",
       "requiredCoverage": "Satser, infinitivgrupper och jämförelseled efter klammern; obligatoriskt/fakultativt och skillnad mot eftertanke.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X042",
@@ -2860,7 +2860,7 @@
       ],
       "href": "/docs/fordjupning/syntax/vansterutstallning-och-fria-teman",
       "requiredCoverage": "Linksversetzung, frihängande tema, korrelat och kongruens; vad som står utanför förfältet och hur tal/skrift skiljer sig.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X043",

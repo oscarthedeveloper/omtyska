@@ -3104,6 +3104,116 @@
       "contentExists": true,
       "contentFile": "content/docs/Fordjupning/Nominalfras/egennamn-titlar-och-geografiska-namn.mdx",
       "reviewEvidence": "internal-crosscheck-nounphrase-approved"
+    },
+    {
+      "id": "X013",
+      "section": "docs",
+      "slug": "/fordjupning/morfologi/verbavledning-och-partikelbildning",
+      "href": "/docs/fordjupning/morfologi/verbavledning-och-partikelbildning",
+      "title": "Verbavledning och partikelbildning",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "E05",
+        "V06",
+        "V05"
+      ],
+      "requiredCoverage": "Prefix, partiklar, konversion och verbifiering; betoning, separerbarhet, aktionsart och valensändring med betydelseposter.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Helbig/Buscha Deutsche Grammatik",
+        "Engel Deutsche Grammatik",
+        "Valenzwörterbuch VALBU"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 113,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Morfologi/verbavledning-och-partikelbildning.mdx",
+      "reviewEvidence": "internal-crosscheck-valence-approved"
+    },
+    {
+      "id": "X023",
+      "section": "docs",
+      "slug": "/fordjupning/verb-och-valens/valensteori-och-konstruktionens-argument",
+      "href": "/docs/fordjupning/verb-och-valens/valensteori-och-konstruktionens-argument",
+      "title": "Valensteori och konstruktionens argument",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "K07",
+        "K08",
+        "V01"
+      ],
+      "requiredCoverage": "Komplement/supplement, obligatorisk/fakultativ valens, semantiska roller och testens begränsningar; ingen enda frågeordsmetod räcker.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Helbig/Buscha Deutsche Grammatik",
+        "Engel Deutsche Grammatik",
+        "Valenzwörterbuch VALBU"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 123,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/VerbOchValens/valensteori-och-konstruktionens-argument.mdx",
+      "reviewEvidence": "internal-crosscheck-valence-approved"
+    },
+    {
+      "id": "X024",
+      "section": "docs",
+      "slug": "/fordjupning/verb-och-valens/kasusalternation-och-betydelseandring",
+      "href": "/docs/fordjupning/verb-och-valens/kasusalternation-och-betydelseandring",
+      "title": "Kasusalternation och betydelseändring",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "K07",
+        "P08"
+      ],
+      "requiredCoverage": "Objekt/prepositionskomplement, transitiv/intransitiv användning och olika lexembetydelser; varje alternation dokumenteras med exempel.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Helbig/Buscha Deutsche Grammatik",
+        "Engel Deutsche Grammatik",
+        "Valenzwörterbuch VALBU"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 124,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/VerbOchValens/kasusalternation-och-betydelseandring.mdx",
+      "reviewEvidence": "internal-crosscheck-valence-approved"
+    },
+    {
+      "id": "X025",
+      "section": "docs",
+      "slug": "/fordjupning/verb-och-valens/dativens-olika-funktioner",
+      "href": "/docs/fordjupning/verb-och-valens/dativens-olika-funktioner",
+      "title": "Dativens olika funktioner",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "K04",
+        "K06"
+      ],
+      "requiredCoverage": "Styrd dativ, benefaktiv, possessiv/pertinens, etisk och bedömande dativ; kriterier och kontext.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Helbig/Buscha Deutsche Grammatik",
+        "Engel Deutsche Grammatik",
+        "Valenzwörterbuch VALBU"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 125,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/VerbOchValens/dativens-olika-funktioner.mdx",
+      "reviewEvidence": "internal-crosscheck-valence-approved"
     }
   ]
 }

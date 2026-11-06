@@ -642,9 +642,9 @@
         "V02"
       ],
       "requiredCoverage": "Ein schnelles Auto, das Auto ist schnell och es fährt schnell; varför endast vissa positioner böjs; kongruens som utgångspunkt för A02–A04.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": 47,
       "minimumExamples": 10,
       "minimumQuizItems": 6
@@ -662,9 +662,9 @@
         "K05"
       ],
       "requiredCoverage": "Komplett kasus/genus/numerustabell efter bestämd artikel; -e och -en förklarade i nominalfraser; även dies- och andra relevanta artikelord, med avgränsningar.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": 48,
       "minimumExamples": 10,
       "minimumQuizItems": 6
@@ -699,9 +699,9 @@
         "A03"
       ],
       "requiredCoverage": "Utan artikel och efter relevanta mängduttryck; full tabell inklusive genitiv maskulinum/neutrum; jämför guter Wein/der gute Wein/ein guter Wein utan överdriven en-signal-regel.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": 50,
       "minimumExamples": 10,
       "minimumQuizItems": 6
@@ -1320,9 +1320,9 @@
         "Y02"
       ],
       "requiredCoverage": "Können/müssen/dürfen/sollen/wollen/mögen, möchte i korrekt relation till mögen; böjning, infinitiv och betydelse; olika betydelser av svensk kunna/ska/få.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": 46,
       "minimumExamples": 10,
       "minimumQuizItems": 6
@@ -1358,9 +1358,9 @@
         "M01"
       ],
       "requiredCoverage": "Önskan, hypotetisk nutid/framtid och artighet; vanliga enkla former och würde + infinitiv; inte bara dåtid trots anknytning till Präteritumstammen.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": 51,
       "minimumExamples": 10,
       "minimumQuizItems": 6
@@ -1377,9 +1377,9 @@
         "T05"
       ],
       "requiredCoverage": "Hätte/wäre + particip, reala och irreala villkor, blandade tidsreferenser och utan wenn i referensdel; modalverbens verbgrupper endast med korrekt avgränsning.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": 52,
       "minimumExamples": 10,
       "minimumQuizItems": 6
@@ -1435,9 +1435,9 @@
         "K03"
       ],
       "requiredCoverage": "Aktiv till passiv i presens, preteritum och perfekt; wurde och worden jämfört med geworden; agentfraser, modalverb och opersonlig passiv i fördjupning.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": 53,
       "minimumExamples": 10,
       "minimumQuizItems": 6
@@ -1454,9 +1454,9 @@
         "V04"
       ],
       "requiredCoverage": "Die Tür wird geöffnet jämfört med ist geöffnet; sammanhang, betydelse och gräns mot predikativt adjektiv; alternativa passivkonstruktioner ägs av E07.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "approved",
       "learningPathStep": 54,
       "minimumExamples": 10,
       "minimumQuizItems": 6

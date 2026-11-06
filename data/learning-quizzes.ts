@@ -4953,4 +4953,981 @@ export const LEARNING_QUIZZES: Record<string, LearningQuiz> = {
       ]
   },
 
+
+  '/docs/modus/modalverb': {
+      "lessonId": "M01",
+      "href": "/docs/modus/modalverb",
+      "title": "Snabbkoll: Tyskans modalverb",
+      "questions": [
+          {
+              "id": "m01-q1",
+              "context": "Undersök presensböjningen för modalverben i 1:a och 3:e person singular.",
+              "prompt": "Vad gäller för ändelserna i \"ich\" och \"er/sie/es\"?",
+              "options": [
+                  "De har ingen ändelse alls och är alltid helt identiska (ich kann / er kann).",
+                  "ich slutar på -e och er slutar på -t.",
+                  "Båda slutar på -en.",
+                  "Det beror på vilket modalverb det gäller."
+              ],
+              "answer": 0,
+              "explanation": "Alla tyska modalverb har nolländelse i 1:a och 3:e person singular: ich kann / er kann, ich muss / er muss, etc.",
+              "feedback": [
+                  "Helt rätt! 1:a och 3:e person singular är identiska och saknar ändelse.",
+                  "Detta gäller vanliga verb (ich gehe, er geht), ALDRIG modalverb!",
+                  "-en är pluraländelsen.",
+                  "Regeln är absolut och gäller alla modalverb."
+              ]
+          },
+          {
+              "id": "m01-q2",
+              "context": "Du vill be om lov att ställa en fråga under en föreläsning.",
+              "prompt": "Hur säger du artigt \"Får jag fråga något?\"",
+              "options": [
+                  "Darf ich etwas fragen?",
+                  "Bekomme ich etwas fragen?",
+                  "Kann ich etwas fragen?",
+                  "Muss ich etwas fragen?"
+              ],
+              "answer": 0,
+              "explanation": "Att \"få lov / ha tillåtelse\" heter dürfen: Darf ich etwas fragen?",
+              "feedback": [
+                  "Helt rätt! dürfen = få lov / ha tillåtelse.",
+                  "Bekomme betyder \"få en fysisk sak\", aldrig få lov!",
+                  "kann frågar efter förmåga, inte tillåtelse.",
+                  "muss betyder måste."
+              ]
+          },
+          {
+              "id": "m01-q3",
+              "context": "En läkare säger: \"Sie dürfen hier nicht rauchen!\"",
+              "prompt": "Vad betyder \"dürfen nicht\"?",
+              "options": [
+                  "Det är strikt förbjudet / ni får absolut inte röka här.",
+                  "Ni behöver inte röka här om ni inte vill.",
+                  "Ni bör kanske inte röka.",
+                  "Ni kan inte röka för att tändstickor saknas."
+              ],
+              "answer": 0,
+              "explanation": "nicht dürfen uttrycker strikt förbud (får inte). \"Behöver inte\" heter nicht müssen!",
+              "feedback": [
+                  "Helt rätt! nicht dürfen innebär ett absolut förbud.",
+                  "\"Behöver inte\" heter nicht müssen (eller brauchen nicht).",
+                  "Det är inte en rekommendation utan ett förbud.",
+                  "Det handlar om regler, inte fysisk omöjlighet."
+              ]
+          },
+          {
+              "id": "m01-q4",
+              "context": "Du vill beställa en kopp kaffe på ett kafé i Wien.",
+              "prompt": "Vilken form av \"mögen\" används som det artiga uttrycket för \"jag skulle vilja ha\"?",
+              "options": [
+                  "Ich möchte einen Kaffee.",
+                  "Ich mag einen Kaffee.",
+                  "Ich will einen Kaffee.",
+                  "Ich muss einen Kaffee."
+              ],
+              "answer": 0,
+              "explanation": "möchte (ursprungligen konjunktiv av mögen) är det naturliga och artiga sättet att säga \"jag skulle vilja ha\".",
+              "feedback": [
+                  "Helt rätt! \"Ich möchte...\" är den självklara artighetsfrasen vid beställning.",
+                  "Ich mag betyder \"jag gillar/tycker om kaffe\" rent allmänt.",
+                  "Ich will (\"jag vill!\") låter barnsligt fordrande och oartigt på ett kafé.",
+                  "Ich muss betyder jag måste."
+              ]
+          },
+          {
+              "id": "m01-q5",
+              "context": "Modalverbet \"sollen\" i kontrast till \"wollen\".",
+              "prompt": "Vad uttrycker \"sollen\" till skillnad från \"wollen\"?",
+              "options": [
+                  "\"sollen\" uttrycker att någon annan vill/kräver något (bör/ska enligt uppdrag), medan \"wollen\" är ens egen vilja.",
+                  "\"sollen\" uttrycker ren framtid.",
+                  "\"sollen\" och \"wollen\" är synonymer.",
+                  "\"wollen\" uttrycker tvång från polisen."
+              ],
+              "answer": 0,
+              "explanation": "sollen uttrycker en annans vilja, plikt eller ett uppdrag (\"Der Arzt sagt, ich soll...\"). wollen är subjektets egen vilja.",
+              "feedback": [
+                  "Helt rätt! sollen = någon annan kräver/rekommenderar; wollen = min egen vilja.",
+                  "Ren framtid bildas med presens eller werden.",
+                  "De är inte synonymer.",
+                  "Polistvång uttrycks med müssen."
+              ]
+          },
+          {
+              "id": "m01-q6",
+              "context": "Ordföljden i en huvudsats med modalverb: \"Jag vill lära mig tyska.\"",
+              "prompt": "Var placeras huvudverbet (lernen)?",
+              "options": [
+                  "I ren infinitiv allra sist i huvudsatsen: \"Ich will Deutsch lernen.\"",
+                  "Direkt efter modalverbet: \"Ich will lernen Deutsch.\"",
+                  "Med ett tillagt zu: \"Ich will Deutsch zu lernen.\"",
+                  "I böjd form: \"Ich will Deutsch lerne.\""
+              ],
+              "answer": 0,
+              "explanation": "Huvudverbet placeras i ren infinitiv (utan zu) allra sist i huvudsatsens satsram.",
+              "feedback": [
+                  "Helt rätt! Satsramen placerar böjt modalverb på plats 2 och infinitiv sist.",
+                  "Att sätta infinitiven direkt efter är svensk ordföljd och strider mot tysk satsram.",
+                  "Modalverb tar aldrig \"zu\".",
+                  "Bara modalverbet böjs; huvudverbet förblir infinitiv."
+              ]
+          }
+      ]
+  },
+
+  '/docs/adjektiv/tre-anvandningar': {
+      "lessonId": "A01",
+      "href": "/docs/adjektiv/tre-anvandningar",
+      "title": "Snabbkoll: Tre användningar av adjektiv",
+      "questions": [
+          {
+              "id": "a01-q1",
+              "context": "Ett adjektiv står efter verbet \"sein\": \"Das Auto ist schnell.\"",
+              "prompt": "Vilken ändelse får adjektivet i predikativ ställning?",
+              "options": [
+                  "Ingen ändelse alls! Det står i ren grundform.",
+                  "-es eftersom Auto är neutrum.",
+                  "-e.",
+                  "-t precis som på svenska (snabbt)."
+              ],
+              "answer": 0,
+              "explanation": "Predikativa adjektiv (efter sein, werden, bleiben) får aldrig någon ändelse i tyskan!",
+              "feedback": [
+                  "Helt rätt! Predikativa adjektiv är alltid oböjda i grundform.",
+                  "Det böjs inte efter sein oavsett substantivets genus.",
+                  "Ingen -e-ändelse i predikativ position.",
+                  "Tyskan lägger inte till något -t motsvarande svenskans \"huset är stort\"."
+              ]
+          },
+          {
+              "id": "a01-q2",
+              "context": "Ett adjektiv beskriver ett verb (adverbiell användning): \"Sie singt schön.\"",
+              "prompt": "Hur bildas adverb av vanliga adjektiv på tyska?",
+              "options": [
+                  "Man använder bara adjektivets rena grundform utan extra suffix.",
+                  "Man lägger till ändelsen -lich.",
+                  "Man lägger till ändelsen -ly precis som i engelskan.",
+                  "Man måste alltid använda en omskrivning med \"auf eine Weise\"."
+              ],
+              "answer": 0,
+              "explanation": "I tyskan används adjektivets grundform direkt som adverb: \"Er rennt schnell\", \"Sie singt schön\".",
+              "feedback": [
+                  "Helt rätt! Ingen ändelse krävs vid adverbiell användning.",
+                  "-lich är ett ordbildningssuffix för nya ord (freundlich), inte ett adverbsuffix.",
+                  "-ly finns inte i tyskan.",
+                  "Omskrivning behövs inte alls."
+              ]
+          },
+          {
+              "id": "a01-q3",
+              "context": "Undersök meningen: \"Die Blumen sind schön.\"",
+              "prompt": "Varför slutar inte \"schön\" på -e eller -a när subjektet är i plural?",
+              "options": [
+                  "Eftersom predikativa adjektiv aldrig böjs i tyskan, inte ens i plural!",
+                  "Eftersom Blumen är feminint i singular.",
+                  "Det är ett undantag för ordet schön.",
+                  "Det borde heta \"schöne\" men har förkortats."
+              ],
+              "answer": 0,
+              "explanation": "Till skillnad från svenskan (\"blommorna är vackra\") böjs tyska predikativa adjektiv aldrig i plural.",
+              "feedback": [
+                  "Helt rätt! \"Die Blumen sind schön\" – nolländelse oavsett numerus.",
+                  "Pluralformen är die Blumen oavsett grundgenus.",
+                  "Det gäller alla tyska adjektiv, inget undantag.",
+                  "Det är absolut inte förkortat; ändelse vore felaktigt."
+              ]
+          },
+          {
+              "id": "a01-q4",
+              "context": "När MÅSTE ett adjektiv böjas i tyskan?",
+              "prompt": "I vilken position kräver adjektivet alltid böjningsändelse?",
+              "options": [
+                  "När det står attributivt (direkt framför ett substantiv: \"ein schönes Auto\").",
+                  "När det står sist i meningen.",
+                  "När det följer efter verbet sein.",
+                  "Endast i frågor."
+              ],
+              "answer": 0,
+              "explanation": "Adjektiv böjs endast när de står attributivt före det substantiv som de beskriver.",
+              "feedback": [
+                  "Helt rätt! Attributiva adjektiv kräver alltid böjningsändelse.",
+                  "Sist i meningen står ofta predikativa adjektiv, som är oböjda.",
+                  "Efter sein är adjektivet predikativt och oböjt.",
+                  "Frågesatser påverkar inte denna regel."
+              ]
+          },
+          {
+              "id": "a01-q5",
+              "context": "Svensk-tysk jämförelse: \"Huset är stort.\"",
+              "prompt": "Vad är den korrekta tyska översättningen?",
+              "options": [
+                  "Das Haus ist groß.",
+                  "Das Haus ist großes.",
+                  "Das Haus ist großt.",
+                  "Das Haus ist große."
+              ],
+              "answer": 0,
+              "explanation": "Predikativt: Das Haus ist groß. Svenskans -t på \"stort\" ska absolut inte överföras!",
+              "feedback": [
+                  "Helt rätt! Das Haus ist groß i ren grundform.",
+                  "großes används bara attributivt: ein großes Haus.",
+                  "großt existerar inte.",
+                  "große används attributivt: das große Haus."
+              ]
+          },
+          {
+              "id": "a01-q6",
+              "context": "I meningen \"Das schnelle Auto fährt sehr schnell\" förekommer ordet schnell två gånger.",
+              "prompt": "Hur analyseras de två förekomsterna grammatiskt?",
+              "options": [
+                  "Det första är attributivt (och böjs med -e); det andra är adverbiellt (och är oböjt).",
+                  "Båda är predikativa.",
+                  "Båda är attributiva.",
+                  "Det första är ett substantiv."
+              ],
+              "answer": 0,
+              "explanation": "\"das schnelle Auto\" är attributivt före Auto. \"fährt schnell\" är adverbiellt och beskriver hur bilen kör.",
+              "feedback": [
+                  "Helt rätt! Perfekt illustration av skillnaden mellan attributiv och adverbiell ställning.",
+                  "Inget av dem står efter sein/werden/bleiben.",
+                  "Det andra beskriver verbet, inte ett substantiv.",
+                  "Auto är substantivet, snabb är adjektiv."
+              ]
+          }
+      ]
+  },
+
+  '/docs/adjektiv/svag-bojning': {
+      "lessonId": "A02",
+      "href": "/docs/adjektiv/svag-bojning",
+      "title": "Snabbkoll: Svag adjektivböjning",
+      "questions": [
+          {
+              "id": "a02-q1",
+              "context": "Svag adjektivböjning används efter bestämd artikel (der, die, das).",
+              "prompt": "Hur många olika ändelser finns det totalt i den svaga böjningstabellen?",
+              "options": [
+                  "Endast två: -e och -en.",
+                  "Fyra: -er, -es, -e, -en.",
+                  "Tre: -e, -er, -en.",
+                  "Det finns en unik ändelse för varje enskilt kasus."
+              ],
+              "answer": 0,
+              "explanation": "I den svaga adjektivböjningen finns endast två ändelser: -e och -en!",
+              "feedback": [
+                  "Helt rätt! Endast -e och -en förekommer i svag böjning.",
+                  "-er och -es tillhör blandad och stark böjning.",
+                  "-er förekommer inte i svag böjning.",
+                  "Systemet är mycket mer koncentrerat än så."
+              ]
+          },
+          {
+              "id": "a02-q2",
+              "context": "Undersök den så kallade \"femhörningen\" för ändelsen -e.",
+              "prompt": "I vilka fem positioner slutar adjektivet på -e?",
+              "options": [
+                  "Nominativ singular (m, f, n) samt Ackusativ femininum och neutrum.",
+                  "Hela nominativen och hela dativen.",
+                  "Endast i maskulinum nominativ och ackusativ.",
+                  "I hela pluralen."
+              ],
+              "answer": 0,
+              "explanation": "Ändelsen -e finns bara i nominativ singular (der/die/das) samt ackusativ femininum (die) och neutrum (das).",
+              "feedback": [
+                  "Helt rätt! De fem -e-formerna bildar en tydlig femhörning i tabellen.",
+                  "Dativ har alltid -en.",
+                  "Maskulin ackusativ har -en (den neuen Wagen).",
+                  "Plural har alltid -en."
+              ]
+          },
+          {
+              "id": "a02-q3",
+              "context": "Adjektiv efter bestämd artikel i dativ: \"mit dem ___ Mann\" (alt).",
+              "prompt": "Vilken är den korrekta formen?",
+              "options": [
+                  "mit dem alten Mann (-en)",
+                  "mit dem altem Mann",
+                  "mit dem alter Mann",
+                  "mit dem alte Mann"
+              ],
+              "answer": 0,
+              "explanation": "I dativ har den svaga adjektivböjningen ALLTID ändelsen -en: dem alten Mann.",
+              "feedback": [
+                  "Helt rätt! Hela dativen slutar på -en i svag böjning.",
+                  "-em sitter redan på artikeln \"dem\", adjektivet dubblerar det inte.",
+                  "-er är genitiv/dativ feminin i stark böjning.",
+                  "-e förekommer aldrig i dativ."
+              ]
+          },
+          {
+              "id": "a02-q4",
+              "context": "Plural efter bestämd artikel: \"die ___ Bücher\" (neu).",
+              "prompt": "Vilken ändelse får adjektivet i plural efter bestämd artikel?",
+              "options": [
+                  "-en: \"die neuen Bücher\"",
+                  "-e: \"die neue Bücher\"",
+                  "-er: \"die neuer Bücher\"",
+                  "ingen ändelse"
+              ],
+              "answer": 0,
+              "explanation": "I plural får adjektivet ALLTID ändelsen -en efter bestämd artikel: die neuen Bücher.",
+              "feedback": [
+                  "Helt rätt! Alla pluralformer i svag böjning slutar på -en.",
+                  "die neue Bücher är ett mycket vanligt svenskt felskrivningsfel (påverkan från svenskans -a).",
+                  "-er är komparativ eller stark genitiv plural.",
+                  "Attributiva adjektiv måste ha ändelse."
+              ]
+          },
+          {
+              "id": "a02-q5",
+              "context": "Ord som fungerar precis som \"der, die, das\" kallas der-ord.",
+              "prompt": "Vilket av följande ord utlöser svag adjektivböjning?",
+              "options": [
+                  "dieser / diese / dieses (denna/detta)",
+                  "mein / meine / mein",
+                  "ein / eine / ein",
+                  "kein / keine / kein"
+              ],
+              "answer": 0,
+              "explanation": "dieser, jeder, welcher, alle är der-ord och utlöser svag böjning. mein/ein/kein utlöser blandad böjning!",
+              "feedback": [
+                  "Helt rätt! dieser är ett der-ord och följer svag adjektivböjning.",
+                  "mein är ett possessivt ord (blandad böjning).",
+                  "ein är obestämd artikel (blandad böjning).",
+                  "kein följer blandad böjning."
+              ]
+          },
+          {
+              "id": "a02-q6",
+              "context": "Ackusativ maskulinum efter bestämd artikel: \"Jag ser den gamle mannen.\"",
+              "prompt": "Vad heter frasen på tyska?",
+              "options": [
+                  "Ich sehe den alten Mann.",
+                  "Ich sehe den alter Mann.",
+                  "Ich sehe den alte Mann.",
+                  "Ich sehe den altem Mann."
+              ],
+              "answer": 0,
+              "explanation": "Maskulin ackusativ: artikeln heter den och adjektivet får -en (den alten Mann).",
+              "feedback": [
+                  "Helt rätt! den alten Mann.",
+                  "alter är nominativ i stark böjning.",
+                  "alte är bara nominativ i svag böjning.",
+                  "altem är dativ."
+              ]
+          }
+      ]
+  },
+
+  '/docs/adjektiv/stark-bojning': {
+      "lessonId": "A04",
+      "href": "/docs/adjektiv/stark-bojning",
+      "title": "Snabbkoll: Stark adjektivböjning",
+      "questions": [
+          {
+              "id": "a04-q1",
+              "context": "När används stark adjektivböjning?",
+              "prompt": "I vilket fall måste ett adjektiv böjas starkt?",
+              "options": [
+                  "När substantivet saknar artikel (nollartikel), t.ex. \"guter Wein\", \"frische Milch\".",
+                  "Efter bestämd artikel (der, die, das).",
+                  "Efter obestämd artikel (ein, eine).",
+                  "Endast när adjektivet är ett starkt verb."
+              ],
+              "answer": 0,
+              "explanation": "Stark adjektivböjning inträder vid nollartikel: adjektivet måste själv visa kasus och genus.",
+              "feedback": [
+                  "Helt rätt! Stark böjning används vid nollartikel.",
+                  "Efter der/die/das används svag böjning.",
+                  "Efter ein/eine används blandad böjning.",
+                  "Adjektiv är inte verb."
+              ]
+          },
+          {
+              "id": "a04-q2",
+              "context": "Vilka ändelser lånar det starkt böjda adjektivet?",
+              "prompt": "Vad är den generella grundregeln för de starka ändelserna?",
+              "options": [
+                  "Adjektivet övertar den bestämda artikelns ändelser (der -> -er, das -> -es, dem -> -em etc.).",
+                  "Alla adjektiv slutar på -en.",
+                  "Alla adjektiv slutar på -e.",
+                  "Ändelserna är desamma som personändelserna på verb."
+              ],
+              "answer": 0,
+              "explanation": "Stark adjektivböjning kopierar den bestämda artikelns ändelser nästan rakt av.",
+              "feedback": [
+                  "Helt rätt! Adjektivet agerar ställföreträdande artikel och tar dess ändelser.",
+                  "-en överallt är en förenkling av dativ/genitiv i svag böjning.",
+                  "-e gäller bara femininum och plural i nominativ/ackusativ.",
+                  "Verbändelser har inget med detta att göra."
+              ]
+          },
+          {
+              "id": "a04-q3",
+              "context": "Det berömda undantaget i maskulin och neutral genitiv.",
+              "prompt": "Vad slutar adjektivet på i frasen \"trots gott vin\" (der Wein -> des Weines)?",
+              "options": [
+                  "trotz gut-EN Weines (Obs! -en, inte -es!)",
+                  "trotz gut-ES Weines",
+                  "trotz gut-EM Weines",
+                  "trotz gut-ER Weines"
+              ],
+              "answer": 0,
+              "explanation": "Eftersom substantivet självt redan slutar på -(e)s (Weines) får adjektivet ändelsen -en för att undvika dubbel-s!",
+              "feedback": [
+                  "Helt rätt! Undantaget i maskulin/neutral genitiv ger -en (guten Weines).",
+                  "gutes Weines är ett klassiskt fel; två -es efter varandra undviks.",
+                  "gutem är dativ.",
+                  "guter är feminin genitiv."
+              ]
+          },
+          {
+              "id": "a04-q4",
+              "context": "Dativ maskulinum utan artikel: \"med gott kaffe\" (der Kaffee).",
+              "prompt": "Vilken ändelse ska \"gut\" ha efter prepositionen mit (dativ)?",
+              "options": [
+                  "mit gutem Kaffee (-em precis som i \"dem\")",
+                  "mit guten Kaffee",
+                  "mit guter Kaffee",
+                  "mit gutes Kaffee"
+              ],
+              "answer": 0,
+              "explanation": "Dativ maskulinum av bestämd artikel är dem -> stark ändelse på adjektivet blir -em: mit gutem Kaffee.",
+              "feedback": [
+                  "Helt rätt! mit gutem Kaffee – -em signalerar maskulin dativ.",
+                  "guten vore svag böjning efter en artikel.",
+                  "guter är feminin dativ.",
+                  "gutes är neutrum nominativ/ackusativ."
+              ]
+          },
+          {
+              "id": "a04-q5",
+              "context": "Mängdord i plural: viele, wenige, einige, mehrere.",
+              "prompt": "Vilken ändelse får adjektivet i nominativ plural efter ordet \"viele\"?",
+              "options": [
+                  "-e: \"viele neue Freunde\"",
+                  "-en: \"viele neuen Freunde\"",
+                  "-er: \"viele neuer Freunde\"",
+                  "-es: \"viele neues Freunde\""
+              ],
+              "answer": 0,
+              "explanation": "Efter viele, wenige, einige och mehrere böjs adjektivet STARKt i plural: viele neue Freunde (med -e).",
+              "feedback": [
+                  "Helt rätt! viele neue Freunde – stark böjning ger -e i nominativ/ackusativ plural.",
+                  "-en utlöses bara av bestämda artiklar eller \"alle\" (alle neuen Freunde).",
+                  "-er är genitiv plural.",
+                  "-es är neutrum singular."
+              ]
+          },
+          {
+              "id": "a04-q6",
+              "context": "Du beställer en dryck: \"Ett glas kallt vatten, tack!\" (das Wasser).",
+              "prompt": "Hur heter \"kallt vatten\" utan artikel i nominativ/ackusativ neutrum?",
+              "options": [
+                  "kaltes Wasser (-es som i das)",
+                  "kalte Wasser",
+                  "kalten Wasser",
+                  "kaltem Wasser"
+              ],
+              "answer": 0,
+              "explanation": "das Wasser -> neutrum nollartikel får artikelns slutsignal -es: kaltes Wasser.",
+              "feedback": [
+                  "Helt rätt! kaltes Wasser med -es.",
+                  "kalte är femininum eller plural.",
+                  "kalten är maskulin ackusativ eller dativ plural.",
+                  "kaltem är dativ."
+              ]
+          }
+      ]
+  },
+
+  '/docs/modus/konjunktiv-ii': {
+      "lessonId": "M03",
+      "href": "/docs/modus/konjunktiv-ii",
+      "title": "Snabbkoll: Konjunktiv II i nutid",
+      "questions": [
+          {
+              "id": "m03-q1",
+              "context": "Konjunktiv II används för artighet, hypoteser och drömmar.",
+              "prompt": "Hur bildas Konjunktiv II för de flesta vanliga verb i modern tyska?",
+              "options": [
+                  "Med hjälpverbet \"würde\" + infinitiv i satsens slut (\"Ich würde gern kommen\").",
+                  "Med \"werde\" + particip II.",
+                  "Med \"hatte\" + infinitiv.",
+                  "Genom att lägga till -t på presensstammen."
+              ],
+              "answer": 0,
+              "explanation": "I modernt språk används universalkonstruktionen würde + infinitiv för nästan alla vanliga verb.",
+              "feedback": [
+                  "Helt rätt! würde + infinitiv motsvarar svenskans \"skulle + infinitiv\".",
+                  "werde bildar futurum eller passiv.",
+                  "hatte är preteritum indikativ.",
+                  "-t bildar inte konjunktiv."
+              ]
+          },
+          {
+              "id": "m03-q2",
+              "context": "För verben sein, haben och modalverben undviks \"würde\".",
+              "prompt": "Vilka enkla former används ALLTID i stället för \"würde sein\" och \"würde haben\"?",
+              "options": [
+                  "wäre och hätte",
+                  "war och hatte",
+                  "sei och habe",
+                  "würde gewesen och würde gehabt"
+              ],
+              "answer": 0,
+              "explanation": "För sein och haben används alltid de enkla formerna wäre (vore) och hätte (skulle ha).",
+              "feedback": [
+                  "Helt rätt! ich wäre och ich hätte är de självklara formerna.",
+                  "war och hatte är indikativ preteritum (var och hade).",
+                  "sei och habe är Konjunktiv I.",
+                  "\"würde sein\" låter klumpigt och undviks i god tyska."
+              ]
+          },
+          {
+              "id": "m03-q3",
+              "context": "Du vill be en främmande person om hjälp på gatan på ett mycket artigt sätt.",
+              "prompt": "Hur formulerar du frågan med Konjunktiv II av \"können\"?",
+              "options": [
+                  "Könnten Sie mir bitte helfen?",
+                  "Konnten Sie mir bitte helfen?",
+                  "Kannst du mich helfen?",
+                  "Würden Sie helfen können mir?"
+              ],
+              "answer": 0,
+              "explanation": "Könnten Sie... är den fasta artighetsfrasen (Skulle ni kunna...). Konnten är vanlig dåtid (Kunde ni...).",
+              "feedback": [
+                  "Helt rätt! \"Könnten Sie mir bitte helfen?\" är mönstret för artighet.",
+                  "Utan prickar (konnten) betyder det \"Kunde ni\" i dåtid!",
+                  "Kannst du är vardagligt och mich är fel kasus (helfen styr dativ).",
+                  "Ordföljden är helt förvrängd."
+              ]
+          },
+          {
+              "id": "m03-q4",
+              "context": "Undersök meningen: \"Wenn ich reich wäre, würde ich ein Schloss kaufen.\"",
+              "prompt": "Vad uttrycker denna mening?",
+              "options": [
+                  "En irreal villkorssats i nutid: talaren är inte rik i verkligheten.",
+                  "Ett faktum: talaren har precis köpt ett slott.",
+                  "En händelse som inträffade förra seklet.",
+                  "Ett förbud."
+              ],
+              "answer": 0,
+              "explanation": "Konjunktiv II uttrycker en hypotetisk situation som strider mot verkligheten (irrealis).",
+              "feedback": [
+                  "Helt rätt! Irrealis: en dröm eller hypotes i nutiden.",
+                  "Det är ingen verklig handling.",
+                  "Meningen är i presens konjunktiv, inte historisk dåtid.",
+                  "Det är inget förbud."
+              ]
+          },
+          {
+              "id": "m03-q5",
+              "context": "Hur böjs \"wäre\" för \"er / sie / es\"?",
+              "prompt": "Vad är formen för \"han vore / skulle vara\"?",
+              "options": [
+                  "er wäre (slutar på -e)",
+                  "er wäret",
+                  "er wär",
+                  "er wären"
+              ],
+              "answer": 0,
+              "explanation": "I Konjunktiv II är 1:a och 3:e person singular identiska och slutar på -e: ich wäre, er wäre.",
+              "feedback": [
+                  "Helt rätt! er wäre slutar på -e.",
+                  "wäret är för ihr.",
+                  "wär är slarvigt talspråk utan slutvokal.",
+                  "wären är för wir och sie/Sie."
+              ]
+          },
+          {
+              "id": "m03-q6",
+              "context": "Du vill ge ett vänligt råd till en kamrat som har problem: \"I ditt ställe skulle jag...\"",
+              "prompt": "Vilken är den fasta tyska formeln med Konjunktiv II?",
+              "options": [
+                  "An deiner Stelle würde ich...",
+                  "In dein Platz werde ich...",
+                  "Auf deine Stelle hatte ich...",
+                  "An deine Stelle bin ich..."
+              ],
+              "answer": 0,
+              "explanation": "Den idiomatiska formeln är: \"An deiner Stelle würde ich...\" (I ditt ställe skulle jag...).",
+              "feedback": [
+                  "Helt rätt! \"An deiner Stelle würde ich...\" är standardfrasen för rådgivning.",
+                  "In dein Platz är en svengelsk direktöversättning.",
+                  "hatte och auf deine Stelle är felaktigt.",
+                  "bin är indikativ nutid."
+              ]
+          }
+      ]
+  },
+
+  '/docs/modus/konjunktiv-ii-datid': {
+      "lessonId": "M04",
+      "href": "/docs/modus/konjunktiv-ii-datid",
+      "title": "Snabbkoll: Konjunktiv II i dåtid",
+      "questions": [
+          {
+              "id": "m04-q1",
+              "context": "Hur konstrueras Konjunktiv II i dåtid (vad som skulle ha hänt)?",
+              "prompt": "Vilken är den universella formeln för dåtidsformen?",
+              "options": [
+                  "hätte / wäre + Partizip II i satsens slut",
+                  "würde + Partizip II",
+                  "hatte / war + Partizip II",
+                  "wäre + Infinitiv"
+              ],
+              "answer": 0,
+              "explanation": "Konjunktiv II dåtid bildas med hätte eller wäre + Partizip II: \"Ich hätte gesagt\", \"Er wäre gekommen\".",
+              "feedback": [
+                  "Helt rätt! hätte/wäre + Partizip II är den enda formeln för dåtidsformen.",
+                  "würde + particip förekommer inte i god standardtyska.",
+                  "hatte/war + particip är Plusquamperfekt indikativ (faktisk dåtid).",
+                  "wäre + infinitiv existerar inte."
+              ]
+          },
+          {
+              "id": "m04-q2",
+              "context": "Verbet \"kommen\" kräver hjälpverbet sein i sammansatta former.",
+              "prompt": "Vad heter \"Jag skulle ha kommit om jag haft tid\"?",
+              "options": [
+                  "Ich wäre gekommen, wenn ich Zeit gehabt hätte.",
+                  "Ich hätte gekommen, wenn ich Zeit hatte.",
+                  "Ich würde kommen, wenn ich Zeit hatte.",
+                  "Ich war gekommen, wenn ich Zeit habe."
+              ],
+              "answer": 0,
+              "explanation": "Kommen tar sein (wäre gekommen), och bisatsen kräver Konjunktiv II (gehabt hätte).",
+              "feedback": [
+                  "Helt rätt! wäre gekommen ... gehabt hätte i båda leden.",
+                  "kommen tar sein, aldrig haben!",
+                  "Detta är nutid: \"Jag skulle komma om jag hade tid\".",
+                  "Detta är en grammatiskt trasig mening."
+              ]
+          },
+          {
+              "id": "m04-q3",
+              "context": "Konstruktion utan \"wenn\" (spetsställt verb).",
+              "prompt": "Hur kan meningen \"Wenn ich das gewusst hätte...\" skrivas om utan bindeordet wenn?",
+              "options": [
+                  "Hätte ich das gewusst...",
+                  "Ich hätte das gewusst...",
+                  "Das gewusst hätte ich...",
+                  "Wüsste ich das..."
+              ],
+              "answer": 0,
+              "explanation": "När wenn stryks flyttas hjälpverbet till position 1: \"Hätte ich das gewusst...\" (Hade jag vetat det...).",
+              "feedback": [
+                  "Helt rätt! Spetsställning av verbet ersätter \"wenn\".",
+                  "Detta är en påståendesats, inte en villkorsbisats.",
+                  "Ordföljden är felaktig.",
+                  "Wüsste är nutid (visste jag), inte dåtid."
+              ]
+          },
+          {
+              "id": "m04-q4",
+              "context": "Skillnad mellan Plusquamperfekt indikativ och Konjunktiv II dåtid.",
+              "prompt": "Vad är skillnaden mellan \"Ich hatte das Auto repariert\" och \"Ich hätte das Auto repariert\"?",
+              "options": [
+                  "\"hatte\" innebär att bilen faktiskt reparerades; \"hätte\" innebär att det bara var en hypotes (jag skulle ha gjort det, men gjorde det inte).",
+                  "Det är ingen skillnad alls.",
+                  "\"hätte\" används bara i södra Tyskland.",
+                  "\"hatte\" är i framtid."
+              ],
+              "answer": 0,
+              "explanation": "hatte = faktisk dåtid (fakta). hätte = hypotetisk dåtid (irrealis: skulle ha gjort).",
+              "feedback": [
+                  "Helt rätt! Omljudet markerar skiljelinjen mellan verklighet och hypotes.",
+                  "Skillnaden i betydelse är monumental!",
+                  "Båda formerna används i hela det tyska språkområdet.",
+                  "hatte är dåtid, inte framtid."
+              ]
+          },
+          {
+              "id": "m04-q5",
+              "context": "En handling i det förflutna påverkade nutiden (blandad konditionalsats).",
+              "prompt": "Vilken mening uttrycker korrekt: \"Om jag hade pluggat medicin då, vore jag läkare idag\"?",
+              "options": [
+                  "Wenn ich damals Medizin studiert hätte, wäre ich heute Arzt.",
+                  "Wenn ich damals Medizin studiere, bin ich heute Arzt.",
+                  "Wenn ich damals Medizin studiert hatte, war ich heute Arzt.",
+                  "Wenn ich damals Medizin studieren würde, wäre ich heute Arzt."
+              ],
+              "answer": 0,
+              "explanation": "Dåtidshypotes (studiert hätte) kopplas till nutida konsekvens (wäre ich heute).",
+              "feedback": [
+                  "Helt rätt! Blandad villkorssats med perfekt tidslogik.",
+                  "Studiere är nutid, passar inte med \"damals\".",
+                  "hatte och war är ren indikativ dåtid.",
+                  "würde studieren uttrycker nutid/framtid, inte dåtid."
+              ]
+          },
+          {
+              "id": "m04-q6",
+              "context": "Undersök meningen: \"Fast wäre ich ins Wasser gefallen!\"",
+              "prompt": "Vad betyder uttrycket med \"fast + Konjunktiv II\"?",
+              "options": [
+                  "Jag höll nästan på att ramla i vattnet (men jag gjorde det inte)!",
+                  "Jag ramlade i vattnet mycket snabbt.",
+                  "Jag ramlade definitivt i vattnet.",
+                  "Jag vill gärna bada i vattnet."
+              ],
+              "answer": 0,
+              "explanation": "\"fast / beinahe + Konjunktiv II\" uttrycker att en händelse närapå inträffade i det förflutna.",
+              "feedback": [
+                  "Helt rätt! \"fast wäre ich...\" = jag höll så när på att...",
+                  "fast betyder \"nästan\", inte \"snabb\" (schnell) här.",
+                  "Konjunktiv II markerar att det inte skedde.",
+                  "Det handlar om ett tillbud, inte en önskan om att bada."
+              ]
+          }
+      ]
+  },
+
+  '/docs/modus/handelsepassiv': {
+      "lessonId": "M07",
+      "href": "/docs/modus/handelsepassiv",
+      "title": "Snabbkoll: Vorgangspassiv med werden",
+      "questions": [
+          {
+              "id": "m07-q1",
+              "context": "Hur bildas händelsepassiv (Vorgangspassiv) i presens?",
+              "prompt": "Vilken är formeln för presens passiv i meningen \"Bilen repareras\"?",
+              "options": [
+                  "wird / werden + Partizip II (\"Das Auto wird repariert.\")",
+                  "ist + Partizip II",
+                  "hat + Partizip II",
+                  "wurde + Partizip II"
+              ],
+              "answer": 0,
+              "explanation": "Presens passiv bildas med presens av werden + Partizip II: wird repariert.",
+              "feedback": [
+                  "Helt rätt! wird repariert uttrycker pågående handling i presens.",
+                  "ist + particip bildar tillståndspassiv (Zustandspassiv) eller aktivt perfekt.",
+                  "hat + particip är aktivt perfekt.",
+                  "wurde är preteritum (reparerades)."
+              ]
+          },
+          {
+              "id": "m07-q2",
+              "context": "När en aktiv mening görs om till passiv, vad händer med ackusativobjektet?",
+              "prompt": "Vad blir ackusativobjektet i den passiva satsen?",
+              "options": [
+                  "Det blir det nya subjektet och står därmed i nominativ!",
+                  "Det förblir i ackusativ.",
+                  "Det förvandlas till dativ.",
+                  "Det måste alltid tas bort ur meningen."
+              ],
+              "answer": 0,
+              "explanation": "Objektet i den aktiva satsen upphöjs till subjekt (nominativ) i den passiva satsen.",
+              "feedback": [
+                  "Helt rätt! Ackusativobjekt -> Subjekt (Nominativ).",
+                  "Det byter kasus till nominativ.",
+                  "Endast i speciella dativpassivkonstruktioner behålls dativ.",
+                  "Det blir meningens nya huvudperson och tas inte bort."
+              ]
+          },
+          {
+              "id": "m07-q3",
+              "context": "Hur anges personen som utför handlingen (agenten)?",
+              "prompt": "Vilken preposition används för att ange den mänskliga agenten i passiv?",
+              "options": [
+                  "von + Dativ (t.ex. \"vom Chef\", \"von der Polizei\")",
+                  "durch + Ackusativ",
+                  "mit + Dativ",
+                  "bei + Dativ"
+              ],
+              "answer": 0,
+              "explanation": "Mänskliga aktörer och organisationer anges med von + Dativ.",
+              "feedback": [
+                  "Helt rätt! von + Dativ motsvarar svenskans \"av\".",
+                  "durch + Ackusativ används för medel, verktyg eller naturkrafter.",
+                  "mit anger redskap man använder med handen.",
+                  "bei betyder hos."
+              ]
+          },
+          {
+              "id": "m07-q4",
+              "context": "Preteritum av händelsepassiv: \"Huset byggdes år 1990.\"",
+              "prompt": "Vad är den korrekta preteritumformen av passiv för \"das Haus\"?",
+              "options": [
+                  "Das Haus wurde im Jahr 1990 gebaut.",
+                  "Das Haus wird im Jahr 1990 gebaut.",
+                  "Das Haus war im Jahr 1990 gebaut worden.",
+                  "Das Haus baute im Jahr 1990."
+              ],
+              "answer": 0,
+              "explanation": "Preteritum passiv bildas med wurde + Partizip II: wurde gebaut.",
+              "feedback": [
+                  "Helt rätt! wurde gebaut är preteritum passiv.",
+                  "wird är presens.",
+                  "war gebaut worden är pluskvamperfekt.",
+                  "baute är aktiv form: huset byggde ingenting själv!"
+              ]
+          },
+          {
+              "id": "m07-q5",
+              "context": "Formen på participet av \"werden\" i passiv perfekt.",
+              "prompt": "Varför heter det \"ist gebaut worden\" och inte \"ist gebaut geworden\"?",
+              "options": [
+                  "I passiv konstruktion tappar \"geworden\" sitt prefix ge- och heter alltid \"worden\".",
+                  "Det är ett modernt tryckfel.",
+                  "\"geworden\" används bara för feminina ord.",
+                  "Båda formerna är helt likvärdiga."
+              ],
+              "answer": 0,
+              "explanation": "Som passivhjälpverb heter participet av werden alltid worden: \"ist gebaut worden\". \"geworden\" används bara när werden betyder bli.",
+              "feedback": [
+                  "Helt rätt! Passiv perfekt har alltid \"worden\", aldrig geworden.",
+                  "Det är en fast grammatisk regel.",
+                  "Genus har ingen inverkan på verbformer.",
+                  "De är inte utbytbara: \"ist gebaut geworden\" är felaktigt."
+              ]
+          },
+          {
+              "id": "m07-q6",
+              "context": "Passiv med modalverb: \"Det här måste göras omedelbart.\"",
+              "prompt": "Hur ser ordföljden ut med modalverbet müssen och verbet machen i passiv?",
+              "options": [
+                  "Das muss sofort gemacht werden.",
+                  "Das muss sofort werden gemacht.",
+                  "Das wird sofort gemacht müssen.",
+                  "Das gemacht werden muss sofort."
+              ],
+              "answer": 0,
+              "explanation": "Modalverbet står på plats 2, och passivpaketet Partizip II + werden (infinitiv) står allra sist: gemacht werden.",
+              "feedback": [
+                  "Helt rätt! \"gemacht werden\" allra sist i satsen.",
+                  "Infinitiven werden måste stå efter participet.",
+                  "Hjälpverbet för passiv är werden, inte ett omvänt paket.",
+                  "Det böjda verbet måste stå på plats 2 i en huvudsats."
+              ]
+          }
+      ]
+  },
+
+  '/docs/modus/tillstandspassiv': {
+      "lessonId": "M08",
+      "href": "/docs/modus/tillstandspassiv",
+      "title": "Snabbkoll: Zustandspassiv med sein",
+      "questions": [
+          {
+              "id": "m08-q1",
+              "context": "Skillnaden mellan händelsepassiv och tillståndspassiv.",
+              "prompt": "Vad är den grundläggande skillnaden mellan \"Die Tür wird geöffnet\" och \"Die Tür ist geöffnet\"?",
+              "options": [
+                  "\"wird geöffnet\" är en pågående handling (någon öppnar den); \"ist geöffnet\" är ett färdigt tillstånd (den är öppen).",
+                  "Det är exakt samma sak på två olika dialekter.",
+                  "\"ist geöffnet\" betyder att dörren stängs.",
+                  "\"wird geöffnet\" är i dåtid."
+              ],
+              "answer": 0,
+              "explanation": "Vorgangspassiv (werden) fokuserar på själva processen. Zustandspassiv (sein) fokuserar på slutresultatet.",
+              "feedback": [
+                  "Helt rätt! Process/handling kontra färdigt tillstånd/resultat.",
+                  "Det är två distinkta grammatiska passivformer.",
+                  "Det betyder att dörren är öppen.",
+                  "wird geöffnet är i presens."
+              ]
+          },
+          {
+              "id": "m08-q2",
+              "context": "Hur bildas Zustandspassiv?",
+              "prompt": "Vilket hjälpverb används för att bilda Zustandspassiv?",
+              "options": [
+                  "sein (t.ex. \"ist geschlossen\", \"sind repariert\")",
+                  "werden",
+                  "haben",
+                  "bleiben"
+              ],
+              "answer": 0,
+              "explanation": "Zustandspassiv konstrueras med hjälpverbet sein + Partizip II.",
+              "feedback": [
+                  "Helt rätt! sein + particip bildar tillståndspassiv.",
+                  "werden bildar händelsepassiv.",
+                  "haben bildar aktivt perfekt.",
+                  "bleiben är ett kopulaverb."
+              ]
+          },
+          {
+              "id": "m08-q3",
+              "context": "Dåtid av Zustandspassiv: \"Affären var stängd när vi kom.\"",
+              "prompt": "Hur lyder preteritum av Zustandspassiv för \"das Geschäft\"?",
+              "options": [
+                  "Das Geschäft war geschlossen.",
+                  "Das Geschäft wurde geschlossen.",
+                  "Das Geschäft ist geschlossen gewesen.",
+                  "Das Geschäft schloss sich."
+              ],
+              "answer": 0,
+              "explanation": "Preteritum av sein är war: \"Das Geschäft war geschlossen\" (det var stängt som tillstånd).",
+              "feedback": [
+                  "Helt rätt! war geschlossen beskriver tillståndet i dåtiden.",
+                  "wurde geschlossen beskriver handlingen att någon stängde den just då.",
+                  "ist geschlossen gewesen är en mer sällsynt och klumpig perfektform.",
+                  "schloss sich är reflexivt."
+              ]
+          },
+          {
+              "id": "m08-q4",
+              "context": "Undersök meningen: \"Alle Plätze im Saal sind reserviert.\"",
+              "prompt": "Vad antyder Zustandspassivet \"sind reserviert\"?",
+              "options": [
+                  "Att någon tidigare har utfört bokningen, så att platserna nu befinner sig i tillståndet reserverade.",
+                  "Att platserna håller på att reserveras i denna sekund.",
+                  "Att platserna är helt lediga.",
+                  "Att platserna inte kan reserveras."
+              ],
+              "answer": 0,
+              "explanation": "Zustandspassiv förutsätter alltid en tidigare genomförd handling som lett fram till det nuvarande tillståndet.",
+              "feedback": [
+                  "Helt rätt! En tidigare handling har skapat det aktuella resultatet.",
+                  "Pågående handling skulle heta \"werden reserviert\".",
+                  "Tvärtom, de är upptagna.",
+                  "Det handlar om att de redan är bokade."
+              ]
+          },
+          {
+              "id": "m08-q5",
+              "context": "Du vill säga på tyska: \"Middagen är färdiglagad.\"",
+              "prompt": "Vilken mening är bäst lämpad för att beskriva maten som står klar på bordet?",
+              "options": [
+                  "Das Abendessen ist gekocht.",
+                  "Das Abendessen wird gekocht.",
+                  "Das Abendessen wurde gekocht.",
+                  "Das Abendessen kocht sich."
+              ],
+              "answer": 0,
+              "explanation": "ist gekocht beskriver det färdiga tillståndet. wird gekocht betyder att någon står och lagar den nu.",
+              "feedback": [
+                  "Helt rätt! \"Das Abendessen ist gekocht\" – maten är klar!",
+                  "wird gekocht innebär att grytorna kokar på spisen just nu.",
+                  "wurde gekocht är dåtid: blev lagad.",
+                  "kocht sich är felaktigt."
+              ]
+          },
+          {
+              "id": "m08-q6",
+              "context": "Gränsdragning mellan particip i Zustandspassiv och vanligt adjektiv.",
+              "prompt": "Vad skiljer \"Die Tür ist verschlossen\" (av verbet verschließen) från \"Die Tür ist grün\"?",
+              "options": [
+                  "verschlossen förutsätter att någon tidigare har låst dörren; grün är en ren egenskap utan föregående verbal handling.",
+                  "Det finns ingen skillnad alls.",
+                  "grün är i passiv form.",
+                  "verschlossen är ett substantiv."
+              ],
+              "answer": 0,
+              "explanation": "Zustandspassiv bär alltid med sig en relation till en tidigare handling (någon har låst dörren), till skillnad från rena egenskaper som färg.",
+              "feedback": [
+                  "Helt rätt! Den underliggande handlingen definierar passivets natur.",
+                  "Skillnaden ligger i relationen till en verbal handling.",
+                  "grün är ett vanligt adjektiv.",
+                  "verschlossen är ett particip."
+              ]
+          }
+      ]
+  },
+
 };

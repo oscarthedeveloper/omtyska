@@ -2920,6 +2920,85 @@
       "contentExists": true,
       "contentFile": "content/docs/Fordjupning/Morfologi/konversion-kortord-och-produktiva-nybildningar.mdx",
       "reviewEvidence": "internal-crosscheck-wordformation-approved"
+    },
+    {
+      "id": "X015",
+      "section": "docs",
+      "slug": "/fordjupning/nominalfras/nominalfrasens-fullstandiga-struktur",
+      "href": "/docs/fordjupning/nominalfras/nominalfrasens-fullstandiga-struktur",
+      "title": "Nominalfrasens fullständiga struktur",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "S03",
+        "S08",
+        "E06"
+      ],
+      "requiredCoverage": "Determinativ, kvantifikator, adjektivattribut, huvud, efterställda attribut; inbäddning och alternativa strukturträd.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "Engel Deutsche Grammatik"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 115,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Nominalfras/nominalfrasens-fullstandiga-struktur.mdx",
+      "reviewEvidence": "internal-crosscheck-syntax-approved"
+    },
+    {
+      "id": "X017",
+      "section": "docs",
+      "slug": "/fordjupning/nominalfras/genitivattribut-och-dess-tolkningar",
+      "href": "/docs/fordjupning/nominalfras/genitivattribut-och-dess-tolkningar",
+      "title": "Genitivattribut och dess tolkningar",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "K05",
+        "S06"
+      ],
+      "requiredCoverage": "Possessiv, subjektiv, objektiv och andra relationer; placering, nästling, ambiguös referens och förlust vid von-omskrivning.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "Engel Deutsche Grammatik"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 117,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Nominalfras/genitivattribut-och-dess-tolkningar.mdx",
+      "reviewEvidence": "internal-crosscheck-syntax-approved"
+    },
+    {
+      "id": "X018",
+      "section": "docs",
+      "slug": "/fordjupning/nominalfras/apposition-och-kasus",
+      "href": "/docs/fordjupning/nominalfras/apposition-och-kasus",
+      "title": "Apposition och kasus",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "S03",
+        "K05"
+      ],
+      "requiredCoverage": "Lös/bunden apposition, titlar, namn och mått; kongruens, kasusattraktion och belagd variation med etiketter.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "Engel Deutsche Grammatik"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 118,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Nominalfras/apposition-och-kasus.mdx",
+      "reviewEvidence": "internal-crosscheck-syntax-approved"
     }
   ]
 }

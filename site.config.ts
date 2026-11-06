@@ -6,9 +6,9 @@
 export const siteConfig = {
   name: 'Om Tyska',
   nameKebab: 'om-tyska',
-  title: 'Om Tyska – Gratis modern tysk grammatika för svensktalande',
+  title: 'Om Tyska – En svensk ingång till det tyska',
   description:
-    'En gratis digital tysk grammatika för svensktalande elever och självstuderande med pedagogiska förklaringar, interaktiva övningar och strukturerad repetition.',
+    'En svensk ingång till det tyska. Utforska språket med en öppen grammatika, genomgångar, övningar och en väg till djupare förståelse.',
   url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.omtyska.se',
   languageOfInstruction: 'sv',
   targetLanguage: 'de',

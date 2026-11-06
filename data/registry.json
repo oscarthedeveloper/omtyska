@@ -246,15 +246,15 @@
         "G03"
       ],
       "requiredCoverage": "Ord- och satsbetoning, obetonat e, reduktion, betonade verbpartiklar, frågor och kontrastbetoning; övningar som faktiskt kräver lyssning.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Grunder/betoning-och-satsmelodi.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "G05",
@@ -311,15 +311,15 @@
         "V09"
       ],
       "requiredCoverage": "Huvud- och bisatser, relativsatser och infinitivgrupper enligt verifierat regelverk; sammanskrivning, bindestreck och citat; skilj bindande regel från rekommendation.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Grunder/komma-och-skrivregler.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "G08",
@@ -1243,15 +1243,15 @@
         "T01"
       ],
       "requiredCoverage": "Be-, emp-, ent-, er-, ge-, miss-, ver-, zer- samt prefix med varierande betoning/separation; jämför omsorgsfullt valda betydelser med separat lexem-ID.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Verb/oseparerbara-och-betoning.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "V07",
@@ -2206,15 +2206,15 @@
         "A01"
       ],
       "requiredCoverage": "Gern/lieber/am liebsten, plats i satsen och skillnad mot oböjt predikativt adjektiv; -weise och andra bildningar; grammatisk terminologi förklaras konsekvent.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Adverb/adjektiv-och-adverb.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "D02",
@@ -2227,15 +2227,15 @@
         "Y01"
       ],
       "requiredCoverage": "Svensk först/redan/ännu/nyss/igen, räckvidd och kontrast; erst um acht jämfört med schon um acht; wieder/wider skiljs där relevant.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Adverb/tidsadverb.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "D03",
@@ -2248,15 +2248,15 @@
         "P03"
       ],
       "requiredCoverage": "Befintlighet, riktning och talarens perspektiv, hinein/heraus och högfrekventa kombinationer; wo/wohin/woher; länka geografiska uttryck till P04/P05.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Adverb/plats-och-riktning.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "D04",
@@ -2269,15 +2269,15 @@
         "A01"
       ],
       "requiredCoverage": "Adjektivets grad mot nominal mängd, för mycket/tillräckligt, viel bättre och så mycket; jämför förväxlingspar med svenska naturliga översättningar.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Adverb/grad-och-mangd.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "D05",
@@ -2290,15 +2290,15 @@
         "G01"
       ],
       "requiredCoverage": "0–1 000 och större tal, ein/eins, ental före tiotal, hundra/tusen/miljon; uttal, stavning och siffror; inga obligatoriska långa listor utan tillämpning.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Rakneord/grundtal.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "D06",
@@ -2312,15 +2312,15 @@
         "S03"
       ],
       "requiredCoverage": "Erste/dritte och övriga bildningsmönster, kasus i datumfraser, formella och vardagliga klockslag; regional tvetydighet vid kvartsklocka markeras.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Rakneord/ordningstal-datum-och-klocka.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "D07",
@@ -2333,15 +2333,15 @@
         "D05"
       ],
       "requiredCoverage": "Halb/Viertel, procent och räknesätt, euro/cent och decimalnotation; enheter och relevant böjning; exempel i inköp, recept och statistik.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Rakneord/matt-brak-och-procent.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "E01",

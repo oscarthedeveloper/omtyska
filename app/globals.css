@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════════════
-   Om Tyska — designsystem
+   Om Tyska — Språk & Bildning / designsystem
    Monokrom ram, pastellfärgade sektioner, tillgängliga tyska kasus- och
    satsramskontraster. Endast ljust läge för optimal läsbarhet.
    ═══════════════════════════════════════════════════════════════════ */
@@ -7,25 +7,39 @@
 /* ─── 1. TOKENS ─────────────────────────────────────────────────── */
 
 :root {
-  --ink:            #000000;
-  --canvas:         #ffffff;
-  --inverse-canvas: #000000;
-  --inverse-ink:    #ffffff;
-  --hairline:       #e6e6e6;
-  --hairline-soft:  #f1f1f1;
-  --surface-soft:   #f7f7f5;
-  --muted:          #666666;
+  --brand: #2544b8;
+  --brand-dark: #182d88;
+  --font-serif: Georgia, 'Times New Roman', serif;
+  /* Compatibility aliases used by navigation and study tools. */
+  --surface: var(--canvas);
+  --surface-muted: var(--surface-soft);
+  --surface-subtle: #e8eaf1;
+  --text: var(--ink);
+  --text-muted: var(--muted);
+  --border: var(--hairline);
+  --border-subtle: var(--hairline);
+  --border-strong: var(--brand);
+  --radius-sm: 2px;
+  --radius-md: 2px;
+  --ink:            #252d3b;
+  --canvas:         #f5f1e7;
+  --inverse-canvas: #2544b8;
+  --inverse-ink:    #f5f1e7;
+  --hairline:       #b9c1cf;
+  --hairline-soft:  #eae7dc;
+  --surface-soft:   #ece8dc;
+  --muted:          #5d645e;
 
-  --block-lime:     #dceeb1;
-  --block-lilac:    #c5b0f4;
-  --block-cream:    #f4ecd6;
-  --block-pink:     #efd4d4;
-  --block-mint:     #c8e6cd;
-  --block-coral:    #f3c9b6;
-  --block-navy:     #1f1d3d;
-  --block-gold:     #fae4a8;
+  --block-lime:     #e5e9e5;
+  --block-lilac:    #e5e6ee;
+  --block-cream:    #eee9da;
+  --block-pink:     #eee4df;
+  --block-mint:     #e2e9e3;
+  --block-coral:    #eee3d8;
+  --block-navy:     #243f9f;
+  --block-gold:     #e4e8f3;
 
-  --accent-magenta: #ff3d8b;
+  --accent-magenta: #2544b8;
   --success:        #1ea64a;
   --warning:        #d97706;
   --error:          #dc2626;
@@ -49,17 +63,17 @@
   --g-linke-klammer:#b3005e;
   --g-mittelfeld:   #444444;
   --g-rechte-klammer:#991b1b;
-  --g-nachfeld:     #666666;
+  --g-nachfeld:     #5d645e;
 
-  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-  --font-mono: 'JetBrains Mono', 'SF Mono', Menlo, Monaco, Consolas, monospace;
+  --font-sans: 'Helvetica Neue', Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: 'Courier New', 'SF Mono', Menlo, Monaco, Consolas, monospace;
 
   --r-xs: 2px;
-  --r-sm: 6px;
-  --r-md: 8px;
-  --r-lg: 24px;
-  --r-xl: 32px;
-  --r-pill: 50px;
+  --r-sm: 2px;
+  --r-md: 2px;
+  --r-lg: 2px;
+  --r-xl: 2px;
+  --r-pill: 2px;
   --r-full: 9999px;
 
   --s-xxs: 4px;
@@ -71,7 +85,7 @@
   --s-xxl: 48px;
   --s-section: 96px;
 
-  --navbar-height: 64px;
+  --navbar-height: 95px;
   --content-width: 1280px;
 }
 
@@ -93,7 +107,7 @@ body {
   color: var(--ink);
   font-family: var(--font-sans);
   font-size: 18px;
-  font-weight: 350;
+  font-weight: 400;
   line-height: 1.5;
   letter-spacing: -0.011em;
   font-feature-settings: 'kern' 1;
@@ -422,3 +436,24 @@ html[data-grammar-mode="rigoros"] .lattsam-only {
     transition-duration: 0.001ms !important;
   }
 }
+
+/* Rebrand: paper, letterpress rules and a scholarly reading rhythm. */
+h1, h2, h3, h4 { font-family: var(--font-serif); color: var(--brand); font-weight: 400; }
+h1 { letter-spacing: -.04em; }
+button, input, select, textarea { font-family: var(--font-sans); }
+.pillButton { font-size: .8125rem; letter-spacing: 0; border: 1px solid var(--brand); padding: 11px 18px; }
+.pillButton--primary { background: var(--brand); color: var(--canvas); }
+.pillButton--primary:hover { background: var(--brand-dark); color: var(--canvas); }
+.pillButton--secondary, .pillButton--onColor { color: var(--brand); box-shadow: none; }
+.pillButton:hover { transform: none; }
+.eyebrow { color: var(--brand); font-size: .625rem; letter-spacing: .12em; }
+.mdxContent { font-family: var(--font-serif); font-size: 1.125rem; line-height: 1.8; letter-spacing: 0; }
+.mdxContent h2 { font-size: 1.8rem; line-height: 1.25; }
+.mdxContent h3 { font-size: 1.4rem; }
+.mdxContent table { font-family: var(--font-sans); font-size: .875rem; line-height: 1.65; }
+.mdxContent th { color: var(--brand); background: var(--surface-soft); font-weight: 600; }
+.mdxContent a { color: var(--brand); }
+.mdxContent blockquote { border-left: 2px solid var(--brand); padding: 12px 22px; background: var(--surface-soft); font-size: 1.15rem; }
+.mdxContent pre { font-size: .8125rem; line-height: 1.7; }
+@media(max-width:900px) { :root { --navbar-height: 78px; } }
+@media(prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } *, *::before, *::after { animation-duration:.01ms !important; transition-duration:.01ms !important; } }

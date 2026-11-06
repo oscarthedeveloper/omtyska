@@ -67,3 +67,8 @@
     grid-template-columns: minmax(0, 1fr);
   }
 }
+
+.article h1 { font-family: var(--font-serif); font-size: clamp(2.5rem, 4vw, 3.6rem); font-weight: 400; color:var(--brand); }
+.lead { font-family: var(--font-serif); font-size:1.22rem; line-height:1.65; color:var(--muted); letter-spacing:0; }
+.breadcrumbs a:hover { color:var(--brand); }
+.content h2 { border-top-color:var(--hairline); }

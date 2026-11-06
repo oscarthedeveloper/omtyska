@@ -2,7 +2,8 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
+import BrandEmblem from './BrandEmblem';
 import GrammarModeToggle from './GrammarModeToggle';
 import SearchDialog from './SearchDialog';
 import { siteConfig } from '../site.config';
@@ -14,13 +15,27 @@ export default function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [toolsOpen, setToolsOpen] = useState(false);
 
+  const navRef = useRef<HTMLElement>(null);
+  useEffect(() => { setMobileMenuOpen(false); setToolsOpen(false); }, [pathname]);
+  useEffect(() => {
+    function keydown(event: KeyboardEvent) {
+      if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') { event.preventDefault(); setSearchOpen(true); }
+      if (event.key === 'Escape') { setToolsOpen(false); setMobileMenuOpen(false); }
+    }
+    function pointerdown(event: PointerEvent) {
+      if (!navRef.current?.contains(event.target as Node)) setToolsOpen(false);
+    }
+    window.addEventListener('keydown', keydown);
+    document.addEventListener('pointerdown', pointerdown);
+    return () => { window.removeEventListener('keydown', keydown); document.removeEventListener('pointerdown', pointerdown); };
+  }, []);
   return (
     <>
-      <header className={styles.navbar}>
+      <header ref={navRef} className={styles.navbar}>
         <div className={styles.inner}>
           <div className={styles.left}>
             <Link href="/" className={styles.brand}>
-              Om Tyska <span className={styles.brandTld}>.se</span>
+              <BrandEmblem className={styles.emblem} /><span><span className={styles.brandName}>Om Tyska.</span><span className={styles.brandTag}>Språk · Bildning · Kultur</span></span>
             </Link>
 
             <nav className={styles.links} aria-label="Huvudmeny">
@@ -48,12 +63,13 @@ export default function Navbar() {
                   }
                   onClick={() => setToolsOpen(prev => !prev)}
                   aria-expanded={toolsOpen}
+                  aria-controls="ovningsmeny"
                 >
                   Öva <span className={styles.chevron} aria-hidden="true">▾</span>
                 </button>
 
                 {toolsOpen && (
-                  <div className={styles.dropdownMenu}>
+                  <div id="ovningsmeny" className={styles.dropdownMenu}>
                     {siteConfig.tools.map(tool => (
                       <Link
                         key={tool.id}
@@ -81,7 +97,7 @@ export default function Navbar() {
                 href="/blog"
                 className={pathname.startsWith('/blog') ? styles.linkActive : styles.link}
               >
-                Blogg
+                Anteckningar
               </Link>
             </nav>
           </div>
@@ -120,16 +136,17 @@ export default function Navbar() {
               type="button"
               className={styles.toggle}
               onClick={() => setMobileMenuOpen(prev => !prev)}
-              aria-label="Öppna meny"
+              aria-label={mobileMenuOpen ? "Stäng meny" : "Öppna meny"}
+              aria-controls="mobilmeny"
               aria-expanded={mobileMenuOpen}
             >
-              ☰
+              {mobileMenuOpen ? '×' : '☰'}
             </button>
           </div>
         </div>
 
         {mobileMenuOpen && (
-          <div className={styles.mobile}>
+          <div id="mobilmeny" className={styles.mobile}>
             <p className={styles.mobileHeading}>Meny</p>
             <Link
               href="/grammatik"
@@ -150,7 +167,7 @@ export default function Navbar() {
               className={styles.mobileLink}
               onClick={() => setMobileMenuOpen(false)}
             >
-              Blogg
+              Anteckningar
             </Link>
 
             <p className={styles.mobileHeading}>Övningsverktyg</p>

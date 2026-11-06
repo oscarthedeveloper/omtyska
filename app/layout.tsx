@@ -27,6 +27,7 @@ export const metadata: Metadata = {
     'svenska',
   ],
   authors: [{ name: siteConfig.name }],
+  icons: { icon: '/brand/mark.svg' },
   alternates: { canonical: '/' },
   openGraph: {
     type: 'website',

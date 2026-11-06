@@ -16,7 +16,7 @@ const COMPARISONS = [
   { label: 'ein guter eller der gute? (Adjektivändelser)', href: '/docs/adjektiv/blandad-bojning' },
   { label: 'weil eller deshalb? (Bisatsordföljd)', href: '/docs/syntax/ordfoljd-i-bisatser' },
   { label: 'haben eller sein i perfekt?', href: '/docs/tempus/perfekt' },
-  { label: 'du musst nicht vs du darfst nicht', href: '/mer/klurigheter/muss-nicht-vs-darf-nicht' },
+  { label: 'du musst nicht vs du darfst nicht', href: '/mer/mussen-sollen-durfen' },
 ];
 
 export default function GrammatikPage() {
@@ -37,7 +37,7 @@ export default function GrammatikPage() {
       {/* Snabba jämförelser */}
       <section className={styles.quickComparisons} aria-label="Vanliga klurigheter och jämförelser">
         <p className="eyebrow" style={{ color: 'var(--muted)', margin: 0 }}>
-          ⚡ Snabbkoll: Vanliga frågor
+          Snabbkoll: Vanliga frågor
         </p>
         <div className={styles.comparisonPills}>
           {COMPARISONS.map(c => (

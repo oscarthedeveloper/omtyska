@@ -8,11 +8,9 @@ export default function Footer() {
       <div className={styles.inner}>
         <div className={styles.top}>
           <div>
-            <div className={styles.brand}>Om Tyska</div>
+            <div className={styles.brand}>Om Tyska.</div>
             <p className={styles.lead}>
-              En gratis, modern och pedagogisk tysk grammatika för svensktalande elever, studenter och
-              självstuderande. Utvecklad med fokus på förståelse, tysk kasus- och satsstruktur samt
-              interaktiv träning.
+              En svensk ingång till det tyska. Språket, tanken och bildningen — med grammatikan som utgångspunkt.
             </p>
             <div className={styles.sources} style={{ marginTop: '1rem' }}>
               <strong>Auktoritativa källor:</strong> Tysk grammatik kalibrerad mot{' '}
@@ -36,7 +34,7 @@ export default function Footer() {
               <li><Link href="/docs/kasus/ackusativ">Kasus och rektion</Link></li>
               <li><Link href="/docs/prepositioner/vaxelprepositioner">Växelprepositioner</Link></li>
               <li><Link href="/docs/syntax/ordfoljd-i-bisatser">Syntax och ordföljd</Link></li>
-              <li><Link href="/mer">Mer grammatik & fördjupning</Link></li>
+              <li><Link href="/grammatik#kat-E">Mer grammatik & fördjupning</Link></li>
             </ul>
           </div>
 
@@ -49,14 +47,14 @@ export default function Footer() {
               <li><Link href="/meningsbygget">Meningsbygget</Link></li>
               <li><Link href="/larstig">Lärstigen (54 steg)</Link></li>
               <li><Link href="/framsteg">Mina framsteg</Link></li>
-              <li><Link href="/repetition">Spaced repetition</Link></li>
+              <li><Link href="/repetition">Dagens repetition</Link></li>
             </ul>
           </div>
 
           <div>
             <div className={styles.heading}>Om tjänsten</div>
             <ul className={styles.list}>
-              <li><Link href="/blog">Blogg & språkartiklar</Link></li>
+              <li><Link href="/blog">Språkanteckningar</Link></li>
               <li><Link href="/kontakt">Kontakt och rättelser</Link></li>
               <li><Link href="/tack">Tack till bidragsgivare</Link></li>
               <li style={{ marginTop: '0.75rem', color: '#666', fontSize: '0.8125rem' }}>
@@ -67,8 +65,8 @@ export default function Footer() {
         </div>
 
         <div className={styles.bottom}>
-          <div>© {new Date().getFullYear()} Om-Tyska. Utvecklad för svenska studerande av tyska språket.</div>
-          <div>Betydelse · Form · Funktion · Repetition</div>
+          <div>© {new Date().getFullYear()} Om-Tyska. En svensk ingång till det tyska.</div>
+          <div>Språk · Tanke · Bildning</div>
         </div>
       </div>
     </footer>

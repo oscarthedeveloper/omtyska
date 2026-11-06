@@ -44,8 +44,8 @@ export default function GrammarModeToggle({ mobile = false }: { mobile?: boolean
         <p className={styles.mobileLabel}>Läsdjup</p>
         <p className={styles.mobileDesc}>
           {mode === 'lattsam'
-            ? '☕ Lättsam: Snabb överblick, enkla exempel och fokuserad övning.'
-            : '🔬 Rigorös: Kompletta formtabeller, undantag, historik och referens.'}
+            ? 'Lättsam: Snabb överblick, enkla exempel och fokuserad övning.'
+            : 'Rigorös: Kompletta formtabeller, undantag, historik och referens.'}
         </p>
         {toggle}
       </div>

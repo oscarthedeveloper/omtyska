@@ -119,3 +119,7 @@
     display: block;
   }
 }
+
+.heading, .categoryLabel { color:var(--brand); font-size:.625rem; }
+.link, .linkActive { font-size:.8125rem; letter-spacing:0; padding:8px 10px; }
+.linkActive { color:var(--brand); border-left:2px solid var(--brand); background:var(--surface-soft); }

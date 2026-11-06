@@ -1,0 +1,175 @@
+---
+id: X059
+title: 'Kvantifikation och distributivitet'
+description: 'En formell semantisk och syntaktisk analys av tyskans kvantifikatorer: universella och existentiella kvantorer, distributiv kontra kollektiv läsning samt räckviddsambiguitet.'
+slug: '/fordjupning/semantik/kvantifikation-och-distributivitet'
+sidebar_position: 1
+category: 'Fördjupning'
+suggestedLevels: ['B2', 'C1', 'C2']
+rigoros: true
+prerequisites: ['R09', 'D04']
+objectives:
+  - 'Kartlägga tyskans kvantifikatorsystem: universella (jeder, alle), existentiella (manche, einige) och negativa kvantorer'
+  - 'Skilja mellan distributiv och kollektiv tolkning med hjälp av lexikala markörer (jeweils, gemeinsam)'
+  - 'Analysera semantisk räckvidd (Skopus) och förstå hur tysk ordföljd begränsar räckviddsambiguitet'
+  - 'Tillämpa skalära implikaturer vid numeraler och kvantifierande modifikatorer'
+---
+
+<LessonIntro
+  situation="Du läser meningen 'Zwei Polizisten verhafteten vier Demonstranten' och undrar om det rör sig om sammanlagt sex inblandade personer (kollektiv handling) eller om varje polis grep fyra unika demonstranter (distributiv handling, totalt åtta gripna)."
+  goals={[
+    "Skilja mellan distributiv läsning (handling utförs individuellt) och kollektiv läsning (handling utförs gemensamt)",
+    "Använda partikeln 'jeweils' och 'zusammen' för att upphäva semantisk ambiguitet",
+    "Förstå hur tyskans förfält och ordföljd styr kvantifikatorernas semantiska räckvidd (Skopus)",
+    "Undvika böjnings- och numerusfel vid universella kvantorer som 'jeder' (singular) och 'alle' (plural)"
+  ]}
+  prerequisites={[
+    { href: "/docs/pronomen/indefinita", label: "R09: Indefinita pronomen" },
+    { href: "/docs/adjektiv/deklination", label: "D04: Bestämningsord och adjektivböjning" }
+  ]}
+/>
+
+Kvantifikation (*Quantifikation*) behandlar frågan om **hur många** element i en mängd som omfattas av ett predikat. I modern logisk semantik (*Semantik des Deutschen*, Wolfgang Sternefeld, Manfred Krifka) är kvantifikatorer inte bara räkneord, utan operatorer som binder variabler och interagerar med satstopologi och informationsstruktur.
+
+---
+
+## 1. Tyskans kvantifikatorsystem
+
+Kvantifikatorer delas traditionellt in i tre logiska grundkategorier:
+
+| Kvantifikatortyp | Lexikala representanter | Numerus | Logisk innebörd |
+| :--- | :--- | :--- | :--- |
+| **Universell (Allkvantor $\forall$)** | *jeder, alle, sämtliche* | *jeder* (Sing.), *alle* (Plur.) | Omfattar 100 % av referensmängden utan undantag |
+| **Existentiell (Existenskvantor $\exists$)** | *einige, manche, mehrere, ein paar* | Plural | Omfattar minst ett element ($\ge 1$), vanligen en delmängd |
+| **Negativ (Nollkvantor $\neg\exists$)** | *kein, niemand, nichts* | *kein* (Sing./Plur.), *niemand* (Sing.) | Mängden är tom (0 %) |
+| **Partitiv / Proportionell** | *die meisten, viele, wenige* | Plural | Omfattar en statistisk majoritet eller minoritet |
+
+### *jeder* kontra *alle*
+En av de viktigaste syntaktiska skiljelinjerna går mellan *jeder* och *alle*:
+* ***jeder* (Singular):** Tvingar fram en **individuell/distributiv** betraktelse av varje enskild individ. Verbet måste stå i singular:  
+  *Jeder Teilnehmer **erhält** ein Zertifikat.*
+* ***alle* (Plural):** Kan betrakta mängden som en helhet (**kollektivt**) eller delat. Verbet måste stå i plural:  
+  *Alle Teilnehmer **erhalten** ein Zertifikat.*
+
+---
+
+## 2. Distributiv kontra kollektiv läsning
+
+Många satser med numeriska eller universella kvantifikatorer är **semantiskt tvetydiga** om de saknar förtydligande kontext:
+
+```
+Grundmening:
+"Drei Professoren schrieben einen Fachartikel."
+
+Tolkning A (Kollektiv läsning):
+De tre professorerna författade en enda gemensam artikel tillsammans.
+(1 artikel totalt)
+
+Tolkning B (Distributiv läsning):
+Var och en av de tre professorerna författade en egen artikel.
+(3 artiklar totalt)
+```
+
+### Lexikala disambiguerare
+För att upphäva denna tvåtydighet använder tyskan specifika modifikatorer:
+
+1. **För att framtvinga distributiv läsning:**
+   * **jeweils** (respektive / var och en): *Die Professoren schrieben **jeweils** einen Artikel.*
+   * **jeder einzelne**: *Jeder einzelne Professor schrieb einen Artikel.*
+   * **je ein**: *Die Bewerber erhielten **je eine** Aufgabe.*
+2. **För att framtvinga kollektiv läsning:**
+   * **gemeinsam / zusammen**: *Die Professoren schrieben **gemeinsam** einen Artikel.*
+   * **insgesamt**: *Sie verfassten **insgesamt** einen Artikel.*
+
+---
+
+## 3. Semantisk räckvidd och tysk ordföljd (*Skopus*)
+
+När en sats innehåller två eller flera kvantifikatorer uppstår frågan om vilken kvantifikator som har **störst räckvidd (*weiter Skopus*)**:
+
+```
+Mening med två kvantorer:
+"Ein Arzt behandelte jeden Patienten."
+
+Möjlighet 1 (Ytlig räckvidd: Ein > Jeden):
+Det finns en specifik läkare som behandlade samtliga patienter.
+(Samma läkare för alla).
+
+Möjlighet 2 (Inverterad räckvidd: Jeden > Ein):
+För varje enskild patient fanns det en läkare som behandlade honom/henne.
+(Kan vara olika läkare för olika patienter).
+```
+
+### Tyskans syntaktiska fördel
+I engelskan är meningen *A doctor treated every patient* notoriskt tvetydig. Tyskan har däremot en stark tendens till **isomorfi mellan ytsyntax och logisk räckvidd**:
+* Det led som står i **förfältet** tenderar att ha vid räckvidd över led i mittfältet.
+* Om talaren vill markera att alla patienter behandlades av olika läkare, placeras *jeden Patienten* i förfältet:
+  * * **Jeden Patienten** behandelte ein Arzt.* (Här är tolkningen med distribuerade läkare oerhört mycket starkare och mer naturlig!).
+
+---
+
+## 4. Numeraler och skalär implikatur
+
+Enligt Paul Grices samarbetsprincip (*Kooperationsprinzip*) tolkas rena kardinaltal pragmatiskt annorlunda än deras strikta logiska definition:
+
+* **Logisk sanning:** Om jag har fem barn, är påståendet *Ich habe drei Kinder* logiskt sant (eftersom 5 implicerar minst 3).
+* **Pragmatisk tolkning (Skalär implikatur):** Lyssnaren antar att talaren är så informativ som möjligt; därför tolkas *Ich habe drei Kinder* som **exakt tre**.
+
+För att styra denna implikatur använder tysk sakprosa exakta determinativa modifikatorer:
+* *mindestens drei* / *höchstens drei*
+* *genau drei* / *exakt drei*
+* *knapp drei* / *über drei*
+
+---
+
+## 5. Tio autentiska exempel med semantisk analys
+
+1. **Jeder Studierende muss bis zum Semesterende eine eigenständige Seminararbeit einreichen.**  
+   *Varje student måste lämna in en självständig seminarieuppsats före terminens slut.*  
+   *Analys:* Distributiv universell kvantor i singular (*Jeder Studierende*); kräver singularverb (*muss*) och distribuerar en uppsats per student.
+2. **Die fünf Ingenieure entwickelten gemeinsam das neue Antriebskonzept.**  
+   *De fem ingenjörerna utvecklade tillsammans det nya drivningskonceptet.*  
+   *Analys:* Det lexikala adverbialet *gemeinsam* tvingar fram en ren kollektiv läsning (ett enda gemensamt koncept).
+3. **Alle Delegierten stimmten für den Kompromissvorschlag.**  
+   *Alla delegater röstade för kompromissförslaget.*  
+   *Analys:* Universell kvantor i plural (*Alle Delegierten*) med kollektivt parlamentariskt utfall.
+4. **Die Teilnehmer erhielten jeweils ein personalisiertes Namensschild.**  
+   *Deltagarna fick var och en en personlig namnbricka.*  
+   *Analys:* Adverbet *jeweils* distribuerar namnskyltarna en till en till deltagarna.
+5. **Jedes Kind hat ein Lied gesungen.**  
+   *Varje barn sjöng en sång.*  
+   *Analys:* Ytlig vid räckvidd för *Jedes Kind*; kan tolkas som att olika barn sjöng olika sånger.
+6. **Ein einziges Lied haben alle Kinder gesungen.**  
+   *En enda sång sjöng alla barn.*  
+   *Analys:* Förfältsplaceringen av *Ein einziges Lied* etablerar vid räckvidd för sången: barnen sjöng samma melodi.
+7. **Einige Abgeordnete verließen aus Protest den Plenarsaal.**  
+   *Några ledamöter lämnade plenisalen i protest.*  
+   *Analys:* Existentiell kvantor i plural (*Einige*) som anger en obestämd delmängd av helheten.
+8. **Niemand im gesamten Kollegium konnte eine schlüssige Erklärung liefern.**  
+   *Ingen i hela kollegiet kunde leverera en sammanhängande förklaring.*  
+   *Analys:* Negativ kvantor (*Niemand*) i singular som tömmer extensionsmängden helt.
+9. **Mindestens drei Gutachter müssen dem Dissertationsantrag schriftlich zustimmen.**  
+   *Minst tre sakkunniga måste skriftligen godkänna avhandlingsansökan.*  
+   *Analys:* Kardinaltal med nedre skalär begränsning (*Mindestens drei*); upphäver "exakt"-implikaturen.
+10. **Mehrere Zeugen beobachteten den Unfall unabhängig voneinander.**  
+    *Flera vittnen observerade olyckan oberoende av varandra.*  
+    *Analys:* Existentiell kvantor (*Mehrere*) kombinerad med *unabhängig voneinander*, vilket etablerar strikt distributiva vittnesmål.
+
+---
+
+## 6. Svenska interferensfällor
+
+> [!WARNING]
+> 1. **Blanda ihop numerus vid *jeder* och *alle*:** Svenskar gör ofta misstaget att använda pluralverb efter *jeder* på grund av associationen med "alla": *\*Jeder wissen das*. Korrekt tysk form kräver strikt singular: **Jeder weiß das** (eller i plural: *Alle wissen das*).
+> 2. **Placering av *jeweils*:** På svenska sätts ofta "var och en" eller "respektive" sist eller intill subjektet. På tyska placeras *jeweils* som adverbial i **mittfältet** omedelbart framför det ackusativobjekt som ska distribueras: *Sie bekamen **jeweils** einen Preis*.
+> 3. **Böjning av *einige* och *mehrere* efter preposition:** Kvantifikatorer i plural böjs som starka adjektiv. Efter prepositioner som styr dativ (*mit, von*) måste de ha ändelsen **-n**: *mit einige**n** Freunden*, *von mehrere**n** Seiten*.
+> 4. **Förväxla *kein* och *nicht ein*:** För normal negation av nominalfraser används alltid **kein** (*Ich habe keine Zeit*). Konstruktionen *nicht ein* används uteslutande för emfatiskt fokus ("inte en enda"): *Nicht ein einziger Mensch war zu sehen*.
+
+<RelatedLessons
+  lessons={[
+    { label: 'R09: Indefinita pronomen', href: '/docs/pronomen/indefinita' },
+    { label: 'D04: Bestämningsord och adjektivböjning', href: '/docs/adjektiv/deklination' },
+    { label: 'X016: Definithet, specificitet och generisk referens', href: '/docs/fordjupning/nominalfras/definithet-specificitet-och-generisk-referens' },
+    { label: 'X060: Negation, fokus och polaritet', href: '/docs/fordjupning/semantik/negation-fokus-och-polaritet' }
+  ]}
+/>

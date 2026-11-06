@@ -2332,7 +2332,7 @@
       ],
       "href": "/docs/fordjupning/ljud-och-prosodi/intonation-och-informationsstruktur",
       "requiredCoverage": "Frasering, fokusaccent, stigande/fallande förlopp, ekofrågor och kontrast; flera möjliga uttal i samma skriftliga mening.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X006",
@@ -2490,7 +2490,7 @@
       ],
       "href": "/docs/fordjupning/nominalfras/definithet-specificitet-och-generisk-referens",
       "requiredCoverage": "Bestämd/obestämd/artikellös nominalfras, artspecifik/generisk/situationell tolkning; flera kontextpar och översättningsskillnader.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X017",
@@ -3098,7 +3098,7 @@
       ],
       "href": "/docs/fordjupning/semantik/kvantifikation-och-distributivitet",
       "requiredCoverage": "Alla/några/ingen, distributiv/kollektiv läsning, numeraler och räckviddsambiguitet; frasernas bidrag visas i minimal kontext.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X060",
@@ -3111,7 +3111,7 @@
       ],
       "href": "/docs/fordjupning/semantik/negation-fokus-och-polaritet",
       "requiredCoverage": "Sats-/lednegation, negativ kongruens som markerat variantsystem, litotes, polaritetskänsliga uttryck och nekande svar.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X061",

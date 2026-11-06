@@ -3382,7 +3382,7 @@
       ],
       "href": "/docs/fordjupning/ortografi/komma-vid-komplexa-infinitivgrupper",
       "requiredCoverage": "Aktuellt officiellt regelverk, gruppgränser, korrelat och betydelseskillnader; revisionsdatum och paragraf för varje regel.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X080",
@@ -3397,7 +3397,7 @@
       ],
       "href": "/docs/fordjupning/ortografi/sarskrivning-sammanskrivning-och-bindestreck",
       "requiredCoverage": "Verbkombinationer, adjektiv/particip, namn och lånord; flera tillåtna stavningar och relation till grammatisk struktur.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X081",
@@ -3411,7 +3411,7 @@
       ],
       "href": "/docs/fordjupning/ortografi/interpunktion-och-satsstruktur",
       "requiredCoverage": "Kolon, semikolon, tankstreck, parenteser, direkt tal och inskott; valfrihet och betydelse/pragmatik skild från obligatoriskt komma.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X082",
@@ -3425,7 +3425,7 @@
       ],
       "href": "/docs/fordjupning/referensmetod/grammatiska-analyser-och-deras-granser",
       "requiredCoverage": "Satsledsprov, dependens/konstituens, valens och olika ordklassystem; analysen är en modell, inte en extra korrekthetsnorm.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X083",
@@ -3438,7 +3438,7 @@
       ],
       "href": "/docs/fordjupning/referensmetod/grammatiska-tveksamhetsfall-ao",
       "requiredCoverage": "Redaktionellt register över belagda frågor, varianter och källor; länka till ägande sakartikel och håll statusdatum per fall.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     }
   ]
 }

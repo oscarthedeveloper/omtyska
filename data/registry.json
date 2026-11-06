@@ -2815,6 +2815,111 @@
       "contentExists": true,
       "contentFile": "content/docs/Fordjupning/Morfologi/pluralvariation-dubbelplural-och-massord.mdx",
       "reviewEvidence": "internal-crosscheck-morphology-approved"
+    },
+    {
+      "id": "X010",
+      "section": "docs",
+      "slug": "/fordjupning/morfologi/kompositionens-typer-och-fogeelement",
+      "href": "/docs/fordjupning/morfologi/kompositionens-typer-och-fogeelement",
+      "title": "Kompositionens typer och fogeelement",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "S09",
+        "E05"
+      ],
+      "requiredCoverage": "Determinativa/koordinativa och andra analyser, huvudled, foge-s/-n/ø, intern struktur, produktivitet och restriktioner.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "Fleischer/Barz Wortbildung der deutschen Gegenwartssprache"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 110,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Morfologi/kompositionens-typer-och-fogeelement.mdx",
+      "reviewEvidence": "internal-crosscheck-wordformation-approved"
+    },
+    {
+      "id": "X011",
+      "section": "docs",
+      "slug": "/fordjupning/morfologi/nominala-avledningssuffix",
+      "href": "/docs/fordjupning/morfologi/nominala-avledningssuffix",
+      "title": "Nominala avledningssuffix",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "E05",
+        "S01"
+      ],
+      "requiredCoverage": "Suffixfamiljer med basordklass, genus, plural, betydelse och produktivitet; skilj suffix från bokstavsslut och lexikala undantag.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "Fleischer/Barz Wortbildung der deutschen Gegenwartssprache"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 111,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Morfologi/nominala-avledningssuffix.mdx",
+      "reviewEvidence": "internal-crosscheck-wordformation-approved"
+    },
+    {
+      "id": "X012",
+      "section": "docs",
+      "slug": "/fordjupning/morfologi/adjektiv-och-adverbavledning",
+      "href": "/docs/fordjupning/morfologi/adjektiv-och-adverbavledning",
+      "title": "Adjektiv- och adverbavledning",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "E05",
+        "A01",
+        "D01"
+      ],
+      "requiredCoverage": "-bar/-lich/-ig/-isch/-haft/-los, -weise och gränsen adjektiv/adverb; valens och semantisk begränsning.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "Fleischer/Barz Wortbildung der deutschen Gegenwartssprache"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 112,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Morfologi/adjektiv-och-adverbavledning.mdx",
+      "reviewEvidence": "internal-crosscheck-wordformation-approved"
+    },
+    {
+      "id": "X014",
+      "section": "docs",
+      "slug": "/fordjupning/morfologi/konversion-kortord-och-produktiva-nybildningar",
+      "href": "/docs/fordjupning/morfologi/konversion-kortord-och-produktiva-nybildningar",
+      "title": "Konversion, kortord och produktiva nybildningar",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "E05",
+        "S08"
+      ],
+      "requiredCoverage": "Substantivering, initialord, förkortning, kontamination och lånordsanpassning; artikel, plural och böjning i faktisk användning.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "Fleischer/Barz Wortbildung der deutschen Gegenwartssprache"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 114,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Morfologi/konversion-kortord-och-produktiva-nybildningar.mdx",
+      "reviewEvidence": "internal-crosscheck-wordformation-approved"
     }
   ]
 }

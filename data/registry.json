@@ -4491,6 +4491,87 @@
       "contentExists": true,
       "contentFile": "content/docs/Fordjupning/TextOchSamtal/talad-grammatik-och-samtalsenheter.mdx",
       "reviewEvidence": "internal-crosscheck-spoken-grammar-approved"
+    },
+    {
+      "id": "X071",
+      "section": "docs",
+      "slug": "/fordjupning/text-och-samtal/vorfeldbortfall-och-situationsell-ellips",
+      "href": "/docs/fordjupning/text-och-samtal/vorfeldbortfall-och-situationsell-ellips",
+      "title": "Vorfeldbortfall och situationsell ellips",
+      "suggestedLevel": "B2",
+      "prerequisites": [
+        "Y01",
+        "Y02"
+      ],
+      "requiredCoverage": "Topic drop, korta svar och situationsförståelse; märk tal/nätmedier och skilj från det formella skriftspråkets norm.",
+      "status": "ready",
+      "sources": [
+        "Peter Eisenberg Grundriss der deutschen Grammatik: Der Satz",
+        "Duden Band 4 - Die Grammatik",
+        "Gisela Zifonun et al. Grammatik der deutschen Sprache (IDS)",
+        "Susanne Günthner Diskursgrammatik"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 173,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/TextOchSamtal/vorfeldbortfall-och-situationsell-ellips.mdx",
+      "reviewEvidence": "internal-crosscheck-topic-drop-approved"
+    },
+    {
+      "id": "X072",
+      "section": "docs",
+      "slug": "/fordjupning/text-och-samtal/diskursmarkorer-och-responsuttryck",
+      "href": "/docs/fordjupning/text-och-samtal/diskursmarkorer-och-responsuttryck",
+      "title": "Diskursmarkörer och responsuttryck",
+      "suggestedLevel": "B2",
+      "prerequisites": [
+        "Y07",
+        "B03"
+      ],
+      "requiredCoverage": "Also, na ja, tja, ja/nein/doch, kontakt och korrigering; position, prosodi och olika funktioner hos samma form.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Susanne Günthner Diskursgrammatik",
+        "Arnulf Deppermann Grammatik und Interaktion",
+        "Gisela Zifonun et al. Grammatik der deutschen Sprache (IDS)"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 174,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/TextOchSamtal/diskursmarkorer-och-responsuttryck.mdx",
+      "reviewEvidence": "internal-crosscheck-discourse-markers-approved"
+    },
+    {
+      "id": "X073",
+      "section": "docs",
+      "slug": "/fordjupning/text-och-samtal/referat-evidens-och-perspektiv-i-text",
+      "href": "/docs/fordjupning/text-och-samtal/referat-evidens-och-perspektiv-i-text",
+      "title": "Referat, evidens och perspektiv i text",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "M06",
+        "E06"
+      ],
+      "requiredCoverage": "Direkt/indirekt/fritt indirekt tal, referensskiften och källangivelse; litterär berättarteknik mot vanlig referatgrammatik.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Peter Eisenberg Grundriss der deutschen Grammatik: Der Satz",
+        "Käte Hamburger Die Logik der Dichtung",
+        "Gisela Zifonun et al. Grammatik der deutschen Sprache (IDS)"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 175,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/TextOchSamtal/referat-evidens-och-perspektiv-i-text.mdx",
+      "reviewEvidence": "internal-crosscheck-reported-speech-approved"
     }
   ]
 }

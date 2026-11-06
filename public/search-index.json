@@ -161,6 +161,42 @@
     "bl": ""
   },
   {
+    "id": "K04",
+    "t": "Dativ och verb som styr dativ",
+    "d": "Lär dig det tyska dativsystemet: mottagarens kasus, speciella verb som alltid styr dativ (helfen, danken, gefallen, gehören) och uttryck som \"Mir ist kalt\".",
+    "h": "/docs/kasus/dativ",
+    "c": "Kasus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Dativ som mottagare (Indirekt objekt)",
+      "2. Verb som ALLTID styr dativ",
+      "3. Opersonliga dativuttryck: \"Mir ist kalt\"",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Dativ svarar på frågan Wem? (Åt vem? Till vem?): Genus / Numerus Bestämd artikel Obestämd artikel Negerande form Exempel :--- :--- :--- :--- :--- Maskulinum dem einem keinem dem Mann / einem Mann Femininum der einer keiner der Frau / einer Frau Neutrum dem einem keinem dem Kind / einem Kind Plural den (+n) – (+n) keinen (+n) den Kindern / keinen Freunden 💡 Dativens två superregler för artiklar Maskulinum och Neutrum är tvillingar: Båda heter alltid dem / einem ! Femininum lånar r-ändelsen: Den feminina artikeln die blir der / einer i dativ. Plural får dubbelt n: Artikeln blir den och substantivet får ändelsen -n : den Hunden , den Tischen . --- 1. Dativ som mottagare (Indirekt objekt) När en mening har två objekt anger dativ vem som tar emot saken, medan ackusativ anger vad som ges: --- 2. Verb som ALLTID styr dativ I svenskan ser verbet hjälpa ut som ett vanligt verb med direkt objekt ( \"Jag hjälper honom\" ). I tyskan är det däremot ett dativverb : Tyskt dativverb Svensk betydelse Exempel med dativ :--- :--- :--- helfen hjälpa Ich helfe dem Mann . (inte den Mann!) danken tacka Wir danken Ihnen . (Vi tackar Er.) gratulieren gratulera Ich gratuliere dir zum Geburtstag! gehören tillhöra Das Auto gehört meinem Vater . gefallen behaga / tilltala Berlin gefällt mir sehr gut. passen passa (storlek/tid) Die Hose passt dem Kind nicht. schmecken smaka gott för Die Suppe schmeckt den Gästen . antworten svara (en person) Bitte antworte mir bald! --- 3. Opersonliga dativuttryck: \"Mir ist kalt\" En av de roligaste och viktigaste skillnaderna mellan svenska och tyska är hur man uttrycker kroppsliga tillstånd: Felaktig svensk översättning Korrekt tyska med dativ Betydelse på svenska :--- :--- :--- ❌ Ich bin kalt. ✅ Mir ist kalt. Jag fryser. (Ich bin kalt betyder \"jag är en känslokall person\" eller \"jag är likstel\") ❌ Ich bin warm. ✅ Mir ist warm. Jag är varm / svettas. ❌ Ich bin schlecht. ✅ Mir ist schlecht. Jag mår illa. (Ich bin schlecht betyder \"jag är en dålig människa\") ❌ Ich bin langweilig. ✅ Mir ist langweilig. Jag har tråkigt. (Ich bin langweilig betyder \"jag är en tråkig person\") --- 10 autentiska exempel 1. Kannst du meiner Mutter bitte beim Tragen helfen? (helfen styr dativ: meiner Mutter.) 2. Ich gebe dem Kellner ein gutes Trinkgeld. (dem Kellner är mottagaren i dativ maskulinum.) 3. Wie geht es deinem Bruder ? (Dativ i hälsningsfras: deinem Bruder.) 4. Das neue Haus gefällt den Nachbarn sehr. (gefallen styr dativ plural: den Nachbarn.) 5. Wir danken dem Arzt von ganzem Herzen. (danken styr dativ: dem Arzt.) 6. Der Schlüssel gehört diesem Herrn hier. (gehören styr dativ: diesem Herrn.) 7. Zieh eine Jacke an, sonst wird dir kalt! (Tillstånd med dativ: dir wird kalt.) 8. Der Pullover passt dem Kind leider nicht mehr. (passen styr dativ: dem Kind.) 9. Er antwortet seinem Chef immer sehr höflich. (antworten styr dativ: seinem Chef.) 10. Ich gratuliere euch zur bestandenen Prüfung! (gratulieren med dativplural: euch.) ---",
+    "bl": ""
+  },
+  {
+    "id": "K02",
+    "t": "Nominativ: subjekt och predikativ",
+    "d": "Lär dig nominativens dubbla roller i tysk grammatik: subjektet som utför handlingen samt predikativet (subjektsfyllnaden) efter verben sein, werden och bleiben.",
+    "h": "/docs/kasus/nominativ",
+    "c": "Kasus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Artiklar i nominativ (Grundmatrisen)",
+      "2. Den stora predikativfällan: \"Sein\" är ett likhetstecken",
+      "3. Subjektet kan stå var som helst i satsen!",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Nominativ är grundkasus i tyskan och fyller två avgörande funktioner: 1. Subjektet (den som handlar / upplever) : Svarar på frågan: Wer oder was? Der Mann schläft. (Wer schläft? — Der Mann.) Gestern hat mein Bruder ein neues Auto gekauft. (Subjektet står på position 3, men är fortfarande nominativ!) 2. Predikativ / Subjektsfyllnad (likhetstecken) : Efter de tre tillståndsverben sein (vara), werden (bli) och bleiben (förbli/stanna) står nominalfrasen i nominativ , ALDRIG ackusativ! Er ist ein guter Lehrer . (inte einen!) Sie wird eine erfolgreiche Ärztin . Er bleibt mein bester Freund . --- 1. Artiklar i nominativ (Grundmatrisen) Kategori Bestämd artikel Obestämd artikel Negerande form Possessiv (min) :--- :--- :--- :--- :--- Maskulinum der Tisch ein Tisch kein Tisch mein Tisch Femininum die Lampe eine Lampe keine Lampe meine Lampe Neutrum das Kind ein Kind kein Kind mein Kind Plural die Bücher – Bücher keine Bücher meine Bücher --- 2. Den stora predikativfällan: \"Sein\" är ett likhetstecken I svenskan och engelskan säger man ofta objektsform efter verbet vara i talspråk ( \"Det är honom\", \"It is him\" ). På tyska är verbet sein ett matematiskt likhetstecken (=) : Samma regel gäller för werden (bli) och bleiben (förbli): Thomas bleibt ein treuer Freund . (inte einen) Mein Sohn wird bald ein großer Junge . (inte einen) --- 3. Subjektet kan stå var som helst i satsen! Låt dig inte luras av var ordet råkar stå. Subjektet är alltid det led som styr verbets person och numerus: I alla tre meningarna ovan är det hunden ( der Hund i nominativ) som ser, och mannen ( den Mann i ackusativ) som blir sedd! --- 10 autentiska exempel 1. Der alte Professor unterrichtet seit dreißig Jahren. (Subjekt på position 1 i nominativ maskulinum.) 2. Morgen kommt meine Schwester zu Besuch. (Inversion: Subjektet meine Schwester står på position 3.) 3. Herr Schneider ist ein sehr erfahrener Arzt . (Predikativ i nominativ maskulinum efter ist: ein sehr erfahrener Arzt.) 4. Trotz des Regens bleibt der Park den ganzen Tag geöffnet. (Subjekt efter långt förfält.) 5. Das wird bestimmt ein unvergesslicher Abend ! (Predikativ efter wird: ein unvergesslicher Abend.) 6. Die Kinder schlafen schon tief und fest. (Plural nominativ som subjekt: Die Kinder schlafen.) 7. Hier liegt mein Pass . (Platsadverbial Hier + finit verb liegt + subjekt mein Pass i nominativ.) 8. Er bleibt unser bester Kunde . (Predikativ efter bleibt: unser bester Kunde.) 9. Wer ist an der Tür? — Ich bin es! (Tysk konstruktion med nominativ: Ich bin es, bokstavligen \"Jag är det\".) 10. Dieses Buch ist wirklich spannend zu lesen. (Demonstrativt pronomen som subjekt i nominativ neutrum.) ---",
+    "bl": ""
+  },
+  {
     "id": "K01",
     "t": "Vad är kasus?",
     "d": "En fullständig introduktion till tyskans fyra kasus: nominativ, ackusativ, dativ och genitiv. Förstå skillnaden mellan genus och kasus, vem som gör vad och hur kasus styrs.",
@@ -178,6 +214,100 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut Tyskan har fyra kasus : 1. Nominativ (Subjektet) : Svarar på Wer? (Vem gör handlingen?) Der Mann lacht. (Mannen skrattar.) 2. Ackusativ (Direkta objektet) : Svarar på Wen eller Was? (Vem/vad utsätts direkt?) Ich sehe den Mann . (Jag ser mannen.) 3. Dativ (Indirekta objektet / mottagaren) : Svarar på Wem? (Åt/till vem?) Ich gebe dem Mann den Schlüssel. (Jag ger nyckeln åt mannen.) 4. Genitiv (Ägande / tillhörighet) : Svarar på Wessen? (Vems?) Das Auto des Mannes . (Mannens bil.) --- 1. Genus är INTE samma sak som Kasus! Detta är den vanligaste förväxlingen: Genus är ordets permanenta biologiska/grammatiska kön i ordboken (t.ex. der Tisch är alltid maskulinum). Det ändras aldrig. Kasus är kostymen ordet tar på sig i en specifik mening beroende på vad ordet gör just där! --- 2. Den bestämda artikelns magiska matris Här är hela det tyska kasussystemet samlat i en enda överskådlig tabell: Kasus Fråga Maskulinum Femininum Neutrum Plural (alla genus) :--- :--- :--- :--- :--- :--- Nominativ Wer? (Vem?) der die das die Ackusativ Wen/Was? (Vem/vad?) den die das die Dativ Wem? (Åt vem?) dem der dem den (+n) Genitiv Wessen? (Vems?) des (+s) der des (+s) der 💡 Lägg märke till mönstren! I ackusativ är det ENDAST maskulinum som ändrar sig ( der - den ). Femininum ( die ), neutrum ( das ) och plural ( die ) ser exakt likadana ut som i nominativ! I dativ slutar maskulinum och neutrum båda på -m ( dem ). Femininum blir der . Plural blir den och substantivet får en extra ändelse -n ( den Hunden ). --- 3. Vad styr kasus i en mening? Det finns två krafter som bestämmer vilket kasus du måste välja: 1. Verbets valens (styrning) De flesta verb styr ackusativ när de har ett direkt objekt: haben, sehen, kaufen, lesen, trinken . Vissa speciella verb styr alltid dativ : helfen, danken, gefallen, gehören, antworten . Ich helfe dem Kind (dativ!), inte das Kind . Verben sein, werden, bleiben tar nominativ (predikatsfyllnad): Er ist ein kluger Mann . 2. Prepositioner Prepositionen trumfar allt annat i satsen: Rena ackusativprepositioner: durch, für, gegen, ohne, um - Alltid ackusativ ! Rena dativprepositioner: aus, bei, mit, nach, seit, von, zu - Alltid dativ ! Växelprepositioner: styrs av befintlighet (dativ) eller riktning (ackusativ) . --- 10 autentiska exempel 1. Der Mann kauft einen Computer . (Nominativ: Der Mann; Ackusativ: einen Computer.) 2. Ich gebe der Lehrerin das Buch. (Dativ: der Lehrerin som mottagare; Ackusativ: das Buch som direkt objekt.) 3. Den Hund beißt der Mann. (Inversion: Eftersom det står \"Den Hund\" i ackusativ är det hunden som blir biten, trots att ordet står först i meningen!) 4. Wir danken dem Arzt für seine Hilfe. (Verbet danken styr dativ: dem Arzt.) 5. Das ist das Haus meines Großvaters . (Genitiv: meines Großvaters med s-ändelse.) 6. Sie fährt mit dem Bus zur Arbeit. (Prepositionen mit tvingar fram dativ: dem Bus.) 7. Ohne dich kann ich die Aufgabe nicht lösen. (Prepositionen ohne tvingar fram ackusativ: dich.) 8. Er ist ein sehr netter Kollege . (Efter sein följer nominativ: ein sehr netter Kollege.) 9. Die Mutter hilft den Kindern bei den Hausaufgaben. (Dativ plural: den Kindern med extra -n.) 10. Wem gehört dieser Mantel? — Meinem Bruder . (Frågeordet wem i dativ besvaras med dativ: Meinem Bruder.) ---",
+    "bl": ""
+  },
+  {
+    "id": "K06",
+    "t": "Två objekt och pronomenordning",
+    "d": "Lär dig den exakta ordföljden när en tysk sats innehåller både ett dativobjekt och ett ackusativobjekt: regeln om två substantiv, ett pronomen och två pronomen.",
+    "h": "/docs/kasus/tva-objekt",
+    "c": "Kasus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Steg-för-steg: Förvandling med verbet \"geben\"",
+      "Scenario 1: Två substantiv",
+      "Scenario 2: Mottagaren blir ett pronomen (\"honom\")",
+      "Scenario 3: Saken blir ett pronomen (\"den\")",
+      "Scenario 4: Båda blir pronomen (\"den åt honom\")",
+      "2. Varför är det så här? Informationsstrukturen",
+      "3. Två pronomen: Det magiska ordparet \"es ihm / es ihr\"",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut När ett verb som geben (ge), schenken (skänka), zeigen (visa) eller schicken (skicka) har två objekt , avgörs ordföljden av ordklassen : Minnesregel för tyska objekt: Substantiv följer alfabetet (D kommer före A). Pronomen kastar om (A före D)! --- 1. Steg-för-steg: Förvandling med verbet \"geben\" Se hur satsen förvandlas beroende på vilka ord vi byter ut mot pronomen: Scenario 1: Två substantiv Ich gebe dem Mann (D) das Buch (A). (Dativ står först: mottagaren före saken.) Scenario 2: Mottagaren blir ett pronomen (\"honom\") Ich gebe ihm (D-pronomen) das Buch (A-substantiv). (Pronomenet tränger sig fram direkt efter verbet.) Scenario 3: Saken blir ett pronomen (\"den\") Ich gebe es (A-pronomen) dem Mann (D-substantiv). (Pronomenet tränger sig fram före substantivet, även om det är ackusativ!) Scenario 4: Båda blir pronomen (\"den åt honom\") Ich gebe es (A) ihm (D). (När båda är lätta pronomen står ackusativ alltid före dativ!) --- 2. Varför är det så här? Informationsstrukturen Detta mönster är inte en godtycklig regel, utan grundar sig i tyskans princip om känd kontra ny information : 1. Pronomen representerar känd information som vi redan talat om (t.ex. den / honom ). Känd information vill alltid komma så tidigt som möjligt i meningen. 2. Substantiv representerar ofta ny information med tyngd och betoning. Ny information vill placeras senare mot slutet av satsen. Därför dras pronomenet som en magnet mot vänster direkt bakom det finita verbet! --- 3. Två pronomen: Det magiska ordparet \"es ihm / es ihr\" Observera hur naturligt detta låter på tyska när man svarar på en fråga: \"Gibt der Vater dem Kind den Apfel?\" (Ger pappan äpplet till barnet?) Ja, han ger det till det: Ja, er gibt ihn (Apfel m - ack) ihm (Kind n - dat). \"Zeigst du der Mutter das Foto?\" (Visar du bilden för mamman?) Ja, jag visar den för henne: Ja, ich zeige es (Foto n - ack) ihr (Mutter f - dat). --- 10 autentiska exempel 1. Der Lehrer erklärt den Schülern (D) die Grammatik (A). (Två substantiv: Dativ före ackusativ.) 2. Er erklärt sie (A) ihnen (D). (Två pronomen: Ackusativ före dativ.) 3. Ich habe meiner Freundin eine schöne Kette geschenkt. (Två substantiviska fraser: Dativ före ackusativ.) 4. Ich habe sie ihr gestern geschenkt. (Två pronomen: sie [Kette f ack] före ihr [Freundin dat].) 5. Kannst du mir bitte das Salz reichen? (Pronomen mir före substantiv das Salz.) 6. Der Postbote bringt der Dame ein großes Paket. (Dativ der Dame före ackusativ ein großes Paket.) 7. Er bringt es ihr an die Tür. (Två pronomen: es [Paket] före ihr [Dame].) 8. Wir schicken unseren Großeltern eine Postkarte aus Berlin. (Dativ plural unseren Großeltern före ackusativ eine Postkarte.) 9. Wir schicken sie ihnen morgen. (sie [Postkarte] före ihnen [Großeltern].) 10. Der Arzt verschreibt dem Patienten ein starkes Medikament. (Dativ dem Patienten före ackusativ ein starkes Medikament.) ---",
+    "bl": ""
+  },
+  {
+    "id": "P01",
+    "t": "Prepositioner med ackusativ",
+    "d": "Lär dig de fem rena ackusativprepositionerna: durch, für, gegen, ohne och um (samt bis). De styr ALLTID ackusativ oavsett sammanhang och rörelse.",
+    "h": "/docs/prepositioner/ackusativ",
+    "c": "Prepositioner",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. De fem prepositionerna i detalj",
+      "2. Specialfallet: BIS",
+      "3. Vanliga sammandragningar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Det finns fem centrala prepositioner i tyskan som undantagslöst styr ackusativ : Minnesramsa: DOG-FU ( Durch, Ohne, Gegen, Für, Um ). Efter dessa prepositioner måste artikeln eller pronomenet stå i ackusativ : Maskulinum: den / einen / ihn Femininum: die / eine / sie Neutrum: das / ein / es Plural: die / keine / sie --- 1. De fem prepositionerna i detalj Preposition Grundbetydelse Exempel på tyska Betydelse :--- :--- :--- :--- durch genom, med hjälp av Wir gehen durch den Park . Vi går genom parken. Er schaut durch das Fenster . Han tittar genom fönstret. für för, till, avsedd åt Das Geschenk ist für meinen Bruder . Presenten är till min bror. Ich lerne für die Prüfung . Jag pluggar inför provet. gegen mot (fysiskt/tid/åsikt) Er fährt gegen einen Baum . Han kör in i ett träd. Wir treffen uns gegen acht Uhr . Vi ses vid åttatiden. ohne utan, saknad av Ohne dich gehe ich nicht. Utan dig går jag inte. Kaffee ohne Zucker , bitte. Kaffe utan socker, tack. um runt, omkring, klockslag Die Kinder laufen um das Haus . Barnen springer runt huset. Der Zug fährt um zehn Uhr . Tåget går klockan tio. --- 2. Specialfallet: BIS Prepositionen bis ( tills, fram till ) styr också ackusativ, men den står sällan ensam framför en artikel: Ensam framför städer, datum och siffror: Der Zug fährt bis Berlin . Bis morgen ! (Vi ses imorgon!) Von Montag bis Freitag . Framför en artikel kombineras den nästan alltid med en annan preposition som då avgör kasuset: bis zu dem Bahnhof - bis zum Bahnhof (zu styr dativ!). bis an das Meer - bis ans Meer (an + ackusativ). --- 3. Vanliga sammandragningar I vardagligt tal smälter ackusativprepositioner ofta ihop med neutral artikel das : für + das - fürs : Das ist fürs Kind. um + das - ums : Wir gehen ums Eck. durch + das - durchs : Der Hund rennt durchs Zimmer. --- 10 autentiska exempel 1. Wir spazieren durch den dichten Wald . (durch styr ackusativ maskulinum: den dichten Wald.) 2. Dieses Geschenk habe ich für meine liebe Mutter gekauft. (für styr ackusativ femininum: meine liebe Mutter.) 3. Er hat ohne seinen warmen Mantel das Haus verlassen. (ohne styr ackusativ maskulinum: seinen warmen Mantel.) 4. Um wie viel Uhr beginnt die Vorlesung? (um för klockslag styr ackusativ.) 5. Sie protestieren gegen das neue Gesetz . (gegen styr ackusativ neutrum: das neue Gesetz.) 6. Ohne eure Hilfe hätten wir das nie geschafft. (ohne styr ackusativ: eure Hilfe.) 7. Er ging durch die offene Tür ins Wohnzimmer. (durch styr ackusativ femininum: die offene Tür.) 8. Hast du etwas gegen meinen Plan ? (gegen styr ackusativ maskulinum: meinen Plan.) 9. Ich habe Blumen für dich mitgebracht. (für med personligt pronomen i ackusativ: dich.) 10. Die Erde dreht sich um die Sonne . (um i betydelsen runt/omkring: die Sonne.) ---",
+    "bl": ""
+  },
+  {
+    "id": "P02",
+    "t": "Prepositioner med dativ",
+    "d": "Lär dig de fasta dativprepositionerna i tyskan: aus, außer, bei, mit, nach, seit, von, zu samt gegenüber. De styr ALLTID dativ, även vid rörelse och förflyttning.",
+    "h": "/docs/prepositioner/dativ",
+    "c": "Prepositioner",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. De viktigaste prepositionerna i detalj",
+      "2. Den stora fällan: \"Rörelse = Ackusativ?\" NEJ!",
+      "3. Obligatoriska sammandragningar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Dessa prepositioner styr undantagslöst dativ : Klassisk minnesramsa: Aus, bei, mit, nach, seit, von, zu — fährst du stets im Dativ, du! Efter dessa prepositioner heter artiklarna alltid : Maskulinum: dem / einem Femininum: der / einer Neutrum: dem / einem Plural: den (+n) / keinen (+n) --- 1. De viktigaste prepositionerna i detalj Preposition Grundbetydelse Exempel på tyska Betydelse :--- :--- :--- :--- aus ut ur, från, gjord av Ich komme aus der Schweiz . Jag kommer från Schweiz. Er trinkt aus einem Glas . Han dricker ur ett glas. bei hos, vid, i närheten Ich wohne bei meinen Eltern . Jag bor hos mina föräldrar. Er arbeitet bei Siemens . Han jobbar på Siemens. mit med, tillsammans med Ich fahre mit dem Bus . Jag åker med bussen. Kommst du mit mir ? Kommer du med mig? nach till (städer/länder), efter Wir fahren nach Berlin . Vi åker till Berlin. Nach der Arbeit gehe ich joggen. Efter jobbet joggar jag. seit sedan, under (pågående) Er wohnt seit einem Jahr hier. Han har bott här i ett år. von från, av (ägande) Das ist ein Geschenk von meinem Bruder . Det är en present från min bror. zu till (personer/institutioner) Ich gehe zu meiner Oma . Jag går till min mormor. Gehen wir zu Fuß ? Går vi till fots? gegenüber mittemot Das Hotel liegt gegenüber dem Bahnhof . Hotellet ligger mittemot stationen. --- 2. Den stora fällan: \"Rörelse = Ackusativ?\" NEJ! En av de mest spridda missuppfattningarna i tysk grammatik är att all rörelse kräver ackusativ. Ackusativ vid rörelse gäller ENDAST för växelprepositionerna ( in, an, auf, neben, hinter, über, unter, vor, zwischen ). Prepositionerna nach och zu anger båda rörelse mot ett mål, men de är rena dativprepositioner och styr ALLTID dativ : Ich gehe zu dem Arzt - Ich gehe zum Arzt (Dativ!). Ich fahre nach Hause / zu Hause . --- 3. Obligatoriska sammandragningar I talad och skriven tyska smälter preposition + artikel oftast samman: bei + dem - beim : beim Arzt , beim Essen von + dem - vom : vom Bahnhof , vom Tisch zu + dem - zum : zum Bahnhof , zum Supermarkt zu + der - zur : zur Schule , zur Arbeit --- 10 autentiska exempel 1. Ich fahre jeden Morgen mit der U-Bahn zur Arbeit. (mit styr dativ femininum: der U-Bahn; zur = zu + der Arbeit.) 2. Er wohnt seit drei Monaten in Wien. (seit styr dativ plural med ändelse -n: drei Monaten.) 3. Nach dem Abendessen machen wir einen Spaziergang. (nach styr dativ neutrum: dem Abendessen.) 4. Wir haben das Auto von unserem Nachbarn geliehen. (von styr dativ maskulinum: unserem Nachbarn.) 5. Gestern war ich beim Zahnarzt . (beim = bei + dem Zahnarzt i dativ.) 6. Kommen Sie bitte aus dem kalten Wasser heraus! (aus styr dativ neutrum: dem kalten Wasser.) 7. Das Café liegt direkt gegenüber der alten Kirche . (gegenüber styr dativ femininum: der alten Kirche.) 8. Alle Schüler außer ihm haben die Prüfung bestanden. (außer styr dativ maskulinum: ihm.) 9. Ich muss heute noch zur Bank gehen. (zur = zu + der Bank i dativ femininum.) 10. Er trank einen Schluck Wasser aus seiner Flasche . (aus styr dativ femininum: seiner Flasche.) ---",
+    "bl": ""
+  },
+  {
+    "id": "P04",
+    "t": "Nach, in, zu, an eller auf?",
+    "d": "Lär dig vilken tysk preposition du ska välja när du ska resa eller gå någonstans: nach (städer, länder utan artikel), in (länder med artikel, byggnader), zu (personer), an (vatten) och auf (öppna platser/öar).",
+    "h": "/docs/prepositioner/nach-in-zu-an-auf",
+    "c": "Prepositioner",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Länder: \"nach\" eller \"in\"?",
+      "2. Personer kräver alltid \"ZU\"",
+      "3. \"Nach Hause\" vs. \"Zu Hause\"",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Här är den ultimata guiden för att välja rätt preposition för målet: Mål / Destination Rätt preposition Kasus Exempel Betydelse :--- :--- :--- :--- :--- Städer och länder UTAN artikel nach Dativ (utan art.) nach Berlin, nach Schweden till Berlin, till Sverige Länder MED artikel in Ackusativ in die Schweiz, in die USA till Schweiz, till USA Byggnader (när man går in i dem) in Ackusativ ins Kino, in den Supermarkt på bio, till snabbköpet Personer och yrkesutövare zu Dativ zum Arzt, zu meiner Oma till doktorn, till mormor Vatten och kuster an Ackusativ an den Strand, ans Meer till stranden, till havet Öppna torg, berg och öar auf Ackusativ auf den Markt, auf die Insel till marknaden/torget, till ön Att gå hem (riktning) nach Hause Fast uttryck Ich gehe nach Hause. Jag går hem. Att vara hemma (befintlighet) zu Hause Fast uttryck Ich bin zu Hause. Jag är hemma. --- 1. Länder: \"nach\" eller \"in\"? De flesta länder har nollartikel i tyskan, men en liten grupp länder bär alltid bestämd artikel: Länder utan artikel - NACH : Ich fliege nach Deutschland / nach Schweden / nach Spanien . Länder med feminin artikel - IN DIE : Ich fahre in die Schweiz / in die Türkei / in die Slowakei . Länder med pluralartikel - IN DIE : Wir reisen in die USA / in die Niederlande . Länder med maskulin artikel - IN DEN : Er fliegt in den Irak / in den Libanon . --- 2. Personer kräver alltid \"ZU\" Du kan inte gå in i en människa. Därför använder tyskan zu + dativ så fort målet är en person: Ich gehe zum Arzt (zu + dem Arzt). Kommst du heute zu mir ? (till mig) Wir gehen zum Bäcker / zum Friseur . (till bagaren / till frisören) Jämför: Går du till själva byggnaden kan du säga: Ich gehe in die Bäckerei (in i bagerilokalen). Går du till yrkespersonen säger du: Ich gehe zum Bäcker . --- 3. \"Nach Hause\" vs. \"Zu Hause\" Dessa två korta fraser skapar ständigt huvudbry för svenskar, men regeln är kristallklar: Minnesregel: Nach har en pil framåt (rörelse hemåt). Zu är stängt och tryggt (du är redan hemma)! --- 10 autentiska exempel 1. Morgen fliegen wir für zwei Wochen nach Spanien . (Land utan artikel - nach Spanien.) 2. Im Sommer reisen viele Touristen in die Schweiz . (Land med feminin artikel - in die Schweiz.) 3. Ich habe Zahnschmerzen, ich muss sofort zum Zahnarzt gehen. (Person/yrke - zum Zahnarzt i dativ.) 4. Am Wochenende fahren wir ans Meer und gehen an den Strand . (Vatten och kust - ans Meer, an den Strand.) 5. Es ist schon spät, lass uns nach Hause gehen! (Rörelse hemåt - nach Hause.) 6. Bist du heute Abend zu Hause ? (Befintlighet hemma - zu Hause.) 7. Wir gehen heute Abend ins Kino und danach in eine Bar . (Gå in i en lokal - ins Kino, in eine Bar.) 8. Die Kinder spielen draußen auf dem Spielplatz . (Öppen yta befintlighet - auf dem Spielplatz.) 9. Sie flog geschäftlich in die Vereinigten Staaten (in die USA). (Pluralland - in die USA.) 10. Kommst du morgen mit zu Peter ? (Personmål - zu Peter.) ---",
+    "bl": ""
+  },
+  {
+    "id": "P06",
+    "t": "Am, im, um, seit, vor och für",
+    "d": "Lär dig uttrycka tid på tyska med precision: am för dagar/dygnets tider, im för månader/årstider, um för klockslag, seit för pågående tid och vor för dåtid.",
+    "h": "/docs/prepositioner/tid",
+    "c": "Prepositioner",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Tidsförlopp: Seit, Vor, In och Für",
+      "2. Hur anger man årtal?",
+      "3. Från början till slut: \"von ... bis\"",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Den snabbaste guiden till tysk tid: 1. AM (an + dem): För dagar , veckoslut , datum och dygnets tider : am Montag (på måndag), am Morgen (på morgonen), am 15. Mai (den 15 maj), am Wochenende (på helgen). Undantag: in der Nacht (på natten). 2. IM (in + dem): För månader , årstider och sekel : im Juli (i juli), im Sommer (på sommaren), im 21. Jahrhundert (på 2000-talet). 3. UM : För exakta klockslag : um acht Uhr (klockan åtta), um halb drei (halv tre). --- 1. Tidsförlopp: Seit, Vor, In och Für Preposition Kasus Funktion Exempel Svensk betydelse :--- :--- :--- :--- :--- seit Dativ Startade i dåtid och pågår fortfarande Ich wohne seit zwei Jahren hier. Jag har bott här i två år. vor Dativ Avslutad handling: för ... sedan Er ist vor drei Tagen abgereist. Han reste för tre dagar sedan. in Dativ Framtida tidpunkt: om ... tid Der Zug fährt in zehn Minuten ab. Tåget avgår om tio minuter. für Ackusativ Planerad varaktighet: för en tid Ich fahre für eine Woche nach Berlin. Jag åker till Berlin i en vecka. ⚠️ Den stora \"seit\"-fällan! I svenskan använder vi perfekt (dåtid): \"Jag har bott här i fem år\" . Men i tyskans ögon bor du ju fortfarande kvar här just nu! Därför kräver seit alltid PRESENS : ❌ \"Ich habe hier für fünf Jahre gewohnt.\" (FEL!) ✅ \"Ich wohne seit fünf Jahren hier.\" (KORREKT PRESENS!) --- 2. Hur anger man årtal? I svenskan säger man ofta \"År 2024 åkte vi\" eller \"i 2024\" . I tyskan är \"in 2024\" felaktigt ! Man anger årtalet helt utan preposition, eller med ordet im Jahr(e) : ✅ 2024 sind wir nach Wien gezogen. ✅ Im Jahr 2024 sind wir nach Wien gezogen. ❌ In 2024 sind wir... (Engelsk interferens!) --- 3. Från början till slut: \"von ... bis\" När du anger en tidsperiod med start och mål: Utan artikel: von Montag bis Freitag (från måndag till fredag) Med klockslag: von acht bis siebzehn Uhr (från 8 till 17) Med dativartikel: vom 1. bis zum 15. Juli (från 1:a till 15:e juli) --- 10 autentiska exempel 1. Am Montag habe ich um zehn Uhr eine wichtige Besprechung. (am för veckodag + um för klockslag.) 2. Wir fahren im August für zwei Wochen in den Urlaub. (im för månad + für med ackusativ för planerad varaktighet.) 3. Ich lerne seit einem Jahr Deutsch und kann schon viel verstehen. (seit + dativ + presens: lerne seit einem Jahr.) 4. Mein Zug kommt in einer halben Stunde an. (in för framtida tidpunkt styr dativ: einer halben Stunde.) 5. Er hat mich vor zwei Tagen angerufen. (vor för förfluten tid: för två dagar sedan.) 6. Was machst du normalerweise am Wochenende ? (am Wochenende för helgen.) 7. Die Bibliothek ist von neun bis achtzehn Uhr geöffnet. (von ... bis för öppettider.) 8. Im Winter schneit es hier sehr oft. (im för årstider.) 9. 2020 haben wir unser erstes Haus gekauft. (Årtal utan preposition.) 10. Sie ist in der Nacht plötzlich aufgewacht. (Undantaget för natten: in der Nacht.) ---",
     "bl": ""
   },
   {
@@ -201,6 +331,26 @@
     "bl": ""
   },
   {
+    "id": "R02",
+    "t": "Mich, mir, dich, dir",
+    "d": "Lär dig de personliga pronomenen i objektsform: ackusativ (mich, dich, ihn, sie, uns, euch, sie, Sie) och dativ (mir, dir, ihm, ihr, uns, euch, ihnen, Ihnen).",
+    "h": "/docs/pronomen/personliga-objekt",
+    "c": "Pronomen",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Skillnaden mellan mich och mir",
+      "Regel A: Titta på verbet",
+      "Regel B: Titta på prepositionen",
+      "2. Den enkla nyheten: \"uns\" och \"euch\" ändras aldrig!",
+      "3. Tredje person syftar på substantivets kön!",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Här är hela systemet för personliga pronomen över samtliga tre kasus: Nominativ (Subjekt) Ackusativ (Direkt objekt / Preposition) Dativ (Mottagare / Dativverb) Svensk översättning :--- :--- :--- :--- ich (jag) mich mir mig du (du) dich dir dig er (han/den m) ihn ihm honom / den sie (hon/den f) sie ihr henne / den es (det n) es ihm det / den wir (vi) uns uns oss ihr (ni kompisar) euch euch er sie (de) sie ihnen dem Sie (Ni artigt) Sie Ihnen Er --- 1. Skillnaden mellan mich och mir Detta är den enskilt vanligaste frågan för svenskar: När heter det mich och när heter det mir? Fråga dig: Vem eller vad kräver formen? Regel A: Titta på verbet Kräver verbet ackusativ (sehe, liebe, frage, treffe)? - mich / dich Siehst du mich ? (Ser du mig?) Ich liebe dich . (Jag älskar dig.) Kräver verbet dativ (helfe, danke, gefalle, antworte)? - mir / dir Kannst du mir helfen? (Kan du hjälpa mig?) Ich danke dir . (Jag tackar dig.) Regel B: Titta på prepositionen Prepositionen für, durch, ohne, gegen, um kräver alltid ackusativ : Das Geschenk ist für dich . (inte dir!) Ohne mich könnt ihr nicht fahren. Prepositionen mit, bei, von, zu, aus, nach, seit kräver alltid dativ : Kommst du mit mir ? (inte mich!) Ich wohne bei ihm . --- 2. Den enkla nyheten: \"uns\" och \"euch\" ändras aldrig! I 1:a och 2:a person plural behöver du inte ens tänka på kasus: Ackusativ: Er sieht uns / Er sieht euch . Dativ: Er hilft uns / Er hilft euch . Med preposition: für uns , mit uns , für euch , mit euch . Formerna är 100 % identiska i både ackusativ och dativ! --- 3. Tredje person syftar på substantivets kön! Om du pratar om en sak, t.ex. en nyckel ( der Schlüssel , maskulinum): Ackusativ: Hast du den Schlüssel? — Ja, ich habe ihn . (Har du nyckeln? — Ja, jag har den. Bokstavligen: \"honom\".) Om en väska ( die Tasche , femininum): Siehst du die Tasche? — Ja, ich sehe sie . Om en bok ( das Buch , neutrum): Wo ist das Buch? — Ich suche es . --- 10 autentiska exempel 1. Kannst du mich heute vom Bahnhof abholen? (abholen styr ackusativ: mich.) 2. Ich danke dir für deine tolle Unterstützung. (danken styr dativ: dir.) 3. Das Buch gefällt ihm sehr gut. (gefallen styr dativ maskulinum: ihm.) 4. Ich kenne ihn schon seit der Schulzeit. (kennen styr ackusativ: ihn.) 5. Kommen Sie bitte mit mir ins Büro! (mit styr dativ: mir.) 6. Ohne dich macht die Reise keinen Spaß. (ohne styr ackusativ: dich.) 7. Wie schmeckt euch das Essen? (schmecken styr dativ plural: euch.) 8. Wir haben sie gestern im Konzert getroffen. (treffen styr ackusativ plural: sie.) 9. Ich kann Ihnen leider nicht helfen, Herr Weber. (helfen styr dativ i artigt tilltal: Ihnen.) 10. Er gibt ihr einen roten Apfel. (geben tar dativobjekt som mottagare: ihr [åt henne].) ---",
+    "bl": ""
+  },
+  {
     "id": "R01",
     "t": "Ich, du, er, sie, es och Sie",
     "d": "Lär dig alla personliga pronomen i subjektsform (nominativ): ich, du, er, sie, es, wir, ihr, sie och det artiga Sie. Undvik förväxlingen mellan sie, ihr och Sie.",
@@ -219,6 +369,24 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut I tyskan måste varje huvudsats ha ett synligt subjekt. De personliga pronomenen i nominativ (subjektsform) är: Person Pronomen Betydelse Verbändelse (presens) Exempel :--- :--- :--- :--- :--- 1:a sing. ich jag -e ich komm e 2:a sing. du du (bekant, barn) -st du komm st 3:e mask. er han / den (maskulina ting) -t er komm t 3:e fem. sie hon / den (feminina ting) -t sie komm t 3:e neutr. es den / det -t es komm t 1:a plur. wir vi -en wir komm en 2:a plur. ihr ni (flera ni känner) -t ihr komm t 3:e plur. sie de -en sie komm en Höflichkeit Sie Ni (artigt, 1 el. flera) -en Sie komm en --- 1. Den stora fällan: sie, sie och Sie Det tyska ordet sie ser identiskt ut för tre olika personer, men verbets form och stor/liten bokstav avslöjar alltid vad det betyder: Skrift Verbets ändelse Betydelse Svenska :--- :--- :--- :--- sie singt -t (3:e person singular) hon Hon sjunger sie singen -en (3:e person plural) de De sjunger Sie singen -en (artigt tilltal) Ni Ni sjunger (till en eller flera personer) --- 2. Hur du tilltalar människor på tyska I svenskan säger vi du till nästan alla. I den tysktalande världen (Tyskland, Österrike, Schweiz) finns en mycket tydlig uppdelning: 1. \"Du\" (Singular, informellt) Används med familj, vänner, studiekamrater, barn och husdjur. Woher kommst du ? (Varifrån kommer du?) 2. \"Ihr\" (Plural, informellt) Används när du pratar till två eller flera personer som du duar . Tänk på ihr som \"ni kompisar\": Was macht ihr heute Abend? (Vad gör ni ikväll, vänner?) 3. \"Sie\" (Artigt, formellt) Används med vuxna främlingar, i affärslivet, hos läkaren, med lärare på universitet, och i kundservice. Kan syfta på både en enskild person och en hel grupp ! Können Sie mir bitte helfen? (Kan Ni hjälpa mig?) --- 3. Pronomen ersätter ting efter grammatiskt kön! I svenskan använder vi den eller det om döda ting. Men på tyska ersätter pronomenet substantivets grammatiska genus : Om bordet ( der Tisch , maskulinum): Wo ist der Tisch? — Er ist in der Küche. (Var är bordet? — Den är i köket. Bokstavligen: \"Han är i köket\".) Om klockan ( die Uhr , femininum): Wo ist die Uhr? — Sie liegt auf dem Tisch. (Var är klockan? — Den ligger på bordet. Bokstavligen: \"Hon ligger på bordet\".) Om huset ( das Haus , neutrum): Wie ist das Haus? — Es ist sehr alt. (Hur är huset? — Det är mycket gammalt.) --- 10 autentiska exempel 1. Ich heiße Lukas und komme aus Schweden. (1:a person singular: ich med ändelsen -e på verbet.) 2. Lernst du auch Deutsch? (2:a person singular: du med ändelsen -st.) 3. Das ist Herr Weber. Er arbeitet bei Siemens. (3:e person maskulinum: er med verbändelsen -t.) 4. Das ist Frau Meier. Sie wohnt in Hamburg. (3:e person femininum: sie med verbändelsen -t.) 5. Wo ist mein Schlüssel? — Er liegt auf der Kommode. (Schlüssel är der Schlüssel - ersätts med er.) 6. Wir gehen heute ins Kino. (1:a person plural: wir med verbändelsen -en.) 7. Kinder, habt ihr eure Hausaufgaben gemacht? (2:a person plural informellt: ihr till barn.) 8. Meine Eltern sind nicht da, sie sind im Urlaub. (3:e person plural: sie med verbändelsen -en.) 9. Guten Tag, Herr Müller, wie geht es Ihnen ? (Artigt tilltal med versal.) 10. Entschuldigen Sie , sprechen Sie Englisch? (Artig fråga till en främling på gatan.) ---",
+    "bl": ""
+  },
+  {
+    "id": "R03",
+    "t": "Mein, dein, sein och ihr",
+    "d": "Lär dig de tyska possessiva pronomenen: ägaren väljer stammen (mein, dein, sein, ihr, unser, euer, ihr, Ihr) och saken som ägs bestämmer ändelsen. Förstå skillnaden mot svenskans sin/sitt/sina.",
+    "h": "/docs/pronomen/possessiva-artikelord",
+    "c": "Pronomen",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Ändelsematrisen för possessiva ord",
+      "2. Den stora svenska fällan: \"Sin / Sitt / Sina\"",
+      "3. Specialfallet: \"euer\" tappar ett -e-",
+      "10 autentiska exempel"
+    ],
+    "b": "eure, euren, eurem\" ]} prerequisites={[ , ]} / Kärnan på en halv minut Att bilda en tysk possessiv nominalfras sker i två enkla steg: 1. ÄGAREN bestämmer stammen : ich - mein (min) du - dein (din) er / es - sein (hans / dess) sie (hon) - ihr (hennes) wir - unser (vår) ihr - euer (er) sie (de) - ihr (deras) Sie (Ni) - Ihr (Er — med stor bokstav!) 2. SAKEN SOM ÄGS bestämmer ändelsen (genus, numerus och kasus): Ändelserna är 100 % identiska med ein / kein ! --- 1. Ändelsematrisen för possessiva ord Här illustrerat med stammen mein- (gäller identiskt för alla andra stammar): Kasus Maskulinum Femininum Neutrum Plural (alla genus) :--- :--- :--- :--- :--- Nominativ mein Tisch (–) mein e Lampe mein Kind (–) mein e Bücher Ackusativ mein en Tisch mein e Lampe mein Kind (–) mein e Bücher Dativ mein em Tisch mein er Lampe mein em Kind mein en Bücher n Genitiv mein es Tisch es mein er Lampe mein es Kind es mein er Bücher --- 2. Den stora svenska fällan: \"Sin / Sitt / Sina\" I svenskan skiljer vi noga mellan: \"Peter älskar hans fru\" (någon annans fru!) \"Peter älskar sin fru\" (sin egen fru!) I tyskan finns inget ord som heter \"sin\"! Tyskan använder istället alltid ägarens vanliga possessivpronomen : Fråga dig alltid: Vem är det som äger? Är ägaren en man/han? - Använd alltid stammen sein- . Är ägaren en kvinna/hon? - Använd alltid stammen ihr- . --- 3. Specialfallet: \"euer\" tappar ett -e- Ordet euer ( er / ert / era ) har ett e i stammen. När en ändelse läggs till försvinner det mellersta e:et för att det ska bli lättare att uttala: Maskulinum nominativ: euer Vater (ingen ändelse - behåller e) Neutrum nominativ: euer Kind (ingen ändelse - behåller e) Femininum nominativ: eure Mutter (inte euer-e!) Plural nominativ: eure Freunde Ackusativ maskulinum: euren Lehrer Dativ maskulinum: eurem Bruder --- 10 autentiska exempel 1. Das ist mein neuer Computer . (Nominativ maskulinum med nolländelse: mein neuer Computer.) 2. Ich habe meinen Schlüssel verloren. (Ackusativ maskulinum med -en: meinen Schlüssel.) 3. Peter besucht morgen seine Großeltern . (Ägaren Peter är han - stam sein- + pluraländelse -e: seine Großeltern.) 4. Anna hilft ihrem kleinen Bruder bei den Hausaufgaben. (Ägaren Anna är hon - stam ihr- + dativ maskulinum -em: ihrem Bruder.) 5. Kinder, wo sind eure Schultaschen ? (Bortfall av e i euer framför pluraländelse -e: eure.) 6. Wir wohnen mit unseren Kindern in Berlin. (Prepositionen mit styr dativ plural: unseren Kindern med extra -n.) 7. Ist das Ihr Koffer , Frau Sommer? (Artigt possessivt pronomen Ihr med stor bokstav.) 8. Er fährt mit seinem alten Fahrrad zur Schule. (Dativ neutrum med -em: seinem alten Fahrrad.) 9. Sie hat ihre Brille überall gesucht. (Feminin ackusativ med -e: ihre Brille.) 10. Das Auto meines Vaters steht in der Garage. (Genitiv maskulinum med -es: meines Vaters.) ---",
     "bl": ""
   },
   {
@@ -317,6 +485,26 @@
     "bl": ""
   },
   {
+    "id": "Y06",
+    "t": "Nicht, kein och negationens räckvidd",
+    "d": "Lär dig hur du negerar på tyska: när ska du använda kein och när nicht? Placering av nicht i satsen, fasta negerande uttryck (noch nicht, nicht mehr) och skillnaden mellan \"nicht müssen\" och \"nicht dürfen\".",
+    "h": "/docs/syntax/nicht-och-kein",
+    "c": "Syntax",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Var placeras \"nicht\" i satsen?",
+      "Fall A: Hela satsen negeras (Satsnegation)",
+      "Fall B: Ett specifikt led negeras (Lednegation)",
+      "2. Den livsviktiga skillnaden: \"muss nicht\" vs. \"darf nicht\"",
+      "3. Vanliga negerande ordpar",
+      "10 autentiska exempel"
+    ],
+    "b": "noch nicht; noch - nicht mehr\" ]} prerequisites={[ , ]} / Kärnan på en halv minut Den viktigaste regeln för tysk negation: 1. KEIN negerar substantiv som i jakande form skulle ha ein eller nollartikel : Ich habe ein Auto - Ich habe kein Auto. Ich habe Zeit - Ich habe keine Zeit. 2. NICHT negerar allt annat: Verb : Ich schlafe nicht . Adjektiv : Das Buch ist nicht gut. Substantiv med BESTÄMD artikel : Ich kenne den Mann nicht . Egennamn : Das ist nicht Peter. Hela satser : Ich kann heute leider nicht kommen. --- 1. Var placeras \"nicht\" i satsen? Placeringen av nicht beror på vad du vill negera: Fall A: Hela satsen negeras (Satsnegation) Om meningen har ett enda verb: nicht hamnar längst bak : Ich schlafe nicht . Er kommt heute nicht . Om meningen har en satsram (två verb): nicht hamnar precis före det avslutande verbet : Ich kann dich heute nicht anrufen. Wir haben den Film nicht gesehen. Fall B: Ett specifikt led negeras (Lednegation) Nicht ställs direkt framför det led som ska förnekas: Ich fahre nicht mit dem Zug, sondern mit dem Auto. (Det är inte tåget jag tar, utan bilen!) Das Hemd ist nicht rot, sondern blau. --- 2. Den livsviktiga skillnaden: \"muss nicht\" vs. \"darf nicht\" Detta är ett av tyskans mest frekventa fel hos utlänningar: Tyskt uttryck Vad det faktiskt betyder Svensk översättning :--- :--- :--- Du musst nicht gehen. Det finns inget tvång; du avgör själv. Du behöver inte gå. Du darfst nicht gehen! Det är strängt förbjudet! Du får inte gå! ⚠️ Blanda aldrig ihop dessa! Om en läkare säger till en patient: \"Sie müssen nicht rauchen.\" - betyder det \"Ni behöver inte röka (om ni inte vill)\" . Vill läkaren säga att det är hälsofarligt och förbjudet säger man: \"Sie dürfen nicht rauchen!\" --- 3. Vanliga negerande ordpar Positivt uttryck Negativ motsats Svenska :--- :--- :--- schon (redan) noch nicht inte ännu noch (fortfarande) nicht mehr inte längre jemand (någon person) niemand ingen, inte någon etwas (någonting) nichts ingenting immer (alltid) nie / niemals aldrig überall (överallt) nirgends / nirgendwo ingenstans --- 10 autentiska exempel 1. Ich habe keine Lust , heute Abend auszugehen. (kein negerar substantivet Lust: keine Lust.) 2. Er versteht die Frage nicht . (nicht negerar verbet i slutet av satsen.) 3. Das ist nicht mein Auto , meins steht da drüben. (nicht framför possessiv nominalfras.) 4. Du musst die Hausaufgaben nicht heute machen, morgen reicht auch. (nicht müssen = inte behöva göra.) 5. Hier darf man nicht parken! (nicht dürfen = absolut förbjudet.) 6. Bist du schon fertig? — Nein, noch nicht . (noch nicht = inte ännu.) 7. Er wohnt nicht mehr in Frankfurt, sondern in Berlin. (nicht mehr = inte längre.) 8. Ich habe heute den ganzen Tag nichts gegessen. (nichts = ingenting.) 9. Es war niemand im Büro zu erreichen. (niemand = ingen.) 10. Wir können morgen leider nicht kommen. (nicht placerat precis framför den högra klammern kommen.) ---",
+    "bl": ""
+  },
+  {
     "id": "Y04",
     "t": "Ordföljd i bisatser",
     "d": "Lär dig hur verbet placeras i tyska bisatser inledda med weil, dass, ob och als. Verbet sist, sammansatta tempus och inledande bisatser.",
@@ -338,6 +526,24 @@
     "bl": ""
   },
   {
+    "id": "Y02",
+    "t": "Satsramen: vänster och höger verbdel",
+    "d": "Lär dig det tyska meningsbyggandets mest berömda struktur: satsramen (die Satzklammer). Se hur det böjda verbet och dess kompanjon ramar in hela meningen.",
+    "h": "/docs/syntax/satsram",
+    "c": "Syntax",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. De tre typerna av verbala klamrar",
+      "2. Vad händer inuti Mittfältet?",
+      "3. Varför talar tyskarna så här?",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Den tyska huvudsatsen liknar en gripklo eller en parentes — detta kallas Satzklammer (satsramen): Vänster klammer (Linke Satzklammer) : Det finita (böjda) verbet på position 2. Höger klammer (Rechte Satzklammer) : Den oböjda verbala delen (infinitiv, perfektparticip eller separerbar partikel) längst bak. Mittfältet (Mittelfeld) : All övrig information (subjekt, objekt, adverbial, negationer) packas inuti ramen! --- 1. De tre typerna av verbala klamrar Oavsett vilken typ av dubbelverb du använder är arkitekturen exakt densamma: Typ av verb Vänster klammer (Pos. 2) Mittfält Höger klammer (Slutet) :--- :--- :--- :--- 1. Modalverb + Infinitiv muss morgen früh zur Arbeit gehen 2. Hjälpverb + Perfektparticip habe meine Hausaufgaben schon gemacht 3. Separerbart verb rufe dich heute Abend sicher an 4. Passiv (werden + particip) wird das alte Haus endlich renoviert --- 2. Vad händer inuti Mittfältet? Inuti mittfältet råder en fast ordningsprincip: 1. Pronomen (särskilt subjekts- och ackusativpronomen) dras längst fram mot vänstra klammern. 2. Te-Ka-Mo-Lo : Tidsadverbial ( Te mporal) före Orsaksadverbial ( Ka usal) före Sättsadverbial ( Mo dal) före Platsadverbial ( Lo kal). 3. Negationen \"nicht\" placeras ofta mot slutet av mittfältet, precis framför den högra klammern. --- 3. Varför talar tyskarna så här? För den som lär sig tyska kan det kännas frustrerande att behöva vänta ända till meningens slut för att få veta vad talaren faktiskt gjorde (köpte? sålde? åt? såg?). Men för tyskar skapar satsramen en enorm förväntan och sammanhållning : Den vänstra klammern ( kann, habe, wird ) öppnar ett spänningsfält. Lyssnaren vet exakt när meningen är avslutad: när den högra klammern klickar igen! --- 10 autentiska exempel 1. Ich muss heute Abend noch einen wichtigen Brief schreiben . (Modalverb muss ... infinitiv schreiben sist.) 2. Wir haben gestern im Restaurant sehr gut gegessen . (Perfekt haben ... supinum gegessen sist.) 3. Wann stehst du am Sonntagmorgen normalerweise auf ? (Fråga: stehst ... auf sist.) 4. Er kann die schwere Kiste leider nicht alleine tragen . (kann ... tragen sist med mittfält innehållande negation.) 5. Sie hat ihr ganzes Geld für teure Kleidung ausgegeben . (hat ... ausgegeben sist.) 6. Der Arzt wollte den Patienten gründlich untersuchen . (wollte ... untersuchen sist.) 7. Ich lade dich herzlich zu meiner Geburtstagsfeier ein . (einladen: lade ... ein sist.) 8. Morgen wird der neue Bahnhof feierlich eröffnet . (Passiv: wird ... eröffnet sist.) 9. Wir sind am Wochenende mit dem Zug nach München gefahren . (Rörelseverb sein i perfekt: sind ... gefahren sist.) 10. Darf ich Sie um einen kleinen Gefallen bitten ? (Darf ... bitten sist.) ---",
+    "bl": ""
+  },
+  {
     "id": "Y01",
     "t": "Verb på andra plats och förfält",
     "d": "Lär dig den absoluta grundregeln för tysk ordföljd i påståendesatser: det böjda (finita) verbet står ALLTID på plats 2. Förstå förfältet och inversion.",
@@ -353,6 +559,59 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut I en tysk huvudsats är position 2 reserverad uteslutande för det finita (böjda) verbet : Om du sätter någonting annat än subjektet på position 1 (t.ex. Heute eller In Deutschland ), måste subjektet flytta till position 3 , direkt efter verbet. Detta kallas inversion (omvänd ordföljd). --- 1. Vad är ett \"satsled\"? Ett mycket vanligt missförstånd är att tro att \"position 1\" betyder \"ord nummer ett\". Så är det inte! Position 1 (Förfältet / Vorfeld) rymmer ett helt satsled , vilket kan bestå av ett, tre eller tio ord: Position 1 (Förfält: Ett sammanhållet led) Position 2 (Finit verb) Subjekt / Övrigt :--- :--- :--- Ich (1 ord) habe heute Zeit. Heute (1 ord) habe ich Zeit. Am nächsten Montag (3 ord) fahre ich nach Berlin. Wegen des schlechten Wetters (4 ord) bleiben wir zu Hause. Alla orden i förfältet svarar på en och samma fråga (t.ex. När? eller Varför? ) och räknas därför som ett enda block. --- 2. Jämförelse med svenska och engelska Här har svensktalande en stor fördel jämfört med engelsktalande: Svenska har också V2-regel: \"Idag åker jag till jobbet.\" (Verbet kommer före subjektet jag!) Engelska saknar ofta V2 vid adverbial: \"Today I go to work.\" (Adverbial + subjekt + verb.) ⚠️ Den engelska smittan Många elever som är vana vid engelska råkar skapa engelsk ordföljd på tyska: ❌ \"Morgen ich komme.\" (FEL!) ✅ \"Morgen komme ich.\" (KORREKT!) --- 3. Meningsbyggaren: Testa att byta plats Se hur samma innehåll kan formuleras beroende på vad du vill betona: I samtliga tre fall stannar verbet ( kommt ) orubbligt på position 2 ! --- 10 autentiska exempel 1. Ich trinke gern Tee am Morgen. (Normal ordföljd: subjekt först, finit verb trinke på plats 2.) 2. Am Morgen trinke ich gern Tee. (Inversion: tidsadverbial först, verb trinke på plats 2, subjekt ich på plats 3.) 3. In Schweden gibt es viele Seen und Wälder. (Platsadverbial i förfältet, verbet gibt på position 2.) 4. Gestern habe ich meine Tante besucht. (Tidsadverbial först, finita hjälpverbet habe på plats 2.) 5. Diesen Mann kenne ich seit vielen Jahren. (Ackusativobjekt i förfältet för att betona vem, verbet kenne på plats 2.) 6. Jeden Tag nach der Arbeit geht Herr Müller spazieren. (Långt adverbial i förfältet [5 ord!], finit verb geht på plats 2.) 7. Vielleicht hat er den Zug verpasst. (Adverbet vielleicht inleder, finit verb hat direkt efter.) 8. Plötzlich wurde es ganz dunkel im Zimmer. (Sättsadverbial i förfältet, finit verb wurde på plats 2.) 9. Aus diesem Grund können wir heute nicht mitkommen. (Orsaksadverbial i förfältet, finit modalverb können på plats 2.) 10. Jetzt verstehe ich die Regel ganz genau. (Tidsadverbial jetzt + finit verb verstehe + subjekt ich.) ---",
+    "bl": ""
+  },
+  {
+    "id": "T01",
+    "t": "Partizip II",
+    "d": "Lär dig bygga tyskans supinum / perfektparticip (Partizip II): grundmönstret med ge-...-t för svaga verb och ge-...-en för starka verb, separerbara verb, oseparerbara prefix och verb på -ieren.",
+    "h": "/docs/tempus/particip-ii",
+    "c": "Tempus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Översikt: Hur Partizip II bildas",
+      "2. Varför får verb på \"-ieren\" inget \"ge-\"?",
+      "3. Placering av Partizip II i meningen",
+      "10 autentiska exempel"
+    ],
+    "b": "gemacht)\", \"Lära dig grundmönstret för starka verb: ge- + stam + -en (singen - gesungen)\", \"Memorerar de två fallen som ALDRIG får ge-: verb på -ieren (studieren - studiert) och oseparerbara prefix (bezahlen - bezahlt)\", \"Placera ge- i mitten för separerbara verb: auf-ge-standen, ein-ge-kauft\" ]} prerequisites={[ , ]} / Kärnan på en halv minut Partizip II bildas enligt tre tydliga huvudregler: 1. Svaga verb (Regelbundna) : mach-en - ge -mach- t kauf-en - ge -kauf- t (Vid stam på -t/-d: ge-...-et: arbeiten - ge -arbeit- et ) 2. Starka verb (Vokalväxlande) : sing-en - ge -sung- en find-en - ge -fund- en fahr-en - ge -fahr- en 3. Två grupper som ALDRIG får ge- : Verb som slutar på -ieren : studieren - studier t (inte gestudiert!) Oseparerbara prefix ( be-, ver-, etc. ): bezahlen - bezahl t , verstehen - verstand en . --- 1. Översikt: Hur Partizip II bildas Kategori Regel Infinitiv Partizip II Betydelse :--- :--- :--- :--- :--- Svagt standardverb ge- + stam + -t hören ge hör t hört Svagt verb på -d/-t ge- + stam + -et warten ge wart et väntat Starkt verb ge- + avljud + -en schreiben ge schrieb en skrivit Separerbart svagt partikel + ge- + stam + -t einkaufen ein ge kauf t handlat Separerbart starkt partikel + ge- + stam + -en aufstehen auf ge stand en stigit upp Verb på -ieren stam + -t (INGET ge-) fotografieren fotografier t fotograferat Oseparerbart svagt prefix + stam + -t (INGET ge-) erzählen erzähl t berättat Oseparerbart starkt prefix + stam + -en (INGET ge-) gewinnen gewonn en vunnit --- 2. Varför får verb på \"-ieren\" inget \"ge-\"? Verb som slutar på -ieren är oftast franska eller latinska lånord: telefonieren, studieren, reparieren, reservieren, diskutieren I tyskan har dessa ord huvudbetoningen på den sista stavelsen ( -ie- ). Prefixet ge- kan bara läggas till om betoningen ligger på den första stavelsen. Därför får de aldrig ge- : telefonieren - Ich habe telefoniert . (aldrig getelefoniert) studieren - Er hat in Berlin studiert . --- 3. Placering av Partizip II i meningen När du använder Partizip II för att bilda dåtid (perfekt): Hjälpverbet ( haben eller sein ) böjs på position 2 . Partizip II placeras orubbligt längst bak i hela huvudsatsen : --- 10 autentiska exempel 1. Hast du deine Hausaufgaben schon gemacht ? (Svagt verb: ge-mach-t.) 2. Wir haben gestern sehr lange auf den Bus gewartet . (Stam på -t - ge-wart-et.) 3. Er hat einen langen Brief an seine Familie geschrieben . (Starkt verb: ge-schrieb-en.) 4. Ich habe meine Freundin vom Bahnhof abgeholt . (Separerbart svagt verb: ab-ge-holt.) 5. Wann seid ihr heute Morgen aufgestanden ? (Separerbart starkt verb med sein: auf-ge-stand-en.) 6. Sie hat fünf Jahre an der Humboldt-Universität studiert . (-ieren verb utan ge-: studiert.) 7. Der Mechaniker hat das alte Auto schnell repariert . (-ieren verb: repariert.) 8. Wer hat die Rechnung bezahlt ? (Oseparerbart prefix be- utan ge-: bezahlt.) 9. Ich habe die schwierige Frage sofort verstanden . (Oseparerbart prefix ver- utan ge-: verstanden.) 10. Unsere Mannschaft hat das Spiel gewonnen . (gewinnen slutar på -en: gewonnen.) ---",
+    "bl": ""
+  },
+  {
+    "id": "T02",
+    "t": "Perfekt med haben och sein",
+    "d": "Lär dig det dominerande tyska dåtidstempus: Perfekt. Hur du bygger satsen med haben eller sein som hjälpverb och Partizip II sist, samt reglerna för när du ska välja sein.",
+    "h": "/docs/tempus/perfekt",
+    "c": "Tempus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Jämförelse: Haben eller Sein?",
+      "2. Perfekt är talspråkets kung i tyskan!",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut I tyskan bildas Perfekt med hjälp av ett hjälpverb i presens plus Partizip II längst bak: Över 90 % av alla verb bildar perfekt med haben . Du väljer sein endast i följande tre specifika fall : 1. Rörelse med platsbyte (från A till B) : gehen (gå), fahren (åka), fliegen (flyga), kommen (komma), laufen (springa). Ich bin nach Berlin gefahren . 2. Tillståndsförändring (från tillstånd A till B) : aufwachen (vakna), einschlafen (somna), sterben (dö). Das Kind ist schnell eingeschlafen . 3. De tre fasta undantagen : sein - Ich bin gewesen. (Jag har varit) bleiben - Er ist zu Hause geblieben . (Han har stannat kvar) werden - Es ist dunkel geworden . (Det har blivit) --- 1. Jämförelse: Haben eller Sein? Verb Kategori Hjälpverb Exempel i perfekt Betydelse :--- :--- :--- :--- :--- kaufen Vanlig handling haben Ich habe ein Buch gekauft. Jag har köpt en bok. essen Handling med objekt haben Wir haben Pizza gegessen. Vi har ätit pizza. schlafen Tillstånd utan förändring haben Er hat gut geschlafen. Han har sovit gott. fahren Rörelse / platsbyte sein Wir sind nach Wien gefahren. Vi har åkt till Wien. fliegen Rörelse / platsbyte sein Sie ist nach Spanien geflogen. Hon har flugit till Spanien. aufstehen Rörelse / förändring sein Ich bin um sieben Uhr aufgestanden. Jag har stigit upp kl sju. einschlafen Tillståndsförändring sein Das Baby ist eingeschlafen. Bebisen har somnat. bleiben Fast undantag sein Er ist hier geblieben. Han stannade kvar här. 💡 Gyllene regel för objekt Om verbet har ett direkt ackusativobjekt (transitivt verb), bildar det ALLTID perfekt med haben : • Ich bin mit dem Auto gefahren. (Inget objekt - sein !) • Ich habe das Auto in die Garage gefahren. (Direkt ackusativobjekt: das Auto - haben !) --- 2. Perfekt är talspråkets kung i tyskan! I modern tyska (särskilt i södra Tyskland, Österrike och Schweiz) används Perfekt för nästan alla dåtidssituationer i samtal : När du pratar med vänner: \"Was hast du am Wochenende gemacht?\" \"Ich bin ins Kino gegangen und habe Freunde getroffen.\" Det skrivna dåtidstempuset Präteritum ( ging, traf, machte ) används främst i tidningsartiklar, romaner och officiella rapporter — med undantag för war (av sein), hatte (av haben) och modalverben. --- 10 autentiska exempel 1. Ich habe gestern den ganzen Tag für die Prüfung gelernt . (haben för vanlig studiehandling.) 2. Wir sind gestern Abend sehr spät nach Hause gekommen . (sein för rörelse mot mål: kommen - sind gekommen.) 3. Er hat sein Handy auf dem Tisch vergessen . (haben vid ackusativobjekt sein Handy.) 4. Das Kind ist vor dem Fernseher eingeschlafen . (sein för tillståndsförändring: somna.) 5. Wo bist du in den Sommerferien gewesen ? (sein av verbet sein: bist gewesen.) 6. Warum hast du mir die Wahrheit nicht gesagt ? (haben i W-fråga.) 7. Trotz des schlechten Wetters sind wir zu Hause geblieben . (sein för undantaget bleiben: sind geblieben.) 8. Meine Eltern haben vor zwanzig Jahren ein Haus gebaut . (haben vid bygga med ackusativobjekt.) 9. Wann seid ihr in Berlin angekommen ? (sein för rörelseverb ankommen i 2:a person plural: seid angekommen.) 10. Es ist plötzlich sehr kalt geworden . (sein för verbet werden: ist geworden.) ---",
+    "bl": ""
+  },
+  {
+    "id": "T03",
+    "t": "Präteritum",
+    "d": "Lär dig det tyska skriftspråkstempuset Präteritum (imperfekt): svaga ändelser på -te, starka verb med avljud, samt de former som ALLTID används även i talspråk (war, hatte, konnte, musste, wollte).",
+    "h": "/docs/tempus/preteritum",
+    "c": "Tempus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Svaga verb i preteritum: Ändelsen -te",
+      "2. Starka verb i preteritum: Vokalväxling",
+      "3. De oumbärliga formerna: war, hatte och modalverb",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut I tyskan finns två dåtidstempus: 1. Perfekt ( Ich habe gemacht, Ich bin gefahren ): Används i vardagligt tal och personliga mejl. 2. Präteritum ( Ich machte, Ich fuhr ): Används i skriftspråk, berättelser och tidningar . Det finns dock ett stort undantag där preteritum är normen även i talspråk: sein - war (ich war, du warst, er war...) haben - hatte (ich hatte, du hattest, er hatte...) Modalverben - konnte , musste , wollte , durfte , sollte Ingen tysk säger \"Ich bin gestern müde gewesen\" i vardagligt tal — alla säger: Ich war gestern müde ! --- 1. Svaga verb i preteritum: Ändelsen -te Svaga verb bildar preteritum genom att lägga till -te till verbstammen. Observera att 1:a och 3:e person singular är identiska och saknar personändelse : Person machen (att göra) wohnen (att bo) arbeiten (stam på -t) :--- :--- :--- :--- ich mach- te wohn- te arbeit- ete du mach- test wohn- test arbeit- etest er / sie / es mach- te (identisk med ich!) wohn- te arbeit- ete wir mach- ten wohn- ten arbeit- eten ihr mach- tet wohn- tet arbeit- etet sie / Sie mach- ten wohn- ten arbeit- eten --- 2. Starka verb i preteritum: Vokalväxling Starka verb har ingen -te -ändelse. De byter vokal i stammen, och har ingen ändelse alls i 1:a och 3:e person singular : Person gehen (ging) fahren (fuhr) schreiben (schrieb) :--- :--- :--- :--- ich ging (ingen ändelse) fuhr (ingen ändelse) schrieb (ingen ändelse) du ging- st fuhr- st schrieb- st er / sie / es ging (ingen ändelse) fuhr (ingen ändelse) schrieb (ingen ändelse) wir ging- en fuhr- en schrieb- en ihr ging- t fuhr- t schrieb- t sie / Sie ging- en fuhr- en schrieb- en --- 3. De oumbärliga formerna: war, hatte och modalverb Dessa måste du kunna flytande även i vardagligt samtal: Infinitiv 1:a person singular (ich) 3:e person singular (er/sie/es) Svenska :--- :--- :--- :--- sein ich war er war var haben ich hatte er hatte hade können ich konnte er konnte kunde (utan omljud!) müssen ich musste er musste måste / var tvungen (utan omljud!) wollen ich wollte er wollte ville dürfen ich durfte er durfte fick / hade lov till (utan omljud!) sollen ich sollte er sollte skulle / borde Tips: Lägg märke till att modalverben tappar sina omljud ( ö - o, ü - u ) i preteritum! --- 10 autentiska exempel 1. Gestern war das Wetter wirklich herrlich. (sein i preteritum: war.) 2. Ich hatte leider keine Zeit, dich anzurufen. (haben i preteritum: hatte.) 3. Er konnte die schwierige Frage nicht beantworten. (können i preteritum: konnte utan omljud.) 4. Es war einmal ein alter König in einem fernen Land. (Klassisk sagoinledning i preteritum: Es war einmal.) 5. Wir mussten über eine Stunde auf den Zug warten. (müssen i preteritum: mussten.) 6. Der Minister erklärte den Journalisten die neue Maßnahme. (Skriftspråk i nyhetstext: erklärte.) 7. Sie wollte schon immer Ärztin werden. (wollen i preteritum: wollte.) 8. Plötzlich kam ein Mann um die Ecke und fragte nach dem Weg. (Berättande stil: starkt verb kam + svagt verb fragte.) 9. Wo warst du gestern um acht Uhr? (du-form av sein i preteritum: warst.) 10. Die Kinder durften heute länger aufbleiben. (dürfen i preteritum: durften.) ---",
     "bl": ""
   },
   {
@@ -415,6 +674,45 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut De tre basverben har helt unika, oregelbundna böjningar i presens som måste memoreras utantill: Person sein (vara) haben (ha) werden (bli) :--- :--- :--- :--- ich bin habe werde du bist hast wirst er / sie / es ist hat wird wir sind haben werden ihr seid habt werdet sie / Sie sind haben werden --- 1. Funktioner som huvudverb När verben står ensamma i en sats har de konkreta betydelser: 1. SEIN = Identitet, egenskap, tillstånd Ich bin Arzt. (Jag är läkare.) Das Buch ist interessant. (Boken är intressant.) Obs! Efter sein följer nominativ (subjektsmärke), ALDRIG ackusativ! Er ist ein guter Freund (inte einen ). 2. HABEN = Ägande, relation, behov Ich habe einen Hund. (Jag har en hund. habens objekt står i ackusativ: einen Hund.) Hast du Zeit? (Har du tid?) Wir haben Hunger. (Vi är hungriga — bokstavligen \"har hunger\".) 3. WERDEN = Förändring, övergång (att bli) Es wird dunkel. (Det blir mörkt.) Mein Sohn wird bald 18 Jahre alt. (Min son fyller snart 18 år / blir 18.) Sie wird Ärztin. (Hon ska bli läkare.) --- 2. Den klassiska fällan: werden vs. bekommen ⚠️ Falsk vän för alla svenskar och engelsktalande! I engelskan betyder become \"bli\". I tyskan heter \"bli\" werden . Men tyska bekommen betyder ATT FÅ ! Ich werde krank. = Jag blir sjuk. Ich bekomme ein Geschenk. = Jag får en present. Säger du \"Ich bekomme ein Kind\" betyder det inte att du själv förvandlas till ett barn, utan att du väntar/ska få barn! --- 3. Förhandstitt: Rollen som hjälpverb Dessa tre verb kallas \"hjälpverb\" eftersom de i senare kapitel bygger upp andra tempus och modus: 1. sein / haben + supinum bildar tempus perfekt (t.ex. Ich habe gelernt , Ich bin gefahren — se lektion T01–T03). 2. werden + infinitiv bildar futurum (framtid, t.ex. Ich werde kommen — se T06). 3. werden + supinum bildar passiv (t.ex. Das Haus wird gebaut — se M07/M08). --- 10 autentiska exempel 1. Ich bin heute sehr müde. (sein 1:a person: egenskap/tillstånd.) 2. Hast du morgen Zeit für einen Kaffee? (haben 2:a person: innehav av tid.) 3. Es wird langsam kalt draußen. (werden 3:e person: förändring mot kyla.) 4. Herr Meier ist der neue Direktor der Schule. (sein med nominativ: der neue Direktor.) 5. Wir haben zwei Kinder und eine Katze. (haben med ackusativobjekt.) 6. Wo seid ihr gestern gewesen? (sein 2:a person plural informellt: seid.) 7. Was wirst du nach der Schule machen? (werden 2:a person singular: wirst.) 8. Ich habe großen Durst. (haben används för hunger, törst och rädsla.) 9. Die Tage werden im Herbst kürzer. (werden 3:e person plural: werden.) 10. Sind Sie Herr Schmidt? (sein i artigt tilltal med Sie.) ---",
+    "bl": ""
+  },
+  {
+    "id": "V05",
+    "t": "Separerbara verb",
+    "d": "Lär dig hur tyska partikelverb fungerar: separerbara verb (trennbare Verben som anrufen, aufstehen, einkaufen) klyvs i huvudsats, men hålls ihop i bisats och infinitiv.",
+    "h": "/docs/verb/separerbara",
+    "c": "Verb",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. De vanligaste separerbara partiklarna",
+      "2. När separeras verbet INTE?",
+      "1. Tillsammans med ett modalverb (Infinitiv i slutet)",
+      "2. I en bisats (Verbet sist)",
+      "3. När partikeln är obetonad (Fast sammansatta verb)",
+      "3. Hur bildas dåtid (Perfekt)?",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut I tyskan är många verb sammansatta med en förstavelse (partikel) . Om partikeln är betonad , är verbet separerbart ( trennbar ): Infinitiv: auf stehen (stiga upp — betoningen ligger på auf- ) I huvudsats klyvs verbet: Stammen böjs på position 2 . Partikeln skjuts längst bak : Ich stehe jeden Morgen um sechs Uhr auf . --- 1. De vanligaste separerbara partiklarna Alla dessa partiklar är alltid betonade och separeras i huvudsats: Partikel Betydelseidé Exempelverb Exempel i huvudsats :--- :--- :--- :--- ab- bort, avgång ab fahren (avgå) Der Bus fährt um acht Uhr ab . an- till, på, början an kommen (anlända) Wann kommst du an ? kontakt an rufen (ringa) Ich rufe dich später an . auf- uppåt, öppet auf stehen (stiga upp) Er steht früh auf . auf machen (öppna) Mach bitte das Fenster auf ! aus- ut, stängt aus steigen (stiga av) Wir steigen hier aus . aus machen (släcka) Er macht das Licht aus . ein- in ein kaufen (handla) Ich kaufe im Markt ein . ein steigen (stiga på) Steigen Sie bitte ein ! mit- med mit kommen (följa med) Kommst du heute mit ? vor- före, presentera vor stellen (presentera) Ich stelle mich kurz vor . zu- stänga, till zu hören (lyssna) Hör mir bitte zu ! --- 2. När separeras verbet INTE? Verbet separeras inte i följande tre viktiga fall: 1. Tillsammans med ett modalverb (Infinitiv i slutet) Ich muss morgen früh aufstehen . (Verbet förblir i ett stycke sist i satsen!) 2. I en bisats (Verbet sist) I bisatser efter konjunktioner som weil, dass, wenn hamnar hela det böjda verbet allra sist i ett enda stycke: Ich bin müde, weil ich heute so früh aufstehe . (inte stehe ... auf!) 3. När partikeln är obetonad (Fast sammansatta verb) Förstavelserna be-, emp-, ent-, er-, ge-, ver-, zer- är obetonade och separeras ALDRIG : bezahlen - Ich bezahle die Rechnung (aldrig zahle ... be!) verstehen - Ich verstehe das nicht (aldrig stehe ... ver!) --- 3. Hur bildas dåtid (Perfekt)? I perfekt stoppas ändelsemärket -ge- in mitt emellan partikeln och stammen : einkaufen - ein- ge -kauf-t anrufen - an- ge -ruf-en aufstehen - auf- ge -stand-en Mening i dåtid: Ich habe dich gestern angerufen . --- 10 autentiska exempel 1. Der Wecker klingelt und ich stehe sofort auf . (aufstehen i huvudsats: stehe på plats 2, auf sist.) 2. Wann ruft Peter seine Eltern an ? (W-fråga: ruft på plats 2, an sist.) 3. Wir kaufen heute fürs ganze Wochenende ein . (einkaufen klyvs i huvudsats.) 4. Der Zug fährt in fünf Minuten ab . (abfahren med partikeln ab sist.) 5. Bitte machen Sie die Tür zu , es zieht! (zumachen i uppmaning: machen först, zu sist.) 6. Möchtest du heute Abend mit ins Kino mitkommen ? (Efter möchtest står verbet i infinitiv och förblir helt: mitkommen.) 7. Ich habe meine Freundin vom Flughafen abgeholt . (Perfekt av abholen: ab-ge-holt.) 8. Er zieht sich schnell eine warme Jacke an . (anziehen: zieht på plats 2, an sist.) 9. Ich weiß, dass er jeden Tag um sechs Uhr aufsteht . (I bisats efter dass hålls verbet ihop sist i satsen: aufsteht.) 10. Hören Sie mir bitte genau zu ! (zuhören i imperativ: Hören Sie ... zu!) ---",
+    "bl": ""
+  },
+  {
+    "id": "V03",
+    "t": "Starka och blandade verb",
+    "d": "Lär dig de tyska starka verben (vokalväxling i presens som e->i och a->ä samt avljud i dåtid) och blandade verb som denken och bringen. Grundregeln om verbens tre huvudformer.",
+    "h": "/docs/verb/starka-och-blandade",
+    "c": "Verb",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Fullständigt presensmönster: e -> i/ie och a -> ä",
+      "2. Metoden: Verbens tre huvudformer",
+      "3. Blandade verb: Vokalväxling + svaga ändelser",
+      "10 autentiska exempel"
+    ],
+    "b": "i/ie och a - ä\", \"Veta att vokalväxlingen ENDAST sker för 'du' och 'er/sie/es' (ich, wir, ihr, sie behåller grundvokalen!)\", \"Kunna metoden med tre huvudformer: t.ex. singen - sang - gesungen\", \"Förstå blandade verb: har vokalbyte OCH -te ändelse (dachte, brachte, wusste)\" ]} prerequisites={[ , ]} / Kärnan på en halv minut Starka verb ( starke Verben ) kännetecknas av vokalväxling i stammen . I presens byter cirka 50 mycket vanliga starka verb vokal, men ENDAST i 2:a och 3:e person singular ( du och er/sie/es ): Obs! Personerna ich , wir , ihr och sie/Sie ändrar aldrig sin vokal i presens! ich spreche , ihr sprecht . ich fahre , ihr fahrt . --- 1. Fullständigt presensmönster: e - i/ie och a - ä Person sprechen (e - i) sehen (e - ie) fahren (a - ä) :--- :--- :--- :--- ich spreche sehe fahre du sprichst siehst fährst er / sie / es spricht sieht fährt wir sprechen sehen fahren ihr sprecht (ingen växling!) seht (ingen växling!) fahrt (ingen växling!) sie / Sie sprechen sehen fahren Specialfallet nehmen (ta): ich nehme - du nimmst , er nimmt (h byts mot dubbel-m!). --- 2. Metoden: Verbens tre huvudformer För att behärska ett starkt verb i alla tempus lär man sig tre grundformer : Infinitiv Präteritum Partizip II Hjälpverb Svenska :--- :--- :--- :--- :--- singen sang gesungen hat sjunga trinken trank getrunken hat dricka finden fand gefunden hat hitta bleiben blieb geblieben ist stanna kvar schreiben schrieb geschrieben hat skriva fahren fuhr gefahren ist åka, köra gehen ging gegangen ist gå kommen kam gekommen ist komma Lägg märke till att starka verb alltid slutar på -en i Partizip II ( gesungen, gefahren ), till skillnad från svaga verb som slutar på -t ( gemacht ). --- 3. Blandade verb: Vokalväxling + svaga ändelser En liten grupp verb kallas \"blandade\" för att de lånar från båda systemen: De har vokalväxling i stammen (som starka verb). Men de tar den svaga ändelsen -te i preteritum och -t i supinum (som svaga verb): Infinitiv Presens Präteritum Partizip II Svenska :--- :--- :--- :--- :--- denken ich denke dachte gedacht tänka bringen ich bringe brachte gebracht hämta, ta med kennen ich kenne kannte gekannt känna (en person/stad) wissen ich weiß, du weißt wusste gewusst veta (fakta) --- 10 autentiska exempel 1. Sprichst du fließend Deutsch? (sprechen med vokalväxling e - i för du.) 2. Er fährt jeden Tag mit dem Fahrrad zur Universität. (fahren med omljud a - ä för er.) 3. Was liest du gerade für ein Buch? (lesen med vokalväxling e - ie för du.) 4. Das Kind schläft am liebsten bei offenem Fenster. (schlafen med omljud a - ä för er/sie/es.) 5. Was nimmst du zum Mittagessen? — Ich nehme den Salat. (nehmen med dubbel-m nimmst för du, men grundstam nehme för ich!) 6. Ihr fahrt morgen nach Hamburg, oder? (ihr har ingen vokalväxling: fahrt.) 7. Wir haben gestern den ganzen Abend gesungen und gelacht. (Partizip II gesungen med avljud u och ändelsen -en.) 8. Ich habe lange über deinen Vorschlag nachgedacht . (Blandat verb denken - gedacht.) 9. Er wusste die richtige Antwort sofort. (Blandat verb wissen - wusste.) 10. Der Lehrer hilft der Schülerin bei der schwierigen Aufgabe. (helfen med vokalväxling e - i: hilft.) ---",
     "bl": ""
   },
   {
@@ -516,34 +814,6 @@
     "b": "Sammansatta substantiv Sista ledets genus och böjning, fogeelement utan falsk universell regel, betoning och tolkning; produktiva egna ord och lexikaliserade undantag; derivation ägs av E05. S09 A2–B2"
   },
   {
-    "id": "K02",
-    "t": "Nominativ: subjekt och predikativ",
-    "d": "Subjekt i olika positioner, subjekt–verbkongruens, predikativa nominalfraser vid sein/werden/bleiben; kontrast mot svenska objektsformer.",
-    "h": "/docs/kasus/nominativ",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Nominativ: subjekt och predikativ Subjekt i olika positioner, subjekt–verbkongruens, predikativa nominalfraser vid sein/werden/bleiben; kontrast mot svenska objektsformer. K02 A1–A2"
-  },
-  {
-    "id": "K04",
-    "t": "Dativ och verb som styr dativ",
-    "d": "Mottagare och självständig rektion med helfen, danken, gefallen och gehören; formtabell; mir ist kalt; undvik likställning mellan dativ och svensk till-fras.",
-    "h": "/docs/kasus/dativ",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Dativ och verb som styr dativ Mottagare och självständig rektion med helfen, danken, gefallen och gehören; formtabell; mir ist kalt; undvik likställning mellan dativ och svensk till-fras. K04 A1–B1"
-  },
-  {
     "id": "K05",
     "t": "Genitiv: tillhörighet och rektion",
     "d": "Genitivattribut och begränsad verbrektion; nominala samband, frågan wessen och register; prepositionsstyrd genitiv länkas till P07, ändelser till S06.",
@@ -556,20 +826,6 @@
       "Kommande lektion"
     ],
     "b": "Genitiv: tillhörighet och rektion Genitivattribut och begränsad verbrektion; nominala samband, frågan wessen och register; prepositionsstyrd genitiv länkas till P07, ändelser till S06. K05 A2–B2"
-  },
-  {
-    "id": "K06",
-    "t": "Två objekt och pronomenordning",
-    "d": "Dativ + ackusativ med två substantiv, ett pronomen och två pronomen; neutrala standardmönster samt kontextberoende ordföljd; genomarbetad omvandling med geben.",
-    "h": "/docs/kasus/tva-objekt",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Två objekt och pronomenordning Dativ + ackusativ med två substantiv, ett pronomen och två pronomen; neutrala standardmönster samt kontextberoende ordföljd; genomarbetad omvandling med geben. K06 A2–B1"
   },
   {
     "id": "K07",
@@ -698,34 +954,6 @@
     "b": "Adjektivens prepositioner och komplement Stolz auf + ackusativ, zufrieden mit + dativ samt infinitiv- och dass-konstruktioner; betydelser och rektion registreras tillsammans. A08 B1–B2"
   },
   {
-    "id": "R02",
-    "t": "Mich, mir, dich, dir",
-    "d": "Full ackusativ- och dativtabell, prepositionsobjekt och referens; genus i tredje person och tilltal; återkoppling skiljer fel kasus från fel referent.",
-    "h": "/docs/pronomen/personliga-objekt",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Mich, mir, dich, dir Full ackusativ- och dativtabell, prepositionsobjekt och referens; genus i tredje person och tilltal; återkoppling skiljer fel kasus från fel referent. R02 A1–A2"
-  },
-  {
-    "id": "R03",
-    "t": "Mein, dein, sein och ihr",
-    "d": "Ägare väljer stam, ägd nominalfras styr ändelse; sein/ihr/Ihr och euer-former; alla kasus; kontrast mot svenskans sin/sitt/sina.",
-    "h": "/docs/pronomen/possessiva-artikelord",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Mein, dein, sein och ihr Ägare väljer stam, ägd nominalfras styr ändelse; sein/ihr/Ihr och euer-former; alla kasus; kontrast mot svenskans sin/sitt/sina. R03 A1–A2"
-  },
-  {
     "id": "R04",
     "t": "Possessiver utan substantiv",
     "d": "Meiner/meine/meins och artikelkonstruktioner som der meine; syftning och register; skillnaden mellan artikelord och självständig pronominell form.",
@@ -838,34 +1066,6 @@
     "b": "Daran, darauf, woran och worauf Da(r)- och wo(r)-former, saker/sakförhållanden kontra personer, preposition plus personpronomen, korrelat till dass-sats; r före vokal. R11 B1–B2"
   },
   {
-    "id": "V03",
-    "t": "Starka och blandade verb",
-    "d": "Ablaut och presensväxling, lesen/fahren/nehmen; blandade verb som denken och bringen; huvudformer som metod, inte godtyckliga etiketter för varje avvikelse.",
-    "h": "/docs/verb/starka-och-blandade",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Starka och blandade verb Ablaut och presensväxling, lesen/fahren/nehmen; blandade verb som denken och bringen; huvudformer som metod, inte godtyckliga etiketter för varje avvikelse. V03 A1–B1"
-  },
-  {
-    "id": "V05",
-    "t": "Separerbara verb",
-    "d": "Anrufen/aufstehen i huvudsats, fråga, bisats, zu-infinitiv och perfekt; betonad partikel, ordställning och ge-placering; visa hela meningar och isolerade former separat.",
-    "h": "/docs/verb/separerbara",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Separerbara verb Anrufen/aufstehen i huvudsats, fråga, bisats, zu-infinitiv och perfekt; betonad partikel, ordställning och ge-placering; visa hela meningar och isolerade former separat. V05 A1–A2"
-  },
-  {
     "id": "V06",
     "t": "Oseparerbara prefix och betydelseskiften",
     "d": "Be-, emp-, ent-, er-, ge-, miss-, ver-, zer- samt prefix med varierande betoning/separation; jämför omsorgsfullt valda betydelser med separat lexem-ID.",
@@ -920,48 +1120,6 @@
       "Kommande lektion"
     ],
     "b": "Infinitiv med och utan zu Modalverb, lassen och perceptionsverb som separata konstruktionsfall; zu vid partikelverb; betydelse och subjektanknytning; skilj svensk att-sats från infinitivmärke. V09 A2–B2"
-  },
-  {
-    "id": "T01",
-    "t": "Partizip II",
-    "d": "Ge- och -(e)t/-en, oregelbundna huvudformer, separerbara och oseparerbara verb och -ieren; tydlig skillnad mot Partizip I och adjektivisk användning.",
-    "h": "/docs/tempus/particip-ii",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Partizip II Ge- och -(e)t/-en, oregelbundna huvudformer, separerbara och oseparerbara verb och -ieren; tydlig skillnad mot Partizip I och adjektivisk användning. T01 A1–B1"
-  },
-  {
-    "id": "T02",
-    "t": "Perfekt med haben och sein",
-    "d": "Form och satsram, högfrekventa hjälpverbsval och huvudformer; betydelse, transitivitet och regional variation; hjälpverbet ska finnas i verbdata per konstruktion.",
-    "h": "/docs/tempus/perfekt",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Perfekt med haben och sein Form och satsram, högfrekventa hjälpverbsval och huvudformer; betydelse, transitivitet och regional variation; hjälpverbet ska finnas i verbdata per konstruktion. T02 A1–B1"
-  },
-  {
-    "id": "T03",
-    "t": "Präteritum",
-    "d": "Svaga/starka/blandade paradigmer och högfrekventa war/hatte/modala former; berättande skrift och vardagligt tal med nyanser; termen preteritum konsekvent i svenska förklaringar.",
-    "h": "/docs/tempus/preteritum",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Präteritum Svaga/starka/blandade paradigmer och högfrekventa war/hatte/modala former; berättande skrift och vardagligt tal med nyanser; termen preteritum konsekvent i svenska förklaringar. T03 A2–B1"
   },
   {
     "id": "T04",
@@ -1146,48 +1304,6 @@
     "b": "Zustandspassiv med sein Die Tür wird geöffnet jämfört med ist geöffnet; sammanhang, betydelse och gräns mot predikativt adjektiv; alternativa passivkonstruktioner ägs av E07. M08 B1–B2"
   },
   {
-    "id": "P01",
-    "t": "Prepositioner med ackusativ",
-    "d": "Durch, für, gegen, ohne och um samt bis med sina konstruktionsvillkor; korta fraser och hela meningar; användning för tid, väg, mottagare och avsaknad.",
-    "h": "/docs/prepositioner/ackusativ",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Prepositioner med ackusativ Durch, für, gegen, ohne och um samt bis med sina konstruktionsvillkor; korta fraser och hela meningar; användning för tid, väg, mottagare och avsaknad. P01 A1–A2"
-  },
-  {
-    "id": "P02",
-    "t": "Prepositioner med dativ",
-    "d": "Aus, außer, bei, mit, nach, seit, von och zu; gegenüber och ab med avgränsningar; en verklig betydelse och exempel per preposition; rörelse kan ha dativ.",
-    "h": "/docs/prepositioner/dativ",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Prepositioner med dativ Aus, außer, bei, mit, nach, seit, von och zu; gegenüber och ab med avgränsningar; en verklig betydelse och exempel per preposition; rörelse kan ha dativ. P02 A1–A2"
-  },
-  {
-    "id": "P04",
-    "t": "Nach, in, zu, an eller auf?",
-    "d": "Orter/länder, länder med artikel, personer, verksamheter, hem och destinationer; nach Hause/zu Hause; mål räcker inte ensamt för att bestämma kasus.",
-    "h": "/docs/prepositioner/nach-in-zu-an-auf",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Nach, in, zu, an eller auf? Orter/länder, länder med artikel, personer, verksamheter, hem och destinationer; nach Hause/zu Hause; mål räcker inte ensamt för att bestämma kasus. P04 A1–B1"
-  },
-  {
     "id": "P05",
     "t": "Aus och von: varifrån?",
     "d": "Ursprung, inifrån/ifrån och personer/verksamheter i kontext; utvalda meningspar och motsvarande destinationsuttryck utan överdriven en-till-en-karta.",
@@ -1200,20 +1316,6 @@
       "Kommande lektion"
     ],
     "b": "Aus och von: varifrån? Ursprung, inifrån/ifrån och personer/verksamheter i kontext; utvalda meningspar och motsvarande destinationsuttryck utan överdriven en-till-en-karta. P05 A2–B1"
-  },
-  {
-    "id": "P06",
-    "t": "Am, im, um, seit, vor och für",
-    "d": "Klocka/datum, när/varaktighet, seit/vor/in/für/ab/bis; skillnad mot svensk i/på/om/för … sedan; presens efter seit när förloppet fortsätter.",
-    "h": "/docs/prepositioner/tid",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Am, im, um, seit, vor och für Klocka/datum, när/varaktighet, seit/vor/in/für/ab/bis; skillnad mot svensk i/på/om/för … sedan; presens efter seit när förloppet fortsätter. P06 A1–B1"
   },
   {
     "id": "P07",
@@ -1272,20 +1374,6 @@
     "b": "Liegen/legen, stehen/stellen och sitzen/setzen Befintlighet och placering i kontext, reflexiva setzen/stellen/legen; hängen med två konstruktionsmönster och skilda huvudformer; inte synonymt med rörelse kontra stillhet. P10 A2–B1"
   },
   {
-    "id": "Y02",
-    "t": "Satsramen: vänster och höger verbdel",
-    "d": "Modalverb, perfekt och separerbara verb i samma fältmodell; placera hela fraser, visa vad som hålls ihop och hur negation passar in.",
-    "h": "/docs/syntax/satsram",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Satsramen: vänster och höger verbdel Modalverb, perfekt och separerbara verb i samma fältmodell; placera hela fraser, visa vad som hålls ihop och hur negation passar in. Y02 A1–B1"
-  },
-  {
     "id": "Y05",
     "t": "Mittfältet och vad som betonas",
     "d": "Pronomen/substantiv, bestämdhet, känt/nytt och tids-/sätts-/platsadverbial; TeKaMoLo som tendens, inga absoluta regler som underkänner idiomatiska alternativ.",
@@ -1298,20 +1386,6 @@
       "Kommande lektion"
     ],
     "b": "Mittfältet och vad som betonas Pronomen/substantiv, bestämdhet, känt/nytt och tids-/sätts-/platsadverbial; TeKaMoLo som tendens, inga absoluta regler som underkänner idiomatiska alternativ. Y05 B1–B2"
-  },
-  {
-    "id": "Y06",
-    "t": "Nicht, kein och negationens räckvidd",
-    "d": "Nominal negation, sats- och lednegation samt placering; noch nicht/nicht mehr/nichts/niemand; kontrastiva exempel och betydelsen av inte behöva kontra inte få.",
-    "h": "/docs/syntax/nicht-och-kein",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Nicht, kein och negationens räckvidd Nominal negation, sats- och lednegation samt placering; noch nicht/nicht mehr/nichts/niemand; kontrastiva exempel och betydelsen av inte behöva kontra inte få. Y06 A1–B1"
   },
   {
     "id": "Y07",

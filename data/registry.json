@@ -1442,15 +1442,15 @@
         "V09"
       ],
       "requiredCoverage": "Werden + infinitiv, presens med tidsadverbial, avsikt och antaganden; undvik att all framtid måste ha werden; gräns mot modalverbens betydelser.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Tempus/futur-i.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "T07",
@@ -1464,15 +1464,15 @@
         "T02"
       ],
       "requiredCoverage": "Werden + particip + haben/sein; framtida avslut och förmodan om det förflutna; fulla exempel med tydlig kontext och hjälpverbsval.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Tempus/futur-ii.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "T08",
@@ -1486,15 +1486,15 @@
         "T05"
       ],
       "requiredCoverage": "Seit + presens vid pågående förlopp, svenska perfektöversättningar, tidsadverb och berättelsens referenstid; skilj tempus från aktionsart och modalitet.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Tempus/tid-i-sammanhang.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "M01",
@@ -1531,15 +1531,15 @@
         "T03"
       ],
       "requiredCoverage": "Präteritum i vardagsbruk, perfekt med och utan styrd infinitiv; ich habe arbeiten müssen; fördjupad bisatsordning länkas till E11.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Modus/modalverb-i-datid.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "M03",
@@ -1596,15 +1596,15 @@
         "T02"
       ],
       "requiredCoverage": "Formbildning, sein/haben/werden och tidsreferens; överlappning med indikativ och ersättningsformer; tydlig skillnad mellan formen och användningen i M06.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Modus/konjunktiv-i.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "M06",
@@ -1619,15 +1619,15 @@
         "Y04"
       ],
       "requiredCoverage": "Konjunktiv I, Konjunktiv II och indikativ efter stil/kontext; pronomen och tidsuttryck; ingen automatisk engelsk tempusförskjutning eller regel att II alltid uttrycker misstro.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Modus/indirekt-tal.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "M07",

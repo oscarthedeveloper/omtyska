@@ -368,6 +368,46 @@
     "bl": ""
   },
   {
+    "id": "M06",
+    "t": "Indirekt tal och referat",
+    "d": "Lär dig hur indirekt tal konstrueras i tyska nyheter, artiklar och formella sammanhang. Förstå formvalet mellan Konjunktiv I och II samt hur pronomen och tidsuttryck anpassas.",
+    "h": "/docs/modus/indirekt-tal",
+    "c": "Modus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Formvalshierarkin: Vilken form ska väljas?",
+      "2. Tempus i indirekt tal: Ingen \"backshift\"",
+      "3. Anpassning av pronomen och deiktiska tidsuttryck",
+      "4. Satsstruktur: Med eller utan \"dass\"?",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Konjunktiv II vid sammanfall - würde-form\", \"Undvika den engelska fällan: ingen automatisk tempusförskjutning i dåtid\", \"Lära dig hur pronomen och tidsuttryck anpassas (ich - er, heute - an jenem Tag)\", \"Veta när tyskarna i vardagen helt enkelt använder vanlig indikativ med 'dass'\" ]} prerequisites={[ , , ]} / Kärnan på en halv minut Indirekt tal återger ett yttrande utan citationstecken. I tysk skrift och nyheter används Konjunktiv I för att visa att skribenten bara citerar och inte garanterar påståendets sanningshalt: Märk väl att oavsett om anföringsverbet står i presens ( er sagt ) eller dåtid ( er sagte / er hat gesagt ), förblir formen i indirekt tal habe (Konjunktiv I). Det sker ingen automatisk tempusförskjutning som i engelskan! --- 1. Formvalshierarkin: Vilken form ska väljas? Tyskans indirekta tal följer en strikt tre-stegs-trappa: [!NOTE] En vanlig myt om Konjunktiv II: Många läroböcker påstår att Konjunktiv II i indirekt tal signalerar \"misstro\" eller \"tvivel\" från skribentens sida. I modern tysk lingvistik och journalistik är Konjunktiv II i de allra flesta fall en ren grammatisk ersättningsform för sammanfallande former i plural eller 1:a person! --- 2. Tempus i indirekt tal: Ingen \"backshift\" På engelska och delvis svenska förskjuts tempus bakåt om huvudsatsen står i dåtid ( He said: \"I am tired\" He said that he was tired ). I tyskan gäller i stället regeln om ursprunglig tidsrelation : Ursprungligt direkt tal Indirekt tal (Konjunktiv I) Tysk konstruktion :--- :--- :--- Nutid: \"Ich wohne hier.\" Er sagte, er wohne dort. Konjunktiv I presens Dåtid (vilken som helst): \"Ich wohnte / habe gewohnt / hatte gewohnt.\" Er sagte, er habe dort gewohnt . Konjunktiv I perfekt ( habe/sei + Partizip II ) Framtid: \"Ich werde umziehen.\" Er sagte, er werde umziehen. Konjunktiv I futur ( werde + Infinitiv ) Det spelar alltså ingen roll om anföringsverbet är er sagt , er sagte eller er hat gesagt – tidsformen i den citerade satsen styrs enbart av vad talaren ursprungligen uttryckte! --- 3. Anpassning av pronomen och deiktiska tidsuttryck När ett direkt tal omvandlas till indirekt tal måste perspektivet flyttas från den ursprungliga talaren till referenten: Pronomen: \"ich\" er / sie \"wir\" sie \"mein\" sein / ihr Tidsadverbial: \"heute\" an jenem Tag / damals \"morgen\" am folgenden Tag / tags darauf \"gestern\" am Vortag / am Tag zuvor \"hier\" dort --- 4. Satsstruktur: Med eller utan \"dass\"? Indirekt tal kan formuleras på två sätt: 1. Som huvudsatsstruktur (utan dass): Verbet på position 2! Detta är den vanligaste stilen i tidningstext. Der Minister erklärte, die Regierung werde den Entwurf überarbeiten. 2. Som bisatsstruktur (med dass): Verbet allra sist. Der Minister erklärte, dass die Regierung den Entwurf überarbeiten werde . I talat vardagsspråk dominerar varianten med dass och vanlig indikativ : Anna hat erzählt, dass sie nächsten Monat nach Spanien fliegt . --- Svenska interferenser och fallgropar 1. Förväxling med svenskans \"skulle\": Översätt inte tysk Konjunktiv I med \"skulle\". Er behauptet, er sei unschuldig motsvaras på svenska av Han påstår att han är oskyldig . 2. Onödigt avancerat i vardagen: När du fikar med vänner behöver du inte använda Konjunktiv I. Det låter onaturligt stelt och byråkratiskt i vanligt tal: använd vanlig bisats med dass och indikativ! --- 10 autentiska exempel 1. Die Kanzlerin teilte mit, sie habe den Vorschlag aufmerksam geprüft. (habe geprüft: dåtid i indirekt tal återges med Konjunktiv I av haben + particip.) 2. Der Zeuge versicherte vor Gericht, er sei zum Tatzeitpunkt zu Hause gewesen. (sei gewesen: dåtid med hjälpverbet sein i Konjunktiv I.) 3. Die Forscher gaben bekannt, sie hätten ein wirksames Medikament entdeckt. (hätten används som ersättningsform eftersom haben i plural är identisk med indikativ.) 4. Der Sprecher betonte, die Gespräche verliefen in einer konstruktiven Atmosphäre. (verliefen: Konjunktiv II ersätter Konjunktiv I verlaufen i plural.) 5. Die Gewerkschaft kündigte an, man werde die Streiks ab Montag fortsetzen. (werde + infinitiv för framtida handling i indirekt tal.) 6. Er meinte am Telefon, er könne die Unterlagen erst morgen einreichen. (könne i Konjunktiv I med bevarat omljud.) 7. Sie sagte mir gestern, sie habe überhaupt keine Lust auf ein langes Meeting. (habe i 3:e person singular utan dass; verbet på position 2.) 8. Der Trainer erklärte den Journalisten, die Mannschaft müsse jetzt nach vorne blicken. (müsse i 3:e person singular Konjunktiv I.) 9. Viele Passanten berichteten, sie hätten einen lauten Knall gehört. (hätten gehört: Konjunktiv II i plural som ersättning för haben gehört.) 10. In den Nachrichten hieß es, der Streik werde voraussichtlich mehrere Tage dauern. (werde dauern: framtid i nyhetsreferat.) ---",
+    "bl": ""
+  },
+  {
+    "id": "M05",
+    "t": "Konjunktiv I",
+    "d": "Lär dig hur tyskans Konjunktiv I bildas och fungerar. Behärska stambildningen, de unika formerna av sein och haben samt principerna för när formen överlappar med indikativ.",
+    "h": "/docs/modus/konjunktiv-i",
+    "c": "Modus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. De oregelbundna hjälpverben",
+      "2. Tidsplanen i Konjunktiv I",
+      "3. Överlappning med indikativ och ersättningsformer",
+      "4. Fasta uttryck med Konjunktiv I",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Konjunktiv I bildas alltid från infinitivstammen (utan vokalväxling) plus följande ändelser där bokstaven -e- är den bärande signalen: Den viktigaste formen i praktiken är 3:e person singular ( er/sie/es ) , eftersom det är den som oftast används i rapportering och nyhetstext: Der Kanzler sagt, die Lage sei ernst. (Förbundskanslern säger att läget är allvarligt.) Die Sprecherin teilte mit, man habe eine Einigung erzielt. (Talespersonen meddelade att man nått en överenskommelse.) --- 1. De oregelbundna hjälpverben Verbet sein är det enda verbet i hela det tyska språket där Konjunktiv I skiljer sig från indikativ i samtliga personer (lägg märke till nolländelsen i ich och er/sie/es ): Modalverben följer den vanliga stamregeln och har inget omljud i Konjunktiv I (till skillnad från Konjunktiv II): können er könne (Konj. II: könnte ) müssen er müsse (Konj. II: müsste ) wollen er wolle (Konj. II: wollte ) dürfen er dürfe (Konj. II: dürfte ) --- 2. Tidsplanen i Konjunktiv I Konjunktiv I har bara tre tidsplan i praktiken: nutid , dåtid och framtid . All dåtid (oavsett om originalyttrandet var i präteritum, perfekt eller pluskvamperfekt) reduceras till en enda sammansatt form med sei eller habe : --- 3. Överlappning med indikativ och ersättningsformer I många personer är Konjunktiv I helt identisk med vanlig indikativ presens. Till exempel heter både indikativ och Konjunktiv I av wir gehen : gehen . När en form är tvetydig och inte omedelbart signalerar konjunktiv gäller följande ersättningshierarki: 1. Om Konjunktiv I är identisk med indikativ, ersätts den av Konjunktiv II : Ursprung: Die Zeugen sagen: \"Wir sehen den Täter.\" Konjunktiv I vore sehen (identisk med presens indikativ!). Lösning med Konjunktiv II: Die Zeugen sagen, sie sähen den Täter. 2. Om även Konjunktiv II är föråldrad eller svårförståelig, används würde + infinitiv : Die Zeugen sagen, sie würden den Täter sehen. --- 4. Fasta uttryck med Konjunktiv I Utanför nyhetstexter och indirekt tal lever Konjunktiv I kvar i en handfull fasta formler för önskningar, välsignelser och matematiska satser: Es lebe die Freiheit! (Leve friheten!) Gott sei Dank! (Gudskelov / Tack och lov!) Wie dem auch sei , wir müssen weitermachen. (Hur det än må vara...) Der Radius sei r. (Låt radien vara r - i matematiska bevis.) --- Svenska interferenser och fallgropar 1. Översätt inte Konjunktiv I som \"skulle\": På svenska saknas motsvarighet till Konjunktiv I; vi använder indikativ med anföringssats. Er sagt, er habe kein Geld betyder Han säger att han inte har några pengar , INTE att han inte skulle ha pengar . 2. Blanda inte ihop Konjunktiv I och II: Konjunktiv I ( er habe, er könne ) är neutral rapportering. Konjunktiv II ( er hätte, er könnte ) uttrycker hypotes, overklighet eller artighet. --- 10 autentiska exempel 1. Die Sprecherin betonte, das Ministerium habe unverzüglich reagiert. (habe i 3:e person singular Konjunktiv I för neutral rapportering.) 2. Der Arzt versicherte, der Patient sei bereits auf dem Weg der Besserung. (sei från sein i Konjunktiv I.) 3. Laut Polizei gebe es bisher keine Hinweise auf ein Verbrechen. (es gebe: Konjunktiv I av es gibt.) 4. Der Angeklagte behauptet, er wisse von den Vorfällen überhaupt nichts. (wisse är Konjunktiv I av wissen; infinitivstam wiss- + e.) 5. Sie sagte mir am Telefon, sie werde den Flug rechtzeitig buchen. (werde + infinitiv för framtid i Konjunktiv I.) 6. Der Vorstand erklärte, das Unternehmen könne die Dividende dieses Jahr erhöhen. (könne med bibehållet omljud från infinitiv, utan präteritumsändelse.) 7. Viele Bürger meinen, die Preise seien im letzten Monat stark gestiegen. (seien är 3:e person plural av sein i Konjunktiv I.) 8. Er versprach seiner Familie, er komme am Wochenende zu Besuch. (komme i 3:e person singular Konjunktiv I.) 9. Gott segne dich und deine Familie auf dieser langen Reise. (segne i optativ/önskande formel.) 10. Der Bericht stellt fest, man müsse die Sicherheitsvorkehrungen umgehend verschärfen. (müsse är Konjunktiv I av müssen.) ---",
+    "bl": ""
+  },
+  {
     "id": "M04",
     "t": "Konjunktiv II i dåtid och villkor",
     "d": "Lär dig Konjunktiv II i dåtid: \"hätte/wäre + Partizip II\". Hur du uttrycker vad som \"skulle ha hänt\", ånger (\"om jag bara hade...\"), samt irreala villkorssatser i dåtid och blandade tempus.",
@@ -404,6 +444,26 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut I modern tyska uttrycks Konjunktiv II på två sätt : 1. Den universella omskrivningen (för 95% av alla verb): 2. De enkla formerna (stark standardpreferens för sein, haben och modalverb): sein - wäre (vore / skulle vara) haben - hätte (skulle ha) können - könnte (skulle kunna) müssen - müsste (skulle behöva / måste) dürfen - dürfte (skulle få / torde) Stilistisk rekommendation: Även om omskrivningen würde sein / würde haben förekommer i visst talspråk och redovisas i grammatiska tabeller (t.ex. Duden), föredras i standardtyska och skrift konsekvent de syntetiska formerna ich wäre och ich hätte . Att använda würde sein uppfattas ofta som stilistiskt klumpigt eller talspråkligt. --- 1. Böjningstabell: wäre, hätte, könnte och würde Konjunktiv II-ändelserna är: -e, -est, -e, -en, -et, -en . Lägg märke till att 1:a och 3:e person singular är identiska och slutar på -e : Person wäre (vara) hätte (ha) könnte (kunna) würde (bli/skulle) :--- :--- :--- :--- :--- ich wär e hätt e könnt e würd e du wär est hätt est könnt est würd est er / sie / es wär e hätt e könnt e würd e wir wär en hätt en könnt en würd en ihr wär et hätt et könnt et würd et sie / Sie wär en hätt en könnt en würd en --- 2. De tre användningsområdena 1. Hövlighet och artiga förfrågningar I stället för trubbiga uppmaningar använder tyskar alltid Konjunktiv II: Könnten Sie mir bitte helfen? (Skulle ni kunna hjälpa mig?) Ich hätte gern einen Kaffee. (Jag skulle gärna vilja ha en kaffe.) Würden Sie bitte das Fenster schließen? (Skulle ni vilja stänga fönstret?) 2. Hypotetiska önskningar (drömmar) När verkligheten är annorlunda än önskan: Ich hätte so gern mehr Urlaub! (Jag önskar jag hade mer semester!) Wenn ich doch nur mehr Zeit hätte ! (Om jag bara hade mer tid!) 3. Irreala villkorssatser (Nutid) Hypoteser om nutiden som inte är sanna: Wenn ich reich wäre , würde ich eine Weltreise machen . (Om jag vore rik [vilket jag inte är], skulle jag göra en jordenruntresa.) --- 3. Akta prickarna: hatte vs. hätte! Detta är en klassisk svensk fälla: Ich hatte keine Zeit. = Jag HADE ingen tid (faktisk dåtid). Ich hätte keine Zeit. = Jag SKULLE INTE HA tid (hypotes/antagande). Omljudsprickarna (Umlaut) förvandlar ett historiskt faktum till en hypotetisk tanke! --- 10 autentiska exempel 1. Könnten Sie mir bitte sagen, wo der Bahnhof ist? (artig fråga i stället för können Sie.) 2. Ich hätte gern ein Glas Mineralwasser, bitte. (standardfras vid beställning.) 3. Wenn das Wetter schön wäre , würden wir an den See fahren . (irreal villkorssats i nutid.) 4. An deiner Stelle würde ich mich sofort beim Chef entschuldigen. (råd till en vän: i ditt ställe skulle jag...) 5. Das wäre wirklich fantastisch! (reaktion på ett förslag: det vore fantastiskt.) 6. Wir müssten eigentlich dringend die Wohnung putzen. (müsste uttrycker moralisk skyldighet/borde.) 7. Würdest du mir kurz dein Handy leihen? (artig förfrågan till en vän med würde.) 8. Wenn er besser Deutsch sprechen könnte , fände er schneller Arbeit. (könnte i bisats, fände eller würde finden i huvudsats.) 9. Ich wäre jetzt so gern am Strand in Spanien. (dröm/önskan i nutid: jag vore så gärna på stranden.) 10. Das dürfte kein großes Problem sein. (dürfte för försiktig förmodan: det torde inte vara något problem.) ---",
+    "bl": ""
+  },
+  {
+    "id": "M02",
+    "t": "Modalverb i dåtid och Ersatzinfinitiv",
+    "d": "Lär dig hur tyskans modalverb används i dåtid. Förstå varför präteritum föredras i vardagen, hur Ersatzinfinitiv fungerar i perfekt och hur ordföljden ser ut i bisatser.",
+    "h": "/docs/modus/modalverb-i-datid",
+    "c": "Modus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Präteritum av modalverben: Inga omljud!",
+      "2. Perfekt och Ersatzinfinitiv (ersättningsinfinitiv)",
+      "Undantag: När modalverbet står helt ensamt",
+      "3. Ordföljd i bisats med Ersatzinfinitiv",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut När du använder modalverb i dåtid gäller två gyllene regler: 1. Vardagsregeln: Använd Präteritum ! Även om tyskt talspråk normalt använder perfekt för dåtid ( Ich habe gegessen ), är modalverben det stora undantaget: man säger nästan uteslutande Ich musste lernen , inte Ich habe lernen müssen . 2. Ersatzinfinitiv-regeln: Om du ändå bildar perfekt med ett annat verb i infinitiv, förvandlas modalverbets particip II till en infinitiv : Ich habe gestern lange arbeiten müssen . (INTE gemusst!) --- 1. Präteritum av modalverben: Inga omljud! I präteritum tappar alla modalverb sina prickar (omljud). Ändelserna är de vanliga regelbundna präteritumändelserna ( -te, -test, -te, -ten, -tet, -ten ): [!WARNING] Varning för förväxling med Konjunktiv II! Präteritum har inga prickar : ich konnte (jag kunde) , ich musste (jag var tvungen) . Konjunktiv II har prickar : ich könnte (jag skulle kunna) , ich müsste (jag borde/skulle vara tvungen) . Att sätta omljud på präteritum ändrar alltså betydelsen från faktisk dåtid till hypotetiskt önskemål! --- 2. Perfekt och Ersatzinfinitiv (ersättningsinfinitiv) När ett modalverb står tillsammans med ett huvudverb i perfekt händer något märkligt: modalverbet får inte formen med ge- ( gemusst , gekonnt ), utan uppträder som en ren infinitiv. Detta kallas traditionellt Ersatzinfinitiv : Rätt: Ich habe das Auto reparieren lassen . Rätt: Wir haben gestern lange warten müssen . Felaktigt: Wir haben gestern lange warten gemusst. Hjälpverbet är alltid haben , även om huvudverbet i vanliga fall tar sein : Med vanligt verb: Er ist nach Hause gefahren. Med modalverb i perfekt: Er hat nach Hause fahren müssen . Undantag: När modalverbet står helt ensamt Om modalverbet inte styr något annat verb utan fungerar som självständigt huvudverb, används det vanliga participet med ge- : Ich habe das einfach nicht gewollt . (Jag ville helt enkelt inte det.) Er hat die Matheaufgabe nicht gekonnt . (Han kunde inte matteuppgiften.) --- 3. Ordföljd i bisats med Ersatzinfinitiv I en vanlig bisats står det finita verbet allra sist: ..., weil er gestern den ganzen Tag schlief . Men när en bisats slutar med en dubbel infinitiv (Ersatzinfinitiv) kan inte tre verb staplas hur som helst. I modern standardtyska flyttas hjälpverbet haben fram framför de två infinitiverna (så kallat Oberfeld ): I talat språk hörs ibland arbeiten müssen hat , men i vårdad skriftlig tyska är framställningen hat arbeiten müssen den etablerade normen. --- Svenska interferenser och fallgropar 1. \"Jag har inte kunnat ringa\" : På svenska använder vi naturligt supinum (\"kunnat ringa\"). På tyska säger man i 95 % av fallen helt enkelt präteritum: Ich konnte nicht anrufen . Perfekten Ich habe nicht anrufen können är grammatiskt korrekt men låter onödigt tungrodd i vardagssamtal. 2. Formförväxling : Tro inte att mochte betyder skulle vilja . Ich mochte den Film betyder Jag gillade filmen (dåtid) . Skulle vilja heter ich möchte . --- 10 autentiska exempel 1. Gestern konnte ich leider nicht zum Unterricht kommen, weil ich krank war. (Präteritum av können uttrycker dåtida oförmåga i naturligt tal.) 2. Wir mussten am Bahnhof über zwei Stunden auf den Anschlusszug warten. (musste utan omljud för dåtida tvång.) 3. Als Kind durfte ich abends nie länger als bis acht Uhr aufbleiben. (durfte utan omljud för tillåtelse/regler i dåtid.) 4. Der Arzt sagte, ich sollte mich ein paar Tage schonen. (sollte som präteritum av rekommendation.) 5. Niemand wollte die unangenehme Aufgabe freiwillig übernehmen. (wollte för vilja/avsikt i dåtid.) 6. Er hat den schweren Koffer ganz allein nach oben tragen müssen . (Perfekt med Ersatzinfinitiv: tragen müssen istället för getragen gemusst.) 7. Sie hat die Prüfung beim ersten Versuch nicht bestehen können . (Perfekt med Ersatzinfinitiv bestehen können; hjälpverbet är hat.) 8. Das habe ich wirklich nicht mit Absicht gewollt ! (Modalverb ensamt utan annat verb: vanligt particip II gewollt.) 9. Es tut mir leid, dass du so lange auf mich hast warten müssen . (Bisatsordning med Oberfeld: hast hamnar framför warten müssen.) 10. Früher mochte mein Bruder überhaupt kein Gemüse, heute isst er alles. (mochte är präteritum av mögen: tyckte inte om.) ---",
     "bl": ""
   },
   {
@@ -989,6 +1049,47 @@
     "bl": ""
   },
   {
+    "id": "T06",
+    "t": "Futur I, presens och förmodan",
+    "d": "Lär dig hur Futur I bildas med werden och infinitiv. Förstå varför presens oftast räcker för att uttrycka framtid på tyska, och hur Futur I används för antaganden i nutid.",
+    "h": "/docs/tempus/futur-i",
+    "c": "Tempus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "Böjning av werden i presens",
+      "1. Den stora regeln: Presens uttrycker oftast framtid!",
+      "2. När används Futur I för framtid?",
+      "3. Futur I för förmodan i nutid (Vermutung)",
+      "4. Futur I kontra modalverben: wollen och sollen",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Futur I bildas med det finita hjälpverbet werden på position 2 och huvudverbets rena infinitiv (utan zu ) allra sist i satsen: Böjning av werden i presens --- 1. Den stora regeln: Presens uttrycker oftast framtid! I vardaglig tyska används presens + tidsangivelse i de allra flesta fall när man pratar om framtiden, precis som på modern svenska: Morgen fliege ich nach München. (I morgon flyger jag till München.) Nächste Woche schreiben wir die Prüfung. (Nästa vecka skriver vi provet.) Am Wochenende besuche ich meine Großeltern. (I helgen besöker jag mina morföräldrar.) Att ständigt använda werden ( Ich werde morgen nach München fliegen ) låter onaturligt styltigt i vardagssamtal, ungefär som att på svenska alltid säga \"Jag kommer att...\" . --- 2. När används Futur I för framtid? Futur I används framför allt i följande situationer: 1. Formella prognoser och väderrapporter: Morgen wird es in ganz Deutschland regnen . 2. Bestämda löften och programförklaringar: Ich werde dich nie vergessen ! Die Bundesregierung wird die Steuern senken . 3. Eftertryckliga uppmaningar (kategoriskt imperativ): Du wirst dich jetzt sofort bei deiner Schwester entschuldigen ! --- 3. Futur I för förmodan i nutid ( Vermutung ) Detta är en av tyskans mest eleganta funktioner! Futur I används mycket ofta inte för framtid , utan för att uttrycka en kvalificerad gissning om vad som händer just nu : Wo ist Thomas? – Er wird wohl im Garten sein . (Var är Thomas? – Han är nog i trädgården.) Es klopft an der Tür. Das wird wahrscheinlich der Postbote sein . (Det knackar på dörren. Det är förmodligen brevbäraren.) Tillsammans med modala partiklar som wohl (nog) , vielleicht (kanske) eller wahrscheinlich (förmodligen) signalerar wird + infinitiv att talaren drar en logisk slutsats om nuet. --- 4. Futur I kontra modalverben: wollen och sollen Blanda inte ihop tyskans werden med svenskans \"ska\" och \"vill\": Werden = ren framtid eller förmodan (neutral förutsägelse): Er wird Arzt werden. (Han kommer att bli läkare.) Wollen = personlig vilja eller avsikt: Er will Arzt werden. (Han vill bli läkare / har för avsikt att bli det.) Sollen = uppdrag, plikt eller rekommendation från någon annan: Ich soll den Chef anrufen. (Jag ska ringa chefen – chefen/sekreteraren bad mig.) --- Svenska interferenser och fallgropar 1. \"Bli\" kontra \"komma att\": Kom ihåg att verbet werden har två roller: som självständigt verb betyder det att bli ( Er wird alt = Han blir gammal ), medan det som hjälpverb med infinitiv bildar futurum ( Er wird kommen = Han kommer att komma ). 2. Överanvändning av werden: Översätt inte svenskans \"Jag ska äta nu\" med Ich werde jetzt essen . Säg helt enkelt: Ich esse jetzt eller Ich will jetzt essen om det handlar om vilja. --- 10 autentiska exempel 1. Morgen wird die Sonne im ganzen Land scheinen. (Väderprognos med Futur I: wird... scheinen.) 2. Wo bleibt Lukas? – Er wird wohl den Bus verpasst haben oder im Stau stehen. (Förmodan om nutid: wird wohl... im Stau stehen.) 3. Keine Sorge, wir werden eine gute Lösung für das Problem finden. (Lugnande löfte i Futur I: werden... finden.) 4. Wer klopft da? – Das wird sicher der Nachbar sein. (Antagande i nuet: wird sicher... sein.) 5. Nächsten Monat fliegt meine Schwester nach Japan. (Vardaglig framtid med presens och tidsadverbial.) 6. Ich werde mich umgehend bei Ihnen melden, sobald die Ergebnisse vorliegen. (Formellt affärslöfte i Futur I.) 7. Du wirst jetzt deine Hausaufgaben machen, und zwar ohne Widerrede! (Eftertrycklig uppmaning med Futur I.) 8. Er wird wahrscheinlich schon schlafen, es ist ja schon Mitternacht. (Förmodan i nutid med wahrscheinlich: han sover nog redan.) 9. Die Kosten für das Projekt werden voraussichtlich weiter steigen. (Formell prognos i sakprosa.) 10. Wir wollen im Sommer heiraten. (wollen uttrycker parets vilja och plan, inte Futur I.) ---",
+    "bl": ""
+  },
+  {
+    "id": "T07",
+    "t": "Futur II",
+    "d": "Lär dig hur tyskans Futur II bildas med werden + Partizip II + haben/sein. Upptäck varför dess viktigaste funktion i modern tyska är förmodan om det förflutna snarare än framtid.",
+    "h": "/docs/tempus/futur-ii",
+    "c": "Tempus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Funktion 1: Förmodan om det förflutna (den vanligaste användningen!)",
+      "2. Funktion 2: Avslutad handling i framtiden",
+      "Vardaglig ersättning med perfekt",
+      "3. Ordföljd i bisatser med Futur II",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Futur II bildas av det böjda hjälpverbet werden på position 2 och ett verbkluster i slutet bestående av Partizip II + haben eller sein : Valet av haben eller sein styrs helt av huvudverbet, precis som i vanligt perfekt: verpassen kräver haben verpasst haben ankommen kräver sein (rörelse) angekommen sein --- 1. Funktion 1: Förmodan om det förflutna (den vanligaste användningen!) I modern tyska används Futur II i minst 80 % av fallen för att uttrycka en antagande eller gissning om något som redan har hänt i dåtid : Warum antwortet Lisa nicht? – Sie wird ihr Handy vergessen haben . (Varför svarar inte Lisa? – Hon har nog glömt sin mobiltelefon.) Der Chef sieht sehr müde aus. Er wird die ganze Nacht gearbeitet haben . (Chefen ser mycket trött ut. Han lär ha arbetat hela natten.) Er ist noch nicht da. Er wird im Stau gestanden haben . (Han är inte här än. Han har säkert stått i bilkö.) Detta kombineras mycket ofta med modala partiklar och adverb som wohl (nog) , sicher (säkert) eller vermutlich (förmodligen) . --- 2. Funktion 2: Avslutad handling i framtiden Den traditionella grammatiska definitionen av Futur II är att uttrycka en handling som kommer att vara avslutad vid en viss framtida tidpunkt : Bis nächsten Freitag werde ich den gesamten Bericht fertiggestellt haben . (Före nästa fredag kommer jag att ha färdigställt hela rapporten.) Um 18 Uhr wird der Zug bereits in Wien eingetroffen sein . (Klockan 18 kommer tåget redan att ha anlänt till Wien.) Vardaglig ersättning med perfekt I ledigt talspråk upplevs denna framtidsfunktion ofta som onödigt tung. Tysktalande ersätter den nästan alltid med vanligt perfekt tillsammans med en tidsangivelse: Vardagligt: Bis nächsten Freitag habe ich den Bericht fertiggestellt . (Betyder exakt samma sak och är mycket naturligare i vardagen!) --- 3. Ordföljd i bisatser med Futur II I en bisats flyttas det böjda verbet längst bak. I Futur II hamnar alltså det finita werden allra sist, efter participet och infinitiven: --- Svenska interferenser och fallgropar 1. \"Lär ha\" och \"torde ha\": På svenska använder vi ofta modala hjälpverb som lär ha gjort eller adverb som har nog gjort för att uttrycka förmodan om dåtid. På tyska är Futur II den mest eleganta konstruktionen för just detta: översätt svenskans \"Han har nog rest redan\" med Er wird wohl schon abgereist sein . 2. Glöm inte rätt hjälpverb sist: Det vanligaste misstaget är att alltid sätta haben på slutet. Tänk alltid på om huvudverbet bildar perfekt med sein : Er wird angekommen sein (inte haben !). --- 10 autentiska exempel 1. Er ist nicht ans Telefon gegangen; er wird wohl schon eingeschlafen sein . (Förmodan om dåtid med rörelse-/tillståndsverb som tar sein: eingeschlafen sein.) 2. Sie weiß die Antwort nicht. Sie wird die E-Mail wahrscheinlich nicht gelesen haben . (Förmodan om dåtid med transitivt verb som tar haben: gelesen haben.) 3. Bis Ende des Monats werden wir die Renovierung abgeschlossen haben . (Framtida avslutad handling med tidsgräns: bis Ende des Monats.) 4. Wo hat sie nur ihre Tasche gelassen? – Sie wird sie im Café vergessen haben . (Logisk slutsats om vad som hände i dåtid.) 5. Um Mitternacht wird das Flugzeug in Tokio gelandet sein . (Futur II med landen och hjälpverbet sein.) 6. Niemand öffnet die Tür; die Bewohner werden wohl übers Wochenende verreist sein . (Förmodan om förfluten resa med sein.) 7. Der Schüler schaut so glücklich aus; er wird die schwere Prüfung bestanden haben . (Förmodan om framgångsrikt provresultat.) 8. Bis zum Beginn des Semesters werde ich eine Wohnung in Heidelberg gefunden haben . (Uttrycker förhoppning och framtida mål före en viss tidpunkt.) 9. Es ist schon 22 Uhr; die Kinder werden sicherlich schon ins Bett gegangen sein . (gegangen sein: säker förmodan om dåtid med sein.) 10. Sie haben kein Wort gesagt; sie werden die Nachricht wohl schon früher erfahren haben . (erfahren haben: förmodan om tidigare mottagen information.) ---",
+    "bl": ""
+  },
+  {
     "id": "T01",
     "t": "Partizip II",
     "d": "Lär dig bygga tyskans supinum / perfektparticip (Partizip II): grundmönstret med ge-...-t för svaga verb och ge-...-en för starka verb, separerbara verb, oseparerbara prefix och verb på -ieren.",
@@ -1075,6 +1176,27 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut I tyskan finns två dåtidstempus: 1. Perfekt ( Ich habe gemacht, Ich bin gefahren ): Används i vardagligt tal och personliga mejl. 2. Präteritum ( Ich machte, Ich fuhr ): Används i skriftspråk, berättelser och tidningar . Det finns dock ett stort undantag där preteritum är normen även i talspråk: sein - war (ich war, du warst, er war...) haben - hatte (ich hatte, du hattest, er hatte...) Modalverben - konnte , musste , wollte , durfte , sollte Ingen tysk säger \"Ich bin gestern müde gewesen\" i vardagligt tal — alla säger: Ich war gestern müde ! --- 1. Svaga verb i preteritum: Ändelsen -te Svaga verb bildar preteritum genom att lägga till -te till verbstammen. Observera att 1:a och 3:e person singular är identiska och saknar personändelse : Person machen (att göra) wohnen (att bo) arbeiten (stam på -t) :--- :--- :--- :--- ich mach- te wohn- te arbeit- ete du mach- test wohn- test arbeit- etest er / sie / es mach- te (identisk med ich!) wohn- te arbeit- ete wir mach- ten wohn- ten arbeit- eten ihr mach- tet wohn- tet arbeit- etet sie / Sie mach- ten wohn- ten arbeit- eten --- 2. Starka verb i preteritum: Vokalväxling Starka verb har ingen -te -ändelse. De byter vokal i stammen, och har ingen ändelse alls i 1:a och 3:e person singular : Person gehen (ging) fahren (fuhr) schreiben (schrieb) :--- :--- :--- :--- ich ging (ingen ändelse) fuhr (ingen ändelse) schrieb (ingen ändelse) du ging- st fuhr- st schrieb- st er / sie / es ging (ingen ändelse) fuhr (ingen ändelse) schrieb (ingen ändelse) wir ging- en fuhr- en schrieb- en ihr ging- t fuhr- t schrieb- t sie / Sie ging- en fuhr- en schrieb- en --- 3. De oumbärliga formerna: war, hatte och modalverb Dessa måste du kunna flytande även i vardagligt samtal: Infinitiv 1:a person singular (ich) 3:e person singular (er/sie/es) Svenska :--- :--- :--- :--- sein ich war er war var haben ich hatte er hatte hade können ich konnte er konnte kunde (utan omljud!) müssen ich musste er musste måste / var tvungen (utan omljud!) wollen ich wollte er wollte ville dürfen ich durfte er durfte fick / hade lov till (utan omljud!) sollen ich sollte er sollte skulle / borde Tips: Lägg märke till att modalverben tappar sina omljud ( ö - o, ü - u ) i preteritum! --- 10 autentiska exempel 1. Gestern war das Wetter wirklich herrlich. (sein i preteritum: war.) 2. Ich hatte leider keine Zeit, dich anzurufen. (haben i preteritum: hatte.) 3. Er konnte die schwierige Frage nicht beantworten. (können i preteritum: konnte utan omljud.) 4. Es war einmal ein alter König in einem fernen Land. (Klassisk sagoinledning i preteritum: Es war einmal.) 5. Wir mussten über eine Stunde auf den Zug warten. (müssen i preteritum: mussten.) 6. Der Minister erklärte den Journalisten die neue Maßnahme. (Skriftspråk i nyhetstext: erklärte.) 7. Sie wollte schon immer Ärztin werden. (wollen i preteritum: wollte.) 8. Plötzlich kam ein Mann um die Ecke und fragte nach dem Weg. (Berättande stil: starkt verb kam + svagt verb fragte.) 9. Wo warst du gestern um acht Uhr? (du-form av sein i preteritum: warst.) 10. Die Kinder durften heute länger aufbleiben. (dürfen i preteritum: durften.) ---",
+    "bl": ""
+  },
+  {
+    "id": "T08",
+    "t": "Tidsrelationer och svensk överföring",
+    "d": "Lär dig hur tidsförhållanden och tempus samverkar i tyskan. Behärska seit + presens för pågående handlingar, tidsföljdsregler med nachdem och undvik direktöversatta svenska tempusfällor.",
+    "h": "/docs/tempus/tid-i-sammanhang",
+    "c": "Tempus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Konstruktionen \"seit + presens\"",
+      "Pågående handling i förfluten tid: seit + präteritum",
+      "2. Tidsföljd med \"nachdem\" (förtidighet)",
+      "3. Tidsadverb och referenspunkter: då, förr och sedan",
+      "4. Tempus kontra aktionsart",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Den största krocken mellan svenskt och tyskt tempussystem gäller handlingar som började i det förflutna och fortfarande pågår i nuet : Om du i stället säger: Ich habe fünf Jahre hier gewohnt . ...betyder det att handlingen är helt avslutad : du bodde där i fem år, men nu bor du någon annanstans! --- 1. Konstruktionen \"seit + presens\" Prepositionen seit styr alltid dativ och kombineras med presens när ett tillstånd eller en handling fortfarande är aktiv: Pågående handling i förfluten tid: seit + präteritum Om referenspunkten för berättelsen ligger i det förflutna används präteritum tillsammans med seit : Als wir uns trafen, wohnte er bereits seit zwei Jahren in Wien. (När vi träffades hade han redan bott två år i Wien.) --- 2. Tidsföljd med \"nachdem\" (förtidighet) Konjunktionen nachdem (efter att) introducerar en handling som ägde rum före handlingen i huvudsatsen. Tyskan kräver strikt förtidighet ( Vorzeitigkeit ): Huvudsatsens tempus Bisats med nachdem Exempel :--- :--- :--- Präteritum / Perfekt (dåtid) Plusquamperfekt Nachdem er die Tür verschlossen hatte , ging er zum Bahnhof. Presens / Futur (nutid/framtid) Perfekt Nachdem wir gefrühstückt haben , fahren wir los. Att använda samma tempus i båda satserna ( Nachdem er die Tür verschloss, ging er... ) räknas som stilistiskt felaktigt i vårdad tyska. --- 3. Tidsadverb och referenspunkter: då, förr och sedan Svenska ord som \"då\", \"sedan\" och \"förr\" har flera olika tyska motsvarigheter beroende på funktion: Damals = på den tiden, då (pekar bakåt mot en specifik epok i det förflutna): Damals hatten wir noch kein Internet. Dann / Danach = sedan, därefter (kronologisk följd i en sekvens av händelser): Erst aßen wir zu Abend, dann gingen wir ins Theater. Früher = förr i tiden, tidigare : Früher war vieles einfacher. Vor + dativ = för ... sedan (tidsavstånd räknat bakåt från nuet): Ich bin vor drei Tagen angekommen. (Jag anlände för tre dagar sedan.) --- 4. Tempus kontra aktionsart Blanda inte ihop tempus (när något sker i förhållande till talögonblicket) med aktionsart (hur handlingen förlöper): Tyskan saknar engelskans pågående form ( I am reading vs I read ). Båda översätts med presens: Ich lese gerade ein Buch. (Använd adverbet gerade för pågående aspekt!) Tyskan saknar en särskild aspektmarkör för avslutat förlopp; här används i stället tidsadverbial eller prefixverb: Er hat den Text durchgelesen. (Han läste ut/genom hela texten.) --- Svenska interferenser och fallgropar 1. \"För tre dagar sedan\" : Många översätter ordagrant med für drei Tage seit . Det är helt obegripligt på tyska! Det heter: vor drei Tagen . 2. \"Sedan två timmar väntar jag\" : Kom ihåg dativändelsen efter seit : seit zwei Stunde n , seit eine m Monat , seit eine r Woche . --- 10 autentiska exempel 1. Wir wohnen seit sechs Monaten in dieser schönen Altbauwohnung. (seit + dativ med presens för pågående boende sedan sex månader.) 2. Ich habe drei Jahre in Berlin gelebt, aber jetzt wohne ich in Hamburg. (Perfekt uttrycker avslutad tidsperiod i dåtiden; talaren bor inte längre i Berlin.) 3. Nachdem er das Abitur bestanden hatte , begann er eine Lehre als Tischler. (Strikt tidsföljd: Plusquamperfekt i bisatsen med nachdem före präteritum i huvudsatsen.) 4. Nachdem wir alle Unterlagen vorbereitet haben , können wir den Antrag abschicken. (Tidsföljd i presens: Perfekt i nachdem-satsen före presens/modalverb i huvudsatsen.) 5. Mein Kollege arbeitet schon seit über zwanzig Jahren bei derselben Firma. (schon seit + presens betonar lång pågående anställning.) 6. Er rief mich vor einer Viertelstunde an und sagte Bescheid. (vor + dativ för en kvart sedan.) 7. Damals , im Sommer 1999, verbrachten wir die Ferien an der Ostsee. (Damals pekar ut en specifik tidpunkt i det förflutna.) 8. Zuerst putzen wir die Fenster, danach saugen wir den Teppich. (danach visar sekvens och kronologi.) 9. Sie wartet bereits seit zehn Minuten im Konferenzraum auf uns. (seit zehn Minuten + presens wartet.) 10. Als ich ihn kennenlernte, sprach er bereits seit Jahren fließend Deutsch. (seit + präteritum för pågående förmåga vid dåtida referenspunkt.) ---",
     "bl": ""
   },
   {
@@ -1660,90 +1782,6 @@
       "Kommande lektion"
     ],
     "b": "Oseparerbara prefix och betydelseskiften Be-, emp-, ent-, er-, ge-, miss-, ver-, zer- samt prefix med varierande betoning/separation; jämför omsorgsfullt valda betydelser med separat lexem-ID. V06 A2–B2"
-  },
-  {
-    "id": "T06",
-    "t": "Futur I, presens och förmodan",
-    "d": "Werden + infinitiv, presens med tidsadverbial, avsikt och antaganden; undvik att all framtid måste ha werden; gräns mot modalverbens betydelser.",
-    "h": "/docs/tempus/futur-i",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Futur I, presens och förmodan Werden + infinitiv, presens med tidsadverbial, avsikt och antaganden; undvik att all framtid måste ha werden; gräns mot modalverbens betydelser. T06 A2–B1"
-  },
-  {
-    "id": "T07",
-    "t": "Futur II",
-    "d": "Werden + particip + haben/sein; framtida avslut och förmodan om det förflutna; fulla exempel med tydlig kontext och hjälpverbsval.",
-    "h": "/docs/tempus/futur-ii",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Futur II Werden + particip + haben/sein; framtida avslut och förmodan om det förflutna; fulla exempel med tydlig kontext och hjälpverbsval. T07 B2"
-  },
-  {
-    "id": "T08",
-    "t": "Tidsrelationer och svensk överföring",
-    "d": "Seit + presens vid pågående förlopp, svenska perfektöversättningar, tidsadverb och berättelsens referenstid; skilj tempus från aktionsart och modalitet.",
-    "h": "/docs/tempus/tid-i-sammanhang",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Tidsrelationer och svensk överföring Seit + presens vid pågående förlopp, svenska perfektöversättningar, tidsadverb och berättelsens referenstid; skilj tempus från aktionsart och modalitet. T08 A2–B2"
-  },
-  {
-    "id": "M02",
-    "t": "Modalverb i dåtid och Ersatzinfinitiv",
-    "d": "Präteritum i vardagsbruk, perfekt med och utan styrd infinitiv; ich habe arbeiten müssen; fördjupad bisatsordning länkas till E11.",
-    "h": "/docs/modus/modalverb-i-datid",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Modalverb i dåtid och Ersatzinfinitiv Präteritum i vardagsbruk, perfekt med och utan styrd infinitiv; ich habe arbeiten müssen; fördjupad bisatsordning länkas till E11. M02 A2–B2"
-  },
-  {
-    "id": "M05",
-    "t": "Konjunktiv I",
-    "d": "Formbildning, sein/haben/werden och tidsreferens; överlappning med indikativ och ersättningsformer; tydlig skillnad mellan formen och användningen i M06.",
-    "h": "/docs/modus/konjunktiv-i",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Konjunktiv I Formbildning, sein/haben/werden och tidsreferens; överlappning med indikativ och ersättningsformer; tydlig skillnad mellan formen och användningen i M06. M05 B1–B2"
-  },
-  {
-    "id": "M06",
-    "t": "Indirekt tal och referat",
-    "d": "Konjunktiv I, Konjunktiv II och indikativ efter stil/kontext; pronomen och tidsuttryck; ingen automatisk engelsk tempusförskjutning eller regel att II alltid uttrycker misstro.",
-    "h": "/docs/modus/indirekt-tal",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Indirekt tal och referat Konjunktiv I, Konjunktiv II och indikativ efter stil/kontext; pronomen och tidsuttryck; ingen automatisk engelsk tempusförskjutning eller regel att II alltid uttrycker misstro. M06 B1–B2"
   },
   {
     "id": "P05",

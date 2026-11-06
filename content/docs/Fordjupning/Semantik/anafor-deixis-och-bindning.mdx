@@ -1,0 +1,172 @@
+---
+id: X063
+title: 'Anafor, deixis och bindning'
+description: 'En formell semantisk och syntaktisk analys av referentiella relationer i tyskan: deixis (origo), anafor, katafor, bindningsteori (Princip A och B) samt reflexivkontraster mot svenskan.'
+slug: '/fordjupning/semantik/anafor-deixis-och-bindning'
+sidebar_position: 7
+category: 'Fördjupning'
+suggestedLevels: ['B2', 'C1', 'C2']
+rigoros: true
+prerequisites: ['R01', 'R03', 'R05', 'R06']
+objectives:
+  - 'Skilja deiktisk referens (kopplad till yttrandets origo) från anaforisk och kataforisk referens'
+  - 'Tillämpa syntaktiska bindningsprinciper för reflexivpronomen (sich) och personliga pronomen'
+  - 'Analysera svåra bindningsgränsfall vid aci-konstruktioner, bildfraser och infinitivkomplement'
+  - 'Eliminera interferens från svenskans sin/sitt/sina genom korrekt hantering av tyskans sein/ihr'
+---
+
+<LessonIntro
+  situation="Du läser 'Peter bat Hans, sein Buch zu holen' och undrar vems bok som avses, samtidigt som du behöver förstå varför svenskans enkla distinktion mellan 'hans' och 'sin' inte motsvaras av skilda ord i tyskan."
+  goals={[
+    "Skilja mellan deiktisk förankring (talarsituationens här-och-nu) och textuell anafor",
+    "Förstå bindningsteorins principer i tysk syntax: varför 'sich' kräver en lokal antecedent medan 'ihn' kräver lokal frihet",
+    "Hantera reflexiva gränsfall vid 'lassen'- och 'sehen'-konstruktioner",
+    "Navigera possessiva referenser utan att snubbla på avsaknaden av ett separat reflexivt 'sin'"
+  ]}
+  prerequisites={[
+    { href: "/docs/pronomen/personliga", label: "R01: Personliga pronomen" },
+    { href: "/docs/pronomen/possessiva", label: "R03: Possessiva pronomen" },
+    { href: "/docs/pronomen/reflexiva", label: "R05: Reflexiva och reciproka pronomen" },
+    { href: "/docs/pronomen/demonstrativa", label: "R06: Demonstrativa pronomen" }
+  ]}
+/>
+
+Att etablera och tolka referens – vem eller vad som åsyftas – är en av språkets mest grundläggande uppgifter. Inom tysk lingvistik (såsom hos Peter Eisenberg, Wolfgang Sternefeld och IDS Grammis) delas referentiella relationer in i två huvudsystem:
+
+1. **Deixis (*Deixis*):** Referensen pekar direkt ut i den fysiska talsituationen med utgångspunkt i talarens **origo** (*här, nu, jag*).
+2. **Endoforisk referens (*Endophora*):** Referensen pekar mot andra språkliga element i själva texten: bakåt som **anafor** eller framåt som **katafor**.
+
+---
+
+## 1. Deixisens fyra dimensioner
+
+Ett deiktiskt uttryck kan inte tolkas utan kännedom om yttrandesituationens koordinater (*Zeigfeld* enligt Karl Bühler):
+
+| Deiktisk typ | Origo (Nollpunkt) | Typiska tyska uttryck | Exempel |
+| :--- | :--- | :--- | :--- |
+| **Persondeixis** | Talaren (*Ich*) och adressaten (*Du/Sie*) | *ich, du, wir, ihr, Sie* | *Ich gebe es dir morgen.* |
+| **Rumsdeixis** | Talarens plats (*Hier*) | *hier, da, dort, her, hin* | *Komm bitte hierher.* |
+| **Tidsdeixis** | Yttrandeögonblicket (*Jetzt*) | *jetzt, heute, gestern, damals* | *Jetzt ist es zu spät.* |
+| **Textdeixis** | Textens linjära förlopp | *folgendes, oben, unten, ersteres* | *Folgendes muss beachtet werden: ...* |
+
+---
+
+## 2. Anafor kontra katafor
+
+När ett pronomen hämtar sin betydelse från ett nominalt led i texten (*Antecedent*):
+
+```
+Anaforisk referens (pekar bakåt mot känd antecedent):
+[Ein Zeuge] meldete sich bei der Polizei. [Er] hatte den Unfall gesehen.
+      ↑                                      ↑
+  Antecedent                             Anafor
+
+Kataforisk referens (pekar framåt mot kommande antecedent):
+Obwohl [er] müde war, arbeitete [der Schriftsteller] die ganze Nacht durch.
+          ↑                                ↑
+       Katafor                         Antecedent
+```
+
+---
+
+## 3. Bindningsteori: Reflexivpronomen kontra personliga pronomen
+
+Den syntaktiska fördelningen mellan reflexivpronomenet *sich* och personliga pronomen (*ihn, ihm*) styrs av Noam Chomskys klassiska bindningsprinciper, anpassade till tyskans fältmodell:
+
+### Princip A: Reflexivpronomen måste vara bundna inom sin lokala domän
+Ett reflexivpronomen (*sich*) måste referera till ett subjekt i samma enkla satskärna (*C-kommandera*):
+* *Peter$_i$ wäscht **sich**$_i$.* (Korrekt: *sich* är bundet till subjektet Peter).
+* *\*Peter$_i$ glaubt, dass Maria **sich**$_i$ wäscht.* (Ogrammatiskt med Peter som referent; *sich* måste här lokalt binda till Maria).
+
+### Princip B: Pronomina måste vara fria inom sin lokala domän
+Ett personligt pronomen (*ihn, ihm*) kan **inte** referera till subjektet i samma sats:
+* *Peter$_i$ wäscht **ihn**$_j$.* (Måste vara en annan person, $j \ne i$).
+* *Peter$_i$ glaubt, dass Maria **ihn**$_i$ wäscht.* (Grammatiskt: Peter är fri inom den underordnade satsen).
+
+---
+
+## 4. Bindningsgränsfall vid A.c.I. och infinitivkomplement
+
+När två satser smälter samman i en infinitivkonstruktion uppstår komplexa bindningsrelationer:
+
+### A. Ackusativ med infinitiv (A.c.I. med *lassen*, *sehen*, *hören*)
+Vid *lassen* kan reflexivpronomenet i viss stilistisk variation binda antingen till huvudsatsens subjekt eller till infinitivens underförstådda subjekt:
+* *Der Arzt (i) ließ den Patienten (j) zu sich (i/j) kommen.*  
+  (Oftast tolkat som: läkaren lät patienten komma till läkaren själv).
+
+### B. Bildfraser och rumsliga prepositionsfraser
+I rumsliga prepositionsfraser tillåter tyskan ofta ett personligt pronomen i stället för ett reflexivt:
+* *Er schaute hinter **sich**.* (Reflexivt) / *Er schaute hinter **ihn**.* (Båda varianterna förekommer i litterär text, dock med subtil perspektivskillnad).
+
+---
+
+## 5. Den stora svensk-tyska kontrasten: *sin/sitt/sina*
+
+Svenskan har ett eget reflexivt possessivpronomen för 3:e person (*sin/sitt/sina*) som kontrasteras mot icke-reflexiva *hans/hennes/deras*:
+* *Lars ringde **sin** fru.* (Lars egen fru).
+* *Lars ringde **hans** fru.* (Någon annan mans fru).
+
+> [!CAUTION]
+> Tyskan har **INGET** separat reflexivt possessivpronomen motsvarande "sin"!  
+> Både "sin fru" och "hans fru" översätts med **seine Frau**:
+> * *Lars rief **seine Frau** an.* (Kan i teorin betyda både hans egen fru och en annan mans fru!).
+
+### Hur undviker tyskan tvetydighet?
+1. **Standardantagande:** I normal kontext tolkas *sein-* och *ihr-* alltid som **subjektsreflexiva** (hans egen / hennes egen).
+2. **Demonstrativt pronomen vid extern referens:** Om talaren vill markera att det rör sig om en annan persons fru, ersätts *sein* med demonstrativ genitiv (**dessen** eller **deren**):
+   * *Lars sprach mit Thomas und rief **dessen** Frau an.* (= Thomas fru, inte Lars egen!).
+   * *Maria traf Anna und lieh ihr **deren** Buch.* (= Annas bok, inte Marias).
+
+---
+
+## 6. Tio autentiska exempel med analys
+
+1. **Der Angeklagte behauptete vor Gericht, er habe von den illegalen Machenschaften nichts gewusst.**  
+   *Den tilltalade hävdade inför rätten att han inte hade vetat något om de olagliga affärerna.*  
+   *Analys:* Anaforiskt pronomen *er* i bisatsen med referens till subjektet *Der Angeklagte* i matrissatsen (Princip B tillämpad i skilda satser).
+2. **Die Zeugin widersprach sich während des Verhörs mehrfach selbst.**  
+   *Vittnet motsade sig själv flera gånger under förhöret.*  
+   *Analys:* Lokalt bundet reflexivpronomen *sich* i dativ styrt av *widersprechen* (Princip A).
+3. **Obwohl sie erst zwanzig Jahre alt war, leitete die junge Forscherin das gesamte Projekt.**  
+   *Trots att hon bara var tjugo år gammal ledde den unga forskaren hela projektet.*  
+   *Analys:* Kataforisk referens: pronomenet *sie* i den inledande bisatsen föregriper antecedenten *die junge Forscherin*.
+4. **Komm bitte sofort hierher zu mir!**  
+   *Kom genast hit till mig, är du snäll!*  
+   *Analys:* Rumsdeiktisk partikel *hierher* kombinerad med persondeiktisk prepositionsfras *zu mir*; referensen är bunden till talarens origo.
+5. **Der Chef lobte seinen Mitarbeiter für dessen herausragende Leistung.**  
+   *Chefen berömde sin medarbetare för dennes framstående prestation.*  
+   *Analys:* Possessivet *seinen* syftar reflexivt på chefen; demonstrativet *dessen* syftar entydigt på medarbetaren och förhindrar ambiguitet.
+6. **Die Ministerin bat den Referenten, sich um die Presseanfragen zu kümmern.**  
+   *Ministern bad föredraganden att ta hand om pressförfrågningarna.*  
+   *Analys:* Kontrollinfinitiv: *sich* i infinitivsatsen binds till det underförstådda subjektet (*den Referenten*), inte till ministern.
+7. **Sie schaute überrascht um sich, als der Applaus einsetzte.**  
+   *Hon såg sig förvånad omkring när applåderna bröt ut.*  
+   *Analys:* Reflexivt pronomen *sich* i fast rumsligt uttryck med prepositionen *um*.
+8. **Thomas traf seinen alten Schulfreund und dessen Verlobte im Theater.**  
+   *Thomas träffade sin gamle skolvän och dennes fästmö på teatern.*  
+   *Analys:* Genitivformen *dessen* visar kristallklart att kvinnan är förlovad med vännen, inte med Thomas.
+9. **Das Unternehmen meldete Insolvenz an; die Gläubiger forderten daraufhin ihr Geld zurück.**  
+   *Företaget ansökte om konkurs; fordringsägarna krävde därefter tillbaka sina pengar.*  
+   *Analys:* Textdeiktiskt adverb *daraufhin* binder kausalt och temporalt ihop satserna; *ihr Geld* avser fordringsägarnas egna pengar.
+10. **Er hat kein Vertrauen in sich selbst.**  
+    *Han har inget förtroende för sig själv.*  
+    *Analys:* Förstärkt reflexivbindning med *sich selbst* i en prepositional nominalkomplementfras.
+
+---
+
+## 7. Svenska interferensfällor
+
+> [!WARNING]
+> 1. **Leta förgäves efter ett tyskt "sin":** Svenskar letar ofta efter en tysk motsvarighet till "sin/sitt/sina". Förstå att tyskans **sein** täcker både "hans" och "sin", och **ihr** täcker "hennes" och "sin". *Er liebt seine Frau* betyder i 99 % av fallen "sin fru".
+> 2. **Missa demonstrativet *dessen/deren* vid extern referens:** Om du menar en annan persons tillhörighet (motsvarande svenskans "hans bok" i kontrast till "sin bok"), måste du använda **dessen** (mask./neutr.) eller **deren** (fem./plur.): *Er sprach mit dem Mann und kaufte dessen Auto* (inte *\*sein Auto*, vilket låter som mannens bil köptes av sig själv).
+> 3. **Reflexivt fel vid pronominell referens över satsgränser:** I meningen *Han bad mig tvätta honom* heter det på tyska *Er bat mich, ihn zu waschen* (inte *\*sich zu waschen*, eftersom *mich* är subjekt för tvättandet i infinitivsatsen).
+> 4. **Deiktisk förvirring med *kommen* och *gehen*:** Tyskans deiktiska rörelseverb (*kommen* = mot talarens origo; *gehen* = bort från talarens origo) styrs strikt av rumsdeixis. Använd *kommen* när rörelsen går mot den plats där talaren befinner sig eller ska träffa lyssnaren.
+
+<RelatedLessons
+  lessons={[
+    { label: 'R01: Personliga pronomen', href: '/docs/pronomen/personliga' },
+    { label: 'R03: Possessiva pronomen', href: '/docs/pronomen/possessiva' },
+    { label: 'R05: Reflexiva och reciproka pronomen', href: '/docs/pronomen/reflexiva' },
+    { label: 'R06: Demonstrativa pronomen', href: '/docs/pronomen/demonstrativa' }
+  ]}
+/>

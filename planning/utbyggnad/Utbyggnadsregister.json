@@ -3154,7 +3154,7 @@
       ],
       "href": "/docs/fordjupning/semantik/anafor-deixis-och-bindning",
       "requiredCoverage": "Person-/tids-/rums-/textdeixis, koreferens, reflexivbindning och kontext; alternativa analyser för svåra gränsfall.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X064",
@@ -3197,7 +3197,7 @@
       ],
       "href": "/docs/fordjupning/semantik/semantiska-roller-och-perspektiv",
       "requiredCoverage": "Agent, patient, upplevare, tema och mottagare; relation till valens, subjekt och passiv utan en-till-en-mappning.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X067",
@@ -3213,7 +3213,7 @@
       ],
       "href": "/docs/fordjupning/semantik/tids-och-rumsdeixis",
       "requiredCoverage": "Nu/då, hit/dit, hin/her och skiftat berättarperspektiv; grammatisk tid och position relativt talare/referenstid.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X068",

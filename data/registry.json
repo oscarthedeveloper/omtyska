@@ -2999,6 +2999,111 @@
       "contentExists": true,
       "contentFile": "content/docs/Fordjupning/Nominalfras/apposition-och-kasus.mdx",
       "reviewEvidence": "internal-crosscheck-syntax-approved"
+    },
+    {
+      "id": "X019",
+      "section": "docs",
+      "slug": "/fordjupning/nominalfras/matt-mangd-och-partitivfraser",
+      "href": "/docs/fordjupning/nominalfras/matt-mangd-och-partitivfraser",
+      "title": "Mått-, mängd- och partitivfraser",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "D07",
+        "S02"
+      ],
+      "requiredCoverage": "Ein Glas Wasser, ett kilo och numeruskongruens; partitiv genitiv/von, flertal och böjning i skilda frastyper.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "Duden Das Wörterbuch der sprachlichen Zweifelsfälle"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 119,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Nominalfras/matt-mangd-och-partitivfraser.mdx",
+      "reviewEvidence": "internal-crosscheck-nounphrase-approved"
+    },
+    {
+      "id": "X020",
+      "section": "docs",
+      "slug": "/fordjupning/nominalfras/adjektivbojningens-svara-gransfall",
+      "href": "/docs/fordjupning/nominalfras/adjektivbojningens-svara-gransfall",
+      "title": "Adjektivböjningens svåra gränsfall",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "A05",
+        "A04"
+      ],
+      "requiredCoverage": "Efter all-/manch-/solch-/beid-/viel-, flera adjektiv, dativvariation och parallell böjning; källbelagda alternativ får inte bli falska fel.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "Duden Das Wörterbuch der sprachlichen Zweifelsfälle"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 120,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Nominalfras/adjektivbojningens-svara-gransfall.mdx",
+      "reviewEvidence": "internal-crosscheck-nounphrase-approved"
+    },
+    {
+      "id": "X021",
+      "section": "docs",
+      "slug": "/fordjupning/nominalfras/substantiverade-adjektiv-och-nominal-ellips",
+      "href": "/docs/fordjupning/nominalfras/substantiverade-adjektiv-och-nominal-ellips",
+      "title": "Substantiverade adjektiv och nominal ellips",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "S08",
+        "R04"
+      ],
+      "requiredCoverage": "Skillnad mellan utelämnat substantiv och självständigt substantiverat adjektiv; versal, artikel och böjning samt etwas/nichts Neues.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "Duden Das Wörterbuch der sprachlichen Zweifelsfälle"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 121,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Nominalfras/substantiverade-adjektiv-och-nominal-ellips.mdx",
+      "reviewEvidence": "internal-crosscheck-nounphrase-approved"
+    },
+    {
+      "id": "X022",
+      "section": "docs",
+      "slug": "/fordjupning/nominalfras/egennamn-titlar-och-geografiska-namn",
+      "href": "/docs/fordjupning/nominalfras/egennamn-titlar-och-geografiska-namn",
+      "title": "Egennamn, titlar och geografiska namn",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "S01",
+        "S03",
+        "S06"
+      ],
+      "requiredCoverage": "Genus, artiklar, namnens böjning, genitiv och namnkomplex; politiska/geografiska namn med variation och modifiering.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "Duden Das Wörterbuch der sprachlichen Zweifelsfälle"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 122,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Nominalfras/egennamn-titlar-och-geografiska-namn.mdx",
+      "reviewEvidence": "internal-crosscheck-nounphrase-approved"
     }
   ]
 }

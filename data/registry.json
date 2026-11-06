@@ -3865,6 +3865,114 @@
       "contentExists": true,
       "contentFile": "content/docs/Fordjupning/Syntax/ellips-gapping-och-gemensamma-satsled.mdx",
       "reviewEvidence": "internal-crosscheck-ellipsis-approved"
+    },
+    {
+      "id": "X051",
+      "section": "docs",
+      "slug": "/fordjupning/satstyper/satsform-modus-och-talhandling",
+      "href": "/docs/fordjupning/satstyper/satsform-modus-och-talhandling",
+      "title": "Satsform, modus och talhandling",
+      "suggestedLevel": "B2",
+      "prerequisites": [
+        "Y03",
+        "V08"
+      ],
+      "requiredCoverage": "Formell satsform (V1/V2/VL) vs illokutionär funktion; självständiga bisatser och modala partiklar.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Peter Eisenberg Grundriss der deutschen Grammatik: Der Satz",
+        "Gisela Zifonun et al. Grammatik der deutschen Sprache (IDS)",
+        "Helbig/Buscha Deutsche Grammatik"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 150,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Satstyper/satsform-modus-och-talhandling.mdx",
+      "reviewEvidence": "internal-crosscheck-speech-acts-approved"
+    },
+    {
+      "id": "X052",
+      "section": "docs",
+      "slug": "/fordjupning/satstyper/inbaddad-v2-och-oinledda-komplement",
+      "href": "/docs/fordjupning/satstyper/inbaddad-v2-och-oinledda-komplement",
+      "title": "Inbäddad V2 och oinledda komplement",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "B02",
+        "M03"
+      ],
+      "requiredCoverage": "Epistemiska/sägeverb, restriktioner (faktivitet/negation), ordföljd och Konjunktiv I i indirekt tal.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Peter Eisenberg Grundriss der deutschen Grammatik: Der Satz",
+        "Hubert Haider The Syntax of German",
+        "Gisela Zifonun et al. Grammatik der deutschen Sprache (IDS)"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 151,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Satstyper/inbaddad-v2-och-oinledda-komplement.mdx",
+      "reviewEvidence": "internal-crosscheck-embedded-v2-approved"
+    },
+    {
+      "id": "X053",
+      "section": "docs",
+      "slug": "/fordjupning/satstyper/fria-och-vidareforande-relativsatser",
+      "href": "/docs/fordjupning/satstyper/fria-och-vidareforande-relativsatser",
+      "title": "Fria och vidareförande relativsatser",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "R07",
+        "B02"
+      ],
+      "requiredCoverage": "Wer/was-satser utan korrelat, kasuskollision och korrelattvång, satsreferens med was/wo(r)-föreningar.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Peter Eisenberg Grundriss der deutschen Grammatik: Der Satz",
+        "Helbig/Buscha Deutsche Grammatik",
+        "Gisela Zifonun et al. Grammatik der deutschen Sprache (IDS)"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 152,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Satstyper/fria-och-vidareforande-relativsatser.mdx",
+      "reviewEvidence": "internal-crosscheck-free-relatives-approved"
+    },
+    {
+      "id": "X054",
+      "section": "docs",
+      "slug": "/fordjupning/satstyper/jamforelsesatser-och-proportionalsatser",
+      "href": "/docs/fordjupning/satstyper/jamforelsesatser-och-proportionalsatser",
+      "title": "Jämförelsesatser och proportionalsatser",
+      "suggestedLevel": "B2",
+      "prerequisites": [
+        "A07",
+        "B07"
+      ],
+      "requiredCoverage": "Als/wie, als ob/als wenn, ju … desto, hypotetisk jämförelse och ellips; konstruktionernas verbplacering.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Peter Eisenberg Grundriss der deutschen Grammatik: Der Satz",
+        "Ulrich Engel Deutsche Grammatik",
+        "Helbig/Buscha Deutsche Grammatik"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 153,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Satstyper/jamforelsesatser-och-proportionalsatser.mdx",
+      "reviewEvidence": "internal-crosscheck-comparative-sentences-approved"
     }
   ]
 }

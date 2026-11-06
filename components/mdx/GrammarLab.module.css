@@ -1,0 +1,186 @@
+.lab {
+  border: 1px solid var(--hairline);
+  background: var(--surface-soft);
+  border-radius: var(--r-md);
+  padding: var(--s-lg);
+  margin: var(--s-xl) 0;
+}
+
+.intro {
+  border-left: 4px solid var(--ink);
+  background: var(--block-cream);
+  border-radius: var(--r-md);
+  padding: var(--s-md) var(--s-lg);
+  margin: var(--s-lg) 0 var(--s-xl);
+}
+
+.intro ul {
+  margin: var(--s-xs) 0 var(--s-sm);
+  padding-left: 1.25rem;
+}
+
+.intro p {
+  margin: 0;
+  font-size: 0.9375rem;
+}
+
+.related {
+  margin: var(--s-xl) 0 var(--s-lg);
+  padding: var(--s-md) var(--s-lg);
+  background: var(--surface-soft);
+  border-radius: var(--r-md);
+  border: 1px solid var(--hairline);
+}
+
+.related a {
+  display: inline-block;
+  margin-right: var(--s-md);
+  margin-top: var(--s-xs);
+  font-weight: 500;
+  font-size: 0.9375rem;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s-xs);
+  margin: var(--s-md) 0;
+}
+
+.choice {
+  background: var(--canvas);
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-pill);
+  padding: 8px 16px;
+  font-family: var(--font-sans);
+  font-size: 0.9375rem;
+  font-weight: 500;
+  cursor: pointer;
+  color: var(--ink);
+  transition: all 0.12s ease;
+}
+
+.choice:hover {
+  background: var(--hairline-soft);
+}
+
+.choice[aria-pressed="true"] {
+  background: var(--ink);
+  color: var(--inverse-ink);
+  border-color: var(--ink);
+}
+
+.example {
+  background: var(--canvas);
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-sm);
+  padding: var(--s-md);
+  margin: var(--s-md) 0;
+}
+
+.german {
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: -0.012em;
+  margin: 0 0 4px;
+}
+
+.translation {
+  font-size: 1rem;
+  color: #555550;
+  margin: 0;
+}
+
+/* ─── Satzklammer (Tysk satsram) ─────────────────────────────────── */
+
+.satzklammer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: var(--s-xs);
+  margin: var(--s-md) 0;
+  background: var(--canvas);
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-md);
+  padding: var(--s-md);
+  overflow-x: auto;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  border-radius: var(--r-sm);
+  background: var(--surface-soft);
+}
+
+.colHeader {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 4px;
+}
+
+.colText {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.colTranslation {
+  font-size: 0.8125rem;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+.vorfeld { border-left: 3px solid var(--g-vorfeld); }
+.linkeKlammer { border-left: 3px solid var(--g-linke-klammer); background: #fdf0f4; }
+.mittelfeld { border-left: 3px solid var(--g-mittelfeld); }
+.rechteKlammer { border-left: 3px solid var(--g-rechte-klammer); background: #fdf2f2; }
+.nachfeld { border-left: 3px solid var(--g-nachfeld); }
+
+/* ─── Steps ──────────────────────────────────────────────────────── */
+
+.stepsList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-sm);
+  margin: var(--s-md) 0;
+}
+
+.stepItem {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--s-md);
+  padding: var(--s-md);
+  background: var(--canvas);
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-md);
+}
+
+.stepBadge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: var(--r-full);
+  background: var(--ink);
+  color: var(--inverse-ink);
+  font-family: var(--font-mono);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  flex: none;
+}
+
+.stepContent h4 {
+  margin: 0 0 4px;
+  font-size: 1rem;
+}
+
+.stepContent p {
+  margin: 0;
+  font-size: 0.9375rem;
+  color: #444;
+}

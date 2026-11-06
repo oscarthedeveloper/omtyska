@@ -1,0 +1,424 @@
+/* ═══════════════════════════════════════════════════════════════════
+   Om Tyska — designsystem
+   Monokrom ram, pastellfärgade sektioner, tillgängliga tyska kasus- och
+   satsramskontraster. Endast ljust läge för optimal läsbarhet.
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* ─── 1. TOKENS ─────────────────────────────────────────────────── */
+
+:root {
+  --ink:            #000000;
+  --canvas:         #ffffff;
+  --inverse-canvas: #000000;
+  --inverse-ink:    #ffffff;
+  --hairline:       #e6e6e6;
+  --hairline-soft:  #f1f1f1;
+  --surface-soft:   #f7f7f5;
+  --muted:          #666666;
+
+  --block-lime:     #dceeb1;
+  --block-lilac:    #c5b0f4;
+  --block-cream:    #f4ecd6;
+  --block-pink:     #efd4d4;
+  --block-mint:     #c8e6cd;
+  --block-coral:    #f3c9b6;
+  --block-navy:     #1f1d3d;
+  --block-gold:     #fae4a8;
+
+  --accent-magenta: #ff3d8b;
+  --success:        #1ea64a;
+  --warning:        #d97706;
+  --error:          #dc2626;
+
+  /* Pedagogiska markörer för tysk grammatik.
+     Varje kasus och satsdel har en unik färg med hög kontrast mot vitt,
+     och kompletteras ALLTID med synlig textetikett. */
+  --g-nominativ:    #1a5fb4; /* Blå */
+  --g-akkusativ:    #1c824f; /* Grön */
+  --g-dativ:        #c64600; /* Mörkorange / Rödbrun */
+  --g-genitiv:      #782e9b; /* Lila */
+
+  --g-subjekt:      #1a5fb4;
+  --g-verb:         #b3005e;
+  --g-objekt:       #0f6b66;
+  --g-bindeord:     #7a3ba8;
+  --g-konjunktiv:   #1c6b39;
+
+  /* Tysk satsram (Satzklammer) */
+  --g-vorfeld:      #0f5499;
+  --g-linke-klammer:#b3005e;
+  --g-mittelfeld:   #444444;
+  --g-rechte-klammer:#991b1b;
+  --g-nachfeld:     #666666;
+
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', Menlo, Monaco, Consolas, monospace;
+
+  --r-xs: 2px;
+  --r-sm: 6px;
+  --r-md: 8px;
+  --r-lg: 24px;
+  --r-xl: 32px;
+  --r-pill: 50px;
+  --r-full: 9999px;
+
+  --s-xxs: 4px;
+  --s-xs: 8px;
+  --s-sm: 12px;
+  --s-md: 16px;
+  --s-lg: 24px;
+  --s-xl: 32px;
+  --s-xxl: 48px;
+  --s-section: 96px;
+
+  --navbar-height: 64px;
+  --content-width: 1280px;
+}
+
+/* ─── 2. BAS ────────────────────────────────────────────────────── */
+
+*,
+*::before,
+*::after { box-sizing: border-box; }
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--navbar-height) + var(--s-lg));
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--canvas);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: 18px;
+  font-weight: 350;
+  line-height: 1.5;
+  letter-spacing: -0.011em;
+  font-feature-settings: 'kern' 1;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--block-gold);
+  color: var(--ink);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--ink);
+  text-wrap: balance;
+  margin: 0 0 var(--s-md);
+}
+
+h1 {
+  font-size: clamp(2.25rem, 5.2vw, 3.4rem);
+  font-weight: 400;
+  line-height: 1.06;
+  letter-spacing: -0.022em;
+}
+
+h2 {
+  font-size: clamp(1.65rem, 3vw, 2.1rem);
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.018em;
+}
+
+h3 {
+  font-size: 1.375rem;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -0.012em;
+}
+
+h4 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  letter-spacing: -0.008em;
+}
+
+p { margin: 0 0 1.15rem; }
+
+a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+
+a:hover { text-decoration-thickness: 2px; }
+
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 3px;
+  border-radius: var(--r-xs);
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--hairline);
+  margin: var(--s-xxl) 0;
+}
+
+img, svg, video, audio { max-width: 100%; }
+
+strong { font-weight: 600; }
+
+ul, ol { padding-left: 1.35rem; margin: 0 0 1.15rem; }
+li { margin-bottom: 0.35rem; }
+
+code {
+  font-family: var(--font-mono);
+  font-size: 0.875em;
+  background: var(--surface-soft);
+  border-radius: var(--r-xs);
+  padding: 0.1em 0.35em;
+}
+
+pre {
+  font-family: var(--font-mono);
+  background: var(--surface-soft);
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-md);
+  padding: var(--s-md);
+  overflow-x: auto;
+}
+
+pre code { background: none; padding: 0; }
+
+blockquote {
+  border-left: 3px solid var(--ink);
+  padding-left: var(--s-lg);
+  margin: var(--s-lg) 0;
+  font-size: 1.0625rem;
+}
+
+/* ─── 3. GEMENSAMMA KNAPPAR & ELEMENT ───────────────────────────── */
+
+.pillButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--s-xs);
+  border: 0;
+  border-radius: var(--r-pill);
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: -0.012em;
+  line-height: 1.4;
+  min-height: 44px;
+  padding: 10px 22px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: transform 0.12s ease, background-color 0.12s ease;
+}
+
+.pillButton:hover { text-decoration: none; transform: scale(0.98); }
+
+.pillButton--primary { background: var(--ink); color: var(--inverse-ink); }
+.pillButton--primary:hover { color: var(--inverse-ink); }
+
+.pillButton--secondary {
+  background: var(--canvas);
+  color: var(--ink);
+  box-shadow: inset 0 0 0 1px var(--hairline);
+}
+.pillButton--secondary:hover { background: var(--surface-soft); color: var(--ink); }
+
+.pillButton--onColor { background: var(--canvas); color: var(--ink); }
+.pillButton--onColor:hover { color: var(--ink); }
+
+.pillButton--magenta { background: var(--accent-magenta); color: var(--inverse-ink); }
+.pillButton--magenta:hover { color: var(--inverse-ink); }
+
+.pillButton:disabled { opacity: 0.35; cursor: not-allowed; transform: none; }
+
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.srOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.skipLink {
+  position: absolute;
+  left: -9999px;
+  top: var(--s-xs);
+  z-index: 100;
+  background: var(--ink);
+  color: var(--inverse-ink);
+  border-radius: var(--r-pill);
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.skipLink:focus { left: var(--s-lg); }
+
+/* ─── 4. INNEHÅLL (MDX) ─────────────────────────────────────────── */
+
+.tableScroll {
+  overflow-x: auto;
+  max-width: 100%;
+  margin: var(--s-lg) 0;
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-md);
+}
+
+.mdxContent table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: var(--s-lg) 0;
+  font-size: 0.9375rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.tableScroll > table {
+  margin: 0;
+  width: auto;
+  min-width: 100%;
+}
+
+.mdxContent th,
+.mdxContent td {
+  text-align: left;
+  vertical-align: middle;
+  padding: 10px 14px;
+  border: 0;
+  border-bottom: 1px solid var(--hairline-soft);
+}
+
+.mdxContent th {
+  font-weight: 600;
+  letter-spacing: -0.008em;
+  background: var(--surface-soft);
+  border-bottom: 1px solid var(--hairline);
+  white-space: nowrap;
+}
+
+.mdxContent thead tr { background: var(--surface-soft); }
+.mdxContent tbody tr:last-child > td,
+.mdxContent tbody tr:last-child > th { border-bottom: 0; }
+
+.anchorHeading {
+  scroll-margin-top: calc(var(--navbar-height) + var(--s-lg));
+  position: relative;
+}
+
+.anchorLink {
+  font-family: var(--font-mono);
+  font-size: 0.7em;
+  color: var(--muted);
+  text-decoration: none;
+  margin-left: 0.5em;
+  opacity: 0;
+  transition: opacity 0.12s ease;
+}
+
+.anchorHeading:hover .anchorLink,
+.anchorLink:focus { opacity: 1; }
+
+.mdxHighlight {
+  background: var(--block-gold);
+  color: var(--ink);
+  border-radius: var(--r-sm);
+  padding: 0.1em 0.35em;
+}
+
+/* ─── 5. TYSKA PEDAGOGISKA MARKÖRER (KASUS & SYNTAX) ─────────────── */
+
+.g-nom { color: var(--g-nominativ); font-weight: 600; }
+.g-akk { color: var(--g-akkusativ); font-weight: 600; }
+.g-dat { color: var(--g-dativ); font-weight: 600; }
+.g-gen { color: var(--g-genitiv); font-weight: 600; }
+
+.g-subjekt    { color: var(--g-subjekt); font-weight: 600; }
+.g-verb       { color: var(--g-verb); font-weight: 600; }
+.g-objekt     { color: var(--g-objekt); font-weight: 600; }
+.g-bindeord   { color: var(--g-bindeord); font-weight: 600; }
+
+.casePill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: var(--r-xs);
+  text-transform: uppercase;
+}
+
+.casePill--nom { background: #e8f0fe; color: var(--g-nominativ); border: 1px solid #c7dcfa; }
+.casePill--akk { background: #e6f7ec; color: var(--g-akkusativ); border: 1px solid #b8ebca; }
+.casePill--dat { background: #fdf0e7; color: var(--g-dativ); border: 1px solid #fad2bc; }
+.casePill--gen { background: #f4ecfb; color: var(--g-genitiv); border: 1px solid #e1caf2; }
+
+/* Exempelmening med tysk och svensk kontrast */
+.custom-quote {
+  background: var(--block-cream);
+  border-radius: var(--r-md);
+  padding: var(--s-md) var(--s-lg);
+  margin: var(--s-lg) 0;
+  font-size: 1.0625rem;
+  line-height: 1.55;
+  border-left: 4px solid #d4c5a0;
+}
+
+.custom-quote small {
+  display: block;
+  font-size: 0.875rem;
+  color: #4a4a45;
+  margin-top: 4px;
+}
+
+.custom-quote p:last-child { margin-bottom: 0; }
+
+.regelruta {
+  display: block;
+  border: 2px solid var(--ink);
+  border-radius: var(--r-md);
+  padding: var(--s-md) var(--s-lg);
+  margin: var(--s-lg) 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: -0.014em;
+  text-align: center;
+  background: var(--canvas);
+}
+
+/* ─── 6. LÄSLÄGEN (LÄTTSAM vs RIGORÖS) ──────────────────────────── */
+
+html[data-grammar-mode="lattsam"] .rigoros-only,
+html:not([data-grammar-mode="rigoros"]) .rigoros-only {
+  display: none !important;
+}
+
+html[data-grammar-mode="rigoros"] .lattsam-only {
+  display: none !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

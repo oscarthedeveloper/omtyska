@@ -1,0 +1,136 @@
+---
+id: K01
+title: 'Vad är kasus?'
+description: 'En fullständig introduktion till tyskans fyra kasus: nominativ, ackusativ, dativ och genitiv. Förstå skillnaden mellan genus och kasus, vem som gör vad och hur kasus styrs.'
+slug: '/kasus/oversikt'
+sidebar_position: 1
+category: 'Kasus och rektion'
+suggestedLevels: ['A1']
+prerequisites: ['G08', 'S01', 'S03']
+objectives:
+  - 'Förstå de fyra kasusens funktioner: vem som gör (nom), vem som påverkas (ack), vem som tar emot (dat), vem som äger (gen)'
+  - 'Skilja mellan genus (medfödd egenskap hos ordet) och kasus (tillfällig roll i meningen)'
+  - 'Använda kontrollfrågorna wer/wen/wem/wessen'
+  - 'Förstå att både verbets valens och prepositioner kan tvinga fram ett visst kasus'
+---
+
+<LessonIntro
+  situation="I svenskan har vi fast ordföljd: 'Mannen biter hunden' betyder raka motsatsen till 'Hunden biter mannen'. I tyskan är det däremot kasusändelserna på artiklarna som avslöjar vem som gör vad!"
+  goals={[
+    "Förstå de fyra kasusens roller: Nominativ, Ackusativ, Dativ och Genitiv",
+    "Lära dig kontrollfrågorna: Wer? (Vem?), Wen? (Vem ser jag?), Wem? (Åt vem?), Wessen? (Vems?)",
+    "Inse att ordföljden kan kastas om i tyskan utan att betydelsen ändras tack vare kasus",
+    "Förstå hur verb och prepositioner 'regerar' (styr) kasus"
+  ]}
+  prerequisites={[
+    { href: "/docs/grunder/grammatiska-begrepp", label: "G08: Grammatiska begrepp" },
+    { href: "/docs/substantiv/genus", label: "S01: Substantivens genus" },
+    { href: "/docs/substantiv/bestamd-artikel", label: "S03: Bestämd artikel" }
+  ]}
+/>
+
+## Kärnan på en halv minut
+
+Tyskan har **fyra kasus**:
+
+1. **Nominativ (Subjektet)**: Svarar på **Wer?** (Vem gör handlingen?)  
+   * <span lang="de">**Der Mann** lacht.</span> *(Mannen skrattar.)*
+2. **Ackusativ (Direkta objektet)**: Svarar på **Wen eller Was?** (Vem/vad utsätts direkt?)  
+   * <span lang="de">Ich sehe **den Mann**.</span> *(Jag ser mannen.)*
+3. **Dativ (Indirekta objektet / mottagaren)**: Svarar på **Wem?** (Åt/till vem?)  
+   * <span lang="de">Ich gebe **dem Mann** den Schlüssel.</span> *(Jag ger nyckeln åt mannen.)*
+4. **Genitiv (Ägande / tillhörighet)**: Svarar på **Wessen?** (Vems?)  
+   * <span lang="de">Das Auto **des Mannes**.</span> *(Mannens bil.)*
+
+---
+
+## 1. Genus är INTE samma sak som Kasus!
+
+Detta är den vanligaste förväxlingen:
+* **Genus** är ordets permanenta biologiska/grammatiska kön i ordboken (t.ex. *der Tisch* är alltid maskulinum). Det ändras aldrig.
+* **Kasus** är kostymen ordet tar på sig i en specifik mening beroende på vad ordet gör just där!
+
+```
+   Ordboken: Hund = maskulinum (der Hund)
+   
+   I mening 1 (som subjekt):         DER Hund schläft.        (Nominativ)
+   I mening 2 (som direkt objekt):   Ich sehe DEN Hund.       (Ackusativ)
+   I mening 3 (som mottagare):       Ich gebe DEM Hund Futter.(Dativ)
+   I mening 4 (som ägare):           Der Napf DES Hundes.     (Genitiv)
+```
+
+---
+
+## 2. Den bestämda artikelns magiska matris
+
+Här är hela det tyska kasussystemet samlat i en enda överskådlig tabell:
+
+| Kasus | Fråga | Maskulinum | Femininum | Neutrum | Plural (alla genus) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Nominativ** | Wer? (Vem?) | <span lang="de">**der**</span> | <span lang="de">**die**</span> | <span lang="de">**das**</span> | <span lang="de">**die**</span> |
+| **Ackusativ** | Wen/Was? (Vem/vad?) | <span lang="de">**den**</span> | <span lang="de">**die**</span> | <span lang="de">**das**</span> | <span lang="de">**die**</span> |
+| **Dativ** | Wem? (Åt vem?) | <span lang="de">**dem**</span> | <span lang="de">**der**</span> | <span lang="de">**dem**</span> | <span lang="de">**den (+n)**</span> |
+| **Genitiv** | Wessen? (Vems?) | <span lang="de">**des (+s)**</span> | <span lang="de">**der**</span> | <span lang="de">**des (+s)**</span> | <span lang="de">**der**</span> |
+
+<div className="callout callout-info">
+  <p className="callout-title">💡 Lägg märke till mönstren!</p>
+  <ul>
+    <li>I <strong>ackusativ</strong> är det ENDAST maskulinum som ändrar sig (<span lang="de">der -> den</span>). Femininum (<span lang="de">die</span>), neutrum (<span lang="de">das</span>) och plural (<span lang="de">die</span>) ser exakt likadana ut som i nominativ!</li>
+    <li>I <strong>dativ</strong> slutar maskulinum och neutrum båda på <strong>-m</strong> (<span lang="de">dem</span>). Femininum blir <span lang="de">der</span>. Plural blir <span lang="de">den</span> och substantivet får en extra ändelse <em>-n</em> (<span lang="de">den Hunden</span>).</li>
+  </ul>
+</div>
+
+---
+
+## 3. Vad styr kasus i en mening?
+
+Det finns två krafter som bestämmer vilket kasus du måste välja:
+
+### 1. Verbets valens (styrning)
+* De flesta verb styr **ackusativ** när de har ett direkt objekt: <span lang="de">haben, sehen, kaufen, lesen, trinken</span>.
+* Vissa speciella verb styr alltid **dativ**: <span lang="de">helfen, danken, gefallen, gehören, antworten</span>.
+  * <span lang="de">Ich helfe **dem Kind**</span> (dativ!), inte *das Kind*.
+* Verben *sein, werden, bleiben* tar **nominativ** (predikatsfyllnad):
+  * <span lang="de">Er ist **ein kluger Mann**.</span>
+
+### 2. Prepositioner
+Prepositionen trumfar allt annat i satsen:
+* Rena ackusativprepositioner: <span lang="de">durch, für, gegen, ohne, um</span> -> Alltid **ackusativ**!
+* Rena dativprepositioner: <span lang="de">aus, bei, mit, nach, seit, von, zu</span> -> Alltid **dativ**!
+* Växelprepositioner: styrs av **befintlighet (dativ)** eller **riktning (ackusativ)**.
+
+---
+
+## 10 autentiska exempel
+
+1. <span lang="de">**Der Mann** kauft **einen Computer**.</span>  
+   *(Nominativ: Der Mann; Ackusativ: einen Computer.)*
+2. <span lang="de">Ich gebe **der Lehrerin** das Buch.</span>  
+   *(Dativ: der Lehrerin som mottagare; Ackusativ: das Buch som direkt objekt.)*
+3. <span lang="de">**Den Hund** beißt der Mann.</span>  
+   *(Inversion: Eftersom det står "Den Hund" i ackusativ är det hunden som blir biten, trots att ordet står först i meningen!)*
+4. <span lang="de">Wir danken **dem Arzt** für seine Hilfe.</span>  
+   *(Verbet danken styr dativ: dem Arzt.)*
+5. <span lang="de">Das ist das Haus **meines Großvaters**.</span>  
+   *(Genitiv: meines Großvaters med s-ändelse.)*
+6. <span lang="de">Sie fährt mit **dem Bus** zur Arbeit.</span>  
+   *(Prepositionen mit tvingar fram dativ: dem Bus.)*
+7. <span lang="de">Ohne **dich** kann ich die Aufgabe nicht lösen.</span>  
+   *(Prepositionen ohne tvingar fram ackusativ: dich.)*
+8. <span lang="de">Er ist **ein sehr netter Kollege**.</span>  
+   *(Efter sein följer nominativ: ein sehr netter Kollege.)*
+9. <span lang="de">Die Mutter hilft **den Kindern** bei den Hausaufgaben.</span>  
+   *(Dativ plural: den Kindern med extra -n.)*
+10. <span lang="de">Wem gehört dieser Mantel? — **Meinem Bruder**.</span>  
+    *(Frågeordet wem i dativ besvaras med dativ: Meinem Bruder.)*
+
+---
+
+<RelatedLessons
+  lessons={[
+    { href: "/docs/kasus/ackusativ", label: "K03: Ackusativ i praktiken", badge: "A1" },
+    { href: "/docs/substantiv/bestamd-artikel", label: "S03: Bestämd artikel", badge: "A1" },
+    { href: "/docs/substantiv/obestamd-artikel-och-nollartikel", label: "S04: Ein, kein och nollartikel", badge: "A1" },
+    { href: "/docs/prepositioner/vaxelprepositioner", label: "P03: Växelprepositioner", badge: "A1" }
+  ]}
+/>

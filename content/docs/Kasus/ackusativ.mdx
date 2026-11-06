@@ -1,0 +1,142 @@
+---
+id: K03
+title: 'Ackusativ: direkt objekt och mer'
+description: 'Lär dig hur ackusativ fungerar i tyskan: direkt objekt, maskulin artikeländring (den/einen), personliga pronomen och ackusativprepositioner.'
+slug: '/kasus/ackusativ'
+sidebar_position: 3
+category: 'Kasus och rektion'
+suggestedLevels: ['A1', 'A2']
+prerequisites: ['K02', 'S03']
+objectives:
+  - 'Identifiera direkt ackusativobjekt i en sats'
+  - 'Kunna böja maskulin artikel och pronomen i ackusativ (den, einen, ihn)'
+  - 'Förstå att femininum, neutrum och plural inte ändrar form mellan nominativ och ackusativ'
+  - 'Veta att verb som sein och werden tar predikativ (nominativ), inte ackusativ'
+---
+
+<LessonIntro
+  situation="Du ska berätta vad du köper, vem du ser, vad du äter eller vad du har i din ägo."
+  goals={[
+    "Hitta det direkta ackusativobjektet genom frågan: Vad eller vem påverkas av handlingen?",
+    "Böja maskulina ord korrekt: der blir den, ein blir einen, er blir ihn",
+    "Kunna de personliga pronomenen i ackusativ (mich, dich, ihn, sie, es, uns, euch, sie/Sie)",
+    "Avfärda missuppfattningen att allt efter ett verb är ett ackusativobjekt"
+  ]}
+  prerequisites={[
+    { href: "/docs/kasus/nominativ", label: "K02: Nominativ (Subjekt)" },
+    { href: "/docs/substantiv/bestamd-artikel", label: "S03: Bestämd artikel: der, die, das" }
+  ]}
+/>
+
+## Kärnan på en halv minut
+
+**Ackusativ** (*Akkusativ*) är kasuset för det **direkta objektet** – den person eller det föremål som direkt utsätts för eller påverkas av verbets handling:
+
+<div className="custom-quote">
+  <p lang="de"><strong>Der Junge kauft den Apfel.</strong></p>
+  <small>Pojken (subjekt, nominativ) köper äpplet (direkt objekt, ackusativ).</small>
+</div>
+
+Den stora grammatiska nyheten för en svensktalande är:
+> **I singular ändras formen synligt BARA i maskulinum!**
+> * Maskulinum: <span lang="de">der Mann</span> -> <span lang="de">**den** Mann</span>, <span lang="de">ein Mann</span> -> <span lang="de">**einen** Mann</span>
+> * Femininum: <span lang="de">die Frau</span> -> <span lang="de">**die** Frau</span> (oförändrad!)
+> * Neutrum: <span lang="de">das Kind</span> -> <span lang="de">**das** Kind</span> (oförändrad!)
+> * Plural: <span lang="de">die Bücher</span> -> <span lang="de">**die** Bücher</span> (oförändrad!)
+
+---
+
+## Jämför: Vem gör vad mot vem?
+
+Eftersom tyskan markerar ackusativ på artikeln kan ordföljden vara friare än på svenska utan att meningen blir tvetydig:
+
+<MeaningSwitch
+  title="Subjekt och objekt bestäms av kasus, inte av ordningsföljd"
+  context="Jämför vem som faktiskt ser vem i följande meningar:"
+  variants={[
+    {
+      label: "Rak ordföljd: Der Hund sieht den Mann",
+      sentence: "Der Hund sieht den Mann.",
+      translation: "Hunden ser mannen.",
+      explanation: "'Der Hund' är nominativ (subjekt). 'den Mann' är ackusativ (objekt). Hunden tittar på mannen.",
+      caseBadge: "akkusativ"
+    },
+    {
+      label: "Omvänd ordföljd: Den Mann sieht der Hund",
+      sentence: "Den Mann sieht der Hund.",
+      translation: "Mannen, honom ser hunden.",
+      explanation: "Även om 'Den Mann' står först är det fortfarande ackusativ (objekt)! Subjektet är fortfarande 'der Hund'.",
+      caseBadge: "akkusativ"
+    },
+    {
+      label: "Byt roller: Der Mann sieht den Hund",
+      sentence: "Der Mann sieht den Hund.",
+      translation: "Mannen ser hunden.",
+      explanation: "Nu är 'Der Mann' subjekt i nominativ, och hunden har blivit objekt i ackusativ ('den Hund').",
+      caseBadge: "akkusativ"
+    }
+  ]}
+/>
+
+---
+
+## Personliga pronomen i ackusativ
+
+När du ersätter ett substantiv med ett personligt pronomen (mig, dig, honom, henne osv.) används följande former:
+
+| Nominativ (Subjekt) | Ackusativ (Objekt) | Exempel | Svensk översättning |
+| :--- | :--- | :--- | :--- |
+| **ich** (jag) | **mich** (mig) | *Hörst du mich?* | Hör du mig? |
+| **du** (du) | **dich** (dig) | *Ich liebe dich.* | Jag älskar dig. |
+| **er** (han) | **ihn** (honom/den) | *Ich kenne ihn gut.* | Jag känner honom väl. |
+| **sie** (hon) | **sie** (henne) | *Wir besuchen sie morgen.* | Vi besöker henne imorgon. |
+| **es** (den/det) | **es** (den/det) | *Ich habe es vergessen.* | Jag har glömt det. |
+| **wir** (vi) | **uns** (oss) | *Er sieht uns nicht.* | Han ser oss inte. |
+| **ihr** (ni) | **euch** (er) | *Ich lade euch ein.* | Jag bjuder in er. |
+| **sie** (de) | **sie** (dem) | *Ich frage sie.* | Jag frågar dem. |
+| **Sie** (Ni artigt) | **Sie** (Er artigt) | *Ich verstehe Sie gut.* | Jag förstår Er väl. |
+
+---
+
+## Rena ackusativprepositioner (DOGFU)
+
+En grupp prepositioner styr **alltid ackusativ**, oavsett om det handlar om rörelse eller inte. En klassisk minnesregel är akronymen **DOGFU**:
+
+* **d**urch (genom): <span lang="de">durch den Park</span>
+* **o**hne (utan): <span lang="de">ohne meinen Freund</span>
+* **g**egen (mot): <span lang="de">gegen die Wand</span>
+* **f**ür (för, åt): <span lang="de">für den Lehrer</span>
+* **u**m (runt, omkring, klockan): <span lang="de">um die Ecke</span>, <span lang="de">um acht Uhr</span>
+
+---
+
+## Viktig fälla: "Allt efter verb är inte ackusativ"
+
+Ett mycket vanligt fel är att tro att varje substantivfras som kommer efter ett verb automatiskt måste vara ackusativ. 
+
+Verben <span lang="de">**sein**</span> (vara), <span lang="de">**werden**</span> (bli) och <span lang="de">**bleiben**</span> (förbli) styr **inte** ackusativ. De fungerar som ett likhetstecken och kräver **predikatsfyllnad i nominativ**:
+
+<div className="regelruta">
+  Subjekt = Predikativ (Båda står i Nominativ!)<br />
+  <span lang="de" style={{ fontSize: "1.0625rem", fontWeight: 400 }}>
+    Er ist ein gut<strong>er</strong> Arzt. (INTE: einen guten Arzt!)
+  </span>
+</div>
+
+---
+
+## Tidsackusativ (Fördjupning)
+
+Ackusativ används även i tids- och måttuttryck utan preposition när man uttrycker en bestämd tidpunkt eller varaktighet:
+* <span lang="de">**Jeden Tag** lerne ich Deutsch.</span> (Varje dag studerar jag tyska.)
+* <span lang="de">Wir sind **einen ganzen Monat** in Berlin geblieben.</span> (Vi stannade en hel månad i Berlin.)
+
+<Drill till="kasus" typ="ackusativ" text="Träna ackusativobjekt och artiklar i Kasusdrillen" />
+
+<RelatedLessons
+  links={[
+    { href: "/docs/kasus/nominativ", label: "K02: Nominativ (Subjekt)" },
+    { href: "/docs/kasus/dativ", label: "K04: Dativ och verb som styr dativ" },
+    { href: "/docs/prepositioner/ackusativ", label: "P01: Prepositioner med ackusativ" }
+  ]}
+/>

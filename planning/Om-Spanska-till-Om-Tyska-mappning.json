@@ -1,0 +1,657 @@
+[
+  {
+    "sourceFile": "content/docs/Adjektiv/Komparation.mdx",
+    "sourceHref": "/docs/adjektiv/komparation",
+    "sourceTitle": "Adjektivens komparation",
+    "targetIds": [
+      "A06",
+      "A07"
+    ],
+    "adaptation": "Samma undervisningsfunktion; tyska böjningsformer och jämförelser skrivs från grunden."
+  },
+  {
+    "sourceFile": "content/docs/Adjektiv/Kongruens.mdx",
+    "sourceHref": "/docs/adjektiv/kongruens",
+    "sourceTitle": "Adjektivens böjning och kongruens",
+    "targetIds": [
+      "A01",
+      "A02",
+      "A03",
+      "A04",
+      "A05"
+    ],
+    "adaptation": "Betydligt större tyskt område: artikelord, kasus, genus och numerus."
+  },
+  {
+    "sourceFile": "content/docs/Adjektiv/Ísimo.mdx",
+    "sourceHref": "/docs/adjektiv/isimo",
+    "sourceTitle": "Ísimo",
+    "targetIds": [
+      "A06",
+      "D04"
+    ],
+    "adaptation": "Ingen direkt tysk ändelsemotsvarighet; intensitet och superlativ fördelas efter funktion."
+  },
+  {
+    "sourceFile": "content/docs/Adverb/Användning.mdx",
+    "sourceHref": "/docs/adverb/anvandning",
+    "sourceTitle": "Adverb och deras användning",
+    "targetIds": [
+      "D01",
+      "D04",
+      "Y05"
+    ],
+    "adaptation": "Tysk oböjd adverbiell adjektivanvändning och placering ersätter spanska -mente-mönster."
+  },
+  {
+    "sourceFile": "content/docs/Adverb/Aquí, allí, ahí.mdx",
+    "sourceHref": "/docs/adverb/aqui-alli-ahi",
+    "sourceTitle": "Aquí, allí och ahí",
+    "targetIds": [
+      "D03"
+    ],
+    "adaptation": "Hier/dort samt hin/her; ingen kopia av spanskt avståndssystem."
+  },
+  {
+    "sourceFile": "content/docs/Adverb/Muy & mucho.mdx",
+    "sourceHref": "/docs/adverb/muy-mucho",
+    "sourceTitle": "Muy och mucho",
+    "targetIds": [
+      "D04"
+    ],
+    "adaptation": "Sehr/viel/zu/genug i egen tysk modell."
+  },
+  {
+    "sourceFile": "content/docs/Adverb/Tan & tanto.mdx",
+    "sourceHref": "/docs/adverb/tan-tanto",
+    "sourceTitle": "Tan och tanto",
+    "targetIds": [
+      "D04",
+      "A07"
+    ],
+    "adaptation": "Grad, mängd och jämförelser med tyska konstruktioner."
+  },
+  {
+    "sourceFile": "content/docs/Adverb/Tidsadverb.mdx",
+    "sourceHref": "/docs/adverb/tidsadverb",
+    "sourceTitle": "Tidsadverb",
+    "targetIds": [
+      "D02",
+      "T08"
+    ],
+    "adaptation": "Tyska betydelsekontraster och tempus i kontext."
+  },
+  {
+    "sourceFile": "content/docs/Grunder & uttal/Alfabet.mdx",
+    "sourceHref": "/docs/grunder/alfabet",
+    "sourceTitle": "Det spanska alfabetet",
+    "targetIds": [
+      "G01"
+    ],
+    "adaptation": "Tyska bokstäver, särskilda tecken och bokstavsnamn."
+  },
+  {
+    "sourceFile": "content/docs/Grunder & uttal/Betoning och accenter.mdx",
+    "sourceHref": "/docs/grunder/betoning-och-accenter",
+    "sourceTitle": "Betoning och accenttecken",
+    "targetIds": [
+      "G02",
+      "G04",
+      "G05"
+    ],
+    "adaptation": "Ingen mekanisk översättning av spanska accentregler."
+  },
+  {
+    "sourceFile": "content/docs/Grunder & uttal/Ordförändringar.mdx",
+    "sourceHref": "/docs/grunder/ordforandringar",
+    "sourceTitle": "Ordförändringar",
+    "targetIds": [
+      "G05",
+      "V03",
+      "T01",
+      "P09"
+    ],
+    "adaptation": "Funktionerna stavningsmönster, stamväxling, particip och sammandragning får egna ägare."
+  },
+  {
+    "sourceFile": "content/docs/Grunder & uttal/Skrivregler.mdx",
+    "sourceHref": "/docs/grunder/skrivregler",
+    "sourceTitle": "Skrivregler",
+    "targetIds": [
+      "G05",
+      "G06",
+      "G07",
+      "D06"
+    ],
+    "adaptation": "Tysk versal, ortografi och kommatering samt datum/klockslag."
+  },
+  {
+    "sourceFile": "content/docs/Grunder & uttal/Uttal.mdx",
+    "sourceHref": "/docs/grunder/uttal",
+    "sourceTitle": "Uttal",
+    "targetIds": [
+      "G02",
+      "G03",
+      "G04"
+    ],
+    "adaptation": "Längd, omljud, konsonanter och satsmelodi med ny tysk ljudbank."
+  },
+  {
+    "sourceFile": "content/docs/Prepositioner/Introduktion.mdx",
+    "sourceHref": "/docs/prepositioner/introduktion",
+    "sourceTitle": "Prepositioner",
+    "targetIds": [
+      "P01",
+      "P02",
+      "P03",
+      "P04",
+      "P05",
+      "P06",
+      "P07",
+      "P08",
+      "P09",
+      "K08"
+    ],
+    "adaptation": "Den stora referenssidan delas upp efter tysk kasus- och betydelselogik."
+  },
+  {
+    "sourceFile": "content/docs/Prepositioner/Personligt a.mdx",
+    "sourceHref": "/docs/prepositioner/personligt-a",
+    "sourceTitle": "Personligt a",
+    "targetIds": [
+      "K03",
+      "K04",
+      "K08"
+    ],
+    "adaptation": "Saknar direkt motsvarighet; behovet att skilja objekt från prepositionsfras bevaras."
+  },
+  {
+    "sourceFile": "content/docs/Pronomen/Demonstrativa pronomen.mdx",
+    "sourceHref": "/docs/pronomen/demonstrativa",
+    "sourceTitle": "Demonstrativa pronomen",
+    "targetIds": [
+      "R06"
+    ],
+    "adaptation": "Tyska former och referenssystem, inte spanska tre avstånd."
+  },
+  {
+    "sourceFile": "content/docs/Pronomen/Frågeord.mdx",
+    "sourceHref": "/docs/pronomen/frageord",
+    "sourceTitle": "Frågeord och utrop",
+    "targetIds": [
+      "R07",
+      "Y03"
+    ],
+    "adaptation": "Form och satsbygge får varsin huvudägare."
+  },
+  {
+    "sourceFile": "content/docs/Pronomen/Indefinita pronomen.mdx",
+    "sourceHref": "/docs/pronomen/indefinita",
+    "sourceTitle": "Indefinita pronomen och kvantifikatorer",
+    "targetIds": [
+      "R09",
+      "Y06"
+    ],
+    "adaptation": "Tyska indefiniter och negation utan överförd spansk negativ kongruens."
+  },
+  {
+    "sourceFile": "content/docs/Pronomen/Objektspronomen tillsammans.mdx",
+    "sourceHref": "/docs/pronomen/objektspronomen-tillsammans",
+    "sourceTitle": "Objektspronomen tillsammans",
+    "targetIds": [
+      "K06",
+      "Y05"
+    ],
+    "adaptation": "Lektionsformatet kan återanvändas; tysk pronomenordning måste skrivas om."
+  },
+  {
+    "sourceFile": "content/docs/Pronomen/Personliga pronomen.mdx",
+    "sourceHref": "/docs/pronomen/personliga",
+    "sourceTitle": "Personliga pronomen",
+    "targetIds": [
+      "R01",
+      "R02",
+      "K06"
+    ],
+    "adaptation": "Tilltal Sie, kasus och syftning blir centrala."
+  },
+  {
+    "sourceFile": "content/docs/Pronomen/Possessiva pronomen.mdx",
+    "sourceHref": "/docs/pronomen/possessiva",
+    "sourceTitle": "Possessiva pronomen",
+    "targetIds": [
+      "R03",
+      "R04"
+    ],
+    "adaptation": "Ägare kontra ägt och svenska sin/sitt/sina; två separata formtyper."
+  },
+  {
+    "sourceFile": "content/docs/Pronomen/Reflexiva pronomen.mdx",
+    "sourceHref": "/docs/pronomen/reflexiva",
+    "sourceTitle": "Reflexiva pronomen",
+    "targetIds": [
+      "R05",
+      "V07"
+    ],
+    "adaptation": "Ackusativ och dativ samt tysk rektion, ingen se-modell."
+  },
+  {
+    "sourceFile": "content/docs/Pronomen/Relativa pronomen.mdx",
+    "sourceHref": "/docs/pronomen/relativa",
+    "sourceTitle": "Relativa pronomen",
+    "targetIds": [
+      "R08",
+      "B04"
+    ],
+    "adaptation": "Former och byggandet av hela tyska relativsatser separeras."
+  },
+  {
+    "sourceFile": "content/docs/Räkneord/Grundtal.mdx",
+    "sourceHref": "/docs/rakneord/grundtal",
+    "sourceTitle": "Grundtal",
+    "targetIds": [
+      "D05"
+    ],
+    "adaptation": "Ental före tiotal, tysk stavning och tillämpningar."
+  },
+  {
+    "sourceFile": "content/docs/Räkneord/Ordningstal.mdx",
+    "sourceHref": "/docs/rakneord/ordningstal",
+    "sourceTitle": "Ordningstal",
+    "targetIds": [
+      "D06"
+    ],
+    "adaptation": "Tyska ändelser och kasus i datumuttryck."
+  },
+  {
+    "sourceFile": "content/docs/Räkneord/Procent och bråk.mdx",
+    "sourceHref": "/docs/rakneord/procent-och-brak",
+    "sourceTitle": "Procent, bråk och matematik",
+    "targetIds": [
+      "D07"
+    ],
+    "adaptation": "Egna tyska mått-, pris- och bråkuttryck."
+  },
+  {
+    "sourceFile": "content/docs/Substantiv/Artiklar.mdx",
+    "sourceHref": "/docs/substantiv/artiklar",
+    "sourceTitle": "Artiklar",
+    "targetIds": [
+      "S03",
+      "S04",
+      "P09"
+    ],
+    "adaptation": "Tre genus och fyra kasus, nollartikel och tyska sammandragningar."
+  },
+  {
+    "sourceFile": "content/docs/Substantiv/Genitiv.mdx",
+    "sourceHref": "/docs/substantiv/genitiv",
+    "sourceTitle": "Genitiv och de-konstruktion",
+    "targetIds": [
+      "K05",
+      "S06"
+    ],
+    "adaptation": "Tysk genitiv är kasus; spansk de-analys kan inte kopieras."
+  },
+  {
+    "sourceFile": "content/docs/Substantiv/Genus.mdx",
+    "sourceHref": "/docs/substantiv/genus",
+    "sourceTitle": "Substantivens genus",
+    "targetIds": [
+      "S01",
+      "S09"
+    ],
+    "adaptation": "Tyska genusledtrådar och sammansättningarnas huvudled."
+  },
+  {
+    "sourceFile": "content/docs/Substantiv/Plural.mdx",
+    "sourceHref": "/docs/substantiv/plural",
+    "sourceTitle": "Substantivens plural",
+    "targetIds": [
+      "S02",
+      "S07"
+    ],
+    "adaptation": "Fler böjningsmönster och dativ plural."
+  },
+  {
+    "sourceFile": "content/docs/Syntax/Introduktion.mdx",
+    "sourceHref": "/docs/syntax/introduktion",
+    "sourceTitle": "Introduktion till syntax",
+    "targetIds": [
+      "Y01",
+      "Y02",
+      "Y04",
+      "Y05"
+    ],
+    "adaptation": "V2, satsram, verbgrupper och informationsstruktur."
+  },
+  {
+    "sourceFile": "content/docs/Syntax/Ordföljd i frågor.mdx",
+    "sourceHref": "/docs/syntax/ordfoljd-i-fragor",
+    "sourceTitle": "Ordföljd i frågor",
+    "targetIds": [
+      "Y03",
+      "R07"
+    ],
+    "adaptation": "Tyska V1-/V2-frågor och tyska frågefraser."
+  },
+  {
+    "sourceFile": "content/docs/Syntax/Que.mdx",
+    "sourceHref": "/docs/syntax/que",
+    "sourceTitle": "Que",
+    "targetIds": [
+      "B02",
+      "V09",
+      "B04"
+    ],
+    "adaptation": "Svensk att kan bli dass eller infinitivkonstruktion; relativfunktion behandlas separat."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Imperativ.mdx",
+    "sourceHref": "/docs/verb/imperativ",
+    "sourceTitle": "Imperativ",
+    "targetIds": [
+      "V08"
+    ],
+    "adaptation": "Du/ihr/Sie, starka former och partikelverb."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Infinitiv.mdx",
+    "sourceHref": "/docs/verb/infinitiv",
+    "sourceTitle": "Infinitiv",
+    "targetIds": [
+      "V09",
+      "B06",
+      "E11"
+    ],
+    "adaptation": "Zu, satsrelation, Ersatzinfinitiv och verbgrupper."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Introduktion.mdx",
+    "sourceHref": "/docs/verb/introduktion",
+    "sourceTitle": "Introduktion till verb",
+    "targetIds": [
+      "V01",
+      "V02"
+    ],
+    "adaptation": "Tysk konjugation och huvudformer, inga -ar/-er/-ir-kategorier."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Konjunktiv.mdx",
+    "sourceHref": "/docs/verb/konjunktiv",
+    "sourceTitle": "Konjunktiv",
+    "targetIds": [
+      "M03",
+      "M04",
+      "M05",
+      "M06",
+      "B07"
+    ],
+    "adaptation": "Tysk Konjunktiv I/II, irrealis, artighet och referat; spansk styrningslista ersätts."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Modala hjälpverb.mdx",
+    "sourceHref": "/docs/verb/modala-hjalpverb",
+    "sourceTitle": "Modala hjälpverb",
+    "targetIds": [
+      "M01",
+      "M02",
+      "E02",
+      "E03"
+    ],
+    "adaptation": "Tyska modalverb, tempus och betydelsekontraster."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Oregelbundna verb.mdx",
+    "sourceHref": "/docs/verb/oregelbundna-verb",
+    "sourceTitle": "Oregelbundna verb",
+    "targetIds": [
+      "V03",
+      "V04",
+      "T01"
+    ],
+    "adaptation": "Gemensam verbdatakälla och tyska huvudformer."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Perifraser.mdx",
+    "sourceHref": "/docs/verb/perifraser",
+    "sourceTitle": "Verbperifraser",
+    "targetIds": [
+      "V09",
+      "M01",
+      "T08"
+    ],
+    "adaptation": "Tyska konstruktioner för funktionerna; inget direkt övertagande av perifraslistan."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Reflexiva verb.mdx",
+    "sourceHref": "/docs/verb/reflexiva-verb",
+    "sourceTitle": "Reflexiva verb",
+    "targetIds": [
+      "V07",
+      "R05"
+    ],
+    "adaptation": "Konstruktion, betydelse och kasus i tyska."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Tempus/Futurum II.mdx",
+    "sourceHref": "/docs/verb/tempus/futurum-ii",
+    "sourceTitle": "Futurum II",
+    "targetIds": [
+      "T06",
+      "T07"
+    ],
+    "adaptation": "Särskilt viktig terminologisk ombyggnad: tysk Futur II är sammansatt form."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Tempus/Futurum.mdx",
+    "sourceHref": "/docs/verb/tempus/futurum",
+    "sourceTitle": "Futurum",
+    "targetIds": [
+      "T06"
+    ],
+    "adaptation": "Presens för framtid och werden + infinitiv, inte ir a-mönster."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Tempus/Gerundium.mdx",
+    "sourceHref": "/docs/verb/tempus/gerundium",
+    "sourceTitle": "Gerundium",
+    "targetIds": [
+      "E08",
+      "T08",
+      "D01"
+    ],
+    "adaptation": "Ingen direkt tysk tempusmotsvarighet; particip, pågående förlopp och adverbiell funktion fördelas."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Tempus/Imperfekt.mdx",
+    "sourceHref": "/docs/verb/tempus/imperfekt",
+    "sourceTitle": "Imperfekt",
+    "targetIds": [
+      "T03",
+      "T04"
+    ],
+    "adaptation": "Ingen tysk direkt motsvarighet till spanskt imperfekt som aspektuellt system."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Tempus/Konditionalis.mdx",
+    "sourceHref": "/docs/verb/tempus/konditionalis",
+    "sourceTitle": "Konditionalis",
+    "targetIds": [
+      "M03",
+      "M04",
+      "B07"
+    ],
+    "adaptation": "Konjunktiv II och villkorskonstruktioner efter funktion."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Tempus/Perfekt.mdx",
+    "sourceHref": "/docs/verb/tempus/perfekt",
+    "sourceTitle": "Perfekt",
+    "targetIds": [
+      "T01",
+      "T02",
+      "T04"
+    ],
+    "adaptation": "Haben/sein och tyskt particip; val och register behandlas självständigt."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Tempus/Pluskvamperfekt.mdx",
+    "sourceHref": "/docs/verb/tempus/pluskvamperfekt",
+    "sourceTitle": "Pluskvamperfekt",
+    "targetIds": [
+      "T05"
+    ],
+    "adaptation": "Hatte/war och tidsrelation, med egen tysk syntax."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Tempus/Presens.mdx",
+    "sourceHref": "/docs/verb/tempus/presens",
+    "sourceTitle": "Presens",
+    "targetIds": [
+      "V02",
+      "V03",
+      "V04",
+      "V05"
+    ],
+    "adaptation": "Tyska böjningstyper och partikelverb."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Tempus/Preteritum eller imperfekt.mdx",
+    "sourceHref": "/docs/verb/tempus/preteritum-eller-imperfekt",
+    "sourceTitle": "Preteritum eller imperfekt?",
+    "targetIds": [
+      "T04"
+    ],
+    "adaptation": "Det pedagogiska meningsparformatet bevaras, men kontrasten blir tyskt Perfekt/Präteritum."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Tempus/Preteritum.mdx",
+    "sourceHref": "/docs/verb/tempus/preteritum",
+    "sourceTitle": "Preteritum",
+    "targetIds": [
+      "T03"
+    ],
+    "adaptation": "Tyska svaga/starka/blandade former och berättande funktion."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Verb som gustar.mdx",
+    "sourceHref": "/docs/verb/verb-som-gustar",
+    "sourceTitle": "Verb som gustar",
+    "targetIds": [
+      "K04",
+      "K07"
+    ],
+    "adaptation": "Gefallen och annan tysk rektion; förklara utan påstådd identitet mellan språken."
+  },
+  {
+    "sourceFile": "content/docs/Verb/Verbkonstruktion.mdx",
+    "sourceHref": "/docs/verb/verbkonstruktion",
+    "sourceTitle": "Verbkonstruktion och rektion",
+    "targetIds": [
+      "K07",
+      "K08",
+      "P08",
+      "V09"
+    ],
+    "adaptation": "Valens, preposition, kasus och infinitiv i gemensam konstruktionsmodell."
+  },
+  {
+    "sourceFile": "content/mer/Apokopering.mdx",
+    "sourceHref": "/mer/apokopering",
+    "sourceTitle": "Apokopering",
+    "targetIds": [
+      "S09",
+      "G05"
+    ],
+    "adaptation": "Saknar direkt huvudsaklig motsvarighet; ingen konstgjord tysk apokoperingssida."
+  },
+  {
+    "sourceFile": "content/mer/Grammatiska termer.mdx",
+    "sourceHref": "/mer/grammatiska-termer",
+    "sourceTitle": "Grammatiska termer och ordlista",
+    "targetIds": [
+      "G08",
+      "E12"
+    ],
+    "adaptation": "Lätt tillgänglig grundförklaring plus svensk–tysk referensordlista."
+  },
+  {
+    "sourceFile": "content/mer/Negation.mdx",
+    "sourceHref": "/mer/negation",
+    "sourceTitle": "Negation",
+    "targetIds": [
+      "Y06",
+      "R09"
+    ],
+    "adaptation": "Nicht/kein och räckvidd; ingen överföring av spansk dubbelnegation."
+  },
+  {
+    "sourceFile": "content/mer/Opersonligt se.mdx",
+    "sourceHref": "/mer/opersonligt-se",
+    "sourceTitle": "Opersonligt se",
+    "targetIds": [
+      "M07",
+      "M08",
+      "E07",
+      "R09"
+    ],
+    "adaptation": "Passiv, man och andra tyska alternativ; tyskan har ingen motsvarande se-funktion."
+  },
+  {
+    "sourceFile": "content/mer/Ordbildning.mdx",
+    "sourceHref": "/mer/ordbildning",
+    "sourceTitle": "Ordbildning på spanska",
+    "targetIds": [
+      "S09",
+      "E05",
+      "E08"
+    ],
+    "adaptation": "Sammansättning, avledning och particip i tyska."
+  },
+  {
+    "sourceFile": "content/mer/Por och para.mdx",
+    "sourceHref": "/mer/por-och-para",
+    "sourceTitle": "Por och para",
+    "targetIds": [
+      "P04",
+      "P06",
+      "P08",
+      "B06"
+    ],
+    "adaptation": "Betydelsebaserat val mellan tyska konstruktioner; ingen påhittad tysk tvåordsersättning."
+  },
+  {
+    "sourceFile": "content/mer/Ser och estar.mdx",
+    "sourceHref": "/mer/ser-och-estar",
+    "sourceTitle": "Ser och estar",
+    "targetIds": [
+      "V04",
+      "M07",
+      "M08",
+      "E01"
+    ],
+    "adaptation": "Sein/werden/bleiben och passiv som tyska egna kontraster."
+  },
+  {
+    "sourceFile": "content/mer/Si-satser.mdx",
+    "sourceHref": "/mer/si-satser",
+    "sourceTitle": "Si-satser",
+    "targetIds": [
+      "B07",
+      "M03",
+      "M04",
+      "E04"
+    ],
+    "adaptation": "Wenn/falls/ob och tysk konjunktiv med tydlig skillnad mellan fråga och villkor."
+  },
+  {
+    "sourceFile": "content/mer/Spanskamerikansk spanska.mdx",
+    "sourceHref": "/mer/spanskamerikansk-spanska",
+    "sourceTitle": "Språket i Spanskamerika",
+    "targetIds": [
+      "E09"
+    ],
+    "adaptation": "Tysk standardspråklig variation i DACH, skild från dialekter."
+  }
+]

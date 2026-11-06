@@ -1,0 +1,66 @@
+.toggleGroup {
+  display: inline-flex;
+  align-items: center;
+  background: var(--surface-soft);
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-pill);
+  padding: 3px;
+  gap: 2px;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font-family: var(--font-sans);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  padding: 5px 12px;
+  border-radius: var(--r-pill);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.button:hover {
+  color: var(--ink);
+}
+
+.buttonActive {
+  background: var(--canvas);
+  color: var(--ink);
+  font-weight: 600;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.icon {
+  font-size: 0.875rem;
+}
+
+.label {
+  line-height: 1;
+}
+
+.mobileContainer {
+  margin: var(--s-md) 0;
+  padding: var(--s-md);
+  background: var(--surface-soft);
+  border-radius: var(--r-md);
+}
+
+.mobileLabel {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: var(--s-xxs);
+}
+
+.mobileDesc {
+  font-size: 0.875rem;
+  color: var(--ink);
+  margin-bottom: var(--s-sm);
+}

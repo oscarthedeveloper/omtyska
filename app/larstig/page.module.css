@@ -1,0 +1,152 @@
+.main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: var(--s-xxl) var(--s-lg);
+}
+
+.header {
+  border-bottom: 1px solid var(--hairline);
+  padding-bottom: var(--s-lg);
+  margin-bottom: var(--s-xl);
+}
+
+.title {
+  font-size: clamp(2rem, 5vw, 3.25rem);
+  font-weight: 400;
+  margin: 4px 0 8px;
+}
+
+.lead {
+  font-size: 1.15rem;
+  color: #555;
+  line-height: 1.5;
+  max-width: 48ch;
+  margin: 0;
+}
+
+.phaseBlock {
+  margin-bottom: var(--s-xxl);
+}
+
+.phaseHeader {
+  background: var(--surface-soft);
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-md);
+  padding: var(--s-md) var(--s-lg);
+  margin-bottom: var(--s-md);
+}
+
+.phaseTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0 0 4px;
+}
+
+.phaseDesc {
+  font-size: 0.9375rem;
+  color: #555;
+  margin: 0;
+}
+
+.stepList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-xs);
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.stepCard {
+  display: grid;
+  grid-template-columns: 3rem minmax(0, 1fr) auto;
+  align-items: center;
+  gap: var(--s-md);
+  padding: 14px 18px;
+  background: var(--canvas);
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-md);
+  text-decoration: none;
+  color: var(--ink);
+  transition: transform 0.1s ease, background-color 0.1s ease;
+}
+
+.stepCard:hover {
+  text-decoration: none;
+  background: var(--surface-soft);
+  transform: translateX(3px);
+}
+
+.stepNumber {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--r-full);
+  background: var(--surface-soft);
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.stepCompleted .stepNumber {
+  background: var(--block-mint);
+  color: var(--success);
+}
+
+.stepMain {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.stepTitle {
+  font-size: 1rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.stepLessonId {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.stepDesc {
+  font-size: 0.8125rem;
+  color: #666;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 55ch;
+}
+
+.stepMeta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.levelTag {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  padding: 2px 6px;
+  background: var(--surface-soft);
+  border-radius: var(--r-xs);
+  color: #444;
+}
+
+@media (max-width: 600px) {
+  .stepCard {
+    grid-template-columns: 2.5rem 1fr;
+  }
+  .stepMeta {
+    grid-column: 2;
+    margin-top: 4px;
+  }
+}

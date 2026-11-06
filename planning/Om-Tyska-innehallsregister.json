@@ -1,0 +1,2270 @@
+{
+  "version": "1.0",
+  "date": "2026-11-06",
+  "languageOfInstruction": "sv",
+  "targetLanguage": "de",
+  "status": "plan-not-produced-content",
+  "categories": [
+    {
+      "id": "G",
+      "title": "Grunder och uttal",
+      "lessons": 8
+    },
+    {
+      "id": "S",
+      "title": "Substantiv och artiklar",
+      "lessons": 9
+    },
+    {
+      "id": "K",
+      "title": "Kasus och rektion",
+      "lessons": 8
+    },
+    {
+      "id": "A",
+      "title": "Adjektiv",
+      "lessons": 8
+    },
+    {
+      "id": "R",
+      "title": "Pronomen och artikelord",
+      "lessons": 11
+    },
+    {
+      "id": "V",
+      "title": "Verbens grunder",
+      "lessons": 9
+    },
+    {
+      "id": "T",
+      "title": "Tempus",
+      "lessons": 8
+    },
+    {
+      "id": "M",
+      "title": "Modalitet, konjunktiv och passiv",
+      "lessons": 8
+    },
+    {
+      "id": "P",
+      "title": "Prepositioner",
+      "lessons": 10
+    },
+    {
+      "id": "Y",
+      "title": "Syntax",
+      "lessons": 7
+    },
+    {
+      "id": "B",
+      "title": "Satser och sambandsord",
+      "lessons": 7
+    },
+    {
+      "id": "D",
+      "title": "Adverb och räkneord",
+      "lessons": 7
+    },
+    {
+      "id": "E",
+      "title": "Mer grammatik och referens",
+      "lessons": 12
+    }
+  ],
+  "counts": {
+    "docs": 100,
+    "mer": 12,
+    "total": 112,
+    "learningPathSteps": 54,
+    "minimumMainQuizItems": 600,
+    "minimumAdditionalQuizItems": 44
+  },
+  "learningPath": [
+    {
+      "title": "Hitta ljuden och personerna",
+      "lessons": [
+        "G08",
+        "G01",
+        "G02",
+        "G03",
+        "G05",
+        "G06",
+        "R01",
+        "V01"
+      ]
+    },
+    {
+      "title": "Bygg enkla meningar och nominalfraser",
+      "lessons": [
+        "V02",
+        "V04",
+        "Y01",
+        "Y03",
+        "S01",
+        "S02",
+        "K01",
+        "S03",
+        "S04"
+      ]
+    },
+    {
+      "title": "Använd objekt, pronomen och satsram",
+      "lessons": [
+        "K02",
+        "K03",
+        "K04",
+        "R02",
+        "R03",
+        "K06",
+        "V05",
+        "Y02",
+        "Y06"
+      ]
+    },
+    {
+      "title": "Tala om plats, tid och det som hände",
+      "lessons": [
+        "P01",
+        "P02",
+        "P03",
+        "P04",
+        "P06",
+        "V03",
+        "T01",
+        "T02",
+        "T03"
+      ]
+    },
+    {
+      "title": "Berätta och bygg ihop satser",
+      "lessons": [
+        "T04",
+        "T05",
+        "V09",
+        "B01",
+        "B02",
+        "Y04",
+        "B05",
+        "K05",
+        "R08",
+        "B04"
+      ]
+    },
+    {
+      "title": "Uttryck precision, önskan och perspektiv",
+      "lessons": [
+        "M01",
+        "A01",
+        "A02",
+        "A03",
+        "A04",
+        "M03",
+        "M04",
+        "M07",
+        "M08"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "G01",
+      "section": "docs",
+      "slug": "/grunder/alfabet",
+      "href": "/docs/grunder/alfabet",
+      "title": "Alfabetet och att bokstavera",
+      "suggestedLevel": "A1",
+      "prerequisites": [
+        "G08"
+      ],
+      "requiredCoverage": "26 grundbokstäver samt ä, ö, ü och ß som särskilda tecken; bokstavsnamn, namn och e-postadresser; skilj bokstavens namn från ljudet i ord.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 2,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "G02",
+      "section": "docs",
+      "slug": "/grunder/vokaler",
+      "href": "/docs/grunder/vokaler",
+      "title": "Vokaler, omljud och längd",
+      "suggestedLevel": "A1",
+      "prerequisites": [
+        "G01"
+      ],
+      "requiredCoverage": "Långa och korta vokaler, ä/ö/ü, ei/ie/eu/äu/au; IPA med ljudstöd; egna minimala par och svenska jämförelser med angivna begränsningar.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 3,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "G03",
+      "section": "docs",
+      "slug": "/grunder/konsonanter",
+      "href": "/docs/grunder/konsonanter",
+      "title": "Konsonanterna och deras ljud",
+      "suggestedLevel": "A1",
+      "prerequisites": [
+        "G01"
+      ],
+      "requiredCoverage": "Ich- och ach-ljud, sch/sp/st, s/ss/ß/z, v/w, j och r; tonlöshet i ordslut, ng och vanliga lånord; undvik att ett enda regionalt r blir enda rätta uttalet.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 4,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "G04",
+      "section": "docs",
+      "slug": "/grunder/betoning-och-satsmelodi",
+      "href": "/docs/grunder/betoning-och-satsmelodi",
+      "title": "Betoning, rytm och satsmelodi",
+      "suggestedLevel": "A1–A2",
+      "prerequisites": [
+        "G02",
+        "G03"
+      ],
+      "requiredCoverage": "Ord- och satsbetoning, obetonat e, reduktion, betonade verbpartiklar, frågor och kontrastbetoning; övningar som faktiskt kräver lyssning.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "G05",
+      "section": "docs",
+      "slug": "/grunder/stavning-och-specialtecken",
+      "href": "/docs/grunder/stavning-och-specialtecken",
+      "title": "Stavning, ss, ß och omljud",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "G01",
+        "G02"
+      ],
+      "requiredCoverage": "Vokallängd och ss/ß med avgränsningar; ä/ae, ö/oe, ü/ue som omskrivning; skillnad mellan uttal och stavning; Schweiz som markerad standardvariant.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 5,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "G06",
+      "section": "docs",
+      "slug": "/grunder/stor-och-liten-bokstav",
+      "href": "/docs/grunder/stor-och-liten-bokstav",
+      "title": "Stor och liten bokstav",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "G08"
+      ],
+      "requiredCoverage": "Substantiv, substantiveringar, språk, veckodagar och tilltal Sie/Ihr; skilj ich lerne Deutsch från adjektiviskt deutsch; svenskt interferensperspektiv.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 6,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "G07",
+      "section": "docs",
+      "slug": "/grunder/komma-och-skrivregler",
+      "href": "/docs/grunder/komma-och-skrivregler",
+      "title": "Komma och skrivregler",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "Y04",
+        "V09"
+      ],
+      "requiredCoverage": "Huvud- och bisatser, relativsatser och infinitivgrupper enligt verifierat regelverk; sammanskrivning, bindestreck och citat; skilj bindande regel från rekommendation.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "G08",
+      "section": "docs",
+      "slug": "/grunder/grammatiska-begrepp",
+      "href": "/docs/grunder/grammatiska-begrepp",
+      "title": "Grammatiska begrepp från början",
+      "suggestedLevel": "A1",
+      "prerequisites": [],
+      "requiredCoverage": "Ordklass och satsdel, böjt verb och infinitiv, subjekt och objekt, genus/numerus/kasus; svenska och tyska exempel sida vid sida; användbara länkar till E12.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 1,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "S01",
+      "section": "docs",
+      "slug": "/substantiv/genus",
+      "href": "/docs/substantiv/genus",
+      "title": "Substantivens genus",
+      "suggestedLevel": "A1–A2",
+      "prerequisites": [
+        "G08"
+      ],
+      "requiredCoverage": "Der/die/das, tydliga suffix och semantiska ledtrådar med undantag; der Tisch, die Tür, das Mädchen; skilj grammatiskt genus från kön och referens.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 13,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "S02",
+      "section": "docs",
+      "slug": "/substantiv/plural",
+      "href": "/docs/substantiv/plural",
+      "title": "Plural och numerus",
+      "suggestedLevel": "A1–A2",
+      "prerequisites": [
+        "S01"
+      ],
+      "requiredCoverage": "Alla centrala pluralmönster inklusive omljud, nollplural och lånord; räknebarhet och ord utan vanlig singular/plural; lär substantiv med artikel och plural.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 14,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "S03",
+      "section": "docs",
+      "slug": "/substantiv/bestamd-artikel",
+      "href": "/docs/substantiv/bestamd-artikel",
+      "title": "Bestämd artikel: der, die, das",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "S01",
+        "K01"
+      ],
+      "requiredCoverage": "Fullständig tabell över fyra kasus och fyra genus/numeruskolumner; artikelbruk och svensk slutartikel; jämför identiska former med olika funktion.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 16,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "S04",
+      "section": "docs",
+      "slug": "/substantiv/obestamd-artikel-och-nollartikel",
+      "href": "/docs/substantiv/obestamd-artikel-och-nollartikel",
+      "title": "Ein, kein och nollartikel",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "S03"
+      ],
+      "requiredCoverage": "Ein/eine i samtliga kasus, kein och possessivliknande mönster; ingen vanlig plural av ein; yrke, material, mängd, namn och geografiska namn med relevanta undantag.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 17,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "S05",
+      "section": "docs",
+      "slug": "/substantiv/n-deklination",
+      "href": "/docs/substantiv/n-deklination",
+      "title": "N-deklination och blandade substantiv",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "K03",
+        "K04"
+      ],
+      "requiredCoverage": "Der Junge, der Mensch, der Student och undantagsgrupper; singular och plural; der Name och das Herz behandlas separat; substantivets ändelse utöver artikeln.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "S06",
+      "section": "docs",
+      "slug": "/substantiv/genitivformer",
+      "href": "/docs/substantiv/genitivformer",
+      "title": "Genitivändelser och namn",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "K05"
+      ],
+      "requiredCoverage": "Maskulina/neutrala substantiv med -(e)s, personnamn och apostrof; genitiv i nominalfraser; von-konstruktioner med registerskillnader; K05 äger satsfunktionen.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "S07",
+      "section": "docs",
+      "slug": "/substantiv/dativ-plural",
+      "href": "/docs/substantiv/dativ-plural",
+      "title": "Substantivböjning och dativ plural",
+      "suggestedLevel": "A2",
+      "prerequisites": [
+        "S02",
+        "K04"
+      ],
+      "requiredCoverage": "Dativ plural med -n och villkoren för uteblivet extra n, exempel med Kindern, Frauen och Autos; skilj pluralbildning från kasusändelse.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "S08",
+      "section": "docs",
+      "slug": "/substantiv/substantiveringar",
+      "href": "/docs/substantiv/substantiveringar",
+      "title": "Substantiverade adjektiv och infinitiver",
+      "suggestedLevel": "B1–B2",
+      "prerequisites": [
+        "G06",
+        "A02",
+        "A03",
+        "A04"
+      ],
+      "requiredCoverage": "Das Lesen, der Deutsche, ein Deutscher, etwas Neues och nichts Wichtiges; adjektivisk böjning hos personbeteckningar; versal och betydelse i kontext.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "S09",
+      "section": "docs",
+      "slug": "/substantiv/sammansattningar",
+      "href": "/docs/substantiv/sammansattningar",
+      "title": "Sammansatta substantiv",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "S01",
+        "S02"
+      ],
+      "requiredCoverage": "Sista ledets genus och böjning, fogeelement utan falsk universell regel, betoning och tolkning; produktiva egna ord och lexikaliserade undantag; derivation ägs av E05.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "K01",
+      "section": "docs",
+      "slug": "/kasus/oversikt",
+      "href": "/docs/kasus/oversikt",
+      "title": "Vad är kasus?",
+      "suggestedLevel": "A1",
+      "prerequisites": [
+        "G08"
+      ],
+      "requiredCoverage": "Fyra kasus med funktioner i hela meningar; genus är inte kasus; verb och preposition kan styra; frågeorden wer/wen/wem/wessen som stöd efter analys.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 15,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "K02",
+      "section": "docs",
+      "slug": "/kasus/nominativ",
+      "href": "/docs/kasus/nominativ",
+      "title": "Nominativ: subjekt och predikativ",
+      "suggestedLevel": "A1–A2",
+      "prerequisites": [
+        "K01",
+        "V01"
+      ],
+      "requiredCoverage": "Subjekt i olika positioner, subjekt–verbkongruens, predikativa nominalfraser vid sein/werden/bleiben; kontrast mot svenska objektsformer.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 18,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "K03",
+      "section": "docs",
+      "slug": "/kasus/ackusativ",
+      "href": "/docs/kasus/ackusativ",
+      "title": "Ackusativ: direkt objekt och mer",
+      "suggestedLevel": "A1–A2",
+      "prerequisites": [
+        "K02",
+        "S03"
+      ],
+      "requiredCoverage": "Direkt objekt, verbstyrning och maskulin artikeländring; kasus utan synlig ändring; tids- och måttackusativ i fördjupning; ingen regel att allt efter verb är objekt.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 19,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "K04",
+      "section": "docs",
+      "slug": "/kasus/dativ",
+      "href": "/docs/kasus/dativ",
+      "title": "Dativ och verb som styr dativ",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "K03"
+      ],
+      "requiredCoverage": "Mottagare och självständig rektion med helfen, danken, gefallen och gehören; formtabell; mir ist kalt; undvik likställning mellan dativ och svensk till-fras.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 20,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "K05",
+      "section": "docs",
+      "slug": "/kasus/genitiv",
+      "href": "/docs/kasus/genitiv",
+      "title": "Genitiv: tillhörighet och rektion",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "K04"
+      ],
+      "requiredCoverage": "Genitivattribut och begränsad verbrektion; nominala samband, frågan wessen och register; prepositionsstyrd genitiv länkas till P07, ändelser till S06.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 43,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "K06",
+      "section": "docs",
+      "slug": "/kasus/tva-objekt",
+      "href": "/docs/kasus/tva-objekt",
+      "title": "Två objekt och pronomenordning",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "K04",
+        "R02"
+      ],
+      "requiredCoverage": "Dativ + ackusativ med två substantiv, ett pronomen och två pronomen; neutrala standardmönster samt kontextberoende ordföljd; genomarbetad omvandling med geben.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 23,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "K07",
+      "section": "docs",
+      "slug": "/kasus/verbens-rektion",
+      "href": "/docs/kasus/verbens-rektion",
+      "title": "Verbens kasus och valens",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "K03",
+        "K04",
+        "K05"
+      ],
+      "requiredCoverage": "Högfrekventa verb med ackusativ/dativ, ovanligare genitiv som referens, subjekt kontra objekt; betydelseskiftande konstruktioner; varje verb får en verklig exempelmening.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "K08",
+      "section": "docs",
+      "slug": "/kasus/preposition-eller-objekt",
+      "href": "/docs/kasus/preposition-eller-objekt",
+      "title": "Prepositionens kasus eller verbets objekt?",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "K03",
+        "K04"
+      ],
+      "requiredCoverage": "Identifiera nominalfrasens styrande ord; skilj ackusativobjekt från für + ackusativ och dativobjekt från mit + dativ; beslutssteg med hela meningar.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "A01",
+      "section": "docs",
+      "slug": "/adjektiv/tre-anvandningar",
+      "href": "/docs/adjektiv/tre-anvandningar",
+      "title": "Attributiv, predikativ och adverbiell användning",
+      "suggestedLevel": "A1–A2",
+      "prerequisites": [
+        "S01",
+        "V02"
+      ],
+      "requiredCoverage": "Ein schnelles Auto, das Auto ist schnell och es fährt schnell; varför endast vissa positioner böjs; kongruens som utgångspunkt för A02–A04.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 47,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "A02",
+      "section": "docs",
+      "slug": "/adjektiv/svag-bojning",
+      "href": "/docs/adjektiv/svag-bojning",
+      "title": "Svag adjektivböjning",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "A01",
+        "S03",
+        "K05"
+      ],
+      "requiredCoverage": "Komplett kasus/genus/numerustabell efter bestämd artikel; -e och -en förklarade i nominalfraser; även dies- och andra relevanta artikelord, med avgränsningar.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 48,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "A03",
+      "section": "docs",
+      "slug": "/adjektiv/blandad-bojning",
+      "href": "/docs/adjektiv/blandad-bojning",
+      "title": "Blandad adjektivböjning",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "A02",
+        "S04"
+      ],
+      "requiredCoverage": "Ein guter Freund, einen guten Freund och ein gutes Buch; full tabell; possessiver och kein; plural med meine/keine skiljs från obefintlig plural av ein.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 49,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "A04",
+      "section": "docs",
+      "slug": "/adjektiv/stark-bojning",
+      "href": "/docs/adjektiv/stark-bojning",
+      "title": "Stark adjektivböjning",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "A03"
+      ],
+      "requiredCoverage": "Utan artikel och efter relevanta mängduttryck; full tabell inklusive genitiv maskulinum/neutrum; jämför guter Wein/der gute Wein/ein guter Wein utan överdriven en-signal-regel.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 50,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "A05",
+      "section": "docs",
+      "slug": "/adjektiv/flera-adjektiv-och-mangdord",
+      "href": "/docs/adjektiv/flera-adjektiv-och-mangdord",
+      "title": "Flera adjektiv, mängdord och specialformer",
+      "suggestedLevel": "B1–B2",
+      "prerequisites": [
+        "A04"
+      ],
+      "requiredCoverage": "All-, viel-, wenig-, manch-, solch- och parallell böjning; högfrekventa stamförändringar som teuer/hoch; belagd variation markeras och testas inte som entydig.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "A06",
+      "section": "docs",
+      "slug": "/adjektiv/komparation",
+      "href": "/docs/adjektiv/komparation",
+      "title": "Komparativ och superlativ",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "A01"
+      ],
+      "requiredCoverage": "Regelbundna former, omljud och gut/besser/best-, viel/mehr/meist-; am schönsten respektive der schönste; attributiv komparativ får också kasusändelse.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "A07",
+      "section": "docs",
+      "slug": "/adjektiv/als-wie-je-desto",
+      "href": "/docs/adjektiv/als-wie-je-desto",
+      "title": "Jämförelser med als, wie och je … desto",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "A06"
+      ],
+      "requiredCoverage": "Likhet, olikhet, ellips och hela jämförelsesatser; korrekt standardbruk och markerat regionalt talspråk; jämförelsesatsens ordföljd.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "A08",
+      "section": "docs",
+      "slug": "/adjektiv/adjektivens-komplement",
+      "href": "/docs/adjektiv/adjektivens-komplement",
+      "title": "Adjektivens prepositioner och komplement",
+      "suggestedLevel": "B1–B2",
+      "prerequisites": [
+        "K08",
+        "V09",
+        "Y04"
+      ],
+      "requiredCoverage": "Stolz auf + ackusativ, zufrieden mit + dativ samt infinitiv- och dass-konstruktioner; betydelser och rektion registreras tillsammans.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "R01",
+      "section": "docs",
+      "slug": "/pronomen/personliga-subjekt",
+      "href": "/docs/pronomen/personliga-subjekt",
+      "title": "Ich, du, er, sie, es och Sie",
+      "suggestedLevel": "A1",
+      "prerequisites": [
+        "G08"
+      ],
+      "requiredCoverage": "Alla person-/numerusformer, ihr/sie/Sie och kongruens; subjekt behövs normalt; tilltal i kontext; sex böjningsrader skiljs från fler kommunikationsroller.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 7,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "R02",
+      "section": "docs",
+      "slug": "/pronomen/personliga-objekt",
+      "href": "/docs/pronomen/personliga-objekt",
+      "title": "Mich, mir, dich, dir",
+      "suggestedLevel": "A1–A2",
+      "prerequisites": [
+        "R01",
+        "K04"
+      ],
+      "requiredCoverage": "Full ackusativ- och dativtabell, prepositionsobjekt och referens; genus i tredje person och tilltal; återkoppling skiljer fel kasus från fel referent.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 21,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "R03",
+      "section": "docs",
+      "slug": "/pronomen/possessiva-artikelord",
+      "href": "/docs/pronomen/possessiva-artikelord",
+      "title": "Mein, dein, sein och ihr",
+      "suggestedLevel": "A1–A2",
+      "prerequisites": [
+        "R01",
+        "S04"
+      ],
+      "requiredCoverage": "Ägare väljer stam, ägd nominalfras styr ändelse; sein/ihr/Ihr och euer-former; alla kasus; kontrast mot svenskans sin/sitt/sina.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 22,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "R04",
+      "section": "docs",
+      "slug": "/pronomen/sjalvstandiga-possessiver",
+      "href": "/docs/pronomen/sjalvstandiga-possessiver",
+      "title": "Possessiver utan substantiv",
+      "suggestedLevel": "B1",
+      "prerequisites": [
+        "R03",
+        "A03"
+      ],
+      "requiredCoverage": "Meiner/meine/meins och artikelkonstruktioner som der meine; syftning och register; skillnaden mellan artikelord och självständig pronominell form.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "R05",
+      "section": "docs",
+      "slug": "/pronomen/reflexiva",
+      "href": "/docs/pronomen/reflexiva",
+      "title": "Reflexiva pronomen i ackusativ och dativ",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "R02"
+      ],
+      "requiredCoverage": "Ich wasche mich respektive ich wasche mir die Hände; sich i tredje person, reciprokt bruk och einander; det är konstruktionen som avgör kasus.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "R06",
+      "section": "docs",
+      "slug": "/pronomen/demonstrativa",
+      "href": "/docs/pronomen/demonstrativa",
+      "title": "Der, dieser och andra demonstrativer",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "S03",
+        "R02"
+      ],
+      "requiredCoverage": "Artikelord respektive självständigt pronomen, kongruens och syftning; dies-/jen-/solch- i relevant omfattning; register och betonad kontrast.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "R07",
+      "section": "docs",
+      "slug": "/pronomen/frageord",
+      "href": "/docs/pronomen/frageord",
+      "title": "Wer, wen, wem, was och welcher",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "R01",
+        "K04"
+      ],
+      "requiredCoverage": "Kasusstyrda personfrågor, welch- och was für ein; böjning och prepositionsfrågor; skillnad mellan formfråga och betydelsefråga.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "R08",
+      "section": "docs",
+      "slug": "/pronomen/relativa-former",
+      "href": "/docs/pronomen/relativa-former",
+      "title": "Relativpronomen: der, die, das",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "R02",
+        "K05"
+      ],
+      "requiredCoverage": "Full paradigmtabell inklusive dessen/deren/denen; genus/numerus från korrelat, kasus från relativsatsen; former ägs här, satsbygge i B04.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 44,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "R09",
+      "section": "docs",
+      "slug": "/pronomen/indefinita",
+      "href": "/docs/pronomen/indefinita",
+      "title": "Man, jemand, niemand, etwas och nichts",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "R02",
+        "S04"
+      ],
+      "requiredCoverage": "Högfrekventa indefiniter, ein-/kein- och varianter av böjning; man med enbart tredje singular verb och alternativa objektsformer; negativa uttryck utan spansk dubbelnegationsmodell.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "R10",
+      "section": "docs",
+      "slug": "/pronomen/es",
+      "href": "/docs/pronomen/es",
+      "title": "Es som pronomen och platshållare",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "R01",
+        "Y04"
+      ],
+      "requiredCoverage": "Refererande es, väder, es gibt + ackusativ, korrelat till sats och formellt förfälts-es; när es försvinner vid omflyttning och när det stannar.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "R11",
+      "section": "docs",
+      "slug": "/pronomen/dar-och-wor",
+      "href": "/docs/pronomen/dar-och-wor",
+      "title": "Daran, darauf, woran och worauf",
+      "suggestedLevel": "B1–B2",
+      "prerequisites": [
+        "K08",
+        "P08"
+      ],
+      "requiredCoverage": "Da(r)- och wo(r)-former, saker/sakförhållanden kontra personer, preposition plus personpronomen, korrelat till dass-sats; r före vokal.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "V01",
+      "section": "docs",
+      "slug": "/verb/introduktion",
+      "href": "/docs/verb/introduktion",
+      "title": "Verbsystemet i överblick",
+      "suggestedLevel": "A1",
+      "prerequisites": [
+        "R01",
+        "G08"
+      ],
+      "requiredCoverage": "Infinitiv, stam, ändelse, person/numerus, tempus/modus och valens; karta över svaga/starka/blandade verb; meningsfunktion och lärordning.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 8,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "V02",
+      "section": "docs",
+      "slug": "/verb/presens",
+      "href": "/docs/verb/presens",
+      "title": "Presens och svaga verb",
+      "suggestedLevel": "A1",
+      "prerequisites": [
+        "V01"
+      ],
+      "requiredCoverage": "Sex personrader med synligt sie/Sie; -en/-n, stammar på -t/-d och s-ljud; påståenden och frågor; presens för nutid, vana och planerad framtid.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 9,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "V03",
+      "section": "docs",
+      "slug": "/verb/starka-och-blandade",
+      "href": "/docs/verb/starka-och-blandade",
+      "title": "Starka och blandade verb",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "V02"
+      ],
+      "requiredCoverage": "Ablaut och presensväxling, lesen/fahren/nehmen; blandade verb som denken och bringen; huvudformer som metod, inte godtyckliga etiketter för varje avvikelse.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 32,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "V04",
+      "section": "docs",
+      "slug": "/verb/sein-haben-werden",
+      "href": "/docs/verb/sein-haben-werden",
+      "title": "Sein, haben och werden",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "V02"
+      ],
+      "requiredCoverage": "Huvudverb och hjälpverb, huvudformer och presens; identitet, innehav och förändring; hänvisa till M07/M08 för passiv och till T06 för futurum.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 10,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "V05",
+      "section": "docs",
+      "slug": "/verb/separerbara",
+      "href": "/docs/verb/separerbara",
+      "title": "Separerbara verb",
+      "suggestedLevel": "A1–A2",
+      "prerequisites": [
+        "V02",
+        "Y01"
+      ],
+      "requiredCoverage": "Anrufen/aufstehen i huvudsats, fråga, bisats, zu-infinitiv och perfekt; betonad partikel, ordställning och ge-placering; visa hela meningar och isolerade former separat.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 24,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "V06",
+      "section": "docs",
+      "slug": "/verb/oseparerbara-och-betoning",
+      "href": "/docs/verb/oseparerbara-och-betoning",
+      "title": "Oseparerbara prefix och betydelseskiften",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "V05",
+        "T01"
+      ],
+      "requiredCoverage": "Be-, emp-, ent-, er-, ge-, miss-, ver-, zer- samt prefix med varierande betoning/separation; jämför omsorgsfullt valda betydelser med separat lexem-ID.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "V07",
+      "section": "docs",
+      "slug": "/verb/reflexiva-verb",
+      "href": "/docs/verb/reflexiva-verb",
+      "title": "Reflexiva verb och rektion",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "R05",
+        "V02"
+      ],
+      "requiredCoverage": "Sich freuen auf/über, sich interessieren für och vardagsverb; obligatorisk/valfri reflexiv konstruktion, ackusativ/dativ och svensk översättning; formell valens per betydelse.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "V08",
+      "section": "docs",
+      "slug": "/verb/imperativ",
+      "href": "/docs/verb/imperativ",
+      "title": "Imperativ och uppmaningar",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "V03",
+        "V05"
+      ],
+      "requiredCoverage": "Du-, ihr- och Sie-form, sein och starka verb, reflexiver och partikelverb; artighet och infinitiv på skyltar; ingen mekanisk infinitiv-minus-en för alla verb.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "V09",
+      "section": "docs",
+      "slug": "/verb/infinitiv-med-och-utan-zu",
+      "href": "/docs/verb/infinitiv-med-och-utan-zu",
+      "title": "Infinitiv med och utan zu",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "V02",
+        "V05",
+        "Y02"
+      ],
+      "requiredCoverage": "Modalverb, lassen och perceptionsverb som separata konstruktionsfall; zu vid partikelverb; betydelse och subjektanknytning; skilj svensk att-sats från infinitivmärke.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 38,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "T01",
+      "section": "docs",
+      "slug": "/tempus/particip-ii",
+      "href": "/docs/tempus/particip-ii",
+      "title": "Partizip II",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "V03",
+        "V05"
+      ],
+      "requiredCoverage": "Ge- och -(e)t/-en, oregelbundna huvudformer, separerbara och oseparerbara verb och -ieren; tydlig skillnad mot Partizip I och adjektivisk användning.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 33,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "T02",
+      "section": "docs",
+      "slug": "/tempus/perfekt",
+      "href": "/docs/tempus/perfekt",
+      "title": "Perfekt med haben och sein",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "T01",
+        "V04",
+        "Y02"
+      ],
+      "requiredCoverage": "Form och satsram, högfrekventa hjälpverbsval och huvudformer; betydelse, transitivitet och regional variation; hjälpverbet ska finnas i verbdata per konstruktion.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 34,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "T03",
+      "section": "docs",
+      "slug": "/tempus/preteritum",
+      "href": "/docs/tempus/preteritum",
+      "title": "Präteritum",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "V03",
+        "V04"
+      ],
+      "requiredCoverage": "Svaga/starka/blandade paradigmer och högfrekventa war/hatte/modala former; berättande skrift och vardagligt tal med nyanser; termen preteritum konsekvent i svenska förklaringar.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 35,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "T04",
+      "section": "docs",
+      "slug": "/tempus/perfekt-eller-preteritum",
+      "href": "/docs/tempus/perfekt-eller-preteritum",
+      "title": "Perfekt eller Präteritum?",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "T02",
+        "T03"
+      ],
+      "requiredCoverage": "Register, region och verbval; parallella korta berättelser; ingen spansk motsättning mellan avgränsad händelse och bakgrund överförs till tyskan.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 36,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "T05",
+      "section": "docs",
+      "slug": "/tempus/pluskvamperfekt",
+      "href": "/docs/tempus/pluskvamperfekt",
+      "title": "Plusquamperfekt",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "T04"
+      ],
+      "requiredCoverage": "Hatte/war + particip, tidigare än annan dåtid; tidslinje, nachdem och kontext; skilj från Konjunktiv II dåtid.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 37,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "T06",
+      "section": "docs",
+      "slug": "/tempus/futur-i",
+      "href": "/docs/tempus/futur-i",
+      "title": "Futur I, presens och förmodan",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "V04",
+        "V09"
+      ],
+      "requiredCoverage": "Werden + infinitiv, presens med tidsadverbial, avsikt och antaganden; undvik att all framtid måste ha werden; gräns mot modalverbens betydelser.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "T07",
+      "section": "docs",
+      "slug": "/tempus/futur-ii",
+      "href": "/docs/tempus/futur-ii",
+      "title": "Futur II",
+      "suggestedLevel": "B2",
+      "prerequisites": [
+        "T06",
+        "T02"
+      ],
+      "requiredCoverage": "Werden + particip + haben/sein; framtida avslut och förmodan om det förflutna; fulla exempel med tydlig kontext och hjälpverbsval.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "T08",
+      "section": "docs",
+      "slug": "/tempus/tid-i-sammanhang",
+      "href": "/docs/tempus/tid-i-sammanhang",
+      "title": "Tidsrelationer och svensk överföring",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "T04",
+        "T05"
+      ],
+      "requiredCoverage": "Seit + presens vid pågående förlopp, svenska perfektöversättningar, tidsadverb och berättelsens referenstid; skilj tempus från aktionsart och modalitet.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "M01",
+      "section": "docs",
+      "slug": "/modus/modalverb",
+      "href": "/docs/modus/modalverb",
+      "title": "Können, müssen, dürfen och de andra modalverben",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "V03",
+        "Y02"
+      ],
+      "requiredCoverage": "Können/müssen/dürfen/sollen/wollen/mögen, möchte i korrekt relation till mögen; böjning, infinitiv och betydelse; olika betydelser av svensk kunna/ska/få.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 46,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "M02",
+      "section": "docs",
+      "slug": "/modus/modalverb-i-datid",
+      "href": "/docs/modus/modalverb-i-datid",
+      "title": "Modalverb i dåtid och Ersatzinfinitiv",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "M01",
+        "T02",
+        "T03"
+      ],
+      "requiredCoverage": "Präteritum i vardagsbruk, perfekt med och utan styrd infinitiv; ich habe arbeiten müssen; fördjupad bisatsordning länkas till E11.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "M03",
+      "section": "docs",
+      "slug": "/modus/konjunktiv-ii",
+      "href": "/docs/modus/konjunktiv-ii",
+      "title": "Konjunktiv II: würde, hätte, wäre",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "M01"
+      ],
+      "requiredCoverage": "Önskan, hypotetisk nutid/framtid och artighet; vanliga enkla former och würde + infinitiv; inte bara dåtid trots anknytning till Präteritumstammen.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 51,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "M04",
+      "section": "docs",
+      "slug": "/modus/konjunktiv-ii-datid",
+      "href": "/docs/modus/konjunktiv-ii-datid",
+      "title": "Konjunktiv II i dåtid och villkor",
+      "suggestedLevel": "B1–B2",
+      "prerequisites": [
+        "M03",
+        "T05"
+      ],
+      "requiredCoverage": "Hätte/wäre + particip, reala och irreala villkor, blandade tidsreferenser och utan wenn i referensdel; modalverbens verbgrupper endast med korrekt avgränsning.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 52,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "M05",
+      "section": "docs",
+      "slug": "/modus/konjunktiv-i",
+      "href": "/docs/modus/konjunktiv-i",
+      "title": "Konjunktiv I",
+      "suggestedLevel": "B1–B2",
+      "prerequisites": [
+        "V04",
+        "T02"
+      ],
+      "requiredCoverage": "Formbildning, sein/haben/werden och tidsreferens; överlappning med indikativ och ersättningsformer; tydlig skillnad mellan formen och användningen i M06.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "M06",
+      "section": "docs",
+      "slug": "/modus/indirekt-tal",
+      "href": "/docs/modus/indirekt-tal",
+      "title": "Indirekt tal och referat",
+      "suggestedLevel": "B1–B2",
+      "prerequisites": [
+        "M05",
+        "M03",
+        "Y04"
+      ],
+      "requiredCoverage": "Konjunktiv I, Konjunktiv II och indikativ efter stil/kontext; pronomen och tidsuttryck; ingen automatisk engelsk tempusförskjutning eller regel att II alltid uttrycker misstro.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "M07",
+      "section": "docs",
+      "slug": "/modus/handelsepassiv",
+      "href": "/docs/modus/handelsepassiv",
+      "title": "Vorgangspassiv med werden",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "T02",
+        "K03"
+      ],
+      "requiredCoverage": "Aktiv till passiv i presens, preteritum och perfekt; wurde och worden jämfört med geworden; agentfraser, modalverb och opersonlig passiv i fördjupning.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 53,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "M08",
+      "section": "docs",
+      "slug": "/modus/tillstandspassiv",
+      "href": "/docs/modus/tillstandspassiv",
+      "title": "Zustandspassiv med sein",
+      "suggestedLevel": "B1–B2",
+      "prerequisites": [
+        "M07",
+        "V04"
+      ],
+      "requiredCoverage": "Die Tür wird geöffnet jämfört med ist geöffnet; sammanhang, betydelse och gräns mot predikativt adjektiv; alternativa passivkonstruktioner ägs av E07.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 54,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "P01",
+      "section": "docs",
+      "slug": "/prepositioner/ackusativ",
+      "href": "/docs/prepositioner/ackusativ",
+      "title": "Prepositioner med ackusativ",
+      "suggestedLevel": "A1–A2",
+      "prerequisites": [
+        "K03"
+      ],
+      "requiredCoverage": "Durch, für, gegen, ohne och um samt bis med sina konstruktionsvillkor; korta fraser och hela meningar; användning för tid, väg, mottagare och avsaknad.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 27,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "P02",
+      "section": "docs",
+      "slug": "/prepositioner/dativ",
+      "href": "/docs/prepositioner/dativ",
+      "title": "Prepositioner med dativ",
+      "suggestedLevel": "A1–A2",
+      "prerequisites": [
+        "K04"
+      ],
+      "requiredCoverage": "Aus, außer, bei, mit, nach, seit, von och zu; gegenüber och ab med avgränsningar; en verklig betydelse och exempel per preposition; rörelse kan ha dativ.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 28,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "P03",
+      "section": "docs",
+      "slug": "/prepositioner/vaxelprepositioner",
+      "href": "/docs/prepositioner/vaxelprepositioner",
+      "title": "Växelprepositioner: plats och mål",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "K03",
+        "K04"
+      ],
+      "requiredCoverage": "Alla nio: an, auf, hinter, in, neben, über, unter, vor, zwischen; plats för rörelse respektive målrelation; fasta rektioner och tidsbruk avgränsas; egna minimala meningspar.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 29,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "P04",
+      "section": "docs",
+      "slug": "/prepositioner/nach-in-zu-an-auf",
+      "href": "/docs/prepositioner/nach-in-zu-an-auf",
+      "title": "Nach, in, zu, an eller auf?",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "P01",
+        "P02",
+        "P03"
+      ],
+      "requiredCoverage": "Orter/länder, länder med artikel, personer, verksamheter, hem och destinationer; nach Hause/zu Hause; mål räcker inte ensamt för att bestämma kasus.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 30,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "P05",
+      "section": "docs",
+      "slug": "/prepositioner/aus-och-von",
+      "href": "/docs/prepositioner/aus-och-von",
+      "title": "Aus och von: varifrån?",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "P02",
+        "P04"
+      ],
+      "requiredCoverage": "Ursprung, inifrån/ifrån och personer/verksamheter i kontext; utvalda meningspar och motsvarande destinationsuttryck utan överdriven en-till-en-karta.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "P06",
+      "section": "docs",
+      "slug": "/prepositioner/tid",
+      "href": "/docs/prepositioner/tid",
+      "title": "Am, im, um, seit, vor och für",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "K03",
+        "K04"
+      ],
+      "requiredCoverage": "Klocka/datum, när/varaktighet, seit/vor/in/für/ab/bis; skillnad mot svensk i/på/om/för … sedan; presens efter seit när förloppet fortsätter.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 31,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "P07",
+      "section": "docs",
+      "slug": "/prepositioner/genitiv",
+      "href": "/docs/prepositioner/genitiv",
+      "title": "Genitivprepositioner och register",
+      "suggestedLevel": "B1–B2",
+      "prerequisites": [
+        "K05"
+      ],
+      "requiredCoverage": "Wegen, trotz, während, innerhalb, außerhalb och andra relevanta uttryck; standard, etablerade specialfall och talspråk skiljs åt; aldrig omärkt universell dativ/genitivregel.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "P08",
+      "section": "docs",
+      "slug": "/prepositioner/fasta-forbindelser",
+      "href": "/docs/prepositioner/fasta-forbindelser",
+      "title": "Verb och andra ord med fast preposition",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "K08",
+        "V02"
+      ],
+      "requiredCoverage": "Warten auf, denken an, teilnehmen an och liknande högfrekventa konstruktioner; preposition plus kasus plus betydelse; frågor och pronominaladverb länkas till R11.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "P09",
+      "section": "docs",
+      "slug": "/prepositioner/sammandragningar",
+      "href": "/docs/prepositioner/sammandragningar",
+      "title": "Im, ins, am, ans, zum och zur",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "S03",
+        "P01",
+        "P02"
+      ],
+      "requiredCoverage": "Former och kasus, obligatoriskt/vanligt respektive kontrastbetonad full form; beim/vom och relevanta vardagsformer; inga falska tabellformer genereras.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "P10",
+      "section": "docs",
+      "slug": "/prepositioner/lage-och-placering",
+      "href": "/docs/prepositioner/lage-och-placering",
+      "title": "Liegen/legen, stehen/stellen och sitzen/setzen",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "P03",
+        "V03"
+      ],
+      "requiredCoverage": "Befintlighet och placering i kontext, reflexiva setzen/stellen/legen; hängen med två konstruktionsmönster och skilda huvudformer; inte synonymt med rörelse kontra stillhet.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "Y01",
+      "section": "docs",
+      "slug": "/syntax/verb-pa-andra-plats",
+      "href": "/docs/syntax/verb-pa-andra-plats",
+      "title": "Verb på andra plats och förfält",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "V02"
+      ],
+      "requiredCoverage": "Ett satsled kan bestå av flera ord; subjekt eller adverbial i förfält; tidsuttryck följt av verb och subjekt; påståendesatsens V2 som grundmönster med relevanta avgränsningar.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 11,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "Y02",
+      "section": "docs",
+      "slug": "/syntax/satsram",
+      "href": "/docs/syntax/satsram",
+      "title": "Satsramen: vänster och höger verbdel",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "Y01",
+        "V02"
+      ],
+      "requiredCoverage": "Modalverb, perfekt och separerbara verb i samma fältmodell; placera hela fraser, visa vad som hålls ihop och hur negation passar in.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 25,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "Y03",
+      "section": "docs",
+      "slug": "/syntax/fragor",
+      "href": "/docs/syntax/fragor",
+      "title": "Ja/nej-frågor och frågeordsfrågor",
+      "suggestedLevel": "A1–A2",
+      "prerequisites": [
+        "Y01"
+      ],
+      "requiredCoverage": "V1 kontra V2, subjektsfrågor och frågefraser med preposition; frågor med hjälpverb/modalverb; tilltal och naturlig satsmelodi.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 12,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "Y04",
+      "section": "docs",
+      "slug": "/syntax/ordfoljd-i-bisatser",
+      "href": "/docs/syntax/ordfoljd-i-bisatser",
+      "title": "Ordföljd i bisatser",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "B02",
+        "Y02"
+      ],
+      "requiredCoverage": "Böjt verb i högra verbgruppen, perfekt och modalverb, inledande bisats följd av huvudsats; självständiga verbgrupper och E11 som uttryckligt undantag från förenklad slutregel.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 41,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "Y05",
+      "section": "docs",
+      "slug": "/syntax/mittfalt-och-informationsstruktur",
+      "href": "/docs/syntax/mittfalt-och-informationsstruktur",
+      "title": "Mittfältet och vad som betonas",
+      "suggestedLevel": "B1–B2",
+      "prerequisites": [
+        "K06",
+        "Y02"
+      ],
+      "requiredCoverage": "Pronomen/substantiv, bestämdhet, känt/nytt och tids-/sätts-/platsadverbial; TeKaMoLo som tendens, inga absoluta regler som underkänner idiomatiska alternativ.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "Y06",
+      "section": "docs",
+      "slug": "/syntax/nicht-och-kein",
+      "href": "/docs/syntax/nicht-och-kein",
+      "title": "Nicht, kein och negationens räckvidd",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "S04",
+        "Y01"
+      ],
+      "requiredCoverage": "Nominal negation, sats- och lednegation samt placering; noch nicht/nicht mehr/nichts/niemand; kontrastiva exempel och betydelsen av inte behöva kontra inte få.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 26,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "Y07",
+      "section": "docs",
+      "slug": "/syntax/modalpartiklar",
+      "href": "/docs/syntax/modalpartiklar",
+      "title": "Doch, ja, denn och mal",
+      "suggestedLevel": "B1–B2",
+      "prerequisites": [
+        "Y04"
+      ],
+      "requiredCoverage": "Talarnas förväntningar, tonfall och dialogkontext; skilj partiklar från likalydande adverb/konjunktioner; inga entydiga ord-för-ord-översättningar.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "B01",
+      "section": "docs",
+      "slug": "/satser/samordning",
+      "href": "/docs/satser/samordning",
+      "title": "Und, aber, oder, denn och sondern",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "Y01"
+      ],
+      "requiredCoverage": "Bindeordets funktion och ordställning, negation före sondern; jämför med underordning och adverbiella sambandsord i B02/B03.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 39,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "B02",
+      "section": "docs",
+      "slug": "/satser/underordning",
+      "href": "/docs/satser/underordning",
+      "title": "Dass, ob, weil och andra bisatsinledare",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "B01"
+      ],
+      "requiredCoverage": "Betydelse och val av satsinledare, huvudsats/bisats, svensk att och om; Y04 äger detaljordföljden; ge enkla fungerande modeller redan här.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 40,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "B03",
+      "section": "docs",
+      "slug": "/satser/sambandsadverb",
+      "href": "/docs/satser/sambandsadverb",
+      "title": "Deshalb, trotzdem, außerdem och däremellan",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "B02",
+        "Y04"
+      ],
+      "requiredCoverage": "Orsak, konsekvens, kontrast och tillägg; ordföljd efter adverb i förfält; jämför weil/denn/deshalb och obwohl/trotzdem med samma sakförhållande.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "B04",
+      "section": "docs",
+      "slug": "/satser/relativsatser",
+      "href": "/docs/satser/relativsatser",
+      "title": "Bygg relativsatser",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "R08",
+        "Y04"
+      ],
+      "requiredCoverage": "Välj korrelat, bestäm funktion i bisatsen, välj pronomen, placera verb och komma; preposition + relativpronomen; was/wo/wer i avgränsad fördjupning.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 45,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "B05",
+      "section": "docs",
+      "slug": "/satser/tidssatser",
+      "href": "/docs/satser/tidssatser",
+      "title": "Als, wenn, wann, bevor och nachdem",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "Y04",
+        "T03"
+      ],
+      "requiredCoverage": "Enstaka/upprepad dåtid, fråga och villkor; samtidighet och tidsföljd, medan/sedan/tills; tidsform och kontext, inte en mekanisk signalordslista.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": 42,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "B06",
+      "section": "docs",
+      "slug": "/satser/avsikt-och-infinitivsatser",
+      "href": "/docs/satser/avsikt-och-infinitivsatser",
+      "title": "Um … zu, damit, ohne … zu och anstatt … zu",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "V09",
+        "Y04"
+      ],
+      "requiredCoverage": "Syfte, negation och alternativ; subjektanknytning och motsvarande finita satser; zu vid partikelverb samt korrekt kommatering.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "B07",
+      "section": "docs",
+      "slug": "/satser/villkor-och-medgivande",
+      "href": "/docs/satser/villkor-och-medgivande",
+      "title": "Wenn, falls, obwohl och als ob",
+      "suggestedLevel": "B1–B2",
+      "prerequisites": [
+        "M04",
+        "Y04"
+      ],
+      "requiredCoverage": "Villkor, medgivande och irreell jämförelse; om i svensk indirekt fråga jämfört med villkor; je … desto hänvisar till A07 och former till M03/M04.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "D01",
+      "section": "docs",
+      "slug": "/adverb/adjektiv-och-adverb",
+      "href": "/docs/adverb/adjektiv-och-adverb",
+      "title": "Adverb och adverbiellt använda adjektiv",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "A01"
+      ],
+      "requiredCoverage": "Gern/lieber/am liebsten, plats i satsen och skillnad mot oböjt predikativt adjektiv; -weise och andra bildningar; grammatisk terminologi förklaras konsekvent.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "D02",
+      "section": "docs",
+      "slug": "/adverb/tidsadverb",
+      "href": "/docs/adverb/tidsadverb",
+      "title": "Erst, schon, noch, gerade och wieder",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "Y01"
+      ],
+      "requiredCoverage": "Svensk först/redan/ännu/nyss/igen, räckvidd och kontrast; erst um acht jämfört med schon um acht; wieder/wider skiljs där relevant.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "D03",
+      "section": "docs",
+      "slug": "/adverb/plats-och-riktning",
+      "href": "/docs/adverb/plats-och-riktning",
+      "title": "Hier, dort, hin och her",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "P03"
+      ],
+      "requiredCoverage": "Befintlighet, riktning och talarens perspektiv, hinein/heraus och högfrekventa kombinationer; wo/wohin/woher; länka geografiska uttryck till P04/P05.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "D04",
+      "section": "docs",
+      "slug": "/adverb/grad-och-mangd",
+      "href": "/docs/adverb/grad-och-mangd",
+      "title": "Sehr, viel, so, zu och genug",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "A01"
+      ],
+      "requiredCoverage": "Adjektivets grad mot nominal mängd, för mycket/tillräckligt, viel bättre och så mycket; jämför förväxlingspar med svenska naturliga översättningar.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "D05",
+      "section": "docs",
+      "slug": "/rakneord/grundtal",
+      "href": "/docs/rakneord/grundtal",
+      "title": "Grundtal och tal i vardagen",
+      "suggestedLevel": "A1–A2",
+      "prerequisites": [
+        "G01"
+      ],
+      "requiredCoverage": "0–1 000 och större tal, ein/eins, ental före tiotal, hundra/tusen/miljon; uttal, stavning och siffror; inga obligatoriska långa listor utan tillämpning.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "D06",
+      "section": "docs",
+      "slug": "/rakneord/ordningstal-datum-och-klocka",
+      "href": "/docs/rakneord/ordningstal-datum-och-klocka",
+      "title": "Ordningstal, datum och klockslag",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "D05",
+        "S03"
+      ],
+      "requiredCoverage": "Erste/dritte och övriga bildningsmönster, kasus i datumfraser, formella och vardagliga klockslag; regional tvetydighet vid kvartsklocka markeras.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "D07",
+      "section": "docs",
+      "slug": "/rakneord/matt-brak-och-procent",
+      "href": "/docs/rakneord/matt-brak-och-procent",
+      "title": "Mått, bråk, procent och priser",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "D05"
+      ],
+      "requiredCoverage": "Halb/Viertel, procent och räknesätt, euro/cent och decimalnotation; enheter och relevant böjning; exempel i inköp, recept och statistik.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6
+    },
+    {
+      "id": "E01",
+      "section": "mer",
+      "slug": "/werden-bleiben-bekommen",
+      "href": "/mer/werden-bleiben-bekommen",
+      "title": "Att bli och att få på tyska",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "V04",
+        "M07"
+      ],
+      "requiredCoverage": "Werden/bleiben/bekommen/erhalten och konstruktionsberoende översättningar av bli/få; svensk s-passiv kontra tysk passiv; utvalda idiomatiska verb.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 6,
+      "minimumQuizItems": 4
+    },
+    {
+      "id": "E02",
+      "section": "mer",
+      "slug": "/wissen-kennen-konnen",
+      "href": "/mer/wissen-kennen-konnen",
+      "title": "Wissen, kennen och können",
+      "suggestedLevel": "A1–B1",
+      "prerequisites": [
+        "M01"
+      ],
+      "requiredCoverage": "Faktakunskap, bekantskap och förmåga/tillåtelse/möjlighet i sammanhang; att kunna ett språk och kunna någon; böjningsformer och alternativa konstruktioner.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 6,
+      "minimumQuizItems": 4
+    },
+    {
+      "id": "E03",
+      "section": "mer",
+      "slug": "/mussen-sollen-durfen",
+      "href": "/mer/mussen-sollen-durfen",
+      "title": "Müssen, sollen och dürfen",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "M01",
+        "Y06"
+      ],
+      "requiredCoverage": "Plikt, förväntan, råd, tillåtelse och förbud; nicht müssen respektive nicht dürfen; modal förmodan i tydligt markerad fördjupning.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 6,
+      "minimumQuizItems": 4
+    },
+    {
+      "id": "E04",
+      "section": "mer",
+      "slug": "/wenn-als-wann-ob",
+      "href": "/mer/wenn-als-wann-ob",
+      "title": "Wenn, als, wann eller ob?",
+      "suggestedLevel": "A2–B1",
+      "prerequisites": [
+        "B05",
+        "B02"
+      ],
+      "requiredCoverage": "En koncentrerad beslutsgenomgång från svenskans när/om; indirekt tidsfråga kontra ja/nej-fråga, villkor och dåtidsvana; ingen ny duplicerad huvudartikel om alla tidssatser.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 6,
+      "minimumQuizItems": 4
+    },
+    {
+      "id": "E05",
+      "section": "mer",
+      "slug": "/ordbildning",
+      "href": "/mer/ordbildning",
+      "title": "Prefix, suffix och ordbildning",
+      "suggestedLevel": "B1–B2",
+      "prerequisites": [
+        "S09",
+        "A01"
+      ],
+      "requiredCoverage": "Produktiv derivation med genusledtrådar, -ung/-heit/-keit/-schaft och relevanta adjektiv-/verbmönster; lexikala begränsningar, negationsprefix och nya ord med källkontroll.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 6,
+      "minimumQuizItems": 4
+    },
+    {
+      "id": "E06",
+      "section": "mer",
+      "slug": "/nominalstil",
+      "href": "/mer/nominalstil",
+      "title": "Nominalstil och utbyggda nominalfraser",
+      "suggestedLevel": "B2/referens",
+      "prerequisites": [
+        "S08",
+        "B04"
+      ],
+      "requiredCoverage": "Från verbfras till nominalfras, attributkedjor och prepositionsfraser; tydlighet kontra formell täthet; korta autentiskt klingande omskrivningar och referens till E08.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 6,
+      "minimumQuizItems": 4
+    },
+    {
+      "id": "E07",
+      "section": "mer",
+      "slug": "/passivalternativ",
+      "href": "/mer/passivalternativ",
+      "title": "Man, sich lassen, sein … zu och bekommen-passiv",
+      "suggestedLevel": "B2/referens",
+      "prerequisites": [
+        "M07",
+        "M08",
+        "V09"
+      ],
+      "requiredCoverage": "Skilda betydelser och konstruktionskrav, modalitet och mottagarperspektiv; uttryck som går att översätta till svensk passiv är inte automatiskt identiska tyska passivformer.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 6,
+      "minimumQuizItems": 4
+    },
+    {
+      "id": "E08",
+      "section": "mer",
+      "slug": "/particip-som-attribut",
+      "href": "/mer/particip-som-attribut",
+      "title": "Partizip I, Partizip II och attributkedjor",
+      "suggestedLevel": "B2/referens",
+      "prerequisites": [
+        "T01",
+        "A04",
+        "B04"
+      ],
+      "requiredCoverage": "Löpande kontra avslutad/passiv relation beroende på verb, böjning som adjektiv, utbyggda attribut och omskrivning till relativsats; undvik spansk gerundiumlogik.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 6,
+      "minimumQuizItems": 4
+    },
+    {
+      "id": "E09",
+      "section": "mer",
+      "slug": "/tyska-i-tyskland-osterrike-schweiz",
+      "href": "/mer/tyska-i-tyskland-osterrike-schweiz",
+      "title": "Tyska i Tyskland, Österrike och Schweiz",
+      "suggestedLevel": "A2–B2",
+      "prerequisites": [
+        "G05",
+        "T04"
+      ],
+      "requiredCoverage": "Standardspråkliga varianter skilda från dialekter, ss/ß, lexikala och relevanta grammatiska varianter; respektfull beskrivning utan att utmåla nationella standardformer som fel.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 6,
+      "minimumQuizItems": 4
+    },
+    {
+      "id": "E10",
+      "section": "mer",
+      "slug": "/svenska-fallgropar-och-falska-vanner",
+      "href": "/mer/svenska-fallgropar-och-falska-vanner",
+      "title": "Svenska fallgropar och falska vänner",
+      "suggestedLevel": "A1–B2",
+      "prerequisites": [
+        "G08"
+      ],
+      "requiredCoverage": "Bekommen, eventuell, Semester, Gift och andra källkontrollerade betydelser; ordställning, genitiv, artikel och svensk negationsöverföring; varje ord i naturlig kontext.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 6,
+      "minimumQuizItems": 4
+    },
+    {
+      "id": "E11",
+      "section": "mer",
+      "slug": "/verbgrupper-och-oberfeld",
+      "href": "/mer/verbgrupper-och-oberfeld",
+      "title": "Verbgrupper, Ersatzinfinitiv och Oberfeld",
+      "suggestedLevel": "B2/referens",
+      "prerequisites": [
+        "M02",
+        "Y04",
+        "V09"
+      ],
+      "requiredCoverage": "Weil ich habe arbeiten müssen och huvudmönstret för andra verbgrupper; ordning, standardvariation och avgränsning till relevanta konstruktioner; aldrig generera fria kombinationer.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 6,
+      "minimumQuizItems": 4
+    },
+    {
+      "id": "E12",
+      "section": "mer",
+      "slug": "/grammatiska-termer",
+      "href": "/mer/grammatiska-termer",
+      "title": "Svensk–tysk grammatisk ordlista",
+      "suggestedLevel": "Referens",
+      "prerequisites": [
+        "G08"
+      ],
+      "requiredCoverage": "Minst 70 definierade begrepp med tysk term, enkel svensk förklaring, eget tvåspråkigt exempel och länk till huvudgenomgång; stavning och begrepp kontrolleras.",
+      "status": "planned",
+      "sources": [],
+      "languageReview": "not-started",
+      "learningPathStep": null,
+      "minimumExamples": 0,
+      "minimumQuizItems": 0
+    }
+  ]
+}

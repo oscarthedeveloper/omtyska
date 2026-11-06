@@ -1,0 +1,33 @@
+.box {
+  background: var(--block-navy);
+  color: var(--inverse-ink);
+  border-radius: var(--r-lg);
+  padding: var(--s-lg);
+  margin: var(--s-xl) 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s-md);
+  flex-wrap: wrap;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-xxs);
+}
+
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #a0a0b0;
+  margin: 0;
+}
+
+.what {
+  font-size: 1.125rem;
+  font-weight: 500;
+  margin: 0;
+}

@@ -1,0 +1,153 @@
+---
+id: Y04
+title: 'Ordföljd i bisatser'
+description: 'Lär dig hur verbet placeras i tyska bisatser inledda med weil, dass, ob och als. Verbet sist, sammansatta tempus och inledande bisatser.'
+slug: '/syntax/ordfoljd-i-bisatser'
+sidebar_position: 4
+category: 'Syntax'
+suggestedLevels: ['A2', 'B1', 'B2']
+prerequisites: ['B02', 'Y02']
+objectives:
+  - 'Förstå och tillämpa regeln om böjt verb sist i underordnade bisatser'
+  - 'Behärska verbgruppens inbördes ordning i perfekt och med modalverb'
+  - 'Kunna hantera ordföljden när en bisats inleder hela meningen (V2 i huvudsatsen)'
+  - 'Känna till avancerade mönster med Ersatzinfinitiv (länk till E11)'
+---
+
+<LessonIntro
+  situation="Du ska motivera varför du stannar hemma, berätta vad någon sa eller bygga en sammansatt mening med 'eftersom' (weil) eller 'att' (dass)."
+  goals={[
+    "Placera det finita (böjda) verbet allra sist i en bisats",
+    "Kunna hantera sammansatta verbgrupper i perfekt och med modalverb",
+    "Behärska ordföljden när en bisats står först i meningen ('Weil es regnet, bleibe ich...')",
+    "Skilja underordnande konjunktioner (weil, dass) från samordnande (denn, und)"
+  ]}
+  prerequisites={[
+    { href: "/docs/satser/underordning", label: "B02: Dass, ob, weil och bisatsinledare" },
+    { href: "/docs/syntax/satsram", label: "Y02: Satsramen (Satzklammer)" }
+  ]}
+/>
+
+## Kärnan på en halv minut
+
+I en tysk huvudsats gäller den strikta **V2-regeln**: det finita (böjda) verbet står alltid på **plats 2**.
+
+I en **underordnad bisats** (*Nebensatz*) – som inleds med konjunktioner som <span lang="de">**weil**</span> (eftersom), <span lang="de">**dass**</span> (att), <span lang="de">**ob**</span> (om), <span lang="de">**als**</span> (när) eller <span lang="de">**wenn**</span> (om/när) – gäller en helt annan huvudregel:
+
+> **I bisatsen flyttas det finita (personböjda) verbet till satsens allra sista plats!**
+
+<div className="custom-quote">
+  <p lang="de"><strong>Heute kaufe ich ein Buch.</strong> (Huvudsats: verbet "kaufe" står på plats 2)</p>
+  <small>Idag köper jag en bok.</small>
+</div>
+
+<div className="custom-quote">
+  <p lang="de"><strong>Ich bleibe zu Hause, weil ich ein Buch lese.</strong> (Bisats: verbet "lese" står sist!)</p>
+  <small>Jag stannar hemma eftersom jag läser en bok.</small>
+</div>
+
+---
+
+## Satsramen i bisatsen: Visualisering
+
+I den tyska grammatiska modellen (IDS grammis) beskrivs satsen med fält:
+* **Vänster klammer** (*Linke Klammer*) upptas i bisatsen av **satsinledaren** (t.ex. *weil*).
+* **Mittfältet** (*Mittelfeld*) rymmer subjekt, adverbial och objekt.
+* **Höger klammer** (*Rechte Klammer*) stängs av **verbgruppen**, där det böjda verbet avslutar hela satsen.
+
+<SentenceFrame
+  title="Enkelt presens i bisats"
+  vorfeld="Ich bleibe daheim,"
+  linkeKlammer="weil"
+  mittelfeld="ich krank"
+  rechteKlammer="bin."
+  translation="Jag stannar hemma eftersom jag är sjuk."
+  note="Konjunktionen 'weil' inleder ramen, och det böjda verbet 'bin' stänger ramen allra sist."
+/>
+
+---
+
+## Sammansatta verbgrupper i bisats
+
+Vad händer när verbet består av två delar (t.ex. i **perfekt** eller med **modalverb**)?
+
+Regeln är konsekvent: **det böjda (finita) hjälpverbet står sist**, medan den oböjda formen (particip eller infinitiv) står näst sist:
+
+### 1. Perfekt (Particip + Hjälpverb)
+* Huvudsats: <span lang="de">Ich **habe** das Buch **gelesen**.</span>
+* Bisats: <span lang="de">..., weil ich das Buch **gelesen habe**.</span> (particip före hjälpverb!)
+
+### 2. Modalverb (Infinitiv + Modalverb)
+* Huvudsats: <span lang="de">Ich **will** ein Buch **kaufen**.</span>
+* Bisats: <span lang="de">..., weil ich ein Buch **kaufen will**.</span> (huvudverbets infinitiv före böjt modalverb!)
+
+<SentenceFrame
+  title="Perfekt i bisats"
+  vorfeld="Er freut sich,"
+  linkeKlammer="dass"
+  mittelfeld="er die Prüfung"
+  rechteKlammer="bestanden hat."
+  translation="Han gläder sig över att han har klarat provet."
+  note="Participet 'bestanden' kommer före det böjda hjälpverbet 'hat'."
+/>
+
+---
+
+## När bisatsen inleder meningen
+
+Om hela bisatsen placeras först i meningen, fungerar hela denna bisats som **förfält (plats 1)** för den efterföljande huvudsatsen. 
+
+Eftersom huvudsatsens verb ALLTID måste stå på plats 2 (V2), måste huvudsatsens verb komma **omedelbart efter kommat**:
+
+<SentenceTransform
+  title="Från bisats sist till bisats först"
+  prompt="Se hur huvudsatsens verb dras fram direkt efter kommat:"
+  baseSentence="Ich bleibe zu Hause, weil es regnet."
+  options={[
+    {
+      label: "Korrekt V2 efter bisatsen",
+      sentence: "Weil es regnet, bleibe ich zu Hause.",
+      feedback: "Helt rätt! Hela bisatsen 'Weil es regnet' är position 1. Huvudsatsens verb 'bleibe' står därför på position 2 omedelbart efter kommat.",
+      isCorrect: true
+    },
+    {
+      label: "Svensk ordföljdsfälla (verb på plats 3)",
+      sentence: "Weil es regnet, ich bleibe zu Hause.",
+      feedback: "Fel i standardtyska! Om du sätter 'ich bleibe' hamnar verbet på plats 3 i huvudsatsen. Tänk på V2-regeln!",
+      isCorrect: false
+    }
+  ]}
+/>
+
+---
+
+## Jämför: "weil" kontra "denn"
+
+Både <span lang="de">**weil**</span> och <span lang="de">**denn**</span> betyder "eftersom / för att", men de styr helt olika syntax:
+
+* <span lang="de">**weil**</span> är **underordnande**: verbet måste stå sist:
+  <p lang="de" style={{ fontWeight: 600, margin: "4px 0" }}>Ich lerne Deutsch, weil ich in Wien studieren will.</p>
+* <span lang="de">**denn**</span> är **samordnande** (nollposition): ordföljden i satsen förblir rak:
+  <p lang="de" style={{ fontWeight: 600, margin: "4px 0" }}>Ich lerne Deutsch, denn ich will in Wien studieren.</p>
+
+---
+
+## Fördjupning: Undantag från enkel slutregel (Ersatzinfinitiv)
+
+Gäller regeln att verbet står sist utan undantag? I 99 % av fallen i vardaglig och skriftlig tyska: ja. Men vid avancerade konstruktioner med **dubbel infinitiv** (*Ersatzinfinitiv* med modalverb i perfekt) kan hjälpverbet placeras framför verbgruppen:
+
+<p lang="de" style={{ fontWeight: 600, margin: "4px 0" }}>
+  ..., weil er gestern nicht <u>hat</u> kommen können.
+</p>
+
+Detta kallas *Oberfeld*-konstruktion och behandlas utförligt i fördjupningsartikeln **E11: Verbgruppsordning och Ersatzinfinitiv**.
+
+<Drill till="meningsbygge" typ="bisats" text="Träna bisatsordföljd i Meningsbygget" />
+
+<RelatedLessons
+  links={[
+    { href: "/docs/satser/underordning", label: "B02: Dass, ob, weil och bisatsinledare" },
+    { href: "/docs/syntax/verb-pa-andra-plats", label: "Y01: V2-regeln i huvudsats" },
+    { href: "/mer/syntax/verbgruppsordning", label: "E11: Verbgruppsordning och Ersatzinfinitiv" }
+  ]}
+/>

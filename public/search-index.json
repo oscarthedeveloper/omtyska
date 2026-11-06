@@ -179,6 +179,24 @@
     "bl": ""
   },
   {
+    "id": "K05",
+    "t": "Genitiv: tillhörighet och rektion",
+    "d": "Lär dig det fjärde tyska kasuset: genitiv. Hur du uttrycker ägande och relationer (des Vaters, der Mutter), frågan Wessen, samt genitivens plats i modernt talspråk kontra skriftspråk.",
+    "h": "/docs/kasus/genitiv",
+    "c": "Kasus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Ändelsen på maskulina och neutrala substantiv",
+      "2. Egennamn: Peter, Anna och Goethe",
+      "3. Talspråkets \"von + Dativ\"",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Genitiv svarar på frågan Wessen? ( Vems? ). Det kopplar ihop två substantiv för att visa tillhörighet: Genus Bestämd artikel Obestämd artikel / Negation Substantivändelse Exempel :--- :--- :--- :--- :--- Maskulint des ein es / kein es -(e)s das Auto des Vaters (pappans bil) Neutrum des ein es / kein es -(e)s das Spielzeug des Kindes (barnets leksak) Feminint der einer / keiner ingen ändelse die Tasche der Mutter (mammans väska) Plural der keine r / meine r ingen ändelse die Bücher der Studenten (studenternas böcker) Lägg märke till att feminina substantiv och pluralformerna aldrig får -(e)s-ändelse på själva substantivet i genitiv! --- 1. Ändelsen på maskulina och neutrala substantiv När ska man lägga till -es och när räcker -s ? -es används vid korta (enstaviga) ord och ord som slutar på s-ljud ( -s, -ss, -ß, -z, -tz, -x ): der Mann - des Mann es das Kind - des Kind es der Platz - des Platz es -s används vid flerstaviga ord och ord som slutar på obetonat -el, -en, -er : der Vater - des Vater s der Lehrer - des Lehrer s das Auto - des Auto s --- 2. Egennamn: Peter, Anna och Goethe Vid egennamn (personer och städer) placeras genitiven ofta före substantivet, precis som på svenska: Peters neues Auto steht vor der Tür. (Peters nya bil...) Goethes Werke sind weltberühmt. (Goethes verk...) Om namnet slutar på ett s-ljud ( -s, -z, -x ) lägger man till en apostrof utan extra s: Max' Fahrrad ist kaputt. (Max cykel är sönder.) --- 3. Talspråkets \"von + Dativ\" I vardagligt talspråk ersätts genitiven mycket ofta med prepositionen von följd av dativ : Skriftspråk (Genitiv): das Auto meines Bruders Talspråk (von + Dativ): das Auto von meinem Bruder I skriftliga uppsatser, formella brev och officiell tysk prosa är genitiven dock den självklara och eleganta standarden! --- 10 autentiska exempel 1. Das ist das Haus meines Großvaters . (maskulint substantiv i genitiv: meines Großvaters.) 2. Die Zukunft der europäischen Wirtschaft ist ein wichtiges Thema. (feminint i genitiv: der Wirtschaft utan ändelse på substantivet.) 3. Wessen Jacke liegt hier auf dem Stuhl? (frågeordet wessen vid efterfrågan på ägare.) 4. Die Fenster des alten Gebäudes müssen renoviert werden. (neutralt i genitiv: des Gebäudes.) 5. Die Meinungen der Experten gehen weit auseinander. (plural i genitiv: der Experten.) 6. Das Ende des Films war völlig überraschend. (des Films med enkelt -s på enstavigt lånord/kortord.) 7. Wegen des schlechten Wetters blieben wir zu Hause. (genitiv efter prepositionen wegen.) 8. Das Lachen eines Kindes ist ansteckend. (obestämd artikel i genitiv neutrum: eines Kindes.) 9. Die Arbeit unserer Kollegin war hervorragend. (feminint med possessivt pronomen: unserer Kollegin.) 10. Trotz des großen Erfolgs blieb die Künstlerin bescheiden. (genitiv maskulinum efter trotz: des großen Erfolgs.) ---",
+    "bl": ""
+  },
+  {
     "id": "K02",
     "t": "Nominativ: subjekt och predikativ",
     "d": "Lär dig nominativens dubbla roller i tysk grammatik: subjektet som utför handlingen samt predikativet (subjektsfyllnaden) efter verben sein, werden och bleiben.",
@@ -390,6 +408,103 @@
     "bl": ""
   },
   {
+    "id": "R08",
+    "t": "Relativpronomen: der, die, das",
+    "d": "Lär dig böjningen av tyskans relativpronomen: der, die, das. Hur genus och numerus styrs av korrelatet, medan kasus avgörs av ordets funktion i bisatsen. Upptäck specialformerna dessen, deren och denen.",
+    "h": "/docs/pronomen/relativa-former",
+    "c": "Pronomen",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Den gyllene tvåstegsregeln",
+      "Steg 1: Bestäm Genus och Numerus",
+      "Steg 2: Bestäm Kasus",
+      "2. Exempel i praktiken",
+      "3. Akta dig för \"denen\" och \"deren\" i plural",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Tyskans relativpronomen liknar de bestämda artiklarna ( der, die, das ), med fyra viktiga undantag i genitiv och dativ plural: Kasus Maskulinum Neutrum Femininum Plural :--- :--- :--- :--- :--- Nominativ der das die die Ackusativ den das die die Dativ dem dem der denen (Obs! Inte den) Genitiv dessen dessen deren deren --- 1. Den gyllene tvåstegsregeln För att välja rätt form av relativpronomen följer du alltid denna matematiskt säkra metod: Steg 1: Bestäm Genus och Numerus Titta på ordet som relativpronomenet syftar tillbaka på ( korrelatet i huvudsatsen): der Mann - Maskulinum, singular die Frau - Femininum, singular das Kind - Neutrum, singular die Freunde - Plural Steg 2: Bestäm Kasus Titta på vilken roll relativpronomenet spelar inuti själva relativsatsen : Är det subjekt? - Nominativ Är det direkt objekt? - Ackusativ Är det indirekt objekt / styrs av dativpreposition? - Dativ Anger det ägande ( vars )? - Genitiv --- 2. Exempel i praktiken Se hur samma korrelat ( der Mann - maskulinum) byter form beroende på kasus i bisatsen: Nominativ (subjekt): Der Mann, der dort drüben steht, ist mein Onkel. (Mannen SOM står där borta är min farbror.) Ackusativ (objekt): Der Mann, den wir gestern gesehen haben, heißt Thomas. (Mannen SOM vi såg igår... [wir = subjekt, den = ackusativobjekt]) Dativ (indirekt objekt): Der Mann, dem ich das Buch gegeben habe, ist Professor. (Mannen SOM jag gav boken till... [geben styr dativ]) Genitiv (ägande / vars): Der Mann, dessen Auto gestohlen wurde, rief die Polizei. (Mannen VARS bil blev stulen...) --- 3. Akta dig för \"denen\" och \"deren\" i plural I plural ser formerna ut så här: Die Kollegen, mit denen ich arbeite, sind sehr nett. (Kollegorna som jag arbetar med... [mit styr dativ - denen !]) Die Eltern, deren Kinder hier spielen, sitzen im Café. (Föräldrarna VARS barn leker här... [genitiv plural - deren ]) --- 10 autentiska exempel 1. Das Buch, das auf dem Tisch liegt, gehört mir. (nominativ neutrum: das.) 2. Die Frau, die ich gestern angerufen habe, kommt aus Hamburg. (ackusativ femininum: die.) 3. Der Kollege, dem du geholfen hast, bedankt sich herzlich. (dativ maskulinum efter helfen: dem.) 4. Das Kind, dessen Fahrrad kaputt ist, weint leise. (genitiv neutrum: dessen.) 5. Die Freunde, mit denen wir verreisen, wohnen in München. (dativ plural efter prepositionen mit: denen.) 6. Der Film, den wir gestern Abend geschaut haben, war fesselnd. (ackusativ maskulinum: den.) 7. Die Studentin, deren Vortrag so spannend war, hat ein Stipendium bekommen. (genitiv femininum: deren.) 8. Das ist der Bus, auf den wir seit zwanzig Minuten warten. (ackusativ maskulinum efter warten auf: den.) 9. Die Probleme, über die wir gesprochen haben, sind gelöst. (ackusativ plural efter sprechen über: die.) 10. Die Nachbarn, denen dieses Haus gehört, sind sehr gastfreundlich. (dativ plural efter gehören: denen.) ---",
+    "bl": ""
+  },
+  {
+    "id": "B04",
+    "t": "Bygg relativsatser",
+    "d": "Lär dig att bygga fullständiga tyska relativsatser. Steg-för-steg-guide från korrelat till verbplacering, prepositioner framför relativpronomen samt specialkonstruktioner med was och wo.",
+    "h": "/docs/satser/relativsatser",
+    "c": "Satser",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Preposition + relativpronomen",
+      "2. När används \"was\"?",
+      "3. När används \"wo\"?",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut En relativsats är en bisats som beskriver ett substantiv eller pronomen (korrelatet) i huvudsatsen. Den följer alltid dessa fyra regler: --- 1. Preposition + relativpronomen När verbet eller betydelsen i relativsatsen kräver en preposition, placeras prepositionen alltid framför relativpronomenet : Prepositionen bestämmer vilket kasus relativpronomenet får! Kombination Prepositionens kasus Exempel :--- :--- :--- mit + Dativ mit dem / mit der / mit denen Der Kollege, mit dem ich spreche... für + Ackusativ für den / für das / für die Das Geschenk, für das ich bezahlt habe... in + Dativ (befintlighet) in dem (im) / in der / in denen Die Stadt, in der wir leben... ohne + Ackusativ ohne den / ohne die Der Freund, ohne den ich nicht fahre... Obs: Sammandragningar som ins eller im används inte vid relativpronomen. Det heter alltid in dem , an das osv. --- 2. När används \"was\"? Relativpronomenet was ( vad / som ) används istället för der/die/das i följande situationer: 1. Efter neutrala obestämda pronomen : alles, etwas, nichts, vieles, weniges : Das ist alles, was ich weiß. (Det är allt som jag vet.) Es gibt nichts, was mich mehr ärgert. (Det finns ingenting som irriterar mig mer.) 2. Efter substantiverade superlativ i neutrum : Das ist das Schönste, was ich je gesehen habe. (Det är det finaste som jag någonsin sett.) 3. När relativsatsen syftar tillbaka på hela föregående satsinnehåll : Er hat die Prüfung bestanden, was uns alle sehr freut. (Han klarade tentan, vilket gläder oss alla.) --- 3. När används \"wo\"? Efter ortnamn och städer utan artikel används ofta relativadverbet wo ( där ) i ledigt och naturligt språk: Berlin ist eine Stadt, in der / wo immer etwas los ist. Deutschland ist das Land, wo ich geboren wurde. --- 10 autentiska exempel 1. Der Schlüssel, den ich die ganze Woche gesucht habe, lag unter dem Sofa. (ackusativ maskulinum med verbet lag i slutet.) 2. Die Wohnung, in der wir seit zwei Jahren wohnen, ist sehr hell. (preposition in + dativ femininum in der.) 3. Das ist alles, was du für die Reise einpacken musst. (was efter det obestämda ordet alles.) 4. Die Kollegen, mit denen wir das Projekt planen, sind sehr kompetent. (mit + dativ plural: mit denen.) 5. Der Wagen, dessen Motor nicht mehr anspringt, muss abgeschleppt werden. (genitiv maskulinum: dessen Motor.) 6. Gibt es etwas, was ich für dich tun kann? (was efter etwas.) 7. Das Thema, über das wir gestern debattiert haben, ist äußerst komplex. (über + ackusativ neutrum: über das.) 8. Die Ärztin, zu der ich immer gehe, hat heute keine Sprechstunde. (zu + dativ femininum: zu der.) 9. Er kam eine Stunde zu spät, was den Chef verärgerte. (was som syftar på hela händelsen att han kom för sent.) 10. Die Kinder, denen wir die Geschenke brachten, freuten sich riesig. (dativ plural med denen.) ---",
+    "bl": ""
+  },
+  {
+    "id": "B01",
+    "t": "Und, aber, oder, denn och sondern",
+    "d": "Lär dig tyskans fem samordnande konjunktioner (ADUSO-regeln): und, aber, oder, denn och sondern. De har \"position 0\" och påverkar INTE huvudsatsens normala ordföljd.",
+    "h": "/docs/satser/samordning",
+    "c": "Satser",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. \"Aber\" kontra \"Sondern\": Den viktiga skillnaden",
+      "1. SONDERN = \"utan\" / \"i stället\"",
+      "2. ABER = \"men\" / \"dock\"",
+      "2. \"Denn\" kontra \"Weil\" (Orsaksbindeord)",
+      "3. Sammandragning vid samma subjekt",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut De fem samordnande bindeorden i tyskan sammanfattas med akronymen ADUSO : Dessa konjunktioner har Position 0 (nollposition) : De räknas inte som ett satsled i meningen. Satsen som följer har helt normal huvudsatsordföljd (Subjekt på plats 1 + Finit verb på plats 2) ! --- 1. \"Aber\" kontra \"Sondern\": Den viktiga skillnaden Båda orden översätts ofta med \"men\" på svenska, men de har helt skilda funktioner: 1. SONDERN = \"utan\" / \"i stället\" Används ENDAST efter en föregående negation ( nicht eller kein ). Det rättar till eller ersätter det förnekade påståendet: Das ist nicht mein Auto, sondern das Auto meines Bruders. (Det där är inte min bil, UTAN min brors bil.) Er lernt kein Spanisch, sondern er lernt Deutsch. 2. ABER = \"men\" / \"dock\" Uttrycker en kontrast eller inskränkning, utan att upphäva det första påståendet: Er ist reich, aber er ist nicht glücklich. (Han är rik, men han är inte lycklig.) Ich habe den Schlüssel gesucht, aber ich habe ihn nicht gefunden. --- 2. \"Denn\" kontra \"Weil\" (Orsaksbindeord) Både denn och weil betyder eftersom / för att / ty . Skillnaden ligger helt i ordföljden: Denn kräver alltid ett kommatecken före sig, men tillåter dig att behålla den vanliga ordföljden! --- 3. Sammandragning vid samma subjekt Om båda satserna binds samman med und eller oder och har samma subjekt , kan subjektet utelämnas i den andra satsen: Er kam nach Hause und [er] aß sofort zu Abend. - Er kam nach Hause und aß sofort zu Abend. --- 10 autentiska exempel 1. Ich habe Hunger, aber im Kühlschrank ist nichts mehr zu essen. (aber på position 0, im Kühlschrank i förfältet på plats 1, ist på plats 2.) 2. Wir können heute spazieren gehen oder wir bleiben gemütlich zu Hause. (oder på position 0, wir på plats 1, bleiben på plats 2.) 3. Er trinkt keinen Kaffee, sondern er bevorzugt grünen Tee. (sondern efter negationen keinen Kaffee: utan han föredrar te.) 4. Ich freue mich auf das Wochenende, denn ich habe zwei freie Tage. (denn med normal ordföljd: ich på plats 1, habe på plats 2.) 5. Sie spricht sehr gut Englisch und sie lernt jetzt auch Deutsch. (und på position 0.) 6. Das Kleid ist nicht rot, sondern es ist dunkelblau. (sondern rättar till färgen efter negationen nicht rot.) 7. Die Sonne scheint, aber der Wind ist noch ziemlich kalt. (aber uttrycker kontrast utan negation.) 8. Fahren wir mit dem Zug oder nehmen wir das Auto? (oder i frågesats.) 9. Er hat sich sehr beeilt, denn er wollte den Zug nicht verpassen. (denn + er på plats 1 + wollte på plats 2.) 10. Wir haben lange gesucht, aber die Straße nicht gefunden. (aber med gemensamt subjekt.) ---",
+    "bl": ""
+  },
+  {
+    "id": "B05",
+    "t": "Als, wenn, wann, bevor och nachdem",
+    "d": "Bemästra tyskans temporala bisatser. Lär dig den avgörande skillnaden mellan als, wenn och wann, samt hur du uttrycker tidsföljd med nachdem, bevor och während.",
+    "h": "/docs/satser/tidssatser",
+    "c": "Satser",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Beslutsträdet: Als, Wenn eller Wann?",
+      "2. Tidsföljd: Nachdem, Bevor och Während",
+      "A. NACHDEM = \"efter att\" (Förtidighet)",
+      "B. BEVOR = \"innan / förrän\"",
+      "C. WÄHREND = \"medan\" (Samtidighet)",
+      "D. BIS = \"tills / till dess att\"",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Det svenska ordet \"när\" motsvaras av tre helt olika ord i tyskan: --- 1. Beslutsträdet: Als, Wenn eller Wann? Ställ dig själv dessa tre kontrollfrågor: --- 2. Tidsföljd: Nachdem, Bevor och Während När handlingar inträffar i sekvens eller samtidigt krävs rätt tempus och konjunktion: A. NACHDEM = \"efter att\" (Förtidighet) Handlingen i bisatsen inträffade före handlingen i huvudsatsen. Om huvudsatsen står i Präteritum , står bisatsen i Plusquamperfekt : Nachdem er gegessen hatte , ging er spazieren. (Efter att han hade ätit, gick han på promenad.) B. BEVOR = \"innan / förrän\" Handlingen i huvudsatsen sker före bisatsen: Trink ein Glas Wasser, bevor du losläufst . (Drick ett glas vatten innan du springer iväg.) C. WÄHREND = \"medan\" (Samtidighet) Två handlingar pågår parallellt samtidigt: Während sie kochte, las er die Zeitung. (Medan hon lagade mat, läste han tidningen.) D. BIS = \"tills / till dess att\" Markerar en slutpunkt i tiden: Wir warten hier, bis der Regen aufhört . (Vi väntar här tills regnet slutar.) --- 10 autentiska exempel 1. Als ich zwanzig Jahre alt war, lebte ich in Wien. (als för en avgränsad period/händelse i dåtiden.) 2. Immer wenn wir Oma besuchten, gab es frischen Apfelkuchen. (immer wenn för upprepad vana i dåtiden: varje gång vi hälsade på.) 3. Weißt du, wann das Konzert heute Abend anfängt? (wann i en indirekt fråga om klockslag/tid.) 4. Wenn du in Berlin ankommst, ruf mich sofort an! (wenn för framtida tidpunkt/villkor: när du kommer fram.) 5. Nachdem die Gäste abgereist waren, räumten wir die Wohnung auf. (nachdem med Plusquamperfekt: gästerna hade rest först.) 6. Putz dir die Zähne, bevor du ins Bett gehst! (bevor: innan du går och lägger dig.) 7. Während mein Bruder für die Prüfung lernte, hörte er leise Musik. (während för två samtida handlingar.) 8. Als wir den Gipfel des Berges erreichten, ging gerade die Sonne auf. (als för ett unikt ögonblick i dåtid.) 9. Ich bleibe bei dir, bis der Arzt kommt. (bis för tidsgräns: tills doktorn anländer.) 10. Seitdem er in Deutschland wohnt, spricht er fließend Deutsch. (seitdem / seit anger startpunkt i det förflutna som fortsätter.) ---",
+    "bl": ""
+  },
+  {
+    "id": "B02",
+    "t": "Dass, ob, weil och andra bisatsinledare",
+    "d": "Lär dig hur underordnande konjunktioner som dass, ob, weil, obwohl och da fungerar i tyskan. Förstå skillnaden mellan att, om och varför, och hur de inleder bisatser.",
+    "h": "/docs/satser/underordning",
+    "c": "Satser",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. De vanligaste bisatsinledarna",
+      "2. Den stora svenska fällan: \"ob\" eller \"wenn\"?",
+      "3. \"Dass\" kontra \"das\" (med ett eller två s)",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut En underordnande konjunktion (subjunktion) binder samman en bisats med en överordnad huvudsats. Den viktigaste tyska regeln för underordnade satser är: Alla tyska bisatser måste dessutom alltid avskiljas med komma ! --- 1. De vanligaste bisatsinledarna Här är de centrala underordnande konjunktionerna som du möter varje dag: Konjunktion Svensk betydelse Exempel i tysk kontext :--- :--- :--- dass att Ich weiß, dass du Deutsch lernst . ob om / huruvida (indirekt fråga) Er fragt, ob der Zug pünktlich ist . weil eftersom / därför att Sie bleibt im Bett, weil sie krank ist . da eftersom / då (ofta i början) Da es regnet, bleiben wir drinnen. obwohl fastän / trots att Er geht joggen, obwohl er müde ist . damit för att / så att (avsikt) Ich lerne viel, damit ich die Prüfung bestehe . wenn om / ifall (villkor) Wenn du Zeit hast, trinken wir Kaffee. --- 2. Den stora svenska fällan: \"ob\" eller \"wenn\"? På svenska använder vi ordet \"om\" för två helt skilda saker: 1. OB = om / huruvida (osäkerhet, indirekt ja/nej-fråga): Du undrar, frågar eller vet inte: Ich weiß nicht, ob er heute kommt. (Jag vet inte OM/huruvida han kommer idag.) Testa: Kan du byta ut \"om\" mot \"huruvida\"? Då ska det heta ob ! 2. WENN = om / ifall (villkor) eller när (upprepad händelse): Ett villkor som måste uppfyllas: Wenn das Wetter schön ist, machen wir ein Picknick. (OM vädret är fint [villkor], har vi picknick.) Testa: Kan du byta ut \"om\" mot \"ifall / förutsatt att\"? Då ska det heta wenn ! --- 3. \"Dass\" kontra \"das\" (med ett eller två s) Detta är ett av tyskans vanligaste rättskrivningsfel även bland infödda: dass (konjunktion = att ): Kan inte bytas ut mot dieses , jenes eller welches . Ich hoffe, dass du gesund bist. (Jag hoppas att du är frisk.) das (artikel eller pronomen = det / som ): Kan bytas ut mot dieses eller welches . Das Buch, das ich lese, ist spannend. (Boken SOM jag läser...) --- 10 autentiska exempel 1. Ich glaube, dass wir die richtige Entscheidung getroffen haben. (dass inleder påståendesats, hjälpverbet haben hamnar sist.) 2. Kannst du mir sagen, ob das Museum heute geöffnet ist? (ob inleder indirekt ja/nej-fråga: huruvida det är öppet.) 3. Wir können heute nicht kommen, weil mein Sohn Fieber hat. (weil anger orsak, hat hamnar sist.) 4. Da er kein Geld hat, kann er die Reise nicht buchen. (da inleder orsakssats i förfältet; huvudsatsen börjar med verbet kann.) 5. Sie ging zur Arbeit, obwohl sie starke Kopfschmerzen hatte. (obwohl uttrycker medgivande: fastän hon hade huvudvärk.) 6. Ich frage den Kellner, ob dieser Tisch noch frei ist. (ob vid osäkerhet och efterfrågan.) 7. Wenn du Hilfe brauchst, ruf mich einfach an! (wenn uttrycker villkor: ifall du behöver hjälp.) 8. Er spricht langsam, damit alle ihn gut verstehen können. (damit uttrycker avsikt: så att alla kan förstå.) 9. Es ist schön, dass ihr alle gekommen seid. (dass efter opersonligt uttryck es ist schön.) 10. Niemand weiß genau, ob die Konferenz online stattfindet. (ob med partikelverb: partikeln statt och finita verbet findet förenas sist!) ---",
+    "bl": ""
+  },
+  {
     "id": "S03",
     "t": "Bestämd artikel: der, die, das",
     "d": "Fullständig guide till bestämd artikel i tyskan: der, die, das över alla fyra kasus och plural. Tabeller, funktioner och sammandragningar.",
@@ -580,6 +695,24 @@
     "bl": ""
   },
   {
+    "id": "T04",
+    "t": "Perfekt eller Präteritum?",
+    "d": "Lär dig välja rätt dåtidstempus i tyskan: Perfekt för talspråk och personliga meddelanden kontra Präteritum för skriftspråk, nyheter och litteratur. Undvik felaktiga spanska/engelska antaganden.",
+    "h": "/docs/tempus/perfekt-eller-preteritum",
+    "c": "Tempus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Jämförelse i parallella berättelser",
+      "2. Den spanska och engelska fällan: Finns aspekt i tyskan?",
+      "3. Den regionala kompassen (Nord vs. Syd)",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut I tyskan betyder Ich habe gemacht och Ich machte i grunden exakt samma sak i dåtid. Skillnaden är stilistisk och funktionell : Det finns ett stort och viktigt undantag i talspråk : Hjälpverben sein ( ich war ), haben ( ich hatte ) och modalverben ( ich konnte, musste, wollte ) används nästan alltid i Präteritum även i vardagligt tal eftersom formerna är kortare och smidigare än sammansatt perfekt! --- 1. Jämförelse i parallella berättelser Se hur samma dåtidshändelse uttrycks i ett vardagligt samtal jämfört med en tidningsnotis: Sammanhang Form Exempeltext på tyska :--- :--- :--- Vardagligt samtal vid kaffemaskinen Perfekt (med war/hatte) \"Gestern bin ich spät aufgestanden , weil ich müde war . Dann habe ich einen Kaffee getrunken und bin zur Arbeit gefahren .\" Roman eller tidningsartikel Präteritum \"Er stand spät auf , denn er war müde. Dann trank er einen Kaffee und fuhr zur Arbeit.\" --- 2. Den spanska och engelska fällan: Finns aspekt i tyskan? Många elever som läst spanska eller franska letar efter skillnaden mellan avgränsad punktuell händelse (spanskans indefinido ) och pågående bakgrundstillstånd (spanskans imperfecto ). 💡 Tyskan har INGEN grammatisk aspekt i dåtid! I tyskan spelar det ingen roll om handlingen varade i fem sekunder eller i tjugo år, eller om den avbröts: • \"När jag var barn bodde jag i Berlin\" = Als ich ein Kind war, habe ich in Berlin gewohnt (eller: wohnte ich in Berlin ). • \"Bilen kraschade plötsligt\" = Das Auto ist plötzlich gecrasht (eller: crashte ). Båda tempus fungerar för båda typerna av händelser! --- 3. Den regionala kompassen (Nord vs. Syd) Det finns en tydlig geografisk gradient i det tyska språkområdet: Norra och mellersta Tyskland : Använder Präteritum lite mer i talspråk för vanliga verb som ging, kam, sagte . Södra Tyskland (Bayern, Baden-Württemberg), Österrike och Schweiz : Har i princip helt avskaffat Präteritum i talspråk ( Oberdeutscher Präteritumschwund ). Där används Perfekt för praktiskt taget alla verb utom verbet sein ( war ). --- 10 autentiska exempel 1. Was hast du am Wochenende gemacht ? (Vardaglig fråga i talspråk med perfekt.) 2. Ich war am Samstag in München und habe das Museum besucht . (Perfekt kombinerat med war: det mest naturliga talspråksmönstret.) 3. Plötzlich hörte sie ein Geräusch und blickte aus dem Fenster. (Skönlitterär berättarstil i präteritum.) 4. Wir mussten gestern leider sehr lange am Bahnhof warten. (Modalverb föredrar präteritum i tal: mussten.) 5. Gestern hatte ich schreckliche Kopfschmerzen. (haben föredrar präteritum i tal: hatte.) 6. Der Bundeskanzler reiste heute zu Gesprächen nach Paris. (Nyhetsrapportering i tidning med präteritum: reiste.) 7. Hast du den Schlüssel gefunden ? — Ja, er lag unter der Zeitung. (Perfekt i frågan, naturligt svar med lag.) 8. Ich wollte dich gestern anrufen, aber mein Akku war leer. (wollte och war i vardagligt samtal.) 9. Die Polizei nahm den Verdächtigen noch am Tatort fest. (Polisrapport i präteritum: nahm fest.) 10. Wir sind gestern Abend alle zusammen ins Kino gegangen . (Perfekt av rörelseverb gå: sind gegangen.) ---",
+    "bl": ""
+  },
+  {
     "id": "T02",
     "t": "Perfekt med haben och sein",
     "d": "Lär dig det dominerande tyska dåtidstempus: Perfekt. Hur du bygger satsen med haben eller sein som hjälpverb och Partizip II sist, samt reglerna för när du ska välja sein.",
@@ -594,6 +727,24 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut I tyskan bildas Perfekt med hjälp av ett hjälpverb i presens plus Partizip II längst bak: Över 90 % av alla verb bildar perfekt med haben . Du väljer sein endast i följande tre specifika fall : 1. Rörelse med platsbyte (från A till B) : gehen (gå), fahren (åka), fliegen (flyga), kommen (komma), laufen (springa). Ich bin nach Berlin gefahren . 2. Tillståndsförändring (från tillstånd A till B) : aufwachen (vakna), einschlafen (somna), sterben (dö). Das Kind ist schnell eingeschlafen . 3. De tre fasta undantagen : sein - Ich bin gewesen. (Jag har varit) bleiben - Er ist zu Hause geblieben . (Han har stannat kvar) werden - Es ist dunkel geworden . (Det har blivit) --- 1. Jämförelse: Haben eller Sein? Verb Kategori Hjälpverb Exempel i perfekt Betydelse :--- :--- :--- :--- :--- kaufen Vanlig handling haben Ich habe ein Buch gekauft. Jag har köpt en bok. essen Handling med objekt haben Wir haben Pizza gegessen. Vi har ätit pizza. schlafen Tillstånd utan förändring haben Er hat gut geschlafen. Han har sovit gott. fahren Rörelse / platsbyte sein Wir sind nach Wien gefahren. Vi har åkt till Wien. fliegen Rörelse / platsbyte sein Sie ist nach Spanien geflogen. Hon har flugit till Spanien. aufstehen Rörelse / förändring sein Ich bin um sieben Uhr aufgestanden. Jag har stigit upp kl sju. einschlafen Tillståndsförändring sein Das Baby ist eingeschlafen. Bebisen har somnat. bleiben Fast undantag sein Er ist hier geblieben. Han stannade kvar här. 💡 Gyllene regel för objekt Om verbet har ett direkt ackusativobjekt (transitivt verb), bildar det ALLTID perfekt med haben : • Ich bin mit dem Auto gefahren. (Inget objekt - sein !) • Ich habe das Auto in die Garage gefahren. (Direkt ackusativobjekt: das Auto - haben !) --- 2. Perfekt är talspråkets kung i tyskan! I modern tyska (särskilt i södra Tyskland, Österrike och Schweiz) används Perfekt för nästan alla dåtidssituationer i samtal : När du pratar med vänner: \"Was hast du am Wochenende gemacht?\" \"Ich bin ins Kino gegangen und habe Freunde getroffen.\" Det skrivna dåtidstempuset Präteritum ( ging, traf, machte ) används främst i tidningsartiklar, romaner och officiella rapporter — med undantag för war (av sein), hatte (av haben) och modalverben. --- 10 autentiska exempel 1. Ich habe gestern den ganzen Tag für die Prüfung gelernt . (haben för vanlig studiehandling.) 2. Wir sind gestern Abend sehr spät nach Hause gekommen . (sein för rörelse mot mål: kommen - sind gekommen.) 3. Er hat sein Handy auf dem Tisch vergessen . (haben vid ackusativobjekt sein Handy.) 4. Das Kind ist vor dem Fernseher eingeschlafen . (sein för tillståndsförändring: somna.) 5. Wo bist du in den Sommerferien gewesen ? (sein av verbet sein: bist gewesen.) 6. Warum hast du mir die Wahrheit nicht gesagt ? (haben i W-fråga.) 7. Trotz des schlechten Wetters sind wir zu Hause geblieben . (sein för undantaget bleiben: sind geblieben.) 8. Meine Eltern haben vor zwanzig Jahren ein Haus gebaut . (haben vid bygga med ackusativobjekt.) 9. Wann seid ihr in Berlin angekommen ? (sein för rörelseverb ankommen i 2:a person plural: seid angekommen.) 10. Es ist plötzlich sehr kalt geworden . (sein för verbet werden: ist geworden.) ---",
+    "bl": ""
+  },
+  {
+    "id": "T05",
+    "t": "Plusquamperfekt",
+    "d": "Lär dig det tyska dåtidens dåtid (pluskvamperfekt): hade/hade varit + Partizip II (hatte/war + particip). Hur du uttrycker förtidighet i berättelser tillsammans med konjunktionen nachdem.",
+    "h": "/docs/tempus/pluskvamperfekt",
+    "c": "Tempus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Fullständigt böjningsmönster: hatte vs. war",
+      "2. Den klassiska tidsföljden med \"nachdem\"",
+      "3. Akta prickarna: \"hatte\" vs. \"hätte\"!",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Plusquamperfekt (pluskvamperfekt) uttrycker en handling som redan var avslutad före en annan händelse i dåtiden : Formeln är identisk med Perfekt, men hjälpverbet står i preteritum ( hatte / war istället för habe / bin ): kaufen - ich hatte gekauft (jag hade köpt) fahren - ich war gefahren (jag hade åkt) --- 1. Fullständigt böjningsmönster: hatte vs. war Samma regel för val av hjälpverb gäller som i Perfekt ( sein vid rörelse och tillståndsförändring, haben vid övriga): Person mit haben (machen) mit sein (ankommen) :--- :--- :--- ich hatte gemacht war angekommen du hattest gemacht warst angekommen er / sie / es hatte gemacht war angekommen wir hatten gemacht waren angekommen ihr hattet gemacht wart angekommen sie / Sie hatten gemacht waren angekommen --- 2. Den klassiska tidsföljden med \"nachdem\" Ordet nachdem ( efter att ) är den mest typiska utlösaren av Plusquamperfekt: I bisatsen hamnar hela verbpaketet sist ( gemacht hatte ), och huvudsatsen inleds med det finita verbet ( ging ). --- 3. Akta prickarna: \"hatte\" vs. \"hätte\"! En liten prick gör enorm skillnad för betydelsen: Er hatte das Buch gelesen. (Plusquamperfekt, Indikativ: Han HADE läst boken. Ett faktum som hände i verkligheten.) Er hätte das Buch gelesen... (Konjunktiv II: Han SKULLE HA läst boken (om han bara haft tid)... En hypotetisk önskan som aldrig blev av!) --- 10 autentiska exempel 1. Als wir am Bahnhof ankamen, war der Zug bereits abgefahren . (Tåget hade redan avgått innan vi kom fram.) 2. Nachdem er gefrühstückt hatte , verließ er das Haus. (Klassisk tidsföljd med nachdem.) 3. Ich hatte den Schlüssel verloren , deshalb konnte ich nicht hinein. (Orsak i pluskvamperfekt: jag hade tappat nyckeln.) 4. Sie erkannte ihn sofort wieder, obwohl sie ihn jahrelang nicht gesehen hatte . (Hon hade inte sett honom på åratal.) 5. Nachdem wir den Film gesehen hatten , diskutierten wir stundenlang darüber. (Efter att vi hade sett filmen diskuterade vi den.) 6. Er war sehr müde, weil er in der Nacht kaum geschlafen hatte . (Orsakssats i pluskvamperfekt.) 7. Die Polizei fand das gestohlene Fahrrad, das der Dieb im Park versteckt hatte . (Relativsats i pluskvamperfekt: som tjuven hade gömt.) 8. Sie war schon eingeschlafen , als ihr Mann nach Hause kam. (Hon hade redan somnat när maken kom hem.) 9. Wir hatten uns vorher noch nie getroffen . (Vi hade aldrig träffats tidigare.) 10. Nachdem der Regen aufgehört hatte , gingen die Kinder wieder nach draußen. (Efter att regnet hade upphört gick barnen ut.) ---",
     "bl": ""
   },
   {
@@ -612,6 +763,27 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut I tyskan finns två dåtidstempus: 1. Perfekt ( Ich habe gemacht, Ich bin gefahren ): Används i vardagligt tal och personliga mejl. 2. Präteritum ( Ich machte, Ich fuhr ): Används i skriftspråk, berättelser och tidningar . Det finns dock ett stort undantag där preteritum är normen även i talspråk: sein - war (ich war, du warst, er war...) haben - hatte (ich hatte, du hattest, er hatte...) Modalverben - konnte , musste , wollte , durfte , sollte Ingen tysk säger \"Ich bin gestern müde gewesen\" i vardagligt tal — alla säger: Ich war gestern müde ! --- 1. Svaga verb i preteritum: Ändelsen -te Svaga verb bildar preteritum genom att lägga till -te till verbstammen. Observera att 1:a och 3:e person singular är identiska och saknar personändelse : Person machen (att göra) wohnen (att bo) arbeiten (stam på -t) :--- :--- :--- :--- ich mach- te wohn- te arbeit- ete du mach- test wohn- test arbeit- etest er / sie / es mach- te (identisk med ich!) wohn- te arbeit- ete wir mach- ten wohn- ten arbeit- eten ihr mach- tet wohn- tet arbeit- etet sie / Sie mach- ten wohn- ten arbeit- eten --- 2. Starka verb i preteritum: Vokalväxling Starka verb har ingen -te -ändelse. De byter vokal i stammen, och har ingen ändelse alls i 1:a och 3:e person singular : Person gehen (ging) fahren (fuhr) schreiben (schrieb) :--- :--- :--- :--- ich ging (ingen ändelse) fuhr (ingen ändelse) schrieb (ingen ändelse) du ging- st fuhr- st schrieb- st er / sie / es ging (ingen ändelse) fuhr (ingen ändelse) schrieb (ingen ändelse) wir ging- en fuhr- en schrieb- en ihr ging- t fuhr- t schrieb- t sie / Sie ging- en fuhr- en schrieb- en --- 3. De oumbärliga formerna: war, hatte och modalverb Dessa måste du kunna flytande även i vardagligt samtal: Infinitiv 1:a person singular (ich) 3:e person singular (er/sie/es) Svenska :--- :--- :--- :--- sein ich war er war var haben ich hatte er hatte hade können ich konnte er konnte kunde (utan omljud!) müssen ich musste er musste måste / var tvungen (utan omljud!) wollen ich wollte er wollte ville dürfen ich durfte er durfte fick / hade lov till (utan omljud!) sollen ich sollte er sollte skulle / borde Tips: Lägg märke till att modalverben tappar sina omljud ( ö - o, ü - u ) i preteritum! --- 10 autentiska exempel 1. Gestern war das Wetter wirklich herrlich. (sein i preteritum: war.) 2. Ich hatte leider keine Zeit, dich anzurufen. (haben i preteritum: hatte.) 3. Er konnte die schwierige Frage nicht beantworten. (können i preteritum: konnte utan omljud.) 4. Es war einmal ein alter König in einem fernen Land. (Klassisk sagoinledning i preteritum: Es war einmal.) 5. Wir mussten über eine Stunde auf den Zug warten. (müssen i preteritum: mussten.) 6. Der Minister erklärte den Journalisten die neue Maßnahme. (Skriftspråk i nyhetstext: erklärte.) 7. Sie wollte schon immer Ärztin werden. (wollen i preteritum: wollte.) 8. Plötzlich kam ein Mann um die Ecke und fragte nach dem Weg. (Berättande stil: starkt verb kam + svagt verb fragte.) 9. Wo warst du gestern um acht Uhr? (du-form av sein i preteritum: warst.) 10. Die Kinder durften heute länger aufbleiben. (dürfen i preteritum: durften.) ---",
+    "bl": ""
+  },
+  {
+    "id": "V09",
+    "t": "Infinitiv med och utan zu",
+    "d": "Lär dig när en tysk infinitiv ska ha märket \"zu\" och när den står naken: regler för modalverb, lassen och sinnesverb (utan zu) kontra infinitivfraser efter Lust haben, planen och versuchen (med zu).",
+    "h": "/docs/verb/infinitiv-med-och-utan-zu",
+    "c": "Verb",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. \"Dass\" kontra \"Zu\": Den stora svenska fällan",
+      "2. Var placeras \"zu\" vid separerbara verb?",
+      "3. Typiska utlösare av zu-infinitiv",
+      "1. Abstrakta substantiv + haben",
+      "2. Opersonligt uttryck: \"Es ist + adjektiv\"",
+      "3. Fasta verb som styr infinitiv",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Den grundläggande skillnaden i tysk syntax: 1. Infinitiv UTAN zu (Naken infinitiv) : Modalverb : Ich kann schwimmen. (aldrig zu schwimmen) Verbet lassen : Ich lasse mein Auto reparieren. Sinnesverb : Ich höre ein Kind weinen. , Ich sehe ihn kommen. Rörelseverb : Ich gehe schlafen. 2. Infinitiv MED zu : Vid de flesta andra verb, substantiv och adjektiv: Efter verb: Ich versuche, die Aufgabe zu lösen . Efter substantiv: Ich habe keine Zeit, dich zu besuchen . Efter adjektiv: Es ist schwer, Deutsch zu lernen . --- 1. \"Dass\" kontra \"Zu\": Den stora svenska fällan I svenskan låter båda \"att\". Men i tyskan är de fundamentalt skilda: Typ Konstruktion på tyska Exempel :--- :--- :--- DASS-sats (Bindeord) Har eget subjekt + ett böjt finit verb sist Ich hoffe, dass du bald kommst . ZU-infinitiv (Infinitivmärke) Saknar eget subjekt ; slutar med zu + infinitiv Ich hoffe, bald zu kommen . ⚠️ Blanda aldrig ihop dem! ❌ \"Ich habe versprochen dass kommen.\" (FEL!) ✅ \"Ich habe versprochen, zu kommen .\" (Infinitivfras!) ✅ \"Ich habe versprochen, dass ich komme .\" (Bisats med subjekt och böjt verb!) --- 2. Var placeras \"zu\" vid separerbara verb? När ett separerbart verb ( anrufen, aufstehen, einkaufen ) ska ha zu , skjuts zu in mitt emellan partikeln och stammen i ett enda ord : --- 3. Typiska utlösare av zu-infinitiv 1. Abstrakta substantiv + haben Ich habe Lust, ... zu essen. (Jag har lust att äta) Ich habe keine Zeit, ... zu kommen. (Jag har inte tid att komma) Er hat den Mut, ... zu sagen. (Han har modet att säga) 2. Opersonligt uttryck: \"Es ist + adjektiv\" Es ist wichtig, pünktlich zu sein . Es ist verboten, hier zu rauchen . Es macht Spaß, neue Wörter zu lernen . 3. Fasta verb som styr infinitiv vergessen (glömma), versuchen (försöka), planen (planera), hoffen (hoppas), entscheiden (besluta). --- 10 autentiska exempel 1. Ich kann leider heute nicht mit ins Kino kommen . (Modalverb können tar ren infinitiv UTAN zu.) 2. Es ist schön, dich nach so langer Zeit wieder zu sehen ! (Adjektivkonstruktion med zu sehen.) 3. Vergiss bitte nicht, Milch einzukaufen ! (Separerbart verb med -zu- i mitten: einzukaufen.) 4. Ich habe keine Lust, heute Abend noch zu kochen . (Lust haben med zu kochen.) 5. Er lässt sein altes Fahrrad in der Werkstatt reparieren . (Verbet lassen tar ren infinitiv UTAN zu.) 6. Ich versuche, jeden Tag mindestens dreißig Minuten Deutsch zu lernen . (versuchen med zu lernen.) 7. Wir hörten die Nachbarn laut streiten . (Sinnesverbet hören tar ren infinitiv UTAN zu.) 8. Es ist strengstens verboten, im Museum Fotos zu machen . (verboten med zu machen.) 9. Ich habe vor, im nächsten Sommer nach Wien zu reisen . (vorhaben med zu reisen.) 10. Hast du daran gedacht, Oma zum Geburtstag anzurufen ? (Separerbart verb: anzurufen.) ---",
     "bl": ""
   },
   {
@@ -814,20 +986,6 @@
     "b": "Sammansatta substantiv Sista ledets genus och böjning, fogeelement utan falsk universell regel, betoning och tolkning; produktiva egna ord och lexikaliserade undantag; derivation ägs av E05. S09 A2–B2"
   },
   {
-    "id": "K05",
-    "t": "Genitiv: tillhörighet och rektion",
-    "d": "Genitivattribut och begränsad verbrektion; nominala samband, frågan wessen och register; prepositionsstyrd genitiv länkas till P07, ändelser till S06.",
-    "h": "/docs/kasus/genitiv",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Genitiv: tillhörighet och rektion Genitivattribut och begränsad verbrektion; nominala samband, frågan wessen och register; prepositionsstyrd genitiv länkas till P07, ändelser till S06. K05 A2–B2"
-  },
-  {
     "id": "K07",
     "t": "Verbens kasus och valens",
     "d": "Högfrekventa verb med ackusativ/dativ, ovanligare genitiv som referens, subjekt kontra objekt; betydelseskiftande konstruktioner; varje verb får en verklig exempelmening.",
@@ -1010,20 +1168,6 @@
     "b": "Wer, wen, wem, was och welcher Kasusstyrda personfrågor, welch- och was für ein; böjning och prepositionsfrågor; skillnad mellan formfråga och betydelsefråga. R07 A1–B1"
   },
   {
-    "id": "R08",
-    "t": "Relativpronomen: der, die, das",
-    "d": "Full paradigmtabell inklusive dessen/deren/denen; genus/numerus från korrelat, kasus från relativsatsen; former ägs här, satsbygge i B04.",
-    "h": "/docs/pronomen/relativa-former",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Relativpronomen: der, die, das Full paradigmtabell inklusive dessen/deren/denen; genus/numerus från korrelat, kasus från relativsatsen; former ägs här, satsbygge i B04. R08 A2–B2"
-  },
-  {
     "id": "R09",
     "t": "Man, jemand, niemand, etwas och nichts",
     "d": "Högfrekventa indefiniter, ein-/kein- och varianter av böjning; man med enbart tredje singular verb och alternativa objektsformer; negativa uttryck utan spansk dubbelnegationsmodell.",
@@ -1106,48 +1250,6 @@
       "Kommande lektion"
     ],
     "b": "Imperativ och uppmaningar Du-, ihr- och Sie-form, sein och starka verb, reflexiver och partikelverb; artighet och infinitiv på skyltar; ingen mekanisk infinitiv-minus-en för alla verb. V08 A1–B1"
-  },
-  {
-    "id": "V09",
-    "t": "Infinitiv med och utan zu",
-    "d": "Modalverb, lassen och perceptionsverb som separata konstruktionsfall; zu vid partikelverb; betydelse och subjektanknytning; skilj svensk att-sats från infinitivmärke.",
-    "h": "/docs/verb/infinitiv-med-och-utan-zu",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Infinitiv med och utan zu Modalverb, lassen och perceptionsverb som separata konstruktionsfall; zu vid partikelverb; betydelse och subjektanknytning; skilj svensk att-sats från infinitivmärke. V09 A2–B2"
-  },
-  {
-    "id": "T04",
-    "t": "Perfekt eller Präteritum?",
-    "d": "Register, region och verbval; parallella korta berättelser; ingen spansk motsättning mellan avgränsad händelse och bakgrund överförs till tyskan.",
-    "h": "/docs/tempus/perfekt-eller-preteritum",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Perfekt eller Präteritum? Register, region och verbval; parallella korta berättelser; ingen spansk motsättning mellan avgränsad händelse och bakgrund överförs till tyskan. T04 A2–B2"
-  },
-  {
-    "id": "T05",
-    "t": "Plusquamperfekt",
-    "d": "Hatte/war + particip, tidigare än annan dåtid; tidslinje, nachdem och kontext; skilj från Konjunktiv II dåtid.",
-    "h": "/docs/tempus/pluskvamperfekt",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Plusquamperfekt Hatte/war + particip, tidigare än annan dåtid; tidslinje, nachdem och kontext; skilj från Konjunktiv II dåtid. T05 A2–B1"
   },
   {
     "id": "T06",
@@ -1402,34 +1504,6 @@
     "b": "Doch, ja, denn och mal Talarnas förväntningar, tonfall och dialogkontext; skilj partiklar från likalydande adverb/konjunktioner; inga entydiga ord-för-ord-översättningar. Y07 B1–B2"
   },
   {
-    "id": "B01",
-    "t": "Und, aber, oder, denn och sondern",
-    "d": "Bindeordets funktion och ordställning, negation före sondern; jämför med underordning och adverbiella sambandsord i B02/B03.",
-    "h": "/docs/satser/samordning",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Und, aber, oder, denn och sondern Bindeordets funktion och ordställning, negation före sondern; jämför med underordning och adverbiella sambandsord i B02/B03. B01 A1–B1"
-  },
-  {
-    "id": "B02",
-    "t": "Dass, ob, weil och andra bisatsinledare",
-    "d": "Betydelse och val av satsinledare, huvudsats/bisats, svensk att och om; Y04 äger detaljordföljden; ge enkla fungerande modeller redan här.",
-    "h": "/docs/satser/underordning",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Dass, ob, weil och andra bisatsinledare Betydelse och val av satsinledare, huvudsats/bisats, svensk att och om; Y04 äger detaljordföljden; ge enkla fungerande modeller redan här. B02 A2–B1"
-  },
-  {
     "id": "B03",
     "t": "Deshalb, trotzdem, außerdem och däremellan",
     "d": "Orsak, konsekvens, kontrast och tillägg; ordföljd efter adverb i förfält; jämför weil/denn/deshalb och obwohl/trotzdem med samma sakförhållande.",
@@ -1442,34 +1516,6 @@
       "Kommande lektion"
     ],
     "b": "Deshalb, trotzdem, außerdem och däremellan Orsak, konsekvens, kontrast och tillägg; ordföljd efter adverb i förfält; jämför weil/denn/deshalb och obwohl/trotzdem med samma sakförhållande. B03 A2–B2"
-  },
-  {
-    "id": "B04",
-    "t": "Bygg relativsatser",
-    "d": "Välj korrelat, bestäm funktion i bisatsen, välj pronomen, placera verb och komma; preposition + relativpronomen; was/wo/wer i avgränsad fördjupning.",
-    "h": "/docs/satser/relativsatser",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Bygg relativsatser Välj korrelat, bestäm funktion i bisatsen, välj pronomen, placera verb och komma; preposition + relativpronomen; was/wo/wer i avgränsad fördjupning. B04 A2–B2"
-  },
-  {
-    "id": "B05",
-    "t": "Als, wenn, wann, bevor och nachdem",
-    "d": "Enstaka/upprepad dåtid, fråga och villkor; samtidighet och tidsföljd, medan/sedan/tills; tidsform och kontext, inte en mekanisk signalordslista.",
-    "h": "/docs/satser/tidssatser",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Als, wenn, wann, bevor och nachdem Enstaka/upprepad dåtid, fråga och villkor; samtidighet och tidsföljd, medan/sedan/tills; tidsform och kontext, inte en mekanisk signalordslista. B05 A2–B2"
   },
   {
     "id": "B06",

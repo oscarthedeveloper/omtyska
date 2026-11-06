@@ -289,6 +289,27 @@
     "bl": ""
   },
   {
+    "id": "K08",
+    "t": "Prepositionens kasus eller verbets objekt?",
+    "d": "Lär dig avgöra vem som styr kasuset: är det verbet som styr sitt direkta objekt, eller är det prepositionen som bestämmer? Undvik förväxlingar mellan rent ackusativobjekt och für + ackusativ samt dativobjekt och mit + dativ.",
+    "h": "/docs/kasus/preposition-eller-objekt",
+    "c": "Kasus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Parvisa jämförelser: Rent objekt vs. Prepositionsfras",
+      "Exempel 1: Hjälpa kontra Arbeta med",
+      "Exempel 2: Betala",
+      "Exempel 3: Söka / Vänta",
+      "2. Blandade meningar: Både rent objekt OCH prepositionsfras",
+      "3. Den praktiska 3-stegsmetoden",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Den gyllene grundregeln för kasusstyrning är enkel: Prepositionen bildar en sluten grammatisk mur: inuti prepositionsfrasen är det alltid prepositionens regel som gäller! --- 1. Parvisa jämförelser: Rent objekt vs. Prepositionsfras Se hur kasuset styrs i dessa till synes snarlika meningar: Exempel 1: Hjälpa kontra Arbeta med Rent verbobjekt: Ich helfe meinem Kollegen . (Verbet helfen styr dativ direkt utan preposition.) Prepositionsfras: Ich arbeite mit meinem Kollegen . (Verbet arbeiten styr inget objekt, utan prepositionen mit styr dativ!) Exempel 2: Betala Rent ackusativobjekt: Ich bezahle die Rechnung . (bezahlen styr ackusativ direkt: vad betalar jag?) Prepositionsfras med für: Ich bezahle für das Ticket . (für styr ackusativ.) Exempel 3: Söka / Vänta Rent ackusativobjekt: Ich suche den Schlüssel . (suchen styr direkt ackusativobjekt: den Schlüssel.) Prepositionsfras med auf: Ich warte auf den Schlüssel . (warten styr inget ackusativobjekt i sig; auf kräver ackusativ!) --- 2. Blandade meningar: Både rent objekt OCH prepositionsfras Ett verb kan ha ett rent objekt OCH samtidigt styra en prepositionsfras: Om du analyserar meningen steg för steg ser du att: bitten styr ackusativpersonen ( dich ). Prepositionen um styr sin egen ackusativ ( einen Gefallen ). --- 3. Den praktiska 3-stegsmetoden När du tvekar om vilket kasus ett ord ska ha i en längre tysk mening: 1. Ringa in alla prepositioner i meningen ( in, an, auf, mit, für, von, zu etc.). 2. Ord direkt efter en preposition styrs av prepositionen: Efter mit, bei, von, zu - Dativ . Efter für, durch, gegen, ohne, um - Ackusativ . Vid växelprepositioner ( in, an, auf etc.) - fråga Var? (Dativ) eller Vart? (Ackusativ). 3. Alla substantiv och pronomen som står UTAN preposition styrs av verbet: Vem utför handlingen? - Nominativ (Subjekt). Är det ett dativverb ( helfen, danken, gehören )? - Dativ . Är det ett vanligt transitivt verb ( kaufen, sehen, essen )? - Ackusativ . --- 10 autentiska exempel 1. Wir danken Ihnen herzlich für Ihre Unterstützung . (Ihnen styrs av danken [dativ]; Ihre Unterstützung styrs av für [ackusativ].) 2. Er fragte den Polizisten nach dem Weg . (den Polizisten är ackusativobjekt till fragen; dem Weg styrs av nach [dativ].) 3. Ich habe meinem Bruder ein Buch über deutsche Geschichte geschenkt. (meinem Bruder = dativobjekt; ein Buch = ackusativobjekt; über deutsche Geschichte = prepositionsfras.) 4. Sie wartet an der Haltestelle auf den nächsten Bus . (an der Haltestelle = befintlighet [dativ]; auf den Bus = riktning/mål efter auf [ackusativ].) 5. Der Chef gratulierte allen Mitarbeitern zu dem großartigen Erfolg . (allen Mitarbeitern = dativobjekt till gratulieren; zu dem Erfolg = prepositionsfras med zu.) 6. Ich lade dich zu meiner Geburtstagsparty ein. (dich = ackusativobjekt till einladen; zu meiner Party = prepositionsfras med zu.) 7. Sie erinnert sich oft an ihre Kindheit in Wien. (sich = reflexivt ackusativobjekt; an ihre Kindheit = prepositionsfras med an.) 8. Kann ich dich kurz um einen Gefallen bitten? (dich = objekt till bitten; um einen Gefallen = prepositionsfras med um.) 9. Er diskutierte mit den Kollegen über das neue Projekt . (mit den Kollegen = dativ efter mit; über das Projekt = ackusativ efter über.) 10. Das Geschenk passt perfekt zu deinem neuen Kleid . (passen zu + dativ.) ---",
+    "bl": ""
+  },
+  {
     "id": "K06",
     "t": "Två objekt och pronomenordning",
     "d": "Lär dig den exakta ordföljden när en tysk sats innehåller både ett dativobjekt och ett ackusativobjekt: regeln om två substantiv, ett pronomen och två pronomen.",
@@ -308,6 +329,24 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut När ett verb som geben (ge), schenken (skänka), zeigen (visa) eller schicken (skicka) har två objekt , avgörs ordföljden av ordklassen : Minnesregel för tyska objekt: Substantiv följer alfabetet (D kommer före A). Pronomen kastar om (A före D)! --- 1. Steg-för-steg: Förvandling med verbet \"geben\" Se hur satsen förvandlas beroende på vilka ord vi byter ut mot pronomen: Scenario 1: Två substantiv Ich gebe dem Mann (D) das Buch (A). (Dativ står först: mottagaren före saken.) Scenario 2: Mottagaren blir ett pronomen (\"honom\") Ich gebe ihm (D-pronomen) das Buch (A-substantiv). (Pronomenet tränger sig fram direkt efter verbet.) Scenario 3: Saken blir ett pronomen (\"den\") Ich gebe es (A-pronomen) dem Mann (D-substantiv). (Pronomenet tränger sig fram före substantivet, även om det är ackusativ!) Scenario 4: Båda blir pronomen (\"den åt honom\") Ich gebe es (A) ihm (D). (När båda är lätta pronomen står ackusativ alltid före dativ!) --- 2. Varför är det så här? Informationsstrukturen Detta mönster är inte en godtycklig regel, utan grundar sig i tyskans princip om känd kontra ny information : 1. Pronomen representerar känd information som vi redan talat om (t.ex. den / honom ). Känd information vill alltid komma så tidigt som möjligt i meningen. 2. Substantiv representerar ofta ny information med tyngd och betoning. Ny information vill placeras senare mot slutet av satsen. Därför dras pronomenet som en magnet mot vänster direkt bakom det finita verbet! --- 3. Två pronomen: Det magiska ordparet \"es ihm / es ihr\" Observera hur naturligt detta låter på tyska när man svarar på en fråga: \"Gibt der Vater dem Kind den Apfel?\" (Ger pappan äpplet till barnet?) Ja, han ger det till det: Ja, er gibt ihn (Apfel m - ack) ihm (Kind n - dat). \"Zeigst du der Mutter das Foto?\" (Visar du bilden för mamman?) Ja, jag visar den för henne: Ja, ich zeige es (Foto n - ack) ihr (Mutter f - dat). --- 10 autentiska exempel 1. Der Lehrer erklärt den Schülern (D) die Grammatik (A). (Två substantiv: Dativ före ackusativ.) 2. Er erklärt sie (A) ihnen (D). (Två pronomen: Ackusativ före dativ.) 3. Ich habe meiner Freundin eine schöne Kette geschenkt. (Två substantiviska fraser: Dativ före ackusativ.) 4. Ich habe sie ihr gestern geschenkt. (Två pronomen: sie [Kette f ack] före ihr [Freundin dat].) 5. Kannst du mir bitte das Salz reichen? (Pronomen mir före substantiv das Salz.) 6. Der Postbote bringt der Dame ein großes Paket. (Dativ der Dame före ackusativ ein großes Paket.) 7. Er bringt es ihr an die Tür. (Två pronomen: es [Paket] före ihr [Dame].) 8. Wir schicken unseren Großeltern eine Postkarte aus Berlin. (Dativ plural unseren Großeltern före ackusativ eine Postkarte.) 9. Wir schicken sie ihnen morgen. (sie [Postkarte] före ihnen [Großeltern].) 10. Der Arzt verschreibt dem Patienten ein starkes Medikament. (Dativ dem Patienten före ackusativ ein starkes Medikament.) ---",
+    "bl": ""
+  },
+  {
+    "id": "K07",
+    "t": "Verbens kasus och valens",
+    "d": "Lär dig verbens rektion i tyskan: vilka verb som styr ackusativ, vilka som kräver dativ (helfen, danken, gefallen) och de sällsynta verb som styr genitiv. Inklusive dubbla objekt och betydelseskiftande valens.",
+    "h": "/docs/kasus/verbens-rektion",
+    "c": "Kasus",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Den livsviktiga Dativ-listan",
+      "2. Två objekt: Dativ för personen, Ackusativ för saken",
+      "3. Sällsynta verb med Genitiv (Högtidligt språk)",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Ett verbs rektion är dess grammatiska makt att kräva ett visst kasus hos sitt objekt: --- 1. Den livsviktiga Dativ-listan Dessa vanliga verb tar aldrig ackusativ . De styr alltid dativ i tyskan: Verb Svensk betydelse Autentiskt exempel :--- :--- :--- helfen hjälpa Kannst du mir bitte helfen? danken tacka Ich danke Ihnen herzlich. gefallen behaga / gilla Die Stadt gefällt meinen Eltern . gehören tillhöra / ägas av Das Auto gehört meinem Bruder . glauben tro (på en person) Ich glaube dir kein Wort! gratulieren gratulera Wir gratulieren dem Geburtstagskind . passen passa (storlek/tid) Der Termin passt mir gut. schmecken smaka (gott för) Die Suppe schmeckt den Gästen . antworten svara (en person) Er antwortet dem Lehrer nicht. fehlen saknas / fattas Du fehlst mir so sehr. --- 2. Två objekt: Dativ för personen, Ackusativ för saken När ett verb har två objekt svarar dativen på Åt vem? och ackusativen på Vad? : Der Vater schenkt seinem Sohn (Dativ) ein Fahrrad (Ackusativ) . Der Kellner bringt den Gästen (Dativ) die Speisekarte (Ackusativ) . Können Sie mir (Dativ) den Weg (Ackusativ) erklären? --- 3. Sällsynta verb med Genitiv (Högtidligt språk) En liten grupp verb styr genitiv i stället för ackusativ eller dativ. De förekommer främst i officiella sammanhang, litteratur och juridik: gedenken (hedra minnet av) : Wir gedenken der Opfer des Krieges. (Vi hedrar offrens minne.) sich rühmen (skryta med) : Er rühmt sich seiner großen Erfolge . beschuldigen (anklaga för något) : Man beschuldigte ihn des Diebstahls . (Man anklagade honom för stöld.) I modernt vardagsspråk ersätts de flesta genitivverb med prepositionsuttryck. --- 10 autentiska exempel 1. Der Arzt hilft dem verletzten Sportler sofort. (helfen styr dativ: dem Sportler.) 2. Ich habe gestern einen interessanten Artikel gelesen. (lesen styr ackusativ: einen Artikel.) 3. Die neue Brille steht dir wirklich ausgezeichnet! (stehen = klä någon, styr dativ: dir.) 4. Wie gefällt Ihnen unser neues Bürogebäude? (gefallen styr dativ: Ihnen.) 5. Der Lehrer erklärt den Schülern die schwere Grammatikregel. (den Schülern dativ + die Regel ackusativ.) 6. Das Buch gehört nicht mir , sondern meiner Schwester . (gehören styr dativ: mir, meiner Schwester.) 7. Ich vertraue meinem besten Freund vollkommen. (vertrauen styr dativ: meinem Freund.) 8. Der Polizist fragte den Autofahrer nach seinen Papieren. (fragen styr ackusativ: den Autofahrer.) 9. Das Essen schmeckt uns allen hervorragend. (schmecken styr dativ: uns allen.) 10. Die Regierung gedenkt der Gefallenen . (gedenken styr genitiv: der Gefallenen.) ---",
     "bl": ""
   },
   {
@@ -555,6 +594,26 @@
       "10 autentiska exempel"
     ],
     "b": "eure, euren, eurem\" ]} prerequisites={[ , ]} / Kärnan på en halv minut Att bilda en tysk possessiv nominalfras sker i två enkla steg: 1. ÄGAREN bestämmer stammen : ich - mein (min) du - dein (din) er / es - sein (hans / dess) sie (hon) - ihr (hennes) wir - unser (vår) ihr - euer (er) sie (de) - ihr (deras) Sie (Ni) - Ihr (Er — med stor bokstav!) 2. SAKEN SOM ÄGS bestämmer ändelsen (genus, numerus och kasus): Ändelserna är 100 % identiska med ein / kein ! --- 1. Ändelsematrisen för possessiva ord Här illustrerat med stammen mein- (gäller identiskt för alla andra stammar): Kasus Maskulinum Femininum Neutrum Plural (alla genus) :--- :--- :--- :--- :--- Nominativ mein Tisch (–) mein e Lampe mein Kind (–) mein e Bücher Ackusativ mein en Tisch mein e Lampe mein Kind (–) mein e Bücher Dativ mein em Tisch mein er Lampe mein em Kind mein en Bücher n Genitiv mein es Tisch es mein er Lampe mein es Kind es mein er Bücher --- 2. Den stora svenska fällan: \"Sin / Sitt / Sina\" I svenskan skiljer vi noga mellan: \"Peter älskar hans fru\" (någon annans fru!) \"Peter älskar sin fru\" (sin egen fru!) I tyskan finns inget ord som heter \"sin\"! Tyskan använder istället alltid ägarens vanliga possessivpronomen : Fråga dig alltid: Vem är det som äger? Är ägaren en man/han? - Använd alltid stammen sein- . Är ägaren en kvinna/hon? - Använd alltid stammen ihr- . --- 3. Specialfallet: \"euer\" tappar ett -e- Ordet euer ( er / ert / era ) har ett e i stammen. När en ändelse läggs till försvinner det mellersta e:et för att det ska bli lättare att uttala: Maskulinum nominativ: euer Vater (ingen ändelse - behåller e) Neutrum nominativ: euer Kind (ingen ändelse - behåller e) Femininum nominativ: eure Mutter (inte euer-e!) Plural nominativ: eure Freunde Ackusativ maskulinum: euren Lehrer Dativ maskulinum: eurem Bruder --- 10 autentiska exempel 1. Das ist mein neuer Computer . (Nominativ maskulinum med nolländelse: mein neuer Computer.) 2. Ich habe meinen Schlüssel verloren. (Ackusativ maskulinum med -en: meinen Schlüssel.) 3. Peter besucht morgen seine Großeltern . (Ägaren Peter är han - stam sein- + pluraländelse -e: seine Großeltern.) 4. Anna hilft ihrem kleinen Bruder bei den Hausaufgaben. (Ägaren Anna är hon - stam ihr- + dativ maskulinum -em: ihrem Bruder.) 5. Kinder, wo sind eure Schultaschen ? (Bortfall av e i euer framför pluraländelse -e: eure.) 6. Wir wohnen mit unseren Kindern in Berlin. (Prepositionen mit styr dativ plural: unseren Kindern med extra -n.) 7. Ist das Ihr Koffer , Frau Sommer? (Artigt possessivt pronomen Ihr med stor bokstav.) 8. Er fährt mit seinem alten Fahrrad zur Schule. (Dativ neutrum med -em: seinem alten Fahrrad.) 9. Sie hat ihre Brille überall gesucht. (Feminin ackusativ med -e: ihre Brille.) 10. Das Auto meines Vaters steht in der Garage. (Genitiv maskulinum med -es: meines Vaters.) ---",
+    "bl": ""
+  },
+  {
+    "id": "R05",
+    "t": "Reflexiva pronomen i ackusativ och dativ",
+    "d": "Lär dig tyskans reflexiva pronomen i ackusativ och dativ. Förstå varför det heter \"ich wasche mich\" men \"ich wasche mir die Hände\", samt hur sich och reciproka einander fungerar.",
+    "h": "/docs/pronomen/reflexiva",
+    "c": "Pronomen",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. När ska man välja \"mich\" och när \"mir\"?",
+      "Fall 1: Personen själv är det enda objektet -> ACKUSATIV (mich / dich)",
+      "Fall 2: En specifik kroppsdel eller ett föremål nämns -> DATIV (mir / dir)",
+      "2. Fast reflexiva verb med dativ",
+      "3. Reciprokt bruk: \"sich\" kontra \"einander\"",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Reflexiva pronomen visar att handlingen vänder tillbaka till subjektet självt. Lägg märke till att nästan alla former är identiska med de vanliga personliga pronomenen , förutom i 3:e person där sich regerar: Subjekt Reflexivt Ackusativ Reflexivt Dativ Exempel Ackusativ Exempel Dativ :--- :--- :--- :--- :--- ich mich mir Ich wasche mich . Ich wasche mir die Hände. du dich dir Du wäschst dich . Du wäschst dir die Hände. er / sie / es sich sich Er wäscht sich . Er wäscht sich die Hände. wir uns uns Wir waschen uns . Wir waschen uns die Hände. ihr euch euch Ihr wascht euch . Ihr wascht euch die Hände. sie / Sie sich sich Sie waschen sich . Sie waschen sich die Hände. --- 1. När ska man välja \"mich\" och när \"mir\"? Valet mellan ackusativ och dativ avgörs av om det redan finns ett annat direkt objekt i satsen : Fall 1: Personen själv är det enda objektet - ACKUSATIV (mich / dich) Handlingen drabbar hela personen direkt: Ich kämme mich . (Jag kammar mig.) Ich rasiere mich . (Jag rakar mig.) Zieh dich schnell an! (Klä på dig snabbt!) Fall 2: En specifik kroppsdel eller ett föremål nämns - DATIV (mir / dir) Kroppsdelen fungerar nu som direkt ackusativobjekt . Det reflexiva pronomenet blir då indirekt dativobjekt (till fördel för mig): Ich kämme mir [die Haare]. (Jag kammar håret.) Ich putze mir [die Zähne]. (Jag borstar tänderna.) Ich ziehe mir [eine warme Jacke] an. (Jag tar på mig en varm jacka.) --- 2. Fast reflexiva verb med dativ Vissa tyska verb styr dativ reflexivt av ren lexikal rektion, även utan kroppsdel: sich vorstellen (föreställa sig / fantisera) : Das kann ich mir gut vorstellen. (Det kan jag lätt föreställa mig.) (Obs: \"Darf ich mich vorstellen?\" med ackusativ betyder \"Får jag presentera mig?\") sich merken (lägga på minnet) : Ich kann mir keine Namen merken. (Jag kan inte lägga namn på minnet.) sich überlegen (fundera över / tänka igenom) : Ich muss mir das noch überlegen. (Jag måste tänka över det.) sich wünschen (önska sig) : Was wünschst du dir zum Geburtstag? (Vad önskar du dig?) --- 3. Reciprokt bruk: \"sich\" kontra \"einander\" I plural kan reflexiva pronomen också betyda varandra (reciprok betydelse): Wir kennen uns schon lange. (Vi känner varandra sedan länge.) Sie lieben sich . (De älskar varandra.) Om meningen är tvetydig (t.ex. Sie sehen sich im Spiegel kan betyda att de ser sig själva eller varandra) använder man det otvetydiga ordet einander ( varandra ): Sie helfen einander . (De hjälper varandra.) Tillsammans med prepositioner skrivs det ihop i ett ord: Sie sprechen miteinander (med varandra) , Sie denken aneinander (på varandra) , Sie wohnen nebeneinander (bredvid varandra) . --- 10 autentiska exempel 1. Ich putze mir jeden Morgen und Abend die Zähne. (dativ mir eftersom die Zähne är direkt ackusativobjekt.) 2. Beeil dich , sonst verpassen wir den Bus! (ackusativ dich vid sich beeilen.) 3. Er hat sich gestern beim Kochen in den Finger geschnitten. (dativ sich för 3:e person.) 4. Das kann ich mir beim besten Willen nicht vorstellen. (dativ mir vid sich vorstellen = föreställa sig.) 5. Die Kinder haben sich die Hände gründlich gewaschen. (dativ sich i plural före die Hände.) 6. Zieh dir bitte die Schuhe aus, wenn du reinkommst! (dativ dir med die Schuhe som ackusativobjekt.) 7. Wir freuen uns sehr auf das gemeinsame Wochenende. (ackusativ uns vid sich freuen auf.) 8. Hast du dir die neue Telefonnummer gemerkt? (dativ dir vid sich merken.) 9. Die beiden Freunde haben einander seit Jahren nicht gesehen. (reciprokt einander = varandra.) 10. Sie unterhielten sich angeregt miteinander . (preposition mit + einander i ett ord.) ---",
     "bl": ""
   },
   {
@@ -1019,6 +1078,29 @@
     "bl": ""
   },
   {
+    "id": "V08",
+    "t": "Imperativ och uppmaningar",
+    "d": "Lär dig tyskans imperativformer: hur du befaller och uppmanar i du-, ihr- och Sie-form. Upptäck specialreglerna för starka verb med e->i-växling, verbet sein (sei, seid, seien Sie) och partikelverb.",
+    "h": "/docs/verb/imperativ",
+    "c": "Verb",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Du-formen: Hur bildas den?",
+      "När krävs ett extra \"-e\"?",
+      "2. Starka verb i imperativ: e -> i växling!",
+      "3. Särfallet \"sein\" och partikelverb",
+      "Verbet sein (vara):",
+      "Separerbara verb: Partikeln kastas allra sist!",
+      "Reflexiva verb: Pronomenet följer verbet",
+      "4. Opersonliga uppmaningar på skyltar (Infinitiv)",
+      "10 autentiska exempel"
+    ],
+    "b": "Mach!)\", \"Komma ihåg e- i-växlingen: 'sprich!', 'hilf!', 'lies!' (men omljud som ä försvinner: 'fahr!')\", \"Kunna särfallet sein: 'Sei leise!', 'Seid pünktlich!', 'Seien Sie willkommen!'\" ]} prerequisites={[ , , ]} / Kärnan på en halv minut Imperativ har tre former beroende på tilltalet: I du- och ihr-formerna stryks pronomenet helt ( Mach! inte Mach du! ). I den artiga formen måste Sie alltid finnas med direkt efter verbet ( Machen Sie! ). --- 1. Du-formen: Hur bildas den? Utgå från presensformen för du och ta bort både du och ändelsen -st : du machst - ta bort du och -st - Mach! du kommst - Komm! du trinkst - Trink! När krävs ett extra \"-e\"? När verbstammen slutar på -t, -d eller konsonant + m/n : warten (du wartest) - Warte! atmen (du atmest) - Atme! öffnen (du öffnest) - Öffne! Vid verb på -eln / -ern : lächeln - Lächle! / Lächele! --- 2. Starka verb i imperativ: e - i växling! Här finns en viktig asymmetri mellan två olika starka verbgrupper: 1. Verb med e - i / ie-växling i presens BEHÅLLER växlingen i imperativ: geben (du gibst) - Gib! (Ge!) helfen (du hilfst) - Hilf! (Hjälp!) lesen (du liest) - Lies! (Läs!) nehmen (du nimmst) - Nimm! (Ta!) (Obs: Starka verb med e- i får ALDRIG ett extra -e i slutet: det heter Gib!, aldrig Gibe!) 2. Verb med omljud (a - ä) TAPPAR omljudet i imperativ: fahren (du fährst) - Fahr! (Kör! – inte fähr!) schlafen (du schläfst) - Schlaf! (Sov! – inte schläf!) laufen (du läufst) - Lauf! (Spring!) --- 3. Särfallet \"sein\" och partikelverb Verbet sein (vara): Du: Sei ruhig! (Var lugn!) Ihr: Seid vorsichtig! (Var försiktiga!) Sie: Seien Sie willkommen! (Var välkommen!) Separerbara verb: Partikeln kastas allra sist! aufstehen - Steh bitte sofort auf ! mitkommen - Kommen Sie doch mit ! anrufen - Ruf mich morgen an ! Reflexiva verb: Pronomenet följer verbet sich setzen - Setz dich ! (du) / Setzt euch ! (ihr) / Setzen Sie sich ! (Sie) --- 4. Opersonliga uppmaningar på skyltar (Infinitiv) I instruktioner, recept och officiella förbudsskyltar används mycket ofta ren infinitiv i stället för personböjd imperativ: Bitte nicht rauchen ! (Vänligen rök ej!) Hier aussteigen ! (Avstigning här!) Türen freihalten ! (Håll dörrarna fria!) --- 10 autentiska exempel 1. Nimm dir noch ein Stück Kuchen! (du-imperativ av nehmen: nimm!) 2. Fahr bitte vorsichtig, die Straße ist glatt! (fahren tappar omljudet: fahr!) 3. Seien Sie so freundlich und schließen Sie die Tür! (artig Sie-form av sein och schließen.) 4. Warte kurz auf mich, ich bin gleich fertig! (stam på -t kräver -e: Warte!) 5. Kinder, seid endlich leise und schlaft! (ihr-form till flera barn: seid, schlaft!) 6. Gib mir bitte mal das Salz rüber! (geben med e- i: Gib!) 7. Helfen Sie mir bitte, ich habe mich verlaufen! (artig Sie-form: Helfen Sie!) 8. Steht bitte alle auf und begrüßt den Gast! (ihr-form med partikelverb: Steht auf!) 9. Mach dir keine Sorgen, alles wird gut! (vanlig du-imperativ: Mach!) 10. Bitte die Fenster bei Regen schließen ! (opersonlig skylt med ren infinitiv.) ---",
+    "bl": ""
+  },
+  {
     "id": "V09",
     "t": "Infinitiv med och utan zu",
     "d": "Lär dig när en tysk infinitiv ska ha märket \"zu\" och när den står naken: regler för modalverb, lassen och sinnesverb (utan zu) kontra infinitivfraser efter Lust haben, planen och versuchen (med zu).",
@@ -1078,6 +1160,26 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut Regelbundna (svaga) verb behåller sin stam helt oförändrad i presens. Du tar bort infinitivens -en och lägger till personändelsen: Två viktiga fonetiska anpassningar: 1. Om stammen slutar på -t eller -d skjuts ett -e- in före -st och -t för att orden ska gå att uttala: du arbeit- e -st , er arbeit- e -t 2. Om stammen slutar på -s, -ss, -ß, -z smälter du-ändelsen ihop till bara -t : du heiß-t (inte heißst ), du tanz-t (inte tanzst ) --- 1. Fullständiga böjningsmönster Person Normalt verb (wohnen) Stam på -t/-d (arbeiten) Stam på s-ljud (heißen) :--- :--- :--- :--- ich wohne arbeite heiße du wohnst arbeit e st heißt (endast -t!) er / sie / es wohnt arbeit e t heißt wir wohnen arbeiten heißen ihr wohnt arbeit e t heißt sie / Sie wohnen arbeiten heißen --- 2. Presens funktioner i tyskan I tyskan har presens tre huvudsakliga funktioner: 1. Pågående handling just nu Was machst du? — Ich lerne Deutsch. (Vad gör du? — Jag lär mig tyska / sitter och pluggar tyska.) Tyskan har ingen pågående form ( ing-form ) som engelskan ( I am learning ). 2. Vana eller allmängiltigt faktum Ich trinke jeden Morgen Kaffee. (Jag dricker kaffe varje morgon.) 3. Framtida planering med tidsangivelse I talspråk använder tyskar nästan alltid presens + tidsadverb istället för hjälpverbet werden : Morgen fliege ich nach Wien. (Imorgon flyger jag till Wien.) --- 10 autentiska exempel 1. Ich wohne in einer kleinen Wohnung im Zentrum. (1:a person singular: stam wohn- + ändelse -e.) 2. Wo arbeitest du zurzeit? (Stam på -t - bindevokal -e- före -st: arbeitest.) 3. Wie heißt du? — Ich heiße Maximilian. (Stam på -ß - du-formen får bara ändelsen -t.) 4. Er spielt jeden Sonntag Tennis mit seinem Bruder. (3:e person singular: -t.) 5. Wir kaufen heute Abend im Supermarkt ein. (1:a person plural: -en.) 6. Kinder, wartet bitte einen Moment hier! (ihr-form med bindevokal: wart-e-t.) 7. Sie wohnen seit zehn Jahren in Hamburg. (3:e person plural: -en.) 8. Trinkst du Tee oder Kaffee? (Fråga med omvänd ordföljd: verbet först, subjektet du efter.) 9. Das Kind zeichnet ein schönes Bild für die Oma. (Stam på -n efter konsonant - bindevokal: zeichnet.) 10. Am Wochenende besuchen wir unsere Großeltern. (Presens uttrycker planerad framtid.) ---",
+    "bl": ""
+  },
+  {
+    "id": "V07",
+    "t": "Reflexiva verb och rektion",
+    "d": "Lär dig tyskans reflexiva verb: skillnaden mellan äkta och oäkta reflexiva verb, prepositionell styrning som sich freuen auf/über och sich interessieren für, samt reflexiva verb i dativ.",
+    "h": "/docs/verb/reflexiva-verb",
+    "c": "Verb",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Den stora fällan: \"sich freuen auf\" kontra \"sich freuen über\"",
+      "2. Topplistan: Tyskans viktigaste reflexiva verb med preposition",
+      "3. Asymmetri: Reflexivt på tyska men inte på svenska (och vice versa)",
+      "Reflexivt på tyska, men OREFLEXIVT på svenska:",
+      "OREFLEXIVT på tyska, men REFLEXIVT på svenska:",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Reflexiva verb delas in i två kategorier: 1. Äkta reflexiva verb (Echte reflexive Verben): Kan ALDRIG stå utan sitt reflexiva pronomen. Det går inte att rikta handlingen mot någon annan: sich beeilen (skynda sig) , sich erholen (återhämta sig) , sich weigern (vägra) 2. Oäkta reflexiva verb (Unechte reflexive Verben): Kan användas antingen reflexivt (mot sig själv) eller transitivt (mot någon annan): Ich wasche mich . (Jag tvättar mig.) Ich wasche das Auto . (Jag tvättar bilen.) --- 1. Den stora fällan: \"sich freuen auf\" kontra \"sich freuen über\" Båda uttrycken betyder att glädjas, men tidsperspektivet är helt avgörande: --- 2. Topplistan: Tyskans viktigaste reflexiva verb med preposition Dessa fasta kombinationer måste memoreras med sin specifika preposition och dess kasus: Verb med preposition Kasus Svensk betydelse Exempel :--- :--- :--- :--- sich ärgern über Ackusativ irritera sig / förarga sig över Ich ärgere mich über den Stau . sich interessieren für Ackusativ intressera sig för Er interessiert sich für Kunst . sich erinnern an Ackusativ minnas / komma ihåg Erinnerst du dich an ihn ? sich gewöhnen an Ackusativ vänja sig vid Ich habe mich an das Klima gewöhnt. sich verlieben in Ackusativ bli förälskad i Sie hat sich in Paul verliebt. sich fürchten vor Dativ frukta / vara rädd för Er fürchtet sich vor Hunden . sich treffen mit Dativ träffa / möta Ich treffe mich mit Anna . sich beschäftigen mit Dativ sysselsätta sig med Wir beschäftigen uns mit Grammatik . --- 3. Asymmetri: Reflexivt på tyska men inte på svenska (och vice versa) Lita inte på din svenska intuition här: Reflexivt på tyska, men OREFLEXIVT på svenska: sich erholen = återhämta sig / vila upp sig sich verspäten = bli försenad (inte \"försena sig\") sich erkälten = bli förkyld sich weigern = vägra OREFLEXIVT på tyska, men REFLEXIVT på svenska: lernen = lära sig (INTE sich lernen!) hoffen = hoppas fühlen = känna sig (kan heta sich fühlen eller bara fühlen ) scheinen = verka / tyckas --- 10 autentiska exempel 1. Ich freue mich riesig auf unseren gemeinsamen Urlaub in den Bergen. (sich freuen auf för framtida semester.) 2. Sie hat sich sehr über die wunderschönen Blumen gefreut. (sich freuen über för mottagna blommor.) 3. Interessierst du dich eigentlich für deutsche Geschichte? (sich interessieren für + ackusativ.) 4. Der Chef ärgert sich maßlos über die unzuverlässige Lieferung. (sich ärgern über + ackusativ.) 5. Ich kann mich leider nicht mehr an seinen Namen erinnern. (sich erinnern an + ackusativ.) 6. Im Urlaub wollen wir uns einfach nur in Ruhe erholen . (äkta reflexivt verb utan preposition.) 7. Wegen einer Panne hat sich unser Zug um eine halbe Stunde verspätet . (sich verspäten = bli försenad.) 8. Ich treffe mich heute Abend mit meinen alten Schulfreunden. (sich treffen mit + dativ.) 9. Hast du dich schon an das Leben in Deutschland gewöhnt? (sich gewöhnen an + ackusativ.) 10. Wir müssen uns beeilen, die Vorstellung fängt gleich an! (sich beeilen = skynda sig.) ---",
     "bl": ""
   },
   {
@@ -1406,34 +1508,6 @@
     "b": "Komma och skrivregler Huvud- och bisatser, relativsatser och infinitivgrupper enligt verifierat regelverk; sammanskrivning, bindestreck och citat; skilj bindande regel från rekommendation. G07 A2–B2"
   },
   {
-    "id": "K07",
-    "t": "Verbens kasus och valens",
-    "d": "Högfrekventa verb med ackusativ/dativ, ovanligare genitiv som referens, subjekt kontra objekt; betydelseskiftande konstruktioner; varje verb får en verklig exempelmening.",
-    "h": "/docs/kasus/verbens-rektion",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Verbens kasus och valens Högfrekventa verb med ackusativ/dativ, ovanligare genitiv som referens, subjekt kontra objekt; betydelseskiftande konstruktioner; varje verb får en verklig exempelmening. K07 A2–B2"
-  },
-  {
-    "id": "K08",
-    "t": "Prepositionens kasus eller verbets objekt?",
-    "d": "Identifiera nominalfrasens styrande ord; skilj ackusativobjekt från für + ackusativ och dativobjekt från mit + dativ; beslutssteg med hela meningar.",
-    "h": "/docs/kasus/preposition-eller-objekt",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Prepositionens kasus eller verbets objekt? Identifiera nominalfrasens styrande ord; skilj ackusativobjekt från für + ackusativ och dativobjekt från mit + dativ; beslutssteg med hela meningar. K08 A2–B1"
-  },
-  {
     "id": "A05",
     "t": "Flera adjektiv, mängdord och specialformer",
     "d": "All-, viel-, wenig-, manch-, solch- och parallell böjning; högfrekventa stamförändringar som teuer/hoch; belagd variation markeras och testas inte som entydig.",
@@ -1502,20 +1576,6 @@
       "Kommande lektion"
     ],
     "b": "Possessiver utan substantiv Meiner/meine/meins och artikelkonstruktioner som der meine; syftning och register; skillnaden mellan artikelord och självständig pronominell form. R04 B1"
-  },
-  {
-    "id": "R05",
-    "t": "Reflexiva pronomen i ackusativ och dativ",
-    "d": "Ich wasche mich respektive ich wasche mir die Hände; sich i tredje person, reciprokt bruk och einander; det är konstruktionen som avgör kasus.",
-    "h": "/docs/pronomen/reflexiva",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Reflexiva pronomen i ackusativ och dativ Ich wasche mich respektive ich wasche mir die Hände; sich i tredje person, reciprokt bruk och einander; det är konstruktionen som avgör kasus. R05 A2–B1"
   },
   {
     "id": "R06",
@@ -1600,34 +1660,6 @@
       "Kommande lektion"
     ],
     "b": "Oseparerbara prefix och betydelseskiften Be-, emp-, ent-, er-, ge-, miss-, ver-, zer- samt prefix med varierande betoning/separation; jämför omsorgsfullt valda betydelser med separat lexem-ID. V06 A2–B2"
-  },
-  {
-    "id": "V07",
-    "t": "Reflexiva verb och rektion",
-    "d": "Sich freuen auf/über, sich interessieren für och vardagsverb; obligatorisk/valfri reflexiv konstruktion, ackusativ/dativ och svensk översättning; formell valens per betydelse.",
-    "h": "/docs/verb/reflexiva-verb",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Reflexiva verb och rektion Sich freuen auf/über, sich interessieren für och vardagsverb; obligatorisk/valfri reflexiv konstruktion, ackusativ/dativ och svensk översättning; formell valens per betydelse. V07 A2–B1"
-  },
-  {
-    "id": "V08",
-    "t": "Imperativ och uppmaningar",
-    "d": "Du-, ihr- och Sie-form, sein och starka verb, reflexiver och partikelverb; artighet och infinitiv på skyltar; ingen mekanisk infinitiv-minus-en för alla verb.",
-    "h": "/docs/verb/imperativ",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Imperativ och uppmaningar Du-, ihr- och Sie-form, sein och starka verb, reflexiver och partikelverb; artighet och infinitiv på skyltar; ingen mekanisk infinitiv-minus-en för alla verb. V08 A1–B1"
   },
   {
     "id": "T06",

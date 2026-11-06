@@ -79,8 +79,8 @@
     "minimumMainQuizItems": 600,
     "minimumAdditionalQuizItems": 44,
     "totalLessons": 112,
-    "writtenLessons": 71,
-    "missingLessons": 41,
+    "writtenLessons": 76,
+    "missingLessons": 36,
     "auditStage": 0,
     "auditStatus": "etapp-0-completed"
   },
@@ -678,15 +678,15 @@
         "K05"
       ],
       "requiredCoverage": "Högfrekventa verb med ackusativ/dativ, ovanligare genitiv som referens, subjekt kontra objekt; betydelseskiftande konstruktioner; varje verb får en verklig exempelmening.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Kasus/verbens-rektion.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "K08",
@@ -700,15 +700,15 @@
         "K04"
       ],
       "requiredCoverage": "Identifiera nominalfrasens styrande ord; skilj ackusativobjekt från für + ackusativ och dativobjekt från mit + dativ; beslutssteg med hela meningar.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Kasus/preposition-eller-objekt.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "A01",
@@ -982,15 +982,15 @@
         "R02"
       ],
       "requiredCoverage": "Ich wasche mich respektive ich wasche mir die Hände; sich i tredje person, reciprokt bruk och einander; det är konstruktionen som avgör kasus.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Pronomen/reflexiva.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "R06",
@@ -1265,15 +1265,15 @@
         "V02"
       ],
       "requiredCoverage": "Sich freuen auf/über, sich interessieren für och vardagsverb; obligatorisk/valfri reflexiv konstruktion, ackusativ/dativ och svensk översättning; formell valens per betydelse.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Verb/reflexiva-verb.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "V08",
@@ -1287,15 +1287,15 @@
         "V05"
       ],
       "requiredCoverage": "Du-, ihr- och Sie-form, sein och starka verb, reflexiver och partikelverb; artighet och infinitiv på skyltar; ingen mekanisk infinitiv-minus-en för alla verb.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Verb/imperativ.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "V09",

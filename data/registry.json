@@ -2606,6 +2606,110 @@
       "contentExists": true,
       "contentFile": "content/mer/grammatiska-termer.mdx",
       "reviewEvidence": "internal-crosscheck-pending-external"
+    },
+    {
+      "id": "X001",
+      "section": "docs",
+      "slug": "/fordjupning/ljud-och-prosodi/foneminventarium-och-artikulation",
+      "href": "/docs/fordjupning/ljud-och-prosodi/foneminventarium-och-artikulation",
+      "title": "Foneminventarium och artikulation",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "G02",
+        "G03"
+      ],
+      "requiredCoverage": "Vokaler, konsonanter, allofoner, artikulationsställe/-sätt och IPA; skilj fonemisk och fonetisk transkription med uttalsvariant.",
+      "status": "ready",
+      "sources": [
+        "Duden Aussprachewörterbuch",
+        "Siebs Deutsche Aussprache",
+        "Eisenberg Grundriss der deutschen Grammatik"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 101,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/LjudOchProsodi/foneminventarium-och-artikulation.mdx",
+      "reviewEvidence": "internal-crosscheck-phonetics-approved"
+    },
+    {
+      "id": "X002",
+      "section": "docs",
+      "slug": "/fordjupning/ljud-och-prosodi/stavelser-och-kvantitet",
+      "href": "/docs/fordjupning/ljud-och-prosodi/stavelser-och-kvantitet",
+      "title": "Stavelser och kvantitet",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "G02",
+        "G04"
+      ],
+      "requiredCoverage": "Stavelsegräns, betonad/obetonad stavelse, vokalkvalitet och längd; varför konsonantantal i skrift bara är en ledtråd.",
+      "status": "ready",
+      "sources": [
+        "Duden Aussprachewörterbuch",
+        "Siebs Deutsche Aussprache",
+        "Eisenberg Grundriss der deutschen Grammatik"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 102,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/LjudOchProsodi/stavelser-och-kvantitet.mdx",
+      "reviewEvidence": "internal-crosscheck-phonetics-approved"
+    },
+    {
+      "id": "X003",
+      "section": "docs",
+      "slug": "/fordjupning/ljud-och-prosodi/reduktion-schwa-och-sammanhangande-tal",
+      "href": "/docs/fordjupning/ljud-och-prosodi/reduktion-schwa-och-sammanhangande-tal",
+      "title": "Reduktion, schwa och sammanhängande tal",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "G03",
+        "G04"
+      ],
+      "requiredCoverage": "Schwa-bortfall, syllabiska sonoranter, assimilation, länkar mellan ord och vårdat kontra spontant tal; tidsstämplade ljudexempel.",
+      "status": "ready",
+      "sources": [
+        "Duden Aussprachewörterbuch",
+        "Siebs Deutsche Aussprache",
+        "Eisenberg Grundriss der deutschen Grammatik"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 103,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/LjudOchProsodi/reduktion-schwa-och-sammanhangande-tal.mdx",
+      "reviewEvidence": "internal-crosscheck-phonetics-approved"
+    },
+    {
+      "id": "X004",
+      "section": "docs",
+      "slug": "/fordjupning/ljud-och-prosodi/ordaccent-och-morfologisk-struktur",
+      "href": "/docs/fordjupning/ljud-och-prosodi/ordaccent-och-morfologisk-struktur",
+      "title": "Ordaccent och morfologisk struktur",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "G04",
+        "V06"
+      ],
+      "requiredCoverage": "Sammansättning, avledning, prefix, partikelverb och lånord; primär/sekundär accent och betydelseskiftande par.",
+      "status": "ready",
+      "sources": [
+        "Duden Aussprachewörterbuch",
+        "Siebs Deutsche Aussprache",
+        "Eisenberg Grundriss der deutschen Grammatik"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 104,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/LjudOchProsodi/ordaccent-och-morfologisk-struktur.mdx",
+      "reviewEvidence": "internal-crosscheck-phonetics-approved"
     }
   ]
 }

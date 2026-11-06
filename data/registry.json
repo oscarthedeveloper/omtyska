@@ -77,7 +77,12 @@
     "total": 112,
     "learningPathSteps": 54,
     "minimumMainQuizItems": 600,
-    "minimumAdditionalQuizItems": 44
+    "minimumAdditionalQuizItems": 44,
+    "totalLessons": 112,
+    "writtenLessons": 66,
+    "missingLessons": 46,
+    "auditStage": 0,
+    "auditStatus": "etapp-0-completed"
   },
   "learningPath": [
     {
@@ -182,7 +187,10 @@
       "languageReview": "approved",
       "learningPathStep": 2,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/grunder/alfabet.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "G02",
@@ -200,7 +208,10 @@
       "languageReview": "approved",
       "learningPathStep": 3,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/grunder/vokaler.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "G03",
@@ -218,7 +229,10 @@
       "languageReview": "approved",
       "learningPathStep": 4,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/grunder/konsonanter.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "G04",
@@ -237,7 +251,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "G05",
@@ -256,7 +273,10 @@
       "languageReview": "approved",
       "learningPathStep": 5,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/grunder/stavning-och-specialtecken.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "G06",
@@ -274,7 +294,10 @@
       "languageReview": "approved",
       "learningPathStep": 6,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/grunder/stor-och-liten-bokstav.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "G07",
@@ -293,7 +316,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "G08",
@@ -309,7 +335,10 @@
       "languageReview": "approved",
       "learningPathStep": 1,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/grunder/grammatiska-begrepp.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "S01",
@@ -327,7 +356,10 @@
       "languageReview": "approved",
       "learningPathStep": 13,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/substantiv/genus.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "S02",
@@ -345,7 +377,10 @@
       "languageReview": "approved",
       "learningPathStep": 14,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/substantiv/plural.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "S03",
@@ -364,7 +399,10 @@
       "languageReview": "approved",
       "learningPathStep": 16,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/substantiv/bestamd-artikel.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "S04",
@@ -382,7 +420,10 @@
       "languageReview": "approved",
       "learningPathStep": 17,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/substantiv/obestamd-artikel-och-nollartikel.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "S05",
@@ -401,7 +442,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "S06",
@@ -419,7 +463,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "S07",
@@ -438,7 +485,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "S08",
@@ -459,7 +509,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "S09",
@@ -478,7 +531,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "K01",
@@ -496,7 +552,10 @@
       "languageReview": "approved",
       "learningPathStep": 15,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/kasus/oversikt.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "K02",
@@ -515,7 +574,10 @@
       "languageReview": "approved",
       "learningPathStep": 18,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/kasus/nominativ.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "K03",
@@ -534,7 +596,10 @@
       "languageReview": "approved",
       "learningPathStep": 19,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/kasus/ackusativ.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "K04",
@@ -552,7 +617,10 @@
       "languageReview": "approved",
       "learningPathStep": 20,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/kasus/dativ.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "K05",
@@ -570,7 +638,10 @@
       "languageReview": "approved",
       "learningPathStep": 43,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/kasus/genitiv.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "K06",
@@ -589,7 +660,10 @@
       "languageReview": "approved",
       "learningPathStep": 23,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/kasus/tva-objekt.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "K07",
@@ -609,7 +683,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "K08",
@@ -628,7 +705,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "A01",
@@ -647,7 +727,10 @@
       "languageReview": "approved",
       "learningPathStep": 47,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/adjektiv/tre-anvandningar.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "A02",
@@ -667,7 +750,10 @@
       "languageReview": "approved",
       "learningPathStep": 48,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/adjektiv/svag-bojning.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "A03",
@@ -686,7 +772,10 @@
       "languageReview": "approved",
       "learningPathStep": 49,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/adjektiv/blandad-bojning.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "A04",
@@ -704,7 +793,10 @@
       "languageReview": "approved",
       "learningPathStep": 50,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/adjektiv/stark-bojning.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "A05",
@@ -722,7 +814,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "A06",
@@ -740,7 +835,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "A07",
@@ -758,7 +856,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "A08",
@@ -778,7 +879,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "R01",
@@ -796,7 +900,10 @@
       "languageReview": "approved",
       "learningPathStep": 7,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/pronomen/personliga-subjekt.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "R02",
@@ -815,7 +922,10 @@
       "languageReview": "approved",
       "learningPathStep": 21,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/pronomen/personliga-objekt.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "R03",
@@ -834,7 +944,10 @@
       "languageReview": "approved",
       "learningPathStep": 22,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/pronomen/possessiva-artikelord.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "R04",
@@ -853,7 +966,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "R05",
@@ -871,7 +987,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "R06",
@@ -890,7 +1009,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "R07",
@@ -909,7 +1031,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "R08",
@@ -928,7 +1053,10 @@
       "languageReview": "approved",
       "learningPathStep": 44,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/pronomen/relativa-former.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "R09",
@@ -947,7 +1075,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "R10",
@@ -966,7 +1097,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "R11",
@@ -985,7 +1119,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "V01",
@@ -1004,7 +1141,10 @@
       "languageReview": "approved",
       "learningPathStep": 8,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/verb/introduktion.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "V02",
@@ -1022,7 +1162,10 @@
       "languageReview": "approved",
       "learningPathStep": 9,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/verb/presens.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "V03",
@@ -1040,7 +1183,10 @@
       "languageReview": "approved",
       "learningPathStep": 32,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/verb/starka-och-blandade.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "V04",
@@ -1058,7 +1204,10 @@
       "languageReview": "approved",
       "learningPathStep": 10,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/verb/sein-haben-werden.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "V05",
@@ -1077,7 +1226,10 @@
       "languageReview": "approved",
       "learningPathStep": 24,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/verb/separerbara.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "V06",
@@ -1096,7 +1248,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "V07",
@@ -1115,7 +1270,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "V08",
@@ -1134,7 +1292,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "V09",
@@ -1154,7 +1315,10 @@
       "languageReview": "approved",
       "learningPathStep": 38,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/verb/infinitiv-med-och-utan-zu.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "T01",
@@ -1173,7 +1337,10 @@
       "languageReview": "approved",
       "learningPathStep": 33,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/tempus/particip-ii.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "T02",
@@ -1193,7 +1360,10 @@
       "languageReview": "approved",
       "learningPathStep": 34,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/tempus/perfekt.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "T03",
@@ -1212,7 +1382,10 @@
       "languageReview": "approved",
       "learningPathStep": 35,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/tempus/preteritum.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "T04",
@@ -1231,7 +1404,10 @@
       "languageReview": "approved",
       "learningPathStep": 36,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/tempus/perfekt-eller-preteritum.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "T05",
@@ -1249,7 +1425,10 @@
       "languageReview": "approved",
       "learningPathStep": 37,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/tempus/pluskvamperfekt.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "T06",
@@ -1268,7 +1447,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "T07",
@@ -1287,7 +1469,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "T08",
@@ -1306,7 +1491,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "M01",
@@ -1325,7 +1513,10 @@
       "languageReview": "approved",
       "learningPathStep": 46,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/modus/modalverb.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "M02",
@@ -1345,7 +1536,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "M03",
@@ -1363,7 +1557,10 @@
       "languageReview": "approved",
       "learningPathStep": 51,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/modus/konjunktiv-ii.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "M04",
@@ -1382,7 +1579,10 @@
       "languageReview": "approved",
       "learningPathStep": 52,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/modus/konjunktiv-ii-datid.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "M05",
@@ -1401,7 +1601,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "M06",
@@ -1421,7 +1624,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "M07",
@@ -1440,7 +1646,10 @@
       "languageReview": "approved",
       "learningPathStep": 53,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/modus/handelsepassiv.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "M08",
@@ -1459,7 +1668,10 @@
       "languageReview": "approved",
       "learningPathStep": 54,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/modus/tillstandspassiv.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "P01",
@@ -1477,7 +1689,10 @@
       "languageReview": "approved",
       "learningPathStep": 27,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/prepositioner/ackusativ.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "P02",
@@ -1495,7 +1710,10 @@
       "languageReview": "approved",
       "learningPathStep": 28,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/prepositioner/dativ.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "P03",
@@ -1514,7 +1732,10 @@
       "languageReview": "approved",
       "learningPathStep": 29,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/prepositioner/vaxelprepositioner.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "P04",
@@ -1534,7 +1755,10 @@
       "languageReview": "approved",
       "learningPathStep": 30,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/prepositioner/nach-in-zu-an-auf.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "P05",
@@ -1553,7 +1777,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "P06",
@@ -1572,7 +1799,10 @@
       "languageReview": "approved",
       "learningPathStep": 31,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/prepositioner/tid.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "P07",
@@ -1590,7 +1820,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "P08",
@@ -1609,7 +1842,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "P09",
@@ -1629,7 +1865,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "P10",
@@ -1648,7 +1887,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "Y01",
@@ -1666,7 +1908,10 @@
       "languageReview": "approved",
       "learningPathStep": 11,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/syntax/verb-pa-andra-plats.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "Y02",
@@ -1685,7 +1930,10 @@
       "languageReview": "approved",
       "learningPathStep": 25,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/syntax/satsram.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "Y03",
@@ -1703,7 +1951,10 @@
       "languageReview": "approved",
       "learningPathStep": 12,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/syntax/fragor.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "Y04",
@@ -1722,7 +1973,10 @@
       "languageReview": "approved",
       "learningPathStep": 41,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/syntax/ordfoljd-i-bisatser.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "Y05",
@@ -1741,7 +1995,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "Y06",
@@ -1760,7 +2017,10 @@
       "languageReview": "approved",
       "learningPathStep": 26,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/syntax/nicht-och-kein.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "Y07",
@@ -1778,7 +2038,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "B01",
@@ -1796,7 +2059,10 @@
       "languageReview": "approved",
       "learningPathStep": 39,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/satser/samordning.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "B02",
@@ -1814,7 +2080,10 @@
       "languageReview": "approved",
       "learningPathStep": 40,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/satser/underordning.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "B03",
@@ -1833,7 +2102,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "B04",
@@ -1852,7 +2124,10 @@
       "languageReview": "approved",
       "learningPathStep": 45,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/satser/relativsatser.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "B05",
@@ -1871,7 +2146,10 @@
       "languageReview": "approved",
       "learningPathStep": 42,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/satser/tidssatser.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "B06",
@@ -1890,7 +2168,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "B07",
@@ -1909,7 +2190,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "D01",
@@ -1927,7 +2211,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "D02",
@@ -1945,7 +2232,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "D03",
@@ -1963,7 +2253,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "D04",
@@ -1981,7 +2274,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "D05",
@@ -1999,7 +2295,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "D06",
@@ -2018,7 +2317,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "D07",
@@ -2036,7 +2338,10 @@
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
-      "minimumQuizItems": 6
+      "minimumQuizItems": 6,
+      "contentExists": false,
+      "contentFile": null,
+      "reviewEvidence": "not-started"
     },
     {
       "id": "E01",
@@ -2055,7 +2360,10 @@
       "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
-      "minimumQuizItems": 4
+      "minimumQuizItems": 4,
+      "contentExists": true,
+      "contentFile": "content/mer/werden-bleiben-bekommen.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "E02",
@@ -2073,7 +2381,10 @@
       "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
-      "minimumQuizItems": 4
+      "minimumQuizItems": 4,
+      "contentExists": true,
+      "contentFile": "content/mer/wissen-kennen-konnen.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "E03",
@@ -2092,7 +2403,10 @@
       "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
-      "minimumQuizItems": 4
+      "minimumQuizItems": 4,
+      "contentExists": true,
+      "contentFile": "content/mer/mussen-sollen-durfen.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "E04",
@@ -2111,7 +2425,10 @@
       "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
-      "minimumQuizItems": 4
+      "minimumQuizItems": 4,
+      "contentExists": true,
+      "contentFile": "content/mer/wenn-als-wann-ob.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "E05",
@@ -2130,7 +2447,10 @@
       "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
-      "minimumQuizItems": 4
+      "minimumQuizItems": 4,
+      "contentExists": true,
+      "contentFile": "content/mer/ordbildning.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "E06",
@@ -2149,7 +2469,10 @@
       "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
-      "minimumQuizItems": 4
+      "minimumQuizItems": 4,
+      "contentExists": true,
+      "contentFile": "content/mer/nominalstil.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "E07",
@@ -2169,7 +2492,10 @@
       "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
-      "minimumQuizItems": 4
+      "minimumQuizItems": 4,
+      "contentExists": true,
+      "contentFile": "content/mer/passivalternativ.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "E08",
@@ -2189,7 +2515,10 @@
       "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
-      "minimumQuizItems": 4
+      "minimumQuizItems": 4,
+      "contentExists": true,
+      "contentFile": "content/mer/particip-som-attribut.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "E09",
@@ -2208,7 +2537,10 @@
       "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
-      "minimumQuizItems": 4
+      "minimumQuizItems": 4,
+      "contentExists": true,
+      "contentFile": "content/mer/tyska-i-tyskland-osterrike-schweiz.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "E10",
@@ -2226,7 +2558,10 @@
       "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
-      "minimumQuizItems": 4
+      "minimumQuizItems": 4,
+      "contentExists": true,
+      "contentFile": "content/mer/svenska-fallgropar-och-falska-vanner.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "E11",
@@ -2246,7 +2581,10 @@
       "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 6,
-      "minimumQuizItems": 4
+      "minimumQuizItems": 4,
+      "contentExists": true,
+      "contentFile": "content/mer/verbgrupper-och-oberfeld.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "E12",
@@ -2264,7 +2602,10 @@
       "languageReview": "approved",
       "learningPathStep": null,
       "minimumExamples": 0,
-      "minimumQuizItems": 0
+      "minimumQuizItems": 0,
+      "contentExists": true,
+      "contentFile": "content/mer/grammatiska-termer.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     }
   ]
 }

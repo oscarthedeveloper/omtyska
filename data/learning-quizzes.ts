@@ -5469,7 +5469,7 @@ export const LEARNING_QUIZZES: Record<string, LearningQuiz> = {
           {
               "id": "m03-q2",
               "context": "För verben sein, haben och modalverben undviks \"würde\".",
-              "prompt": "Vilka enkla former används ALLTID i stället för \"würde sein\" och \"würde haben\"?",
+              "prompt": "Vilka enkla former föredras i standardtyska och skrift i stället för omskrivningarna \"würde sein\" och \"würde haben\"?",
               "options": [
                   "wäre och hätte",
                   "war och hatte",

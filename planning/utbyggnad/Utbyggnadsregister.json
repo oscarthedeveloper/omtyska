@@ -1,0 +1,3444 @@
+{
+  "version": "2.0-proposal",
+  "date": "2026-11-06",
+  "sourceRoot": "/Users/oscarpagerup/Desktop/Git Repo/Om-Tyska",
+  "sourceRevision": "dfabedff43ddda441b37b620d860a9ae9b14c7df",
+  "counts": {
+    "existingFiles": 66,
+    "missingOriginal": 46,
+    "newReference": 83,
+    "targetCanonicalPages": 195
+  },
+  "existingAndMissing": [
+    {
+      "id": "G01",
+      "title": "Alfabetet och att bokstavera",
+      "href": "/docs/grunder/alfabet",
+      "file": "content/docs/Grunder/alfabet.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Det fullständiga tyska alfabetet",
+        "2. De 4 specialtecknen",
+        "3. Att bokstavera på tyska i praktiken",
+        "Viktiga symboler",
+        "Exempel: E-postadress",
+        "Exempel: Namnet \"Schmidt\"",
+        "10 autentiska exempel på att bokstavera",
+        "Vanliga misstag för svenskar"
+      ],
+      "wordsApprox": 786,
+      "requiredCoverage": "26 grundbokstäver samt ä, ö, ü och ß som särskilda tecken; bokstavsnamn, namn och e-postadresser; skilj bokstavens namn från ljudet i ord.",
+      "expansion": "Skilj alfabet, grafem, fonem och bokstavsnamn; regionala bokstaveringsbruk, namn och förkortningar; länka till en egen ljudlära i stället för att lägga all fonetik här.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "G02",
+      "title": "Vokaler, omljud och längd",
+      "href": "/docs/grunder/vokaler",
+      "file": "content/docs/Grunder/vokaler.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "Minimala ordpar: Lyssna på skillnaden",
+        "Omljuden: ä, ö och ü",
+        "1. Bokstaven Ä / ä",
+        "2. Bokstaven Ö / ö",
+        "3. Bokstaven Ü / ü (Viktigaste svenska fällan!)",
+        "Betydelsekontrast: \"schon\" kontra \"schön\"",
+        "Diftongerna: ei, ie, eu, äu, au"
+      ],
+      "wordsApprox": 425,
+      "requiredCoverage": "Långa och korta vokaler, ä/ö/ü, ei/ie/eu/äu/au; IPA med ljudstöd; egna minimala par och svenska jämförelser med angivna begränsningar.",
+      "expansion": "Rätta att Mut/Mutter inte är ett minimalt par; gut har inte öppen stavelse; skilj stavelsestruktur från bokstavsledtrådar. Utveckla vokalkvalitet, schwa, vokaliserat r, lånord och standardvariation av långt ä.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "G03",
+      "title": "Konsonanterna och deras ljud",
+      "href": "/docs/grunder/konsonanter",
+      "file": "content/docs/Grunder/konsonanter.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Ich-ljudet [ç] vs. Ach-ljudet [x]",
+        "2. sp- och st- i ordets början",
+        "3. De olika s-ljuden: S, SS, ß och Z",
+        "4. Auslautverhärtung (Tonlöshet i ordslut)",
+        "5. Det tyska R-ljudet",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 741,
+      "requiredCoverage": "Ich- och ach-ljud, sch/sp/st, s/ss/ß/z, v/w, j och r; tonlöshet i ordslut, ng och vanliga lånord; undvik att ett enda regionalt r blir enda rätta uttalet.",
+      "expansion": "Utveckla morfemgränser och suffixet -chen, aspiration, affrikator, glottal insats, assimilation och lånordsuttal. Precisera när sp/st-regeln gäller; inga absoluta regler för alla ordinitiala bokstavssekvenser.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "G04",
+      "title": "Betoning, rytm och satsmelodi",
+      "href": "/docs/grunder/betoning-och-satsmelodi",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Ord- och satsbetoning, obetonat e, reduktion, betonade verbpartiklar, frågor och kontrastbetoning; övningar som faktiskt kräver lyssning.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Ord- och satsbetoning, obetonat e, reduktion, betonade verbpartiklar, frågor och kontrastbetoning; övningar som faktiskt kräver lyssning.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "G05",
+      "title": "Stavning, ss, ß och omljud",
+      "href": "/docs/grunder/stavning-och-specialtecken",
+      "file": "content/docs/Grunder/stavning-och-specialtecken.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Jämförelse: Vokallängd avgör stavningen",
+        "2. Hur man omskriver specialtecken",
+        "3. Schweiz och Liechtenstein",
+        "4. Versalt Eszett: ẞ",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 569,
+      "requiredCoverage": "Vokallängd och ss/ß med avgränsningar; ä/ae, ö/oe, ü/ue som omskrivning; skillnad mellan uttal och stavning; Schweiz som markerad standardvariant.",
+      "expansion": "Skilj ljud–bokstavsrelation från böjningsregler, morfemkonstans och ordsläktskap; behandla stavningsalternativ, dubbelvokal, ck/tz och s-ljudens avgränsningar med officiell norm.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "G06",
+      "title": "Stor och liten bokstav",
+      "href": "/docs/grunder/stor-och-liten-bokstav",
+      "file": "content/docs/Grunder/stor-och-liten-bokstav.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Substantiv vs. Adjektiv: Den svenska fällan",
+        "2. Substantiveringar (När andra ord blir substantiv)",
+        "1. Infinitiv av verb -> Substantiv",
+        "2. Adjektiv efter obestämda pronomen (etwas, nichts, viel, wenig)",
+        "3. Artigt tilltal: Sie och Ihr",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 597,
+      "requiredCoverage": "Substantiv, substantiveringar, språk, veckodagar och tilltal Sie/Ihr; skilj ich lerne Deutsch från adjektiviskt deutsch; svenskt interferensperspektiv.",
+      "expansion": "Utveckla substantivering kontra ellips, språk-/färgbeteckningar, fasta adverbial, pronomen i brev, titlar och flerdelade namn. Lägg till tvetydiga gränsfall och direkt regelhänvisning.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "G07",
+      "title": "Komma och skrivregler",
+      "href": "/docs/grunder/komma-och-skrivregler",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Huvud- och bisatser, relativsatser och infinitivgrupper enligt verifierat regelverk; sammanskrivning, bindestreck och citat; skilj bindande regel från rekommendation.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Huvud- och bisatser, relativsatser och infinitivgrupper enligt verifierat regelverk; sammanskrivning, bindestreck och citat; skilj bindande regel från rekommendation.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "G08",
+      "title": "Grammatiska begrepp från början",
+      "href": "/docs/grunder/grammatiska-begrepp",
+      "file": "content/docs/Grunder/grammatiska-begrepp.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Ordklass eller satsdel?",
+        "2. Finit verb och infinitiv",
+        "3. De tre grammatiska dimensionerna",
+        "Dimension 1: Genus (Grammatiskt kön)",
+        "Dimension 2: Numerus (Antal)",
+        "Dimension 3: Kasus (Meningens roller)",
+        "10 autentiska exempel i sammanhang",
+        "Vanliga misstag för svenskar"
+      ],
+      "wordsApprox": 863,
+      "requiredCoverage": "Ordklass och satsdel, böjt verb och infinitiv, subjekt och objekt, genus/numerus/kasus; svenska och tyska exempel sida vid sida; användbara länkar till E12.",
+      "expansion": "Ersätt definitionen subjekt = agent med formella kännetecken och kontraster. Skilj semantisk roll, satsfunktion, ordklass och frastyp samt nominalfrasens huvud och attribut.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "S01",
+      "title": "Substantivens genus",
+      "href": "/docs/substantiv/genus",
+      "file": "content/docs/Substantiv/genus.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. De säkra femininändelserna (Alltid DIE!)",
+        "2. De säkra neutrumändelserna (Alltid DAS!)",
+        "3. De säkra maskulinändelserna (Alltid DER!)",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 574,
+      "requiredCoverage": "Der/die/das, tydliga suffix och semantiska ledtrådar med undantag; der Tisch, die Tür, das Mädchen; skilj grammatiskt genus från kön och referens.",
+      "expansion": "Ta bort obelagda procentsiffror. Skilj verkligt suffix från sista bokstäver; exempel som der Kuchen och das Genie visar varför ordslut inte räcker. Utveckla genusvariation, betydelseskiljande genus, lånord och semantisk pronominalkongruens.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "S02",
+      "title": "Plural och numerus",
+      "href": "/docs/substantiv/plural",
+      "file": "content/docs/Substantiv/plural.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. De fem pluralmönstren i detalj",
+        "2. Praktiska tumregler som underlättar",
+        "3. Ord utan singular eller utan plural",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 636,
+      "requiredCoverage": "Alla centrala pluralmönster inklusive omljud, nollplural och lånord; räknebarhet och ord utan vanlig singular/plural; lär substantiv med artikel och plural.",
+      "expansion": "Rätta tabellens das Mann till der Mann. Utveckla dubbelplural och betydelseskillnader, lånord, egennamn, måttord, kollektiv och massord; dokumentera lexikala villkor i stället för absoluta fem-gruppsregler.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "S03",
+      "title": "Bestämd artikel: der, die, das",
+      "href": "/docs/substantiv/bestamd-artikel",
+      "file": "content/docs/Substantiv/bestamd-artikel.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "Hela böjningsschemat: Bestämd artikel",
+        "Samma form – olika funktioner",
+        "Sammandragningar med prepositioner",
+        "Med Dativ (dem / der)",
+        "Med Ackusativ (das)",
+        "Typiska svenska fallgropar"
+      ],
+      "wordsApprox": 470,
+      "requiredCoverage": "Fullständig tabell över fyra kasus och fyra genus/numeruskolumner; artikelbruk och svensk slutartikel; jämför identiska former med olika funktion.",
+      "expansion": "Utvidga från formmatris till definithet: anaforisk, situationell, generisk och unik referens; artikel vid namn, titlar, institutioner och geografiska uttryck. Kontrastera artikel som bestämning mot demonstrativ användning.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "S04",
+      "title": "Ein, kein och nollartikel",
+      "href": "/docs/substantiv/obestamd-artikel-och-nollartikel",
+      "file": "content/docs/Substantiv/obestamd-artikel-och-nollartikel.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Den viktiga regeln: Plural av \"ein\" finns inte!",
+        "2. \"Nicht\" kontra \"Kein\": Hur negerar man?",
+        "3. Nollartikel: När tyskan stryker artikeln",
+        "1. Yrken och nationaliteter efter \"sein\" och \"werden\"",
+        "2. Ämnen, material och drycker i obestämd mängd",
+        "3. De allra flesta länder och städer",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 577,
+      "requiredCoverage": "Ein/eine i samtliga kasus, kein och possessivliknande mönster; ingen vanlig plural av ein; yrke, material, mängd, namn och geografiska namn med relevanta undantag.",
+      "expansion": "Utveckla specifik/icke-specifik och generisk referens, räknebarhet, yrke med attribut, mängd-/måttfraser och predikativ. Klargör när artikellöshet ändrar betydelse och när ein betyder ett enda.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "S05",
+      "title": "N-deklination och blandade substantiv",
+      "href": "/docs/substantiv/n-deklination",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Der Junge, der Mensch, der Student och undantagsgrupper; singular och plural; der Name och das Herz behandlas separat; substantivets ändelse utöver artikeln.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Der Junge, der Mensch, der Student och undantagsgrupper; singular och plural; der Name och das Herz behandlas separat; substantivets ändelse utöver artikeln.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "S06",
+      "title": "Genitivändelser och namn",
+      "href": "/docs/substantiv/genitivformer",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Maskulina/neutrala substantiv med -(e)s, personnamn och apostrof; genitiv i nominalfraser; von-konstruktioner med registerskillnader; K05 äger satsfunktionen.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Maskulina/neutrala substantiv med -(e)s, personnamn och apostrof; genitiv i nominalfraser; von-konstruktioner med registerskillnader; K05 äger satsfunktionen.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "S07",
+      "title": "Substantivböjning och dativ plural",
+      "href": "/docs/substantiv/dativ-plural",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Dativ plural med -n och villkoren för uteblivet extra n, exempel med Kindern, Frauen och Autos; skilj pluralbildning från kasusändelse.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Dativ plural med -n och villkoren för uteblivet extra n, exempel med Kindern, Frauen och Autos; skilj pluralbildning från kasusändelse.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "S08",
+      "title": "Substantiverade adjektiv och infinitiver",
+      "href": "/docs/substantiv/substantiveringar",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Das Lesen, der Deutsche, ein Deutscher, etwas Neues och nichts Wichtiges; adjektivisk böjning hos personbeteckningar; versal och betydelse i kontext.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Das Lesen, der Deutsche, ein Deutscher, etwas Neues och nichts Wichtiges; adjektivisk böjning hos personbeteckningar; versal och betydelse i kontext.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "S09",
+      "title": "Sammansatta substantiv",
+      "href": "/docs/substantiv/sammansattningar",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Sista ledets genus och böjning, fogeelement utan falsk universell regel, betoning och tolkning; produktiva egna ord och lexikaliserade undantag; derivation ägs av E05.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Sista ledets genus och böjning, fogeelement utan falsk universell regel, betoning och tolkning; produktiva egna ord och lexikaliserade undantag; derivation ägs av E05.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "K01",
+      "title": "Vad är kasus?",
+      "href": "/docs/kasus/oversikt",
+      "file": "content/docs/Kasus/oversikt.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Genus är INTE samma sak som Kasus!",
+        "2. Den bestämda artikelns magiska matris",
+        "3. Vad styr kasus i en mening?",
+        "1. Verbets valens (styrning)",
+        "2. Prepositioner",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 601,
+      "requiredCoverage": "Fyra kasus med funktioner i hela meningar; genus är inte kasus; verb och preposition kan styra; frågeorden wer/wen/wem/wessen som stöd efter analys.",
+      "expansion": "Bygg en verklig kasusdiagnostik med styrande huvud, synkretism och kongruens. Lägg till adverbial kasus, attributiv genitiv och fri dativ; skilj form från semantisk roll.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "K02",
+      "title": "Nominativ: subjekt och predikativ",
+      "href": "/docs/kasus/nominativ",
+      "file": "content/docs/Kasus/nominativ.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Artiklar i nominativ (Grundmatrisen)",
+        "2. Den stora predikativfällan: \"Sein\" är ett likhetstecken",
+        "3. Subjektet kan stå var som helst i satsen!",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 504,
+      "requiredCoverage": "Subjekt i olika positioner, subjekt–verbkongruens, predikativa nominalfraser vid sein/werden/bleiben; kontrast mot svenska objektsformer.",
+      "expansion": "Precisera vad subjekt kan stå var som helst betyder: satsfält och konstruktion begränsar. Utveckla subjekt utan agentroll, subjektlösa konstruktioner, satsformat subjekt och predikativ kongruens.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "K03",
+      "title": "Ackusativ: direkt objekt och mer",
+      "href": "/docs/kasus/ackusativ",
+      "file": "content/docs/Kasus/ackusativ.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "Jämför: Vem gör vad mot vem?",
+        "Personliga pronomen i ackusativ",
+        "Rena ackusativprepositioner (DOGFU)",
+        "Viktig fälla: \"Allt efter verb är inte ackusativ\"",
+        "Tidsackusativ (Fördjupning)"
+      ],
+      "wordsApprox": 434,
+      "requiredCoverage": "Direkt objekt, verbstyrning och maskulin artikeländring; kasus utan synlig ändring; tids- och måttackusativ i fördjupning; ingen regel att allt efter verb är objekt.",
+      "expansion": "Utveckla objekt kontra adverbial ackusativ, dubbel ackusativ, AcI och objektspredikativ. Verbbetydelse och konstruktion bestämmer rektion; DOGFU är ingen full rektionsteori.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "K04",
+      "title": "Dativ och verb som styr dativ",
+      "href": "/docs/kasus/dativ",
+      "file": "content/docs/Kasus/dativ.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Dativ som mottagare (Indirekt objekt)",
+        "2. Verb som ALLTID styr dativ",
+        "3. Opersonliga dativuttryck: \"Mir ist kalt\"",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 535,
+      "requiredCoverage": "Mottagare och självständig rektion med helfen, danken, gefallen och gehören; formtabell; mir ist kalt; undvik likställning mellan dativ och svensk till-fras.",
+      "expansion": "Skilj styrt dativobjekt från benefaktiv, possessiv, etisk och bedömande dativ; visa konstruktioner som varierar med betydelse. Objektstatus motiveras med flera test, inte till vem-frågan ensam.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "K05",
+      "title": "Genitiv: tillhörighet och rektion",
+      "href": "/docs/kasus/genitiv",
+      "file": "content/docs/Kasus/genitiv.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Ändelsen på maskulina och neutrala substantiv",
+        "2. Egennamn: Peter, Anna och Goethe",
+        "3. Talspråkets \"von + Dativ\"",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 465,
+      "requiredCoverage": "Genitivattribut och begränsad verbrektion; nominala samband, frågan wessen och register; prepositionsstyrd genitiv länkas till P07, ändelser till S06.",
+      "expansion": "Utveckla subjektiv/objektiv genitiv, partitiv relation, genitivobjekt och adverbialgenitiv; position och nästlade attribut. För över böjningsdetaljer till S06 och undvik att von framställs som alltid likvärdigt.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "K06",
+      "title": "Två objekt och pronomenordning",
+      "href": "/docs/kasus/tva-objekt",
+      "file": "content/docs/Kasus/tva-objekt.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Steg-för-steg: Förvandling med verbet \"geben\"",
+        "Scenario 1: Två substantiv",
+        "Scenario 2: Mottagaren blir ett pronomen (\"honom\")",
+        "Scenario 3: Saken blir ett pronomen (\"den\")",
+        "Scenario 4: Båda blir pronomen (\"den åt honom\")",
+        "2. Varför är det så här? Informationsstrukturen",
+        "3. Två pronomen: Det magiska ordparet \"es ihm / es ihr\"",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 531,
+      "requiredCoverage": "Dativ + ackusativ med två substantiv, ett pronomen och två pronomen; neutrala standardmönster samt kontextberoende ordföljd; genomarbetad omvandling med geben.",
+      "expansion": "Utveckla substantiv/pronomenkombinationer, betoning, fokus och känd/ny information; behandla neutral ordning som tendens. Skapa uppgifter som accepterar granskade kontextberoende alternativ.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "K07",
+      "title": "Verbens kasus och valens",
+      "href": "/docs/kasus/verbens-rektion",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Högfrekventa verb med ackusativ/dativ, ovanligare genitiv som referens, subjekt kontra objekt; betydelseskiftande konstruktioner; varje verb får en verklig exempelmening.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Högfrekventa verb med ackusativ/dativ, ovanligare genitiv som referens, subjekt kontra objekt; betydelseskiftande konstruktioner; varje verb får en verklig exempelmening.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "K08",
+      "title": "Prepositionens kasus eller verbets objekt?",
+      "href": "/docs/kasus/preposition-eller-objekt",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Identifiera nominalfrasens styrande ord; skilj ackusativobjekt från für + ackusativ och dativobjekt från mit + dativ; beslutssteg med hela meningar.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Identifiera nominalfrasens styrande ord; skilj ackusativobjekt från für + ackusativ och dativobjekt från mit + dativ; beslutssteg med hela meningar.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "A01",
+      "title": "Attributiv, predikativ och adverbiell användning",
+      "href": "/docs/adjektiv/tre-anvandningar",
+      "file": "content/docs/Adjektiv/tre-anvandningar.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Predikativ användning: Ingen ändelse!",
+        "2. Adverbiell användning: Ingen ändelse!",
+        "3. Attributiv användning: Nu börjar böjningen!",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 543,
+      "requiredCoverage": "Ein schnelles Auto, das Auto ist schnell och es fährt schnell; varför endast vissa positioner böjs; kongruens som utgångspunkt för A02–A04.",
+      "expansion": "Skilj syntaktisk funktion från ordklass; diskutera attributivt/predikativt begränsade adjektiv, sekundärpredikativ och adverbiellt bruk. Visa varför oböjt inte automatiskt betyder adverb som ordklass.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "A02",
+      "title": "Svag adjektivböjning",
+      "href": "/docs/adjektiv/svag-bojning",
+      "file": "content/docs/Adjektiv/svag-bojning.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Den enkla -en-regeln",
+        "2. Vilka ord utlöser svag böjning?",
+        "3. Akta dig för svensk interferens",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 522,
+      "requiredCoverage": "Komplett kasus/genus/numerustabell efter bestämd artikel; -e och -en förklarade i nominalfraser; även dies- och andra relevanta artikelord, med avgränsningar.",
+      "expansion": "Lägg till exakt räckvidd för dies-, jed-, all-, sämtlich- och former med artikelbortfall; jämför samma nominalfras över kasus. Ersätt förenklade signalteorier med fulla paradigmer och hänvisningar till A05.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "A03",
+      "title": "Blandad adjektivböjning",
+      "href": "/docs/adjektiv/blandad-bojning",
+      "file": "content/docs/Adjektiv/blandad-bojning.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "Jämför: Tre sätt att uttrycka \"en bra vän\"",
+        "Fullständigt böjningsparadigm: Blandad böjning",
+        "Steg för steg: Så analyserar du en blandad fras",
+        "Typiska svenska fallgropar"
+      ],
+      "wordsApprox": 441,
+      "requiredCoverage": "Ein guter Freund, einen guten Freund och ein gutes Buch; full tabell; possessiver och kein; plural med meine/keine skiljs från obefintlig plural av ein.",
+      "expansion": "Utveckla possessiver, kein, samordnade adjektiv, ellips och självständiga former. Separera artikelns stamval från kasusböjning; förklara gränsen mellan pedagogisk tredelning och tvåmönsteranalys.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "A04",
+      "title": "Stark adjektivböjning",
+      "href": "/docs/adjektiv/stark-bojning",
+      "file": "content/docs/Adjektiv/stark-bojning.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Jämförelse av de tre systemen (A02, A03, A04)",
+        "2. Stark böjning i plural: Mängdord",
+        "3. Typiska sammanhang för stark böjning",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 582,
+      "requiredCoverage": "Utan artikel och efter relevanta mängduttryck; full tabell inklusive genitiv maskulinum/neutrum; jämför guter Wein/der gute Wein/ein guter Wein utan överdriven en-signal-regel.",
+      "expansion": "Utveckla mängdord och variation efter böjda ord, genitiv och flera adjektiv. Skilj grundmönster från verklig lexikal variation; dela avancerad diskussion med A05 och ny specialartikel.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "A05",
+      "title": "Flera adjektiv, mängdord och specialformer",
+      "href": "/docs/adjektiv/flera-adjektiv-och-mangdord",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "All-, viel-, wenig-, manch-, solch- och parallell böjning; högfrekventa stamförändringar som teuer/hoch; belagd variation markeras och testas inte som entydig.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. All-, viel-, wenig-, manch-, solch- och parallell böjning; högfrekventa stamförändringar som teuer/hoch; belagd variation markeras och testas inte som entydig.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "A06",
+      "title": "Komparativ och superlativ",
+      "href": "/docs/adjektiv/komparation",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Regelbundna former, omljud och gut/besser/best-, viel/mehr/meist-; am schönsten respektive der schönste; attributiv komparativ får också kasusändelse.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Regelbundna former, omljud och gut/besser/best-, viel/mehr/meist-; am schönsten respektive der schönste; attributiv komparativ får också kasusändelse.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "A07",
+      "title": "Jämförelser med als, wie och je … desto",
+      "href": "/docs/adjektiv/als-wie-je-desto",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Likhet, olikhet, ellips och hela jämförelsesatser; korrekt standardbruk och markerat regionalt talspråk; jämförelsesatsens ordföljd.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Likhet, olikhet, ellips och hela jämförelsesatser; korrekt standardbruk och markerat regionalt talspråk; jämförelsesatsens ordföljd.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "A08",
+      "title": "Adjektivens prepositioner och komplement",
+      "href": "/docs/adjektiv/adjektivens-komplement",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Stolz auf + ackusativ, zufrieden mit + dativ samt infinitiv- och dass-konstruktioner; betydelser och rektion registreras tillsammans.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Stolz auf + ackusativ, zufrieden mit + dativ samt infinitiv- och dass-konstruktioner; betydelser och rektion registreras tillsammans.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "R01",
+      "title": "Ich, du, er, sie, es och Sie",
+      "href": "/docs/pronomen/personliga-subjekt",
+      "file": "content/docs/Pronomen/personliga-subjekt.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Den stora fällan: sie, sie och Sie",
+        "2. Hur du tilltalar människor på tyska",
+        "1. \"Du\" (Singular, informellt)",
+        "2. \"Ihr\" (Plural, informellt)",
+        "3. \"Sie\" (Artigt, formellt)",
+        "3. Pronomen ersätter ting efter grammatiskt kön!",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 614,
+      "requiredCoverage": "Alla person-/numerusformer, ihr/sie/Sie och kongruens; subjekt behövs normalt; tilltal i kontext; sex böjningsrader skiljs från fler kommunikationsroller.",
+      "expansion": "Utveckla deiktisk/anaforisk referens, generiskt du/sie och formellt tilltal. Precisera genusregeln genom Mädchen och referens till personer; grammatiskt genus styr inte varje efterföljande pronomen mekaniskt.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "R02",
+      "title": "Mich, mir, dich, dir",
+      "href": "/docs/pronomen/personliga-objekt",
+      "file": "content/docs/Pronomen/personliga-objekt.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Skillnaden mellan mich och mir",
+        "Regel A: Titta på verbet",
+        "Regel B: Titta på prepositionen",
+        "2. Den enkla nyheten: \"uns\" och \"euch\" ändras aldrig!",
+        "3. Tredje person syftar på substantivets kön!",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 504,
+      "requiredCoverage": "Full ackusativ- och dativtabell, prepositionsobjekt och referens; genus i tredje person och tilltal; återkoppling skiljer fel kasus från fel referent.",
+      "expansion": "Utveckla betonade/obetonade former, prepositionsanknytning, samordning och kongruens med naturligt kön. Ersätt uns/euch ändras aldrig med den avsedda jämförelsen mellan ackusativ och dativ.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "R03",
+      "title": "Mein, dein, sein och ihr",
+      "href": "/docs/pronomen/possessiva-artikelord",
+      "file": "content/docs/Pronomen/possessiva-artikelord.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Ändelsematrisen för possessiva ord",
+        "2. Den stora svenska fällan: \"Sin / Sitt / Sina\"",
+        "3. Specialfallet: \"euer\" tappar ett -e-",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 536,
+      "requiredCoverage": "Ägare väljer stam, ägd nominalfras styr ändelse; sein/ihr/Ihr och euer-former; alla kasus; kontrast mot svenskans sin/sitt/sina.",
+      "expansion": "Utveckla possessiv som artikelord respektive pronomen, bindning och syftningsambiguitet samt svensk sin-överföring. Visa att stam och ändelse svarar på olika frågor.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "R04",
+      "title": "Possessiver utan substantiv",
+      "href": "/docs/pronomen/sjalvstandiga-possessiver",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Meiner/meine/meins och artikelkonstruktioner som der meine; syftning och register; skillnaden mellan artikelord och självständig pronominell form.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Meiner/meine/meins och artikelkonstruktioner som der meine; syftning och register; skillnaden mellan artikelord och självständig pronominell form.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "R05",
+      "title": "Reflexiva pronomen i ackusativ och dativ",
+      "href": "/docs/pronomen/reflexiva",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Ich wasche mich respektive ich wasche mir die Hände; sich i tredje person, reciprokt bruk och einander; det är konstruktionen som avgör kasus.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Ich wasche mich respektive ich wasche mir die Hände; sich i tredje person, reciprokt bruk och einander; det är konstruktionen som avgör kasus.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "R06",
+      "title": "Der, dieser och andra demonstrativer",
+      "href": "/docs/pronomen/demonstrativa",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Artikelord respektive självständigt pronomen, kongruens och syftning; dies-/jen-/solch- i relevant omfattning; register och betonad kontrast.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Artikelord respektive självständigt pronomen, kongruens och syftning; dies-/jen-/solch- i relevant omfattning; register och betonad kontrast.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "R07",
+      "title": "Wer, wen, wem, was och welcher",
+      "href": "/docs/pronomen/frageord",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Kasusstyrda personfrågor, welch- och was für ein; böjning och prepositionsfrågor; skillnad mellan formfråga och betydelsefråga.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Kasusstyrda personfrågor, welch- och was für ein; böjning och prepositionsfrågor; skillnad mellan formfråga och betydelsefråga.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "R08",
+      "title": "Relativpronomen: der, die, das",
+      "href": "/docs/pronomen/relativa-former",
+      "file": "content/docs/Pronomen/relativa-former.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Den gyllene tvåstegsregeln",
+        "Steg 1: Bestäm Genus och Numerus",
+        "Steg 2: Bestäm Kasus",
+        "2. Exempel i praktiken",
+        "3. Akta dig för \"denen\" och \"deren\" i plural",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 498,
+      "requiredCoverage": "Full paradigmtabell inklusive dessen/deren/denen; genus/numerus från korrelat, kasus från relativsatsen; former ägs här, satsbygge i B04.",
+      "expansion": "Utveckla dessen/deren som attribut inne i relativfrasen, prepositioner och relativsyftning på hel sats. Länka fulla konstruktioner till B04 och egna fria/vidareförande relativsidor.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "R09",
+      "title": "Man, jemand, niemand, etwas och nichts",
+      "href": "/docs/pronomen/indefinita",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Högfrekventa indefiniter, ein-/kein- och varianter av böjning; man med enbart tredje singular verb och alternativa objektsformer; negativa uttryck utan spansk dubbelnegationsmodell.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Högfrekventa indefiniter, ein-/kein- och varianter av böjning; man med enbart tredje singular verb och alternativa objektsformer; negativa uttryck utan spansk dubbelnegationsmodell.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "R10",
+      "title": "Es som pronomen och platshållare",
+      "href": "/docs/pronomen/es",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Refererande es, väder, es gibt + ackusativ, korrelat till sats och formellt förfälts-es; när es försvinner vid omflyttning och när det stannar.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Refererande es, väder, es gibt + ackusativ, korrelat till sats och formellt förfälts-es; när es försvinner vid omflyttning och när det stannar.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "R11",
+      "title": "Daran, darauf, woran och worauf",
+      "href": "/docs/pronomen/dar-och-wor",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Da(r)- och wo(r)-former, saker/sakförhållanden kontra personer, preposition plus personpronomen, korrelat till dass-sats; r före vokal.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Da(r)- och wo(r)-former, saker/sakförhållanden kontra personer, preposition plus personpronomen, korrelat till dass-sats; r före vokal.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "V01",
+      "title": "Verbsystemet i överblick",
+      "href": "/docs/verb/introduktion",
+      "file": "content/docs/Verb/introduktion.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Verbgrupperna: Svaga, Starka och Blandade",
+        "1. Svaga verb (Regelbundna)",
+        "2. Starka verb (Oregelbundna / Vokalväxlande)",
+        "3. Blandade verb",
+        "2. Verbets valens (Det tyska styrsystemet)",
+        "3. Hjälpverb och Modalverb",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 539,
+      "requiredCoverage": "Infinitiv, stam, ändelse, person/numerus, tempus/modus och valens; karta över svaga/starka/blandade verb; meningsfunktion och lärordning.",
+      "expansion": "Skilj böjningsklass, regelbundenhet, valens och aktionsart; preteritopresentiska verb och suppletion. Ange att verbets betydelsepost snarare än stavningen äger konstruktionsinformationen.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "V02",
+      "title": "Presens och svaga verb",
+      "href": "/docs/verb/presens",
+      "file": "content/docs/Verb/presens.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Fullständiga böjningsmönster",
+        "2. Presens funktioner i tyskan",
+        "1. Pågående handling just nu",
+        "2. Vana eller allmängiltigt faktum",
+        "3. Framtida planering med tidsangivelse",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 435,
+      "requiredCoverage": "Sex personrader med synligt sie/Sie; -en/-n, stammar på -t/-d och s-ljud; påståenden och frågor; presens för nutid, vana och planerad framtid.",
+      "expansion": "Utveckla stammar på -eln/-ern, e-bortfall, sibilanter, generiskt/historiskt presens och olika tidsreferenser. Skilj enkel form från semantisk nutid.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "V03",
+      "title": "Starka och blandade verb",
+      "href": "/docs/verb/starka-och-blandade",
+      "file": "content/docs/Verb/starka-och-blandade.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Fullständigt presensmönster: e -> i/ie och a -> ä",
+        "2. Metoden: Verbens tre huvudformer",
+        "3. Blandade verb: Vokalväxling + svaga ändelser",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 603,
+      "requiredCoverage": "Ablaut och presensväxling, lesen/fahren/nehmen; blandade verb som denken och bringen; huvudformer som metod, inte godtyckliga etiketter för varje avvikelse.",
+      "expansion": "Utveckla starka verbklasser som mönster, dubbelformer med betydelseskillnader, blandade verb och ovanliga referensformer. Lägg till granskad huvudformslista och regional/registerbunden variation.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "V04",
+      "title": "Sein, haben och werden",
+      "href": "/docs/verb/sein-haben-werden",
+      "file": "content/docs/Verb/sein-haben-werden.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Funktioner som huvudverb",
+        "1. SEIN = Identitet, egenskap, tillstånd",
+        "2. HABEN = Ägande, relation, behov",
+        "3. WERDEN = Förändring, övergång (att bli)",
+        "2. Den klassiska fällan: werden vs. bekommen",
+        "3. Förhandstitt: Rollen som hjälpverb",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 454,
+      "requiredCoverage": "Huvudverb och hjälpverb, huvudformer och presens; identitet, innehav och förändring; hänvisa till M07/M08 för passiv och till T06 för futurum.",
+      "expansion": "Utveckla huvudverb, kopula, tempus- och passivhjälpverb separat. Lägg till funktioner hos sein/haben som inte ryms i äga/vara samt gränsen mot fullverb och funktionsverb.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "V05",
+      "title": "Separerbara verb",
+      "href": "/docs/verb/separerbara",
+      "file": "content/docs/Verb/separerbara.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. De vanligaste separerbara partiklarna",
+        "2. När separeras verbet INTE?",
+        "1. Tillsammans med ett modalverb (Infinitiv i slutet)",
+        "2. I en bisats (Verbet sist)",
+        "3. När partikeln är obetonad (Fast sammansatta verb)",
+        "3. Hur bildas dåtid (Perfekt)?",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 588,
+      "requiredCoverage": "Anrufen/aufstehen i huvudsats, fråga, bisats, zu-infinitiv och perfekt; betonad partikel, ordställning och ge-placering; visa hela meningar och isolerade former separat.",
+      "expansion": "Utveckla betoning, partikel kontra prefix, flerledade verb, zu- och participbildning. Separera begreppen separerbarhet och faktisk placering i satsen; nämn koordination och ellips.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "V06",
+      "title": "Oseparerbara prefix och betydelseskiften",
+      "href": "/docs/verb/oseparerbara-och-betoning",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Be-, emp-, ent-, er-, ge-, miss-, ver-, zer- samt prefix med varierande betoning/separation; jämför omsorgsfullt valda betydelser med separat lexem-ID.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Be-, emp-, ent-, er-, ge-, miss-, ver-, zer- samt prefix med varierande betoning/separation; jämför omsorgsfullt valda betydelser med separat lexem-ID.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "V07",
+      "title": "Reflexiva verb och rektion",
+      "href": "/docs/verb/reflexiva-verb",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Sich freuen auf/über, sich interessieren für och vardagsverb; obligatorisk/valfri reflexiv konstruktion, ackusativ/dativ och svensk översättning; formell valens per betydelse.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Sich freuen auf/über, sich interessieren für och vardagsverb; obligatorisk/valfri reflexiv konstruktion, ackusativ/dativ och svensk översättning; formell valens per betydelse.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "V08",
+      "title": "Imperativ och uppmaningar",
+      "href": "/docs/verb/imperativ",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Du-, ihr- och Sie-form, sein och starka verb, reflexiver och partikelverb; artighet och infinitiv på skyltar; ingen mekanisk infinitiv-minus-en för alla verb.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Du-, ihr- och Sie-form, sein och starka verb, reflexiver och partikelverb; artighet och infinitiv på skyltar; ingen mekanisk infinitiv-minus-en för alla verb.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "V09",
+      "title": "Infinitiv med och utan zu",
+      "href": "/docs/verb/infinitiv-med-och-utan-zu",
+      "file": "content/docs/Verb/infinitiv-med-och-utan-zu.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. \"Dass\" kontra \"Zu\": Den stora svenska fällan",
+        "2. Var placeras \"zu\" vid separerbara verb?",
+        "3. Typiska utlösare av zu-infinitiv",
+        "1. Abstrakta substantiv + haben",
+        "2. Opersonligt uttryck: \"Es ist + adjektiv\"",
+        "3. Fasta verb som styr infinitiv",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 519,
+      "requiredCoverage": "Modalverb, lassen och perceptionsverb som separata konstruktionsfall; zu vid partikelverb; betydelse och subjektanknytning; skilj svensk att-sats från infinitivmärke.",
+      "expansion": "Ersätt samma subjekt = zu och olika subjekt = dass som allmän beslutsregel med konstruktionsstyrning och kontroll. Lägg till AcI, höjning, perfektinfinitiv, passivinfinitiv och sammanhängande/icke sammanhängande infinitivgrupper.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "T01",
+      "title": "Partizip II",
+      "href": "/docs/tempus/particip-ii",
+      "file": "content/docs/Tempus/particip-ii.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Översikt: Hur Partizip II bildas",
+        "2. Varför får verb på \"-ieren\" inget \"ge-\"?",
+        "3. Placering av Partizip II i meningen",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 548,
+      "requiredCoverage": "Ge- och -(e)t/-en, oregelbundna huvudformer, separerbara och oseparerbara verb och -ieren; tydlig skillnad mot Partizip I och adjektivisk användning.",
+      "expansion": "Utveckla dubbla particip och betydelseskillnad, adjektivisering, perfekt kontra passiv samt particip av prefix- och partikelverb. Ordbokskontroll krävs för undantag och sällsynta former.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "T02",
+      "title": "Perfekt med haben och sein",
+      "href": "/docs/tempus/perfekt",
+      "file": "content/docs/Tempus/perfekt.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Jämförelse: Haben eller Sein?",
+        "2. Perfekt är talspråkets kung i tyskan!",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 549,
+      "requiredCoverage": "Form och satsram, högfrekventa hjälpverbsval och huvudformer; betydelse, transitivitet och regional variation; hjälpverbet ska finnas i verbdata per konstruktion.",
+      "expansion": "Utveckla hjälpverbsval efter transitivitet, konstruktion och region; perfekt med fortsatt giltighet och olika tidsreferenser. Skilj undervisningstendensen tal/perfekt från en absolut regel.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "T03",
+      "title": "Präteritum",
+      "href": "/docs/tempus/preteritum",
+      "file": "content/docs/Tempus/preteritum.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Svaga verb i preteritum: Ändelsen -te",
+        "2. Starka verb i preteritum: Vokalväxling",
+        "3. De oumbärliga formerna: war, hatte och modalverb",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 549,
+      "requiredCoverage": "Svaga/starka/blandade paradigmer och högfrekventa war/hatte/modala former; berättande skrift och vardagligt tal med nyanser; termen preteritum konsekvent i svenska förklaringar.",
+      "expansion": "Utveckla stil, narrativa funktioner och Präteritumschwund utan enkel nord/syd-gräns. Kompletta referensparadigm samt överlappande form mellan indikativ och konjunktiv behöver synas.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "T04",
+      "title": "Perfekt eller Präteritum?",
+      "href": "/docs/tempus/perfekt-eller-preteritum",
+      "file": "content/docs/Tempus/perfekt-eller-preteritum.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Jämförelse i parallella berättelser",
+        "2. Den spanska och engelska fällan: Finns aspekt i tyskan?",
+        "3. Den regionala kompassen (Nord vs. Syd)",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 549,
+      "requiredCoverage": "Register, region och verbval; parallella korta berättelser; ingen spansk motsättning mellan avgränsad händelse och bakgrund överförs till tyskan.",
+      "expansion": "Behåll jämförelsen men fördjupa referenstid, perfektets funktioner, lexikal aktionsart och register. Skriv inte att tyskan saknar alla aspektuella uttrycksmedel bara för att den saknar spansk tempusmotsättning.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "T05",
+      "title": "Plusquamperfekt",
+      "href": "/docs/tempus/pluskvamperfekt",
+      "file": "content/docs/Tempus/pluskvamperfekt.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Fullständigt böjningsmönster: hatte vs. war",
+        "2. Den klassiska tidsföljden med \"nachdem\"",
+        "3. Akta prickarna: \"hatte\" vs. \"hätte\"!",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 483,
+      "requiredCoverage": "Hatte/war + particip, tidigare än annan dåtid; tidslinje, nachdem och kontext; skilj från Konjunktiv II dåtid.",
+      "expansion": "Utveckla förtidighet mot angiven referenstid, relativ tid, berättarperspektiv och tempus i inbäddning. Skilj produktiv standard från dubbla perfektformer på separat variantsida.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "T06",
+      "title": "Futur I, presens och förmodan",
+      "href": "/docs/tempus/futur-i",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Werden + infinitiv, presens med tidsadverbial, avsikt och antaganden; undvik att all framtid måste ha werden; gräns mot modalverbens betydelser.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Werden + infinitiv, presens med tidsadverbial, avsikt och antaganden; undvik att all framtid måste ha werden; gräns mot modalverbens betydelser.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "T07",
+      "title": "Futur II",
+      "href": "/docs/tempus/futur-ii",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Werden + particip + haben/sein; framtida avslut och förmodan om det förflutna; fulla exempel med tydlig kontext och hjälpverbsval.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Werden + particip + haben/sein; framtida avslut och förmodan om det förflutna; fulla exempel med tydlig kontext och hjälpverbsval.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "T08",
+      "title": "Tidsrelationer och svensk överföring",
+      "href": "/docs/tempus/tid-i-sammanhang",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Seit + presens vid pågående förlopp, svenska perfektöversättningar, tidsadverb och berättelsens referenstid; skilj tempus från aktionsart och modalitet.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Seit + presens vid pågående förlopp, svenska perfektöversättningar, tidsadverb och berättelsens referenstid; skilj tempus från aktionsart och modalitet.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "M01",
+      "title": "Können, müssen, dürfen och de andra modalverben",
+      "href": "/docs/modus/modalverb",
+      "file": "content/docs/Modus/modalverb.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. De tre stora svenska betydelsefällorna",
+        "Fälla 1: Svenskans \"få\"",
+        "Fälla 2: \"Muss nicht\" kontra \"Darf nicht\"",
+        "Fälla 3: \"Sollen\" kontra \"Werden\"",
+        "2. Vad är egentligen \"möchte\"?",
+        "3. Ordföljd: Modalverbet på plats 2, huvudverbet sist!",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 557,
+      "requiredCoverage": "Können/müssen/dürfen/sollen/wollen/mögen, möchte i korrekt relation till mögen; böjning, infinitiv och betydelse; olika betydelser av svensk kunna/ska/få.",
+      "expansion": "Utveckla deontisk/dynamisk/epistemisk läsning, negationens skopus, sollen/wollen som referat och perifrastisk dåtid. Begränsa nolländelseregeln: wir/ihr-former och mögen får egen korrekt tabell.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "M02",
+      "title": "Modalverb i dåtid och Ersatzinfinitiv",
+      "href": "/docs/modus/modalverb-i-datid",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Präteritum i vardagsbruk, perfekt med och utan styrd infinitiv; ich habe arbeiten müssen; fördjupad bisatsordning länkas till E11.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Präteritum i vardagsbruk, perfekt med och utan styrd infinitiv; ich habe arbeiten müssen; fördjupad bisatsordning länkas till E11.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "M03",
+      "title": "Konjunktiv II: würde, hätte, wäre",
+      "href": "/docs/modus/konjunktiv-ii",
+      "file": "content/docs/Modus/konjunktiv-ii.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Böjningstabell: wäre, hätte, könnte och würde",
+        "2. De tre användningsområdena",
+        "1. Hövlighet och artiga förfrågningar",
+        "2. Hypotetiska önskningar (drömmar)",
+        "3. Irreala villkorssatser (Nutid)",
+        "3. Akta prickarna: hatte vs. hätte!",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 548,
+      "requiredCoverage": "Önskan, hypotetisk nutid/framtid och artighet; vanliga enkla former och würde + infinitiv; inte bara dåtid trots anknytning till Präteritumstammen.",
+      "expansion": "Rätta aldrig ich würde sein/haben och alltid enkel form till brukspreferens med konstruktion/register. Utveckla potentialis/irrealis, formöverlappning, ersättningsformer och artighet utan universella sociala påståenden.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "M04",
+      "title": "Konjunktiv II i dåtid och villkor",
+      "href": "/docs/modus/konjunktiv-ii-datid",
+      "file": "content/docs/Modus/konjunktiv-ii-datid.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Dåtidsvillkor (Irreala konditionalsatser)",
+        "2. Den eleganta konstruktionen utan \"wenn\"",
+        "3. Blandade tidsvillkor (Dåtid -> Nutid)",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 497,
+      "requiredCoverage": "Hätte/wäre + particip, reala och irreala villkor, blandade tidsreferenser och utan wenn i referensdel; modalverbens verbgrupper endast med korrekt avgränsning.",
+      "expansion": "Utveckla villkor utan wenn, modalverb i irreell dåtid, blandade tidsrelationer, als ob och fristående önskningar. Kontext ska avgöra modal tolkning, inte bara formen.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "M05",
+      "title": "Konjunktiv I",
+      "href": "/docs/modus/konjunktiv-i",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Formbildning, sein/haben/werden och tidsreferens; överlappning med indikativ och ersättningsformer; tydlig skillnad mellan formen och användningen i M06.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Formbildning, sein/haben/werden och tidsreferens; överlappning med indikativ och ersättningsformer; tydlig skillnad mellan formen och användningen i M06.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "M06",
+      "title": "Indirekt tal och referat",
+      "href": "/docs/modus/indirekt-tal",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Konjunktiv I, Konjunktiv II och indikativ efter stil/kontext; pronomen och tidsuttryck; ingen automatisk engelsk tempusförskjutning eller regel att II alltid uttrycker misstro.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Konjunktiv I, Konjunktiv II och indikativ efter stil/kontext; pronomen och tidsuttryck; ingen automatisk engelsk tempusförskjutning eller regel att II alltid uttrycker misstro.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "M07",
+      "title": "Vorgangspassiv med werden",
+      "href": "/docs/modus/handelsepassiv",
+      "file": "content/docs/Modus/handelsepassiv.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Tempustabell: Passiv i olika tidsformer",
+        "2. Vem utför handlingen? Agenten: von vs. durch",
+        "3. Passiv med modalverb",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 455,
+      "requiredCoverage": "Aktiv till passiv i presens, preteritum och perfekt; wurde och worden jämfört med geworden; agentfraser, modalverb och opersonlig passiv i fördjupning.",
+      "expansion": "Utveckla passiverbarhet, subjektlös passiv, agentuttryckens betydelse, sein/werden i flera tempus och modalpassiv. Undvik att transitivt automatiskt betyder passiverbart eller att passiv alltid är stelt.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "M08",
+      "title": "Zustandspassiv med sein",
+      "href": "/docs/modus/tillstandspassiv",
+      "file": "content/docs/Modus/tillstandspassiv.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Jämförelse i vardagssituationer",
+        "2. Tempus i Zustandspassiv",
+        "3. Gränsen mot vanliga adjektiv",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 408,
+      "requiredCoverage": "Die Tür wird geöffnet jämfört med ist geöffnet; sammanhang, betydelse och gräns mot predikativt adjektiv; alternativa passivkonstruktioner ägs av E07.",
+      "expansion": "Utveckla tillstånd/resultat/lexikalt adjektiv och diagnostik med begränsningar, agentfras och tempus. Inte varje sein + particip är Zustandspassiv.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "P01",
+      "title": "Prepositioner med ackusativ",
+      "href": "/docs/prepositioner/ackusativ",
+      "file": "content/docs/Prepositioner/ackusativ.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. De fem prepositionerna i detalj",
+        "2. Specialfallet: BIS",
+        "3. Vanliga sammandragningar",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 500,
+      "requiredCoverage": "Durch, für, gegen, ohne och um samt bis med sina konstruktionsvillkor; korta fraser och hela meningar; användning för tid, väg, mottagare och avsaknad.",
+      "expansion": "Utveckla bis med och utan följande preposition, entlang och andra randfall med positions-/registervillkor. Skilj produktiva användningar, fasta uttryck och styrd rektion.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "P02",
+      "title": "Prepositioner med dativ",
+      "href": "/docs/prepositioner/dativ",
+      "file": "content/docs/Prepositioner/dativ.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. De viktigaste prepositionerna i detalj",
+        "2. Den stora fällan: \"Rörelse = Ackusativ?\" NEJ!",
+        "3. Obligatoriska sammandragningar",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 563,
+      "requiredCoverage": "Aus, außer, bei, mit, nach, seit, von och zu; gegenüber och ab med avgränsningar; en verklig betydelse och exempel per preposition; rörelse kan ha dativ.",
+      "expansion": "Utveckla ab, gegenüber och sekundära prepositioner med variation. Granska ordet obligatorisk om sammandragningar: demonstrativt betonad full artikel och fasta konstruktioner måste skiljas.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "P03",
+      "title": "Växelprepositioner: plats och mål",
+      "href": "/docs/prepositioner/vaxelprepositioner",
+      "file": "content/docs/Prepositioner/vaxelprepositioner.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "Myten: \"Rörelse = Ackusativ\"",
+        "Undersök skillnaden: Växla betydelse",
+        "Översikt över de nio växelprepositionerna",
+        "Stegvis analys: Så väljer du rätt i praktiken",
+        "Typiska svenska fallgropar",
+        "Vanliga sammandragningar"
+      ],
+      "wordsApprox": 597,
+      "requiredCoverage": "Alla nio: an, auf, hinter, in, neben, über, unter, vor, zwischen; plats för rörelse respektive målrelation; fasta rektioner och tidsbruk avgränsas; egna minimala meningspar.",
+      "expansion": "Utveckla abstrakta och temporala bruk, verbens fasta prepositioner och rumsliga perspektiv. Samma rörelseverb ska visas med båda relationerna utan att alla prepositionsval blir fria.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "P04",
+      "title": "Nach, in, zu, an eller auf?",
+      "href": "/docs/prepositioner/nach-in-zu-an-auf",
+      "file": "content/docs/Prepositioner/nach-in-zu-an-auf.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Länder: \"nach\" eller \"in\"?",
+        "2. Personer kräver alltid \"ZU\"",
+        "3. \"Nach Hause\" vs. \"Zu Hause\"",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 565,
+      "requiredCoverage": "Orter/länder, länder med artikel, personer, verksamheter, hem och destinationer; nach Hause/zu Hause; mål räcker inte ensamt för att bestämma kasus.",
+      "expansion": "Begränsa personer kräver alltid zu till den avsedda destinationskonstruktionen; skilj personbesök, rörelse mot någon och fysisk riktning. Förklara att nach Hause/zu Hause är lexikaliserade, inte generell betydelse hos nach/zu.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "P05",
+      "title": "Aus och von: varifrån?",
+      "href": "/docs/prepositioner/aus-och-von",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Ursprung, inifrån/ifrån och personer/verksamheter i kontext; utvalda meningspar och motsvarande destinationsuttryck utan överdriven en-till-en-karta.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Ursprung, inifrån/ifrån och personer/verksamheter i kontext; utvalda meningspar och motsvarande destinationsuttryck utan överdriven en-till-en-karta.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "P06",
+      "title": "Am, im, um, seit, vor och für",
+      "href": "/docs/prepositioner/tid",
+      "file": "content/docs/Prepositioner/tid.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Tidsförlopp: Seit, Vor, In och Für",
+        "2. Hur anger man årtal?",
+        "3. Från början till slut: \"von ... bis\"",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 520,
+      "requiredCoverage": "Klocka/datum, när/varaktighet, seit/vor/in/für/ab/bis; skillnad mot svensk i/på/om/för … sedan; presens efter seit när förloppet fortsätter.",
+      "expansion": "Utveckla intervall, deadlines, inklusiva/exklusiva gränser, ab/von/bis, historiska datum och seit + fortsatt förlopp. Separera tempusrelation från översättning av svensk preposition.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "P07",
+      "title": "Genitivprepositioner och register",
+      "href": "/docs/prepositioner/genitiv",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Wegen, trotz, während, innerhalb, außerhalb och andra relevanta uttryck; standard, etablerade specialfall och talspråk skiljs åt; aldrig omärkt universell dativ/genitivregel.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Wegen, trotz, während, innerhalb, außerhalb och andra relevanta uttryck; standard, etablerade specialfall och talspråk skiljs åt; aldrig omärkt universell dativ/genitivregel.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "P08",
+      "title": "Verb och andra ord med fast preposition",
+      "href": "/docs/prepositioner/fasta-forbindelser",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Warten auf, denken an, teilnehmen an och liknande högfrekventa konstruktioner; preposition plus kasus plus betydelse; frågor och pronominaladverb länkas till R11.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Warten auf, denken an, teilnehmen an och liknande högfrekventa konstruktioner; preposition plus kasus plus betydelse; frågor och pronominaladverb länkas till R11.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "P09",
+      "title": "Im, ins, am, ans, zum och zur",
+      "href": "/docs/prepositioner/sammandragningar",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Former och kasus, obligatoriskt/vanligt respektive kontrastbetonad full form; beim/vom och relevanta vardagsformer; inga falska tabellformer genereras.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Former och kasus, obligatoriskt/vanligt respektive kontrastbetonad full form; beim/vom och relevanta vardagsformer; inga falska tabellformer genereras.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "P10",
+      "title": "Liegen/legen, stehen/stellen och sitzen/setzen",
+      "href": "/docs/prepositioner/lage-och-placering",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Befintlighet och placering i kontext, reflexiva setzen/stellen/legen; hängen med två konstruktionsmönster och skilda huvudformer; inte synonymt med rörelse kontra stillhet.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Befintlighet och placering i kontext, reflexiva setzen/stellen/legen; hängen med två konstruktionsmönster och skilda huvudformer; inte synonymt med rörelse kontra stillhet.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "Y01",
+      "title": "Verb på andra plats och förfält",
+      "href": "/docs/syntax/verb-pa-andra-plats",
+      "file": "content/docs/Syntax/verb-pa-andra-plats.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Vad är ett \"satsled\"?",
+        "2. Jämförelse med svenska och engelska",
+        "3. Meningsbyggaren: Testa att byta plats",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 516,
+      "requiredCoverage": "Ett satsled kan bestå av flera ord; subjekt eller adverbial i förfält; tidsuttryck följt av verb och subjekt; påståendesatsens V2 som grundmönster med relevanta avgränsningar.",
+      "expansion": "Begränsa V2 till relevanta satstyper; integrera ett fullständigt fältschema med förförfält och efterfält. Visa att samordnare och vänsterutställda led inte okritiskt räknas in i förfältet.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "Y02",
+      "title": "Satsramen: vänster och höger verbdel",
+      "href": "/docs/syntax/satsram",
+      "file": "content/docs/Syntax/satsram.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. De tre typerna av verbala klamrar",
+        "2. Vad händer inuti Mittfältet?",
+        "3. Varför talar tyskarna så här?",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 473,
+      "requiredCoverage": "Modalverb, perfekt och separerbara verb i samma fältmodell; placera hela fraser, visa vad som hålls ihop och hur negation passar in.",
+      "expansion": "Utveckla efterfält, tom högerklammer, icke-verbala klamrar som analysalternativ och rekursiva verbgrupper. Ersätt varför tyskar talar så med beskrivning av strukturen utan påhittad orsakshistoria.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "Y03",
+      "title": "Ja/nej-frågor och frågeordsfrågor",
+      "href": "/docs/syntax/fragor",
+      "file": "content/docs/Syntax/fragor.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. De centrala tyska frågeorden (W-Fragen)",
+        "2. Wo, Wohin och Woher (Platsfrågorna)",
+        "3. Frågor med sammansatta verb eller modalverb",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 484,
+      "requiredCoverage": "V1 kontra V2, subjektsfrågor och frågefraser med preposition; frågor med hjälpverb/modalverb; tilltal och naturlig satsmelodi.",
+      "expansion": "Utveckla subjektfrågor, ekofrågor, deklarativa frågor, retoriska frågor och alternativa frågor. Satstyp, talhandling och intonation får inte behandlas som samma sak.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "Y04",
+      "title": "Ordföljd i bisatser",
+      "href": "/docs/syntax/ordfoljd-i-bisatser",
+      "file": "content/docs/Syntax/ordfoljd-i-bisatser.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "Satsramen i bisatsen: Visualisering",
+        "Sammansatta verbgrupper i bisats",
+        "1. Perfekt (Particip + Hjälpverb)",
+        "2. Modalverb (Infinitiv + Modalverb)",
+        "När bisatsen inleder meningen",
+        "Jämför: \"weil\" kontra \"denn\"",
+        "Fördjupning: Undantag från enkel slutregel (Ersatzinfinitiv)"
+      ],
+      "wordsApprox": 415,
+      "requiredCoverage": "Böjt verb i högra verbgruppen, perfekt och modalverb, inledande bisats följd av huvudsats; självständiga verbgrupper och E11 som uttryckligt undantag från förenklad slutregel.",
+      "expansion": "Utveckla oinledda komplement och inbäddad V2, beroende V1 och komplex högerklammer. Bevara enkel kärnregel med avgränsad räckvidd och konsekvent länk till avancerade mönster.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "Y05",
+      "title": "Mittfältet och vad som betonas",
+      "href": "/docs/syntax/mittfalt-och-informationsstruktur",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Pronomen/substantiv, bestämdhet, känt/nytt och tids-/sätts-/platsadverbial; TeKaMoLo som tendens, inga absoluta regler som underkänner idiomatiska alternativ.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Pronomen/substantiv, bestämdhet, känt/nytt och tids-/sätts-/platsadverbial; TeKaMoLo som tendens, inga absoluta regler som underkänner idiomatiska alternativ.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "Y06",
+      "title": "Nicht, kein och negationens räckvidd",
+      "href": "/docs/syntax/nicht-och-kein",
+      "file": "content/docs/Syntax/nicht-och-kein.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Var placeras \"nicht\" i satsen?",
+        "Fall A: Hela satsen negeras (Satsnegation)",
+        "Fall B: Ett specifikt led negeras (Lednegation)",
+        "2. Den livsviktiga skillnaden: \"muss nicht\" vs. \"darf nicht\"",
+        "3. Vanliga negerande ordpar",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 501,
+      "requiredCoverage": "Nominal negation, sats- och lednegation samt placering; noch nicht/nicht mehr/nichts/niemand; kontrastiva exempel och betydelsen av inte behöva kontra inte få.",
+      "expansion": "Utveckla negationsräckvidd, fokus, partikelinteraktion, litotes, lexikal negation och polaritetskänslighet. Undvik en enda positionsregel som påstås beskriva alla nicht-fall.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "Y07",
+      "title": "Doch, ja, denn och mal",
+      "href": "/docs/syntax/modalpartiklar",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Talarnas förväntningar, tonfall och dialogkontext; skilj partiklar från likalydande adverb/konjunktioner; inga entydiga ord-för-ord-översättningar.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Talarnas förväntningar, tonfall och dialogkontext; skilj partiklar från likalydande adverb/konjunktioner; inga entydiga ord-för-ord-översättningar.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "B01",
+      "title": "Und, aber, oder, denn och sondern",
+      "href": "/docs/satser/samordning",
+      "file": "content/docs/Satser/samordning.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. \"Aber\" kontra \"Sondern\": Den viktiga skillnaden",
+        "1. SONDERN = \"utan\" / \"i stället\"",
+        "2. ABER = \"men\" / \"dock\"",
+        "2. \"Denn\" kontra \"Weil\" (Orsaksbindeord)",
+        "3. Sammandragning vid samma subjekt",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 552,
+      "requiredCoverage": "Bindeordets funktion och ordställning, negation före sondern; jämför med underordning och adverbiella sambandsord i B02/B03.",
+      "expansion": "Utveckla samordning av fraser och satser, asymmetri, ellips och kongruens. Skilj denn som konjunktion från denn som partikel; sondern kräver en mer precis korrigeringsrelation.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "B02",
+      "title": "Dass, ob, weil och andra bisatsinledare",
+      "href": "/docs/satser/underordning",
+      "file": "content/docs/Satser/underordning.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. De vanligaste bisatsinledarna",
+        "2. Den stora svenska fällan: \"ob\" eller \"wenn\"?",
+        "3. \"Dass\" kontra \"das\" (med ett eller två s)",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 557,
+      "requiredCoverage": "Betydelse och val av satsinledare, huvudsats/bisats, svensk att och om; Y04 äger detaljordföljden; ge enkla fungerande modeller redan här.",
+      "expansion": "Utveckla komplement/adverbialsats, indirekt fråga och konstruktionens huvud. Dass/ob styrs inte bara av svensk att/om; skilj satsform från semantisk relation.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "B03",
+      "title": "Deshalb, trotzdem, außerdem och däremellan",
+      "href": "/docs/satser/sambandsadverb",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Orsak, konsekvens, kontrast och tillägg; ordföljd efter adverb i förfält; jämför weil/denn/deshalb och obwohl/trotzdem med samma sakförhållande.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Orsak, konsekvens, kontrast och tillägg; ordföljd efter adverb i förfält; jämför weil/denn/deshalb och obwohl/trotzdem med samma sakförhållande.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "B04",
+      "title": "Bygg relativsatser",
+      "href": "/docs/satser/relativsatser",
+      "file": "content/docs/Satser/relativsatser.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Preposition + relativpronomen",
+        "2. När används \"was\"?",
+        "3. När används \"wo\"?",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 568,
+      "requiredCoverage": "Välj korrelat, bestäm funktion i bisatsen, välj pronomen, placera verb och komma; preposition + relativpronomen; was/wo/wer i avgränsad fördjupning.",
+      "expansion": "Utveckla fria, vidareförande, parentetiska och restriktiva relativsatser; wer/was/wo samt prepositionsanknytning. Tysk kommaavgränsning är inte bevis för en enda semantisk relativtyp.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "B05",
+      "title": "Als, wenn, wann, bevor och nachdem",
+      "href": "/docs/satser/tidssatser",
+      "file": "content/docs/Satser/tidssatser.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Beslutsträdet: Als, Wenn eller Wann?",
+        "2. Tidsföljd: Nachdem, Bevor och Während",
+        "A. NACHDEM = \"efter att\" (Förtidighet)",
+        "B. BEVOR = \"innan / förrän\"",
+        "C. WÄHREND = \"medan\" (Samtidighet)",
+        "D. BIS = \"tills / till dess att\"",
+        "10 autentiska exempel"
+      ],
+      "wordsApprox": 512,
+      "requiredCoverage": "Enstaka/upprepad dåtid, fråga och villkor; samtidighet och tidsföljd, medan/sedan/tills; tidsform och kontext, inte en mekanisk signalordslista.",
+      "expansion": "Utveckla nachdem med fler tidsreferenser och kontext, bevor med negation, så snart/sålänge och temporal kontra kausal läsning. Presentera pluskvamperfekt–preteritum som typfall, inte fullständig regel.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "B06",
+      "title": "Um … zu, damit, ohne … zu och anstatt … zu",
+      "href": "/docs/satser/avsikt-och-infinitivsatser",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Syfte, negation och alternativ; subjektanknytning och motsvarande finita satser; zu vid partikelverb samt korrekt kommatering.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Syfte, negation och alternativ; subjektanknytning och motsvarande finita satser; zu vid partikelverb samt korrekt kommatering.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "B07",
+      "title": "Wenn, falls, obwohl och als ob",
+      "href": "/docs/satser/villkor-och-medgivande",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Villkor, medgivande och irreell jämförelse; om i svensk indirekt fråga jämfört med villkor; je … desto hänvisar till A07 och former till M03/M04.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Villkor, medgivande och irreell jämförelse; om i svensk indirekt fråga jämfört med villkor; je … desto hänvisar till A07 och former till M03/M04.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "D01",
+      "title": "Adverb och adverbiellt använda adjektiv",
+      "href": "/docs/adverb/adjektiv-och-adverb",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Gern/lieber/am liebsten, plats i satsen och skillnad mot oböjt predikativt adjektiv; -weise och andra bildningar; grammatisk terminologi förklaras konsekvent.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Gern/lieber/am liebsten, plats i satsen och skillnad mot oböjt predikativt adjektiv; -weise och andra bildningar; grammatisk terminologi förklaras konsekvent.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "D02",
+      "title": "Erst, schon, noch, gerade och wieder",
+      "href": "/docs/adverb/tidsadverb",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Svensk först/redan/ännu/nyss/igen, räckvidd och kontrast; erst um acht jämfört med schon um acht; wieder/wider skiljs där relevant.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Svensk först/redan/ännu/nyss/igen, räckvidd och kontrast; erst um acht jämfört med schon um acht; wieder/wider skiljs där relevant.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "D03",
+      "title": "Hier, dort, hin och her",
+      "href": "/docs/adverb/plats-och-riktning",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Befintlighet, riktning och talarens perspektiv, hinein/heraus och högfrekventa kombinationer; wo/wohin/woher; länka geografiska uttryck till P04/P05.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Befintlighet, riktning och talarens perspektiv, hinein/heraus och högfrekventa kombinationer; wo/wohin/woher; länka geografiska uttryck till P04/P05.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "D04",
+      "title": "Sehr, viel, so, zu och genug",
+      "href": "/docs/adverb/grad-och-mangd",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Adjektivets grad mot nominal mängd, för mycket/tillräckligt, viel bättre och så mycket; jämför förväxlingspar med svenska naturliga översättningar.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Adjektivets grad mot nominal mängd, för mycket/tillräckligt, viel bättre och så mycket; jämför förväxlingspar med svenska naturliga översättningar.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "D05",
+      "title": "Grundtal och tal i vardagen",
+      "href": "/docs/rakneord/grundtal",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "0–1 000 och större tal, ein/eins, ental före tiotal, hundra/tusen/miljon; uttal, stavning och siffror; inga obligatoriska långa listor utan tillämpning.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. 0–1 000 och större tal, ein/eins, ental före tiotal, hundra/tusen/miljon; uttal, stavning och siffror; inga obligatoriska långa listor utan tillämpning.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "D06",
+      "title": "Ordningstal, datum och klockslag",
+      "href": "/docs/rakneord/ordningstal-datum-och-klocka",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Erste/dritte och övriga bildningsmönster, kasus i datumfraser, formella och vardagliga klockslag; regional tvetydighet vid kvartsklocka markeras.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Erste/dritte och övriga bildningsmönster, kasus i datumfraser, formella och vardagliga klockslag; regional tvetydighet vid kvartsklocka markeras.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "D07",
+      "title": "Mått, bråk, procent och priser",
+      "href": "/docs/rakneord/matt-brak-och-procent",
+      "file": null,
+      "action": "write-missing-original",
+      "stage": 1,
+      "observedHeadings": [],
+      "wordsApprox": 0,
+      "requiredCoverage": "Halb/Viertel, procent och räknesätt, euro/cent och decimalnotation; enheter och relevant böjning; exempel i inköp, recept och statistik.",
+      "expansion": "Skriv den tidigare planerade genomgången fullständigt. Halb/Viertel, procent och räknesätt, euro/cent och decimalnotation; enheter och relevant böjning; exempel i inköp, recept och statistik.",
+      "sourceRegistryStatus": "planned",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "E01",
+      "title": "Att bli och att få på tyska",
+      "href": "/mer/werden-bleiben-bekommen",
+      "file": "content/mer/werden-bleiben-bekommen.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Hur översätts svenskans \"BLI\"?",
+        "A. Bli = Förändring eller framtida yrke -> WERDEN",
+        "B. Bli = Stanna kvar / förbli -> BLEIBEN",
+        "C. Bli = Passiv handling -> WERDEN + Partizip II",
+        "2. Hur översätts svenskans \"FÅ\"?",
+        "A. Få = Erhålla / ta emot -> BEKOMMEN / ERHALTEN / KRIEGEN",
+        "B. Få = Ha tillåtelse / få lov -> DÜRFEN",
+        "C. Få = Bli tvungen att -> MÜSSEN",
+        "D. Få någon att göra något -> BRINGEN ZU / BEWEGEN ZU",
+        "3. Matris för snabböversättning"
+      ],
+      "wordsApprox": 460,
+      "requiredCoverage": "Werden/bleiben/bekommen/erhalten och konstruktionsberoende översättningar av bli/få; svensk s-passiv kontra tysk passiv; utvalda idiomatiska verb.",
+      "expansion": "Utveckla funktionellt olika översättningar av bli/få utan fasta ordlikheter. Separera kausativ konstruktion, tillåtelse, mottagande och passiv; ange register hos kriegen och bekommen-passiv.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "E02",
+      "title": "Wissen, kennen och können",
+      "href": "/mer/wissen-kennen-konnen",
+      "file": "content/mer/wissen-kennen-konnen.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Böjning av verbet \"wissen\"",
+        "2. Testmetoden: Vilket verb ska du välja?",
+        "3. Vanliga gränsfall och nyanser",
+        "Att känna till ett faktum vs. att veta om det",
+        "\"Känna någon\" vs. \"Veta vem någon är\""
+      ],
+      "wordsApprox": 401,
+      "requiredCoverage": "Faktakunskap, bekantskap och förmåga/tillåtelse/möjlighet i sammanhang; att kunna ett språk och kunna någon; böjningsformer och alternativa konstruktioner.",
+      "expansion": "Utveckla komplementtyperna hos wissen/kennen/können, faktakunskap kontra färdighet och pragmatiska gränsfall. Visa hur olika satstyper ändrar betydelsen av veta/känna till.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "E03",
+      "title": "Müssen, sollen och dürfen",
+      "href": "/mer/mussen-sollen-durfen",
+      "file": "content/mer/mussen-sollen-durfen.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Djupanalys: Müssen kontra Sollen",
+        "2. \"Sollte\" – Det perfekta rådet",
+        "3. Den livsviktiga negationsmatrisen",
+        "4. Epistemisk användning (Förmodan och sannolikhet)"
+      ],
+      "wordsApprox": 358,
+      "requiredCoverage": "Plikt, förväntan, råd, tillåtelse och förbud; nicht müssen respektive nicht dürfen; modal förmodan i tydligt markerad fördjupning.",
+      "expansion": "Utveckla epistemisk skala utan påhittade procentsatser, negationens räckvidd, sollen/wollen som uppgiftskälla och modalverb i perfektinfinitiv. Flytta detaljer till en egen modalitetsreferens.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "E04",
+      "title": "Wenn, als, wann eller ob?",
+      "href": "/mer/wenn-als-wann-ob",
+      "file": "content/mer/wenn-als-wann-ob.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Beslutsträdet: Steg för steg",
+        "Steg 1: Är det en fråga (direkt eller indirekt)?",
+        "Steg 2: Om det INTE är en fråga:",
+        "2. Jämförande exempel: Samma situation, olika ord"
+      ],
+      "wordsApprox": 356,
+      "requiredCoverage": "En koncentrerad beslutsgenomgång från svenskans när/om; indirekt tidsfråga kontra ja/nej-fråga, villkor och dåtidsvana; ingen ny duplicerad huvudartikel om alla tidssatser.",
+      "expansion": "Skilj direkt temporal fråga, indirekt fråga, fri relativ och temporal/villkorlig relation. Fördjupa genom kontrastpar i tydligt avgränsade kontexter i stället för ett universellt beslutsträd.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "E05",
+      "title": "Prefix, suffix och ordbildning",
+      "href": "/mer/ordbildning",
+      "file": "content/mer/ordbildning.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. De magiska verbprefixen",
+        "2. Hur adjektiv bildas av substantiv och verb",
+        "3. Sammansatta substantiv och fogelement (Fugenlaute)"
+      ],
+      "wordsApprox": 408,
+      "requiredCoverage": "Produktiv derivation med genusledtrådar, -ung/-heit/-keit/-schaft och relevanta adjektiv-/verbmönster; lexikala begränsningar, negationsprefix och nya ord med källkontroll.",
+      "expansion": "Utveckla morfemanalys, produktivitet och lexikalisering; separera sammansättning, avledning och konversion. Skapa en suffix-/prefixreferens med valens- och genusinformation och belagda begränsningar.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "E06",
+      "title": "Nominalstil och utbyggda nominalfraser",
+      "href": "/mer/nominalstil",
+      "file": "content/mer/nominalstil.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Den stora omvandlingstabellen: Konjunktion -> Preposition",
+        "2. Hur verbet blir ett substantiv (Nominalisering)",
+        "3. Exempel på stilistisk förtätning"
+      ],
+      "wordsApprox": 375,
+      "requiredCoverage": "Från verbfras till nominalfras, attributkedjor och prepositionsfraser; tydlighet kontra formell täthet; korta autentiskt klingande omskrivningar och referens till E08.",
+      "expansion": "Utveckla bevarad agent/patient, tidsrelation och modalitet vid nominalisering; rätt preposition och genitivtolkning. Nominalstil är en stilresurs, inte ett generellt högre eller bättre språk.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "E07",
+      "title": "Man, sich lassen, sein … zu och bekommen-passiv",
+      "href": "/mer/passivalternativ",
+      "file": "content/mer/passivalternativ.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. \"Sich lassen + Infinitiv\" (Möjlighet)",
+        "2. \"Sein + zu + Infinitiv\" (Plikt eller möjlighet)",
+        "3. Mottagarpassiv (Adressatenpassiv med bekommen/kriegen)"
+      ],
+      "wordsApprox": 318,
+      "requiredCoverage": "Skilda betydelser och konstruktionskrav, modalitet och mottagarperspektiv; uttryck som går att översätta till svensk passiv är inte automatiskt identiska tyska passivformer.",
+      "expansion": "Utveckla semantiska begränsningar för lassen/sein-zu/bekommen, subjektlöshet och relation till opersonligt man. Samtliga dativverb ger inte automatiskt mottagarpassiv.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "E08",
+      "title": "Partizip I, Partizip II och attributkedjor",
+      "href": "/mer/particip-som-attribut",
+      "file": "content/mer/particip-som-attribut.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Jämförelse mellan Partizip I och Partizip II",
+        "2. Utbyggda participattribut (Erweiterte Partizipialattribute)",
+        "Hur du packar upp konstruktionen:",
+        "3. Gerundiv med \"zu\" (Måste-aspekt)"
+      ],
+      "wordsApprox": 321,
+      "requiredCoverage": "Löpande kontra avslutad/passiv relation beroende på verb, böjning som adjektiv, utbyggda attribut och omskrivning till relativsats; undvik spansk gerundiumlogik.",
+      "expansion": "Utveckla aktivt resultatparticip, particip utan naturligt attributivt bruk, simultanitet och lexikaliserade adjektiv. Gerundiv kan uttrycka möjlighet såväl som nödvändighet; dela det till en egen fördjupning.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "E09",
+      "title": "Tyska i Tyskland, Österrike och Schweiz",
+      "href": "/mer/tyska-i-tyskland-osterrike-schweiz",
+      "file": "content/mer/tyska-i-tyskland-osterrike-schweiz.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Den schweiziska stavningsregeln: Inget \"ß\"!",
+        "2. Ordförrådets rika mångfald",
+        "3. Grammatiska skillnader: Sein vid lägesverb"
+      ],
+      "wordsApprox": 301,
+      "requiredCoverage": "Standardspråkliga varianter skilda från dialekter, ss/ß, lexikala och relevanta grammatiska varianter; respektfull beskrivning utan att utmåla nationella standardformer som fel.",
+      "expansion": "Utveckla nationell standard, regional standard, vardagsspråk och dialekt separat med grammatisk evidens. Undvik en förenklad avskaffandehistorik för ß; ange källkontrollerad kronologi eller utelämna årtal.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "E10",
+      "title": "Svenska fallgropar och falska vänner",
+      "href": "/mer/svenska-fallgropar-och-falska-vanner",
+      "file": "content/mer/svenska-fallgropar-och-falska-vanner.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Den stora lexikala varningslistan",
+        "1. Semester kontra Urlaub",
+        "2. Gift kontra Geschenk / Hochzeit",
+        "3. Ruhig kontra Lustig",
+        "4. Eventuell kontra Schließlich",
+        "5. Artig kontra Höflich",
+        "6. Öl kontra Bier",
+        "2. Syntaktiska falska vänner: Ordföljdsfällor"
+      ],
+      "wordsApprox": 350,
+      "requiredCoverage": "Bekommen, eventuell, Semester, Gift och andra källkontrollerade betydelser; ordställning, genitiv, artikel och svensk negationsöverföring; varje ord i naturlig kontext.",
+      "expansion": "Utveckla konstruktionell svensk interferens och kontextberoende lexikala kontraster. Ta bort alltid i översättningsregler och markera att en falsk vän kan överlappa i vissa betydelser.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "E11",
+      "title": "Verbgrupper, Ersatzinfinitiv och Oberfeld",
+      "href": "/mer/verbgrupper-och-oberfeld",
+      "file": "content/mer/verbgrupper-och-oberfeld.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Kärnan på en halv minut",
+        "1. Vad är Ersatzinfinitiv?",
+        "2. Oberfeld i bisats: Undantaget från slutregeln!",
+        "3. Vilka andra verb tar Ersatzinfinitiv?"
+      ],
+      "wordsApprox": 314,
+      "requiredCoverage": "Weil ich habe arbeiten müssen och huvudmönstret för andra verbgrupper; ordning, standardvariation och avgränsning till relevanta konstruktioner; aldrig generera fria kombinationer.",
+      "expansion": "Rätta universell obligatorisk Oberfeld-regel: skilj modala verb, lassen, perceptionsverb och helfen, particip/infinitivval och ordningsvariation. Ersätt förklaringen språkmelodin tillåter inte med dokumenterade konstruktionsvillkor.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "E12",
+      "title": "Svensk–tysk grammatisk ordlista",
+      "href": "/mer/grammatiska-termer",
+      "file": "content/mer/grammatiska-termer.mdx",
+      "action": "expand-existing",
+      "stage": 1,
+      "observedHeadings": [
+        "Snabbnavigator",
+        "A",
+        "1. Adjektiv (*das Adjektiv*)",
+        "2. Adverb (*das Adverb*)",
+        "3. Ackusativ (*der Akkusativ*)",
+        "4. Ackusativobjekt (*das Akkusativobjekt*)",
+        "5. Aktiv (*das Aktiv*)",
+        "6. Antonim (*das Antonym*)",
+        "7. Artikel (*der Artikel*)",
+        "8. Attribut (*das Attribut*)",
+        "B",
+        "9. Bisats (*der Nebensatz*)",
+        "10. Blandad adjektivböjning (*gemischte Adjektivdeklination*)",
+        "11. Böjning (*die Flexion / Deklination / Konjugation*)",
+        "D",
+        "12. Dativ (*der Dativ*)",
+        "13. Dativobjekt (*das Dativobjekt*)",
+        "14. Deklination (*die Deklination*)",
+        "15. Demonstrativpronomen (*das Demonstrativpronomen*)",
+        "16. Diminutiv (*das Diminutiv*)",
+        "17. Direkt tal (*die direkte Rede*)",
+        "18. Dåtid (*die Vergangenheit*)",
+        "E",
+        "19. Ersatzinfinitiv (*der Ersatzinfinitiv*)",
+        "F",
+        "20. Femininum (*das Femininum*)",
+        "21. Finit verb (*das finite Verb*)",
+        "22. Framtid (*das Futur / die Zukunft*)",
+        "23. Förfält (*das Vorfeld*)",
+        "G",
+        "24. Genitiv (*der Genitiv*)",
+        "25. Genitivattribut (*das Genitivattribut*)",
+        "26. Genus (*das Genus*)",
+        "27. Grundform (*die Grundform / der Infinitiv*)",
+        "H",
+        "28. Hjälpverb (*das Hilfsverb*)",
+        "29. Huvudsats (*der Hauptsatz*)",
+        "30. Händelsepassiv (*das Vorgangspassiv*)",
+        "I",
+        "31. Imperativ (*der Imperativ*)",
+        "32. Indirekt fråga (*die indirekte Frage*)",
+        "33. Indirekt tal (*die indirekte Rede*)",
+        "34. Infinitiv (*der Infinitiv*)",
+        "35. Infinitiv med zu (*der Infinitiv mit zu*)",
+        "36. Interpunktion (*die Zeichensetzung*)",
+        "37. Intransitivt verb (*das intransitive Verb*)",
+        "K",
+        "38. Kasus (*der Kasus / der Fall*)",
+        "39. Komparativ (*der Komparativ*)",
+        "40. Kongruens (*die Kongruenz*)",
+        "41. Konjugation (*die Konjugation*)",
+        "42. Konjunktion (*die Konjunktion / das Bindewort*)",
+        "43. Konjunktiv I (*der Konjunktiv I*)",
+        "44. Konjunktiv II (*der Konjunktiv II*)",
+        "45. Korrelat (*das Korrelat*)",
+        "M",
+        "46. Maskulinum (*das Maskulinum*)",
+        "47. Mittfält (*das Mittelfeld*)",
+        "48. Modaladverb (*das Modaladverb*)",
+        "49. Modalverb (*das Modalverb*)",
+        "50. Modus (*der Modus*)",
+        "N",
+        "51. Negation (*die Negation / die Verneinung*)",
+        "52. Neutrum (*das Neutrum*)",
+        "53. Nollartikel (*der Nullartikel*)",
+        "54. Nominalstil (*der Nominalstil*)",
+        "55. Nominativ (*der Nominativ*)",
+        "56. Numerus (*der Numerus*)",
+        "O",
+        "57. Objekt (*das Objekt*)",
+        "58. Omljud (*der Umlaut*)",
+        "59. Ordklass (*die Wortart*)",
+        "P",
+        "60. Partizip I (*das Partizip Präsens*)",
+        "61. Partizip II (*das Partizip Perfekt*)",
+        "62. Passiv (*das Passiv*)",
+        "63. Perfekt (*das Perfekt*)",
+        "64. Plusquamperfekt (*das Plusquamperfekt*)",
+        "65. Possessivpronomen (*das Possessivpronomen*)",
+        "66. Predikativ (*das Prädikativum*)",
+        "67. Preposition (*die Präposition*)",
+        "68. Präteritum (*das Präteritum / Imperfekt*)",
+        "69. Pronomen (*das Pronomen*)",
+        "R",
+        "70. Reflexivt verb (*das reflexive Verb*)",
+        "71. Rektion (*die Rektion*)",
+        "72. Relativpronomen (*das Relativpronomen*)",
+        "73. Relativsats (*der Relativsatz*)",
+        "S",
+        "74. Satsdel (*das Satzglied*)",
+        "75. Satsram (*die Satzklammer*)",
+        "76. Separerbart verb (*das trennbare Verb*)",
+        "77. Stark adjektivböjning (*starke Adjektivdeklination*)",
+        "78. Starkt verb (*das starke Verb*)",
+        "79. Subjekt (*das Subjekt*)",
+        "80. Substantiv (*das Substantiv / Nomen*)",
+        "81. Svag adjektivböjning (*schwache Adjektivdeklination*)",
+        "82. Svagt verb (*das schwache Verb*)",
+        "T",
+        "83. Tempus (*das Tempus / die Zeitform*)",
+        "84. Transitivt verb (*das transitive Verb*)",
+        "U",
+        "85. Underordnande konjunktion (*die Subjunktion*)",
+        "V",
+        "86. Verb (*das Verb / das Zeitwort*)",
+        "87. V2-ordföljd (*das Verbzweit-Prinzip*)",
+        "88. Växelpreposition (*die Wechselpräposition*)",
+        "Z",
+        "89. Zustandspassiv (*das Zustandspassiv*)"
+      ],
+      "wordsApprox": 2564,
+      "requiredCoverage": "Minst 70 definierade begrepp med tysk term, enkel svensk förklaring, eget tvåspråkigt exempel och länk till huvudgenomgång; stavning och begrepp kontrolleras.",
+      "expansion": "Rätta subjekt = agent och huvudsats = alltid V2; ange alternativa termer med referens. Utöka med testbara definitioner av kontroll, höjning, skopus, fokus, koherens och valens och länka varje term till sakartikel.",
+      "sourceRegistryStatus": "ready",
+      "reviewEvidence": "not-demonstrated-by-registry",
+      "status": "proposed-not-written"
+    }
+  ],
+  "newReference": [
+    {
+      "id": "X001",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Ljud och prosodi",
+      "title": "Foneminventarium och artikulation",
+      "parentIds": [
+        "G02",
+        "G03"
+      ],
+      "href": "/docs/fordjupning/ljud-och-prosodi/foneminventarium-och-artikulation",
+      "requiredCoverage": "Vokaler, konsonanter, allofoner, artikulationsställe/-sätt och IPA; skilj fonemisk och fonetisk transkription med uttalsvariant.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X002",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Ljud och prosodi",
+      "title": "Stavelser och kvantitet",
+      "parentIds": [
+        "G02",
+        "G04"
+      ],
+      "href": "/docs/fordjupning/ljud-och-prosodi/stavelser-och-kvantitet",
+      "requiredCoverage": "Stavelsegräns, betonad/obetonad stavelse, vokalkvalitet och längd; varför konsonantantal i skrift bara är en ledtråd.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X003",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Ljud och prosodi",
+      "title": "Reduktion, schwa och sammanhängande tal",
+      "parentIds": [
+        "G03",
+        "G04"
+      ],
+      "href": "/docs/fordjupning/ljud-och-prosodi/reduktion-schwa-och-sammanhangande-tal",
+      "requiredCoverage": "Schwa-bortfall, syllabiska sonoranter, assimilation, länkar mellan ord och vårdat kontra spontant tal; tidsstämplade ljudexempel.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X004",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Ljud och prosodi",
+      "title": "Ordaccent och morfologisk struktur",
+      "parentIds": [
+        "G04",
+        "V06"
+      ],
+      "href": "/docs/fordjupning/ljud-och-prosodi/ordaccent-och-morfologisk-struktur",
+      "requiredCoverage": "Sammansättning, avledning, prefix, partikelverb och lånord; primär/sekundär accent och betydelseskiftande par.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X005",
+      "action": "create-new-reference",
+      "stage": 5,
+      "domain": "Ljud och prosodi",
+      "title": "Intonation och informationsstruktur",
+      "parentIds": [
+        "G04",
+        "Y05"
+      ],
+      "href": "/docs/fordjupning/ljud-och-prosodi/intonation-och-informationsstruktur",
+      "requiredCoverage": "Frasering, fokusaccent, stigande/fallande förlopp, ekofrågor och kontrast; flera möjliga uttal i samma skriftliga mening.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X006",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Morfologi",
+      "title": "Morfem, allomorfi och produktivitet",
+      "parentIds": [
+        "E05",
+        "V01"
+      ],
+      "href": "/docs/fordjupning/morfologi/morfem-allomorfi-och-produktivitet",
+      "requiredCoverage": "Stam, rot, affix, böjning/avledning, nollmorf och allomorf; synkron analys skild från etymologi.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X007",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Morfologi",
+      "title": "Nominala böjningsklasser och synkretism",
+      "parentIds": [
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "href": "/docs/fordjupning/morfologi/nominala-bojningsklasser-och-synkretism",
+      "requiredCoverage": "Stark/svag/blandad substantivböjning, restformer och sammanfall; fulla paradigm samt gränsen mot adjektivisk deklination.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X008",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Morfologi",
+      "title": "Genusvariation och genuskonflikt",
+      "parentIds": [
+        "S01",
+        "R01"
+      ],
+      "href": "/docs/fordjupning/morfologi/genusvariation-och-genuskonflikt",
+      "requiredCoverage": "Der/das- och andra varierande ord, genus som skiljer betydelse, lånord och kongruens med personreferens; register/nation anges.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X009",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Morfologi",
+      "title": "Pluralvariation, dubbelplural och massord",
+      "parentIds": [
+        "S02",
+        "D07"
+      ],
+      "href": "/docs/fordjupning/morfologi/pluralvariation-dubbelplural-och-massord",
+      "requiredCoverage": "Wörter/Worte och andra betydelseskillnader, lånordsplural, måttord, pluralia/singularia och räknebarhetsväxling; lexikal referens.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X010",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Morfologi",
+      "title": "Kompositionens typer och fogeelement",
+      "parentIds": [
+        "S09",
+        "E05"
+      ],
+      "href": "/docs/fordjupning/morfologi/kompositionens-typer-och-fogeelement",
+      "requiredCoverage": "Determinativa/koordinativa och andra analyser, huvudled, foge-s/-n/ø, intern struktur, produktivitet och restriktioner.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X011",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Morfologi",
+      "title": "Nominala avledningssuffix",
+      "parentIds": [
+        "E05",
+        "S01"
+      ],
+      "href": "/docs/fordjupning/morfologi/nominala-avledningssuffix",
+      "requiredCoverage": "Suffixfamiljer med basordklass, genus, plural, betydelse och produktivitet; skilj suffix från bokstavsslut och lexikala undantag.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X012",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Morfologi",
+      "title": "Adjektiv- och adverbavledning",
+      "parentIds": [
+        "E05",
+        "A01",
+        "D01"
+      ],
+      "href": "/docs/fordjupning/morfologi/adjektiv-och-adverbavledning",
+      "requiredCoverage": "-bar/-lich/-ig/-isch/-haft/-los, -weise och gränsen adjektiv/adverb; valens och semantisk begränsning.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X013",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Morfologi",
+      "title": "Verbavledning och partikelbildning",
+      "parentIds": [
+        "E05",
+        "V06",
+        "V05"
+      ],
+      "href": "/docs/fordjupning/morfologi/verbavledning-och-partikelbildning",
+      "requiredCoverage": "Prefix, partiklar, konversion och verbifiering; betoning, separerbarhet, aktionsart och valensändring med betydelseposter.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X014",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Morfologi",
+      "title": "Konversion, kortord och produktiva nybildningar",
+      "parentIds": [
+        "E05",
+        "S08"
+      ],
+      "href": "/docs/fordjupning/morfologi/konversion-kortord-och-produktiva-nybildningar",
+      "requiredCoverage": "Substantivering, initialord, förkortning, kontamination och lånordsanpassning; artikel, plural och böjning i faktisk användning.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X015",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Nominalfras",
+      "title": "Nominalfrasens fullständiga struktur",
+      "parentIds": [
+        "S03",
+        "S08",
+        "E06"
+      ],
+      "href": "/docs/fordjupning/nominalfras/nominalfrasens-fullstandiga-struktur",
+      "requiredCoverage": "Determinativ, kvantifikator, adjektivattribut, huvud, efterställda attribut; inbäddning och alternativa strukturträd.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X016",
+      "action": "create-new-reference",
+      "stage": 5,
+      "domain": "Nominalfras",
+      "title": "Definithet, specificitet och generisk referens",
+      "parentIds": [
+        "S03",
+        "S04"
+      ],
+      "href": "/docs/fordjupning/nominalfras/definithet-specificitet-och-generisk-referens",
+      "requiredCoverage": "Bestämd/obestämd/artikellös nominalfras, artspecifik/generisk/situationell tolkning; flera kontextpar och översättningsskillnader.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X017",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Nominalfras",
+      "title": "Genitivattribut och dess tolkningar",
+      "parentIds": [
+        "K05",
+        "S06"
+      ],
+      "href": "/docs/fordjupning/nominalfras/genitivattribut-och-dess-tolkningar",
+      "requiredCoverage": "Possessiv, subjektiv, objektiv och andra relationer; placering, nästling, ambiguös referens och förlust vid von-omskrivning.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X018",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Nominalfras",
+      "title": "Apposition och kasus",
+      "parentIds": [
+        "S03",
+        "K05"
+      ],
+      "href": "/docs/fordjupning/nominalfras/apposition-och-kasus",
+      "requiredCoverage": "Lös/bunden apposition, titlar, namn och mått; kongruens, kasusattraktion och belagd variation med etiketter.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X019",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Nominalfras",
+      "title": "Mått-, mängd- och partitivfraser",
+      "parentIds": [
+        "D07",
+        "S02"
+      ],
+      "href": "/docs/fordjupning/nominalfras/matt-mangd-och-partitivfraser",
+      "requiredCoverage": "Ein Glas Wasser, ett kilo och numeruskongruens; partitiv genitiv/von, flertal och böjning i skilda frastyper.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X020",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Nominalfras",
+      "title": "Adjektivböjningens svåra gränsfall",
+      "parentIds": [
+        "A05",
+        "A04"
+      ],
+      "href": "/docs/fordjupning/nominalfras/adjektivbojningens-svara-gransfall",
+      "requiredCoverage": "Efter all-/manch-/solch-/beid-/viel-, flera adjektiv, dativvariation och parallell böjning; källbelagda alternativ får inte bli falska fel.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X021",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Nominalfras",
+      "title": "Substantiverade adjektiv och nominal ellips",
+      "parentIds": [
+        "S08",
+        "R04"
+      ],
+      "href": "/docs/fordjupning/nominalfras/substantiverade-adjektiv-och-nominal-ellips",
+      "requiredCoverage": "Skillnad mellan utelämnat substantiv och självständigt substantiverat adjektiv; versal, artikel och böjning samt etwas/nichts Neues.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X022",
+      "action": "create-new-reference",
+      "stage": 2,
+      "domain": "Nominalfras",
+      "title": "Egennamn, titlar och geografiska namn",
+      "parentIds": [
+        "S01",
+        "S03",
+        "S06"
+      ],
+      "href": "/docs/fordjupning/nominalfras/egennamn-titlar-och-geografiska-namn",
+      "requiredCoverage": "Genus, artiklar, namnens böjning, genitiv och namnkomplex; politiska/geografiska namn med variation och modifiering.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X023",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Valensteori och konstruktionens argument",
+      "parentIds": [
+        "K07",
+        "K08",
+        "V01"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/valensteori-och-konstruktionens-argument",
+      "requiredCoverage": "Komplement/supplement, obligatorisk/fakultativ valens, semantiska roller och testens begränsningar; ingen enda frågeordsmetod räcker.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X024",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Kasusalternation och betydelseändring",
+      "parentIds": [
+        "K07",
+        "P08"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/kasusalternation-och-betydelseandring",
+      "requiredCoverage": "Objekt/prepositionskomplement, transitiv/intransitiv användning och olika lexembetydelser; varje alternation dokumenteras med exempel.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X025",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Dativens olika funktioner",
+      "parentIds": [
+        "K04",
+        "K06"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/dativens-olika-funktioner",
+      "requiredCoverage": "Styrd dativ, benefaktiv, possessiv/pertinens, etisk och bedömande dativ; kriterier och kontext.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X026",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Predikativ och sekundär predikation",
+      "parentIds": [
+        "K02",
+        "A01"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/predikativ-och-sekundar-predikation",
+      "requiredCoverage": "Subjekts-/objektspredikativ, kopulaverb och predikativ vid fullverb, depiktiv/resultativ läsning; fras kontra satsfunktion.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X027",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Reflexivitet, reciprocitet och diates",
+      "parentIds": [
+        "V07",
+        "R05"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/reflexivitet-reciprocitet-och-diates",
+      "requiredCoverage": "Inherent reflexiv, argumentreflexiv, reciprok och medial konstruktion; bindning och kasusalternation.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X028",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Lassen och perceptionsverbens konstruktioner",
+      "parentIds": [
+        "V09",
+        "M02"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/lassen-och-perceptionsverbens-konstruktioner",
+      "requiredCoverage": "Kausativ/permissiv lassen, AcI, perfekt, hjälpverb och ordföljd; betydelseberoende alternativ och kontroll mot lexikal valens.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X029",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Funktionsverb och substantiviska predikat",
+      "parentIds": [
+        "V04",
+        "E06"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/funktionsverb-och-substantiviska-predikat",
+      "requiredCoverage": "Zur Verfügung stellen, in Betracht ziehen och liknande konstruktioner; artikel/preposition, valens och skillnad mot lexikalt verb.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X030",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Passiverbarhet och subjektlös passiv",
+      "parentIds": [
+        "M07"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/passiverbarhet-och-subjektlos-passiv",
+      "requiredCoverage": "Valens och semantiska begränsningar, dativ i passiv, aktiv/passiv utan mekaniskt agentlikhetstecken och formellt förfälts-es.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X031",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Mottagarpassiv och andra diatesalternativ",
+      "parentIds": [
+        "E07",
+        "M08"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/mottagarpassiv-och-andra-diatesalternativ",
+      "requiredCoverage": "Bekommen/kriegen/erhalten, relevanta verbklasser, källans register, patient/mottagarperspektiv och gräns mot lexikalt få.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X032",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Modal infinitiv och gerundiv",
+      "parentIds": [
+        "E07",
+        "E08"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/modal-infinitiv-och-gerundiv",
+      "requiredCoverage": "Sein/haben + zu, zu-particip och modal tolkning; möjlighet/nödvändighet, negation och formella attributkedjor.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X033",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Modalitetens betydelser och skopus",
+      "parentIds": [
+        "M01",
+        "E03",
+        "M06"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/modalitetens-betydelser-och-skopus",
+      "requiredCoverage": "Epistemisk, deontisk, dynamisk och evidentiell läsning; sollen/wollen, perfektinfinitiv, negation och kontext utan fixerade sannolikhetsprocent.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X034",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Halvmodala verb och verbala perifraser",
+      "parentIds": [
+        "V09",
+        "M02"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/halvmodala-verb-och-verbala-perifraser",
+      "requiredCoverage": "Brauchen, pflegen, scheinen, drohen, versprechen och liknande konstruktioner; kontroll/höjning och lexikal kontra modal läsning.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X035",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Tempus, referenstid och aktionsart",
+      "parentIds": [
+        "T04",
+        "T08"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/tempus-referenstid-och-aktionsart",
+      "requiredCoverage": "Tal-/händelse-/referenstid, tillstånd/händelser, telicitet och tidsadverbial; skilj formellt tempus från semantisk aspekt.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X036",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Tempus i indirekt och inbäddat tal",
+      "parentIds": [
+        "M06",
+        "T08"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/tempus-i-indirekt-och-inbaddat-tal",
+      "requiredCoverage": "Samtidighet/förtidighet/eftertidighet, skiftande perspektiv och svensk jämförelse; ingen automatisk backshift som universell regel.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X037",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Verb och valens",
+      "title": "Dubbelperfekt och regionala tempussystem",
+      "parentIds": [
+        "T05",
+        "E09"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/dubbelperfekt-och-regionala-tempussystem",
+      "requiredCoverage": "Dubbla perfektformer, Präteritumschwund och regionala bruksnormer; evidens och standardstatus, skilt från rekommenderad grundproduktion.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X038",
+      "action": "create-new-reference",
+      "stage": 3,
+      "domain": "Verb och valens",
+      "title": "Konjunktivens gränsfall och ersättningsformer",
+      "parentIds": [
+        "M03",
+        "M04",
+        "M05",
+        "M06"
+      ],
+      "href": "/docs/fordjupning/verb-och-valens/konjunktivens-gransfall-och-ersattningsformer",
+      "requiredCoverage": "Formöverlappning, würde-konstruktioner, referat utan misstro, fristående önskan och bevarade fasta former; register och tidsreferens.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X039",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Syntax",
+      "title": "Topologiska fält i fullständig modell",
+      "parentIds": [
+        "Y01",
+        "Y02",
+        "Y04"
+      ],
+      "href": "/docs/fordjupning/syntax/topologiska-falt-i-fullstandig-modell",
+      "requiredCoverage": "Vorfeld, klamrar, Mittelfeld, Nachfeld och yttre fält; tomma fält, flera satstyper och analysalternativ.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X040",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Syntax",
+      "title": "Mittfältets ordning och scrambling",
+      "parentIds": [
+        "Y05",
+        "K06"
+      ],
+      "href": "/docs/fordjupning/syntax/mittfaltets-ordning-och-scrambling",
+      "requiredCoverage": "Kasus, animacitet, pronomen, bestämdhet, fokus och prosodi; granskade neutral-/kontrastkontexter i stället för rigid TeKaMoLo.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X041",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Syntax",
+      "title": "Efterfält och extraposition",
+      "parentIds": [
+        "Y02",
+        "Y04",
+        "V09"
+      ],
+      "href": "/docs/fordjupning/syntax/efterfalt-och-extraposition",
+      "requiredCoverage": "Satser, infinitivgrupper och jämförelseled efter klammern; obligatoriskt/fakultativt och skillnad mot eftertanke.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X042",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Syntax",
+      "title": "Vänsterutställning och fria teman",
+      "parentIds": [
+        "Y01",
+        "R06"
+      ],
+      "href": "/docs/fordjupning/syntax/vansterutstallning-och-fria-teman",
+      "requiredCoverage": "Linksversetzung, frihängande tema, korrelat och kongruens; vad som står utanför förfältet och hur tal/skrift skiljer sig.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X043",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Syntax",
+      "title": "Satsflätor och långväga beroenden",
+      "parentIds": [
+        "Y01",
+        "Y04"
+      ],
+      "href": "/docs/fordjupning/syntax/satsflator-och-langvaga-beroenden",
+      "requiredCoverage": "Extraktion, inbäddningsverb, w-rörelse och begränsningar; analys med graderad acceptabilitet och belagda variationer.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X044",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Syntax",
+      "title": "Kontroll och höjning",
+      "parentIds": [
+        "V09"
+      ],
+      "href": "/docs/fordjupning/syntax/kontroll-och-hojning",
+      "requiredCoverage": "Vem som tolkas som infinitivens subjekt, subjekt-/objektskontroll och höjning; argumentstruktur och skillnad mot samma-subjekt-regeln.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X045",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Syntax",
+      "title": "Koherenta och icke-koherenta infinitivgrupper",
+      "parentIds": [
+        "V09",
+        "E11"
+      ],
+      "href": "/docs/fordjupning/syntax/koherenta-och-icke-koherenta-infinitivgrupper",
+      "requiredCoverage": "Gemensam verbgrupp, extraposition, skopus och konstruktionsberoende alternativ; diagram med tydliga gränser.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X046",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Syntax",
+      "title": "Verbkluster, Oberfeld och Unterfeld",
+      "parentIds": [
+        "E11",
+        "M02"
+      ],
+      "href": "/docs/fordjupning/syntax/verbkluster-oberfeld-och-unterfeld",
+      "requiredCoverage": "Två–fyrdelade kluster, obligatoriska/fakultativa ordningar per verbklass och region; varje paradigm förankras i referens.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X047",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Syntax",
+      "title": "Subjektlösa satser och olika es",
+      "parentIds": [
+        "R10",
+        "M07"
+      ],
+      "href": "/docs/fordjupning/syntax/subjektlosa-satser-och-olika-es",
+      "requiredCoverage": "Argument-es, väder-es, korrelat och förfältsplatshållare; omflyttningstest och opersonlig passiv.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X048",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Syntax",
+      "title": "Kongruensens gränsfall",
+      "parentIds": [
+        "K02",
+        "S02",
+        "R01"
+      ],
+      "href": "/docs/fordjupning/syntax/kongruensens-gransfall",
+      "requiredCoverage": "Samordnade subjekt, kollektiver, måttfraser, titlar, formell/semantisk kongruens; faktisk variation med register.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X049",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Syntax",
+      "title": "Koordination på flera nivåer",
+      "parentIds": [
+        "B01"
+      ],
+      "href": "/docs/fordjupning/syntax/koordination-pa-flera-nivaer",
+      "requiredCoverage": "Ord-, fras- och satskoordination, asymmetri, korrelativa par och semantiska relationer; koordinationsgränser dokumenteras.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X050",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Syntax",
+      "title": "Ellips, gapping och gemensamma satsled",
+      "parentIds": [
+        "B01",
+        "Y02"
+      ],
+      "href": "/docs/fordjupning/syntax/ellips-gapping-och-gemensamma-satsled",
+      "requiredCoverage": "Samordningsellips, gapping, högernoddelning och register; återställningsbar struktur, tolkning och gränsen mot felaktig ofullständighet.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X051",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Satstyper",
+      "title": "Satsform, modus och talhandling",
+      "parentIds": [
+        "Y03",
+        "V08"
+      ],
+      "href": "/docs/fordjupning/satstyper/satsform-modus-och-talhandling",
+      "requiredCoverage": "V1/V2/V-sist kontra påstående/fråga/uppmaning/önskan/utrop; indirekta talhandlingar och prosodisk variation.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X052",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Satstyper",
+      "title": "Inbäddad V2 och oinledda komplement",
+      "parentIds": [
+        "B02",
+        "Y04",
+        "M06"
+      ],
+      "href": "/docs/fordjupning/satstyper/inbaddad-v2-och-oinledda-komplement",
+      "requiredCoverage": "Oinledda att-satser, beroende V2, faktivitet och register; skilj från talat weil-V2 som separat konstruktion.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X053",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Satstyper",
+      "title": "Fria och vidareförande relativsatser",
+      "parentIds": [
+        "R08",
+        "B04"
+      ],
+      "href": "/docs/fordjupning/satstyper/fria-och-vidareforande-relativsatser",
+      "requiredCoverage": "Wer/was, frasfunktion, kasuskonflikt och helsatssyftning; restriktiv/parentetisk/vidareförande betydelse.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X054",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Satstyper",
+      "title": "Jämförelsesatser och proportionalsatser",
+      "parentIds": [
+        "A07",
+        "B07"
+      ],
+      "href": "/docs/fordjupning/satstyper/jamforelsesatser-och-proportionalsatser",
+      "requiredCoverage": "Als/wie, als ob/als wenn, ju … desto, hypotetisk jämförelse och ellips; konstruktionernas verbplacering.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X055",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Satstyper",
+      "title": "Konsekutiva och instrumentala satser",
+      "parentIds": [
+        "B03",
+        "B06"
+      ],
+      "href": "/docs/fordjupning/satstyper/konsekutiva-och-instrumentala-satser",
+      "requiredCoverage": "Sodass/als dass/indem/dadurch dass, grad/konsekvens/medel och negation; ingen generell ekvivalens mellan alla omskrivningar.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X056",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Satstyper",
+      "title": "Konditionalitet och irrelevansvillkor",
+      "parentIds": [
+        "B07",
+        "M04"
+      ],
+      "href": "/docs/fordjupning/satstyper/konditionalitet-och-irrelevansvillkor",
+      "requiredCoverage": "Wenn/falls/sofern, V1-villkor, auch wenn/selbst wenn/ob … oder; realitet, relevans och skalära betydelser.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X057",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Satstyper",
+      "title": "Kausala, koncessiva och adversativa relationer",
+      "parentIds": [
+        "B03",
+        "B07"
+      ],
+      "href": "/docs/fordjupning/satstyper/kausala-koncessiva-och-adversativa-relationer",
+      "requiredCoverage": "Weil/da/zumal/denn, obwohl/trotzdem/während; orsak, motivering av påstående och talhandling hålls isär.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X058",
+      "action": "create-new-reference",
+      "stage": 4,
+      "domain": "Satstyper",
+      "title": "Indirekta frågor och inbäddade utrop",
+      "parentIds": [
+        "R07",
+        "B02"
+      ],
+      "href": "/docs/fordjupning/satstyper/indirekta-fragor-och-inbaddade-utrop",
+      "requiredCoverage": "Ob/w-led, frågeinnehåll, utropsläsning, grad och selektion av huvudverb; kontext styr tolkningen.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X059",
+      "action": "create-new-reference",
+      "stage": 5,
+      "domain": "Semantik",
+      "title": "Kvantifikation och distributivitet",
+      "parentIds": [
+        "R09",
+        "D04"
+      ],
+      "href": "/docs/fordjupning/semantik/kvantifikation-och-distributivitet",
+      "requiredCoverage": "Alla/några/ingen, distributiv/kollektiv läsning, numeraler och räckviddsambiguitet; frasernas bidrag visas i minimal kontext.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X060",
+      "action": "create-new-reference",
+      "stage": 5,
+      "domain": "Semantik",
+      "title": "Negation, fokus och polaritet",
+      "parentIds": [
+        "Y06"
+      ],
+      "href": "/docs/fordjupning/semantik/negation-fokus-och-polaritet",
+      "requiredCoverage": "Sats-/lednegation, negativ kongruens som markerat variantsystem, litotes, polaritetskänsliga uttryck och nekande svar.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X061",
+      "action": "create-new-reference",
+      "stage": 5,
+      "domain": "Semantik",
+      "title": "Fokuspartiklar och deras räckvidd",
+      "parentIds": [
+        "Y05",
+        "D04"
+      ],
+      "href": "/docs/fordjupning/semantik/fokuspartiklar-och-deras-rackvidd",
+      "requiredCoverage": "Nur/auch/sogar/erst/noch/schon, association till fokus och presupposition; samma ord med ändrad betoning och skopus.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X062",
+      "action": "create-new-reference",
+      "stage": 5,
+      "domain": "Semantik",
+      "title": "Modalpartiklarnas system",
+      "parentIds": [
+        "Y07"
+      ],
+      "href": "/docs/fordjupning/semantik/modalpartiklarnas-system",
+      "requiredCoverage": "Satsmodus, betoning, position, kombinationer och homonymer hos ja/doch/denn/wohl/eben/halt/mal; korta dialoger med ljud.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X063",
+      "action": "create-new-reference",
+      "stage": 5,
+      "domain": "Semantik",
+      "title": "Anafor, deixis och bindning",
+      "parentIds": [
+        "R01",
+        "R03",
+        "R05",
+        "R06"
+      ],
+      "href": "/docs/fordjupning/semantik/anafor-deixis-och-bindning",
+      "requiredCoverage": "Person-/tids-/rums-/textdeixis, koreferens, reflexivbindning och kontext; alternativa analyser för svåra gränsfall.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X064",
+      "action": "create-new-reference",
+      "stage": 5,
+      "domain": "Semantik",
+      "title": "Presupposition och informationsbakgrund",
+      "parentIds": [
+        "S03",
+        "Y07"
+      ],
+      "href": "/docs/fordjupning/semantik/presupposition-och-informationsbakgrund",
+      "requiredCoverage": "Förutsatt kontra hävdat innehåll, negationstest, partiklar och faktiva konstruktioner; pedagogiska test utan att all pragmatik blir grammatikregel.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X065",
+      "action": "create-new-reference",
+      "stage": 5,
+      "domain": "Semantik",
+      "title": "Tema, fokus och kontrast",
+      "parentIds": [
+        "Y05",
+        "G04"
+      ],
+      "href": "/docs/fordjupning/semantik/tema-fokus-och-kontrast",
+      "requiredCoverage": "Given/ny information, topic/comment, kontrast och fokusaccent; tydlig skillnad mellan textfunktion och nominativsubjekt.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X066",
+      "action": "create-new-reference",
+      "stage": 5,
+      "domain": "Semantik",
+      "title": "Semantiska roller och perspektiv",
+      "parentIds": [
+        "K01",
+        "V01",
+        "M07"
+      ],
+      "href": "/docs/fordjupning/semantik/semantiska-roller-och-perspektiv",
+      "requiredCoverage": "Agent, patient, upplevare, tema och mottagare; relation till valens, subjekt och passiv utan en-till-en-mappning.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X067",
+      "action": "create-new-reference",
+      "stage": 5,
+      "domain": "Semantik",
+      "title": "Tids- och rumsdeixis",
+      "parentIds": [
+        "D02",
+        "D03",
+        "P04",
+        "P06"
+      ],
+      "href": "/docs/fordjupning/semantik/tids-och-rumsdeixis",
+      "requiredCoverage": "Nu/då, hit/dit, hin/her och skiftat berättarperspektiv; grammatisk tid och position relativt talare/referenstid.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X068",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Text och samtal",
+      "title": "Textbindning och referenskedjor",
+      "parentIds": [
+        "R01",
+        "R06",
+        "B03"
+      ],
+      "href": "/docs/fordjupning/text-och-samtal/textbindning-och-referenskedjor",
+      "requiredCoverage": "Anafor, ellips, sambandsord och kontinuitet; annoterade sammanhängande texter, inte bara lösryckta exempel.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X069",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Text och samtal",
+      "title": "Informationsstruktur i längre texter",
+      "parentIds": [
+        "Y05",
+        "E06"
+      ],
+      "href": "/docs/fordjupning/text-och-samtal/informationsstruktur-i-langre-texter",
+      "requiredCoverage": "Temaövergångar, informationspackning, nominal/verbal stil och motiverad variation av förfält och passiv.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X070",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Text och samtal",
+      "title": "Talad grammatik och samtalsenheter",
+      "parentIds": [
+        "Y03",
+        "Y07",
+        "E09"
+      ],
+      "href": "/docs/fordjupning/text-och-samtal/talad-grammatik-och-samtalsenheter",
+      "requiredCoverage": "Turer, projektion, respons, eftertankar och reparation; transkriberade korta autentiska sekvenser med etiska/licensierade data.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X071",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Text och samtal",
+      "title": "Vorfeldbortfall och situationsell ellips",
+      "parentIds": [
+        "Y01",
+        "Y02"
+      ],
+      "href": "/docs/fordjupning/text-och-samtal/vorfeldbortfall-och-situationsell-ellips",
+      "requiredCoverage": "Topic drop, korta svar och situationsförståelse; märk tal/nätmedier och skilj från det formella skriftspråkets norm.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X072",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Text och samtal",
+      "title": "Diskursmarkörer och responsuttryck",
+      "parentIds": [
+        "Y07",
+        "B03"
+      ],
+      "href": "/docs/fordjupning/text-och-samtal/diskursmarkorer-och-responsuttryck",
+      "requiredCoverage": "Also, na ja, tja, ja/nein/doch, kontakt och korrigering; position, prosodi och olika funktioner hos samma form.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X073",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Text och samtal",
+      "title": "Referat, evidens och perspektiv i text",
+      "parentIds": [
+        "M06",
+        "E06"
+      ],
+      "href": "/docs/fordjupning/text-och-samtal/referat-evidens-och-perspektiv-i-text",
+      "requiredCoverage": "Direkt/indirekt/fritt indirekt tal, referensskiften och källangivelse; litterär berättarteknik mot vanlig referatgrammatik.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X074",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Variation och norm",
+      "title": "Nationell och regional standardvariation",
+      "parentIds": [
+        "E09"
+      ],
+      "href": "/docs/fordjupning/variation-och-norm/nationell-och-regional-standardvariation",
+      "requiredCoverage": "Tyskland/Österrike/Schweiz och andra tyskspråkiga områden, belagda morfosyntaktiska varianter; användningsvillkor, inte korrekt/fel efter land.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X075",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Variation och norm",
+      "title": "Dialektgrammatik i jämförande översikt",
+      "parentIds": [
+        "E09"
+      ],
+      "href": "/docs/fordjupning/variation-och-norm/dialektgrammatik-i-jamforande-oversikt",
+      "requiredCoverage": "Utvalda systematiska skillnader i kasus, relativsatser, negation och verbkluster; namngiven region och tydligt angiven ofullständig dialektinventering.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X076",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Variation och norm",
+      "title": "Historisk grammatik för modern textläsning",
+      "parentIds": [
+        "E09",
+        "E12"
+      ],
+      "href": "/docs/fordjupning/variation-och-norm/historisk-grammatik-for-modern-textlasning",
+      "requiredCoverage": "Äldre genitiv/dativändelser, konjunktiv, ordföljd och konstruktioner i litteratur; markera tidsperiod och modern produktionsstatus.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X077",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Variation och norm",
+      "title": "Språkförändring och omstridda fall",
+      "parentIds": [
+        "E09",
+        "K05",
+        "A05"
+      ],
+      "href": "/docs/fordjupning/variation-och-norm/sprakforandring-och-omstridda-fall",
+      "requiredCoverage": "Rektion, kongruens, adjektivböjning, genderformer och nya lånord; skilj kodifiering, faktiskt bruk och redaktionell rekommendation.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X078",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Variation och norm",
+      "title": "Grammatik i fackspråk och myndighetstext",
+      "parentIds": [
+        "E06",
+        "E08"
+      ],
+      "href": "/docs/fordjupning/variation-och-norm/grammatik-i-facksprak-och-myndighetstext",
+      "requiredCoverage": "Juridik, vetenskap och administration: nominalisering, attributkedjor, passiv/modalitet och tvetydighet; grammatisk analys snarare än allmän stilguide.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X079",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Ortografi",
+      "title": "Komma vid komplexa infinitivgrupper",
+      "parentIds": [
+        "G07",
+        "V09"
+      ],
+      "href": "/docs/fordjupning/ortografi/komma-vid-komplexa-infinitivgrupper",
+      "requiredCoverage": "Aktuellt officiellt regelverk, gruppgränser, korrelat och betydelseskillnader; revisionsdatum och paragraf för varje regel.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X080",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Ortografi",
+      "title": "Särskrivning, sammanskrivning och bindestreck",
+      "parentIds": [
+        "G05",
+        "S09",
+        "V06"
+      ],
+      "href": "/docs/fordjupning/ortografi/sarskrivning-sammanskrivning-och-bindestreck",
+      "requiredCoverage": "Verbkombinationer, adjektiv/particip, namn och lånord; flera tillåtna stavningar och relation till grammatisk struktur.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X081",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Ortografi",
+      "title": "Interpunktion och satsstruktur",
+      "parentIds": [
+        "G07",
+        "B01"
+      ],
+      "href": "/docs/fordjupning/ortografi/interpunktion-och-satsstruktur",
+      "requiredCoverage": "Kolon, semikolon, tankstreck, parenteser, direkt tal och inskott; valfrihet och betydelse/pragmatik skild från obligatoriskt komma.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X082",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Referensmetod",
+      "title": "Grammatiska analyser och deras gränser",
+      "parentIds": [
+        "G08",
+        "E12"
+      ],
+      "href": "/docs/fordjupning/referensmetod/grammatiska-analyser-och-deras-granser",
+      "requiredCoverage": "Satsledsprov, dependens/konstituens, valens och olika ordklassystem; analysen är en modell, inte en extra korrekthetsnorm.",
+      "status": "proposed-not-written"
+    },
+    {
+      "id": "X083",
+      "action": "create-new-reference",
+      "stage": 6,
+      "domain": "Referensmetod",
+      "title": "Grammatiska tveksamhetsfall A–Ö",
+      "parentIds": [
+        "E12"
+      ],
+      "href": "/docs/fordjupning/referensmetod/grammatiska-tveksamhetsfall-ao",
+      "requiredCoverage": "Redaktionellt register över belagda frågor, varianter och källor; länka till ägande sakartikel och håll statusdatum per fall.",
+      "status": "proposed-not-written"
+    }
+  ]
+}

@@ -2929,7 +2929,7 @@
       ],
       "href": "/docs/fordjupning/syntax/subjektlosa-satser-och-olika-es",
       "requiredCoverage": "Argument-es, väder-es, korrelat och förfältsplatshållare; omflyttningstest och opersonlig passiv.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X048",
@@ -2944,7 +2944,7 @@
       ],
       "href": "/docs/fordjupning/syntax/kongruensens-gransfall",
       "requiredCoverage": "Samordnade subjekt, kollektiver, måttfraser, titlar, formell/semantisk kongruens; faktisk variation med register.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X049",
@@ -2957,7 +2957,7 @@
       ],
       "href": "/docs/fordjupning/syntax/koordination-pa-flera-nivaer",
       "requiredCoverage": "Ord-, fras- och satskoordination, asymmetri, korrelativa par och semantiska relationer; koordinationsgränser dokumenteras.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X050",
@@ -2971,7 +2971,7 @@
       ],
       "href": "/docs/fordjupning/syntax/ellips-gapping-och-gemensamma-satsled",
       "requiredCoverage": "Samordningsellips, gapping, högernoddelning och register; återställningsbar struktur, tolkning och gränsen mot felaktig ofullständighet.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X051",

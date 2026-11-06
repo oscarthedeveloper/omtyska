@@ -1,0 +1,181 @@
+---
+id: X050
+title: 'Ellips, gapping och gemensamma satsled'
+description: 'En lingvistisk analys av ellipser och reduktion i tysk syntax: gapping (verbellips), högernoddelning (RNR), förfältsellips samt gränsen mot grammatiskt felaktig ofullständighet.'
+slug: '/fordjupning/syntax/ellips-gapping-och-gemensamma-satsled'
+sidebar_position: 12
+category: 'Fördjupning'
+suggestedLevels: ['B2', 'C1', 'C2']
+rigoros: true
+prerequisites: ['B01', 'Y02']
+objectives:
+  - 'Definiera begreppet ellips och dess krav på rekonstruerbarhet i tysk syntax'
+  - 'Analysera gapping (verbellips) i samordnade satser och dess kongruensbegränsningar'
+  - 'Behärska högernoddelning (Right Node Raising / RNR) och dess krav på gemensam kasusstyrning'
+  - 'Skilja grammatisk reduktion från stilistiskt felaktig ofullständighet (t.ex. zeugma och kasuskollision)'
+---
+
+<LessonIntro
+  situation="Du läser eller skriver en tysk mening där ord har utelämnats för att undvika upprepning, till exempel 'Peter liest ein Buch und Maria eine Zeitung' eller 'Er befürwortet und sie bekämpft diesen Vorschlag', och vill förstå de strikta grammatiska villkoren för att sådana strykningar ska vara korrekta."
+  goals={[
+    "Identifiera de tre huvudtyperna av strukturell ellips: gapping, högernoddelning och förfältsellips",
+    "Tillämpa gapping korrekt utan numerus- eller personkollision",
+    "Konstruera högernoddelning (Right Node Raising) med strikt identisk kasusstyrning",
+    "Undvika ogrammatisk ellips (zeugma) när verb kräver olika prepositioner eller kasus"
+  ]}
+  prerequisites={[
+    { href: "/docs/satser/samordning", label: "B01: Und, aber, oder, denn och sondern" },
+    { href: "/docs/syntax/satsram", label: "Y02: Satsramen: vänster och höger verbdel" }
+  ]}
+/>
+
+I både tal och skrift strävar språkbrukare efter ekonomi och elegans. Att ständigt upprepa identiska verb, subjekt eller objekt gör texten tungrodd och monoton.
+
+Att medvetet utelämna syntaktiska element kallas inom lingvistiken för **ellips** (*die Ellipse*). I tysk syntax är ellips emellertid inte godtycklig; ett element får endast strykas om det är **otvetydigt rekonstruerbart** (*rekonstruierbar*) ur det syntaktiska sammanhanget.
+
+---
+
+## 1. De tre strukturella ellipstyperna
+
+I samordnade satser möter man framför allt tre väletablerade ellipstyper:
+
+```
+DE TRE STRUKTURELLA ELLIPSTYPERNA:
+
+  1. Gapping (Verb-ellips i mittledet):
+     Det finita verbet utelämnas i det andra samordnade ledet.
+     - "Karl kauft Äpfel und Maria [---] Birnen."
+       (Verbet "kauft" stryks i led 2).
+
+  2. Högernoddelning (Right Node Raising / RNR):
+     Två samordnade satser delar ett gemensamt avslutande element i högra periferin.
+     - "Peter befürwortet [---] und Maria bekämpft [diesen Gesetzentwurf]Gemensamt objekt."
+       (Båda verben delar objektet "diesen Gesetzentwurf" längst till höger).
+
+  3. Förfältsellips (Vorfeldellipse):
+     Subjektet eller demonstrativet i förfältet faller bort i ledig dialog eller talspråk.
+     - "[Ich] Habe keine Ahnung."
+     - "[Das] Kann man wohl sagen."
+```
+
+---
+
+## 2. Gapping och dess grammatiska villkor
+
+Vid **gapping** måste verbet i den första satsen vara morfologiskt och syntaktiskt kompatibelt med det utelämnade verbet i den andra satsen:
+
+```
+KRAV VID GAPPING:
+  A. Kompatibel person och numerus (Grammatiskt):
+     - "Er liest [3:e sing] einen Roman und sie [---] eine Biografie."
+       (Liest passar perfekt till båda subjekten).
+
+  B. Tveksam eller ogrammatisk gapping vid numeruskollision:
+     - ?*"Er liest [3:e sing] ein Buch und die Kinder [---] Comics."
+       (Eftersom "die Kinder" kräver pluralformen "lesen", betraktas detta i vårdad skrift som stilistiskt felaktigt).
+       -> Rätt: "Er liest ein Buch und die Kinder LESEN Comics."
+```
+
+---
+
+## 3. Högernoddelning (Right Node Raising) och dess fallgropar
+
+Vid **högernoddelning** (*Rechtsversetzung eines gemeinsamen Satzglieds*) måste de samordnade verben ha **identisk rektion** (samma kasus och samma preposition):
+
+| Meningspar | Kasusstyrning | Lingvistisk status |
+| :--- | :--- | :--- |
+| *Er liebt [ack] und sie bewundert [ack] **diesen Künstler**.* | Båda styr **ackusativ** | **Felfritt och elegant.** |
+| *\*Er vertraut [dat] und sie liebt [ack] **diesen Künstler**.* | *vertrauen* styr **dativ**, men *lieben* styr **ackusativ** | **OGRAMMATISKT!** Kasuskollision spärrar delning. |
+
+> [!CRITICAL]
+> Om två verb kräver olika kasus kan objektet ALDRIG delas genom högernoddelning! Båda objekten måste skrivas ut:
+> - Fel: *\*Er half und unterstützte seinen Freund.* (helfen = dativ, unterstützen = ackusativ).
+> - Rätt: **Er half seinem Freund (dat) und unterstützte ihn (ack).**
+
+---
+
+## 4. Ogrammatisk ofullständighet: Zeugma och prepositionskollision
+
+Ett klassiskt stilfel i skrift är **zeugma** (*das Zeugma*): att samordna två led med ett verb som bara passar semantiskt eller syntaktiskt till det ena:
+
+```
+ZEUGMA OCH PREPOSITIONSKOLLISION:
+
+  A. Semantiskt zeugma:
+     "Er schlug die Scheibe und dann den Weg nach Hause ein."
+     (Einschlagen betyder krossa i första fallet, och anträda/slå in på i andra fallet.
+      Fungerar som humoristisk retorisk figur, men är fel i sakprosa).
+
+  B. Prepositionskollision vid verb med fasta prepositioner:
+     Fel:  *Er sprach für und gegen die Reform. (förutsätter att båda tar ackusativ, vilket fungerar med für och gegen).
+     Fel:  *Er protestierte und kämpfte für die Freiheit.
+           (protestieren styr GEGEN, kämpfen styr FÜR! Man kan inte stryka "gegen").
+     Rätt: "Er protestierte GEGEN die Zensur und kämpfte FÜR die Freiheit."
+```
+
+---
+
+## 5. Analyserade kontextpar
+
+### Kontextpar 1: Gapping med identisk singularis kontra numeruskollision
+
+- **Par A (Korrekt gapping med 3:e person singular i båda leden):**  
+  *Der Professor untersucht die Ursachen und die Assistentin **[---]** die Folgen des Unfalls.*
+- **Par B (Undermålig gapping vid numeruskollision):**  
+  *?Der Professor untersucht die Ursachen und die Assistenten **[---]** die Folgen des Unfalls.*
+- **Analys:**  
+  I Par A kan verbet *untersucht* rekonstrueras utan friktion i det andra ledet eftersom *die Assistentin* är singularis.  
+  I Par B är *die Assistenten* pluralis och fordrar verbet *untersuchen*. I vårdad tysk sakprosa måste verbet skrivas ut i andra ledet: *...und die Assistenten untersuchen die Folgen*.
+
+### Kontextpar 2: Högernoddelning vid samma kasus kontra kasuskollision
+
+- **Par A (Gemensamt ackusativobjekt):**  
+  *Die Regierung befürwortet und das Parlament unterstützt **den neuen Gesetzentwurf**.*
+- **Par B (Otillåten sammanslagning vid dativ och ackusativ):**  
+  *\*Die Regierung stimmte zu und das Parlament verabschiedete **den neuen Gesetzentwurf**.*
+- **Analys:**  
+  I Par A styr både *befürworten* och *unterstützen* ackusativ. Objektet kan därför delas utan syntaktiskt brott.  
+  I Par B styr *zustimmen* dativ (*dem Gesetzentwurf*), medan *verabschieden* styr ackusativ (*den Gesetzentwurf*). Eftersom de kräver olika kasusändelser är ellipsen helt ogrammatisk.
+
+---
+
+## 6. Tio autentiska exempel med lingvistisk kommentar
+
+1. **Deutschland exportiert Maschinen und importiert Rohstoffe.** – *Tyskland exporterar maskiner och importerar råvaror.*  
+   *Kommentar:* Subjektsellips i andra ledet; det gemensamma subjektet *Deutschland* delas av båda verben.
+2. **Die einen forschten im Labor, die anderen im Freien.** – *De ena forskade i laboratoriet, de andra utomhus.*  
+   *Kommentar:* Klassisk gapping (verbellips) där verbet *forschten* utelämnas i det andra ledet.
+3. **Er hat den Plan zwar gebilligt, aber noch nicht unterschrieben.** – *Han har visserligen godkänt planen, men ännu inte undertecknat den.*  
+   *Kommentar:* Hjälpverbs- och objektsellips i andra ledet (*hat* och *den Plan* rekonstrueras).
+4. **Wir hoffen auf eine friedliche und verlangen eine gerechte Lösung.** – *Vi hoppas på en fredlig och kräver en rättvis lösning.*  
+   *Kommentar:* Högernoddelning (RNR) av substantivet *Lösung* med två samordnade attributfraser.
+5. **Gestern im Büro gewesen? – Nein, krank zu Hause geblieben.** – *Varit på kontoret igår? – Nej, stannat hemma sjuk.*  
+   *Kommentar:* Talspråklig förfälts- och hjälpverbsellips i snabb vardagsdialog.
+6. **Die Ministerin plädierte für, der Oppositionsführer gegen den Gesetzentwurf.** – *Ministern pläderade för, oppositionsledaren mot lagförslaget.*  
+   *Kommentar:* Högernoddelning av ackusativobjektet *den Gesetzentwurf* efter två motsatta prepositioner (*für* och *gegen*) som båda styr ackusativ.
+7. **Sie schenkte ihm ein Buch und er ihr eine Halskette.** – *Hon gav honom en bok och han henne ett halsband.*  
+   *Kommentar:* Gapping av verbet *schenkte* med bibehållna pronominala dativ- och ackusativobjekt.
+8. **Er hat ihr geholfen und sie herzlich umarmt.** – *Han hjälpte henne och kramade henne hjärtligt.*  
+   *Kommentar:* Korrekt uppdelning av pronomen på grund av olika kasus: *ihr* (dativ vid *helfen*) och *sie* (ackusativ vid *umarmen*).
+9. **Schon fertig mit der Arbeit?** – *Redan färdig med arbetet?*  
+   *Kommentar:* Fullständig förfälts- och kopulaellips (*Bist du schon fertig...*).
+10. **Die Kommission prüfte und der Ausschuss bestätigte die Richtigkeit der Angaben.** – *Kommissionen prövade och utskottet bekräftade riktigheten i uppgifterna.*  
+    *Kommentar:* RNR med gemensamt feminint ackusativobjekt (*die Richtigkeit*).
+
+---
+
+## 7. Svenska interferensfällor
+
+> [!WARNING]
+> 1. **Dela objekt mellan verb med olika kasus:** En mycket vanlig fälla när svenskar skriver tyska. På svenska kan man säga *Han hjälpte och stöttade sin vän* (båda tar samma objektform). På tyska är detta ett grovt syntaxfel eftersom *helfen* kräver dativ och *unterstützen* kräver ackusativ. Skriv ALLTID ut båda: **Er half seinem Freund und unterstützte ihn**.
+> 2. **Gapping vid numeruskrock i formell stil:** Undvik att stryka verbet om subjektet i andra ledet är plural och första är singular (*Der Chef kam und die Mitarbeiter [---]*). Skriv ut verbet i plural: **Der Chef kam und die Mitarbeiter kamen**.
+> 3. **Blanda ihop prepositioner vid delade komplement:** Säg aldrig \*_Er hofft und wartet auf dich_ (det fungerar eftersom båda tar *auf*), men ALDRIG \*_Er zweifelt und wartet auf den Erfolg_ (*zweifeln* kräver *an*, inte *auf*!).
+
+<RelatedLessons
+  lessons={[
+    { label: 'B01: Und, aber, oder, denn och sondern', href: '/docs/satser/samordning' },
+    { label: 'Y02: Satsramen: vänster och höger verbdel', href: '/docs/syntax/satsram' },
+    { label: 'X048: Kongruensens gränsfall', href: '/docs/fordjupning/syntax/kongruensens-gransfall' },
+    { label: 'X049: Koordination på flera nivåer', href: '/docs/fordjupning/syntax/koordination-pa-flera-nivaer' }
+  ]}
+/>

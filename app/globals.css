@@ -85,7 +85,7 @@
   --s-xxl: 48px;
   --s-section: 96px;
 
-  --navbar-height: 95px;
+  --navbar-height: 77px;
   --content-width: 1280px;
 }
 
@@ -404,6 +404,37 @@ blockquote {
 
 .custom-quote p:last-child { margin-bottom: 0; }
 
+.callout {
+  border-radius: var(--r-md);
+  padding: var(--s-md) var(--s-lg);
+  margin: var(--s-lg) 0;
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  border-left: 4px solid var(--hairline);
+  background: var(--surface-soft);
+}
+
+.callout-info {
+  background: var(--block-lilac);
+  border-left-color: var(--brand);
+}
+
+.callout-warning {
+  background: #fdf5e6;
+  border-left-color: var(--warning);
+}
+
+.callout-title {
+  font-weight: 600;
+  margin-bottom: var(--s-xs);
+  color: var(--ink);
+}
+
+.callout p:last-child,
+.callout div:last-child {
+  margin-bottom: 0;
+}
+
 .regelruta {
   display: block;
   border: 2px solid var(--ink);
@@ -455,5 +486,8 @@ button, input, select, textarea { font-family: var(--font-sans); }
 .mdxContent a { color: var(--brand); }
 .mdxContent blockquote { border-left: 2px solid var(--brand); padding: 12px 22px; background: var(--surface-soft); font-size: 1.15rem; }
 .mdxContent pre { font-size: .8125rem; line-height: 1.7; }
-@media(max-width:900px) { :root { --navbar-height: 78px; } }
+@media(max-width:900px) { :root { --navbar-height: 71px; } }
 @media(prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } *, *::before, *::after { animation-duration:.01ms !important; transition-duration:.01ms !important; } }
+
+/* Publication families set their own heading and paper treatments. */
+:root{--paper:#fff;--rule:#a9b6d7}

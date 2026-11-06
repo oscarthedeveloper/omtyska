@@ -675,6 +675,48 @@
     "bl": ""
   },
   {
+    "id": "S07",
+    "t": "Substantivböjning och dativ plural",
+    "d": "Lär dig den gyllene regeln för dativ plural: alla tyska substantiv får ändelsen -(e)n i dativ plural, såvida pluralformen inte redan slutar på -n eller -s! Med exempel som Kindern, Frauen och Autos.",
+    "h": "/docs/substantiv/dativ-plural",
+    "c": "Substantiv",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. De två enda undantagen från regeln",
+      "Undantag 1: Pluralen slutar redan på \"-n\" eller \"-en\"",
+      "Undantag 2: Pluralen slutar på \"-s\" (lånord)",
+      "2. Jämförelsetabell över de olika pluraltyperna i Dativ",
+      "3. Akta dig: \"den\" maskulin ackusativ vs. \"den\" dativ plural",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut I dativ plural gäller alltid två synkroniserade förändringar: 1. Den bestämda artikeln är den (och possessiv/obestämd slutar på -en , t.ex. meinen, keinen ). 2. Själva substantivet får ändelsen -(e)n : --- 1. De två enda undantagen från regeln Det finns endast två situationer där substantivet inte får ett extra -n i dativ plural: Undantag 1: Pluralen slutar redan på \"-n\" eller \"-en\" Man lägger givetvis inte till ett dubbelt nn : die Frauen - mit den Frauen (inte Frauenn!) die Zeitungen - aus den Zeitungen die Studenten - zu den Studenten die Schulen - in den Schulen Undantag 2: Pluralen slutar på \"-s\" (lånord) Ord som bildar plural med -s får aldrig något -n efter sig: die Autos - mit den Autos (inte Autosn!) die Hotels - in den Hotels die Fotos - auf den Fotos die Kinos - in den Kinos --- 2. Jämförelsetabell över de olika pluraltyperna i Dativ Pluralmönster Nominativ plural Dativ plural Kommentar :--- :--- :--- :--- 1. -(e)n die Blumen den Blumen Redan -n, oförändrad 2. -e die Tage den Tag en Lägger till -n 3. -er die Bilder den Bilder n Lägger till -n 4. -s die Partys den Partys Slutar på -s, oförändrad 5. Nollplural (–) die Lehrer den Lehrer n Lägger till -n 5b. Nollplural på -el/-en die Koffer den Koffer n Lägger till -n 5c. Nollplural på -en die Wagen den Wagen Redan -n, oförändrad --- 3. Akta dig: \"den\" maskulin ackusativ vs. \"den\" dativ plural Ordet den förekommer på två ställen i det tyska kasussystemet och får inte förväxlas: Maskulin ackusativ singular: Ich sehe den Mann . (substantivet slutar inte på -n, ordet är singular!) Dativ plural (alla genus): Ich spreche mit den Männern . (substantivet slutar på -n och står i plural!) --- 10 autentiska exempel 1. Der Lehrer spielt auf dem Schulhof mit den Kindern . (dativ plural av die Kinder: den Kindern.) 2. Wir haben lange mit den neuen Nachbarn gesprochen. (pluralen slutar redan på -n: den Nachbarn.) 3. Auf den Straßen lag am Morgen eine dünne Eisschicht. (die Straßen slutar på -n.) 4. Was ist der Unterschied zwischen diesen beiden Modellen ? (dativ plural efter zwischen: Modellen.) 5. In den besten Restaurants muss man Wochen im Voraus reservieren. (lånord på -s: den Restaurants behåller -s utan n.) 6. Die Vögel sitzen zwitschernd auf den Ästen der Bäume. (die Äste - den Ästen.) 7. Er hilft seinen älteren Freunden bei der Renovierung. (possessivt pronomen seinen + Freunden med extra -n.) 8. Unter den alten Büchern fand sie einen vergessenen Brief. (die Bücher - den Büchern.) 9. Zu den beliebtesten Reisezielen gehören die Kanarischen Inseln. (die Reiseziele - den Reisezielen.) 10. Die Fahrgäste warteten geduldig in den Zügen . (die Züge - den Zügen.) ---",
+    "bl": ""
+  },
+  {
+    "id": "S06",
+    "t": "Genitivändelser och namn",
+    "d": "Lär dig substantivens egna genitivändelser: när maskulina och neutrala ord får -s kontra -es, hur personnamn böjs med och utan apostrof samt när talspråkets \"von + dativ\" används.",
+    "h": "/docs/substantiv/genitivformer",
+    "c": "Substantiv",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. När ska man välja \"-es\" och när \"-s\"?",
+      "A. Obligatoriskt \"-es\" (krävs för uttalet):",
+      "B. Stark preferens för \"-es\":",
+      "C. Obligatoriskt \"-s\" (inte -es):",
+      "2. Egennamn: Peter, Anna och Goethe",
+      "Namn som slutar på s-ljud:",
+      "3. \"Von + Dativ\" som talspråkligt alternativ",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut I tyskan är det endast maskulina och neutrala substantiv i singular som får en kasusändelse i genitiv: Varning för svenskar: Skriv aldrig \"der Frau's\" eller \"der Mütters\" ! Feminina substantiv och pluralformer har absolut ingen genitivändelse på själva substantivet. --- 1. När ska man välja \"-es\" och när \"-s\"? Valet mellan -es och -s på maskulina och neutrala ord styrs av fonetiska regler: A. Obligatoriskt \"-es\" (krävs för uttalet): Efter alla ord som slutar på ett s-ljud ( -s, -ss, -ß, -z, -tz, -x ): das Glas - des Glas es der Fluss - des Fluss es der Platz - des Platz es das Gesetz - des Gesetz es der Reflex - des Reflex es B. Stark preferens för \"-es\": Vid de flesta enstaviga basord (särskilt med konsonantkluster i slutet): das Kind - des Kind es (des Kinds är ovanligare) der Mann - des Mann es das Bild - des Bild es das Jahr - des Jahr es (eller des Jahrs) C. Obligatoriskt \"-s\" (inte -es): Vid flerstaviga ord som slutar på obetonat -el, -en, -er samt ord som slutar på vokal : der Lehrer - des Lehrer s (aldrig des Lehreres) der Vater - des Vater s der Wagen - des Wagen s das Auto - des Auto s das Radio - des Radio s --- 2. Egennamn: Peter, Anna och Goethe När du använder personnamn och geografiska namn i genitiv placeras namnet framför det ägda föremålet: Peters neues Auto (Peters nya bil – INGEN apostrof!) Annas Wohnung (Annas lägenhet) Schillers Dramen (Schillers dramer) Schwedens Wirtschaft (Sveriges ekonomi) Namn som slutar på s-ljud: Om namnet redan slutar på ett s-ljud ( -s, -ss, -ß, -z, -x, -ce ) läggs en ren apostrof till i slutet utan extra s: Max’ Fahrrad (Max cykel) Lukas’ Schwester (Lukas syster) Johannes’ Evangelium Marx’ Theorien (Marx teorier) --- 3. \"Von + Dativ\" som talspråkligt alternativ I modernt talspråk ersätts genitivattributet mycket ofta med von + Dativ : Skrift (Genitiv): das Dach des Hauses Tal (von + Dativ): das Dach von dem Haus Det finns dock sammanhang där \"von\" är obligatoriskt även i skrift: 1. När substantivet i plural saknar artikel eller adjektiv som kan visa genitiven: der Import von Waren (inte der Import Waren) 2. Efter pronomen och räkneord: einer von uns (en av oss) , drei von den Studenten --- 10 autentiska exempel 1. Der Zustand des alten Hauses verschlechterte sich rapide. (enstavigt neutrum: des Hauses med -es.) 2. Das Büro unseres Abteilungsleiters befindet sich im dritten Stock. (flerstavigt ord på -er: des Leiters med enkelt -s.) 3. Mozarts Musik wird auf der ganzen Welt geliebt. (egennamn i genitiv utan apostrof.) 4. Klaus’ neue Brille steht ihm hervorragend. (namn på s-ljud: Klaus’ med apostrof.) 5. Die Beschlüsse des Kongresses wurden einstimmig gefasst. (ord på s-ljud: des Kongresses med -es.) 6. Das Lächeln der kleinen Tochter bezauberte alle Gäste. (feminin genitiv: der Tochter utan ändelse på substantivet!) 7. Die Zukunft Europas liegt in den Händen der Jugend. (geografiskt namn utan artikel: Europas.) 8. Trotz des schlechten Wetters fand das Open-Air-Konzert statt. (genitiv neutrum: des Wetters.) 9. Ist das das Fahrrad von deinem Bruder ? (ledigt talspråk med von + dativ.) 10. Die Unterstützung vieler Bürger war entscheidend für den Erfolg. (genitiv plural: vieler Bürger.) ---",
+    "bl": ""
+  },
+  {
     "id": "S01",
     "t": "Substantivens genus",
     "d": "Lär dig det tyska genussystemet: der (maskulinum), die (femininum) och das (neutrum). Upptäck de pålitliga reglerna för suffix och ändelser som avslöjar genus.",
@@ -690,6 +732,27 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut I tyskan har varje substantiv ett fast grammatiskt genus som syns på den bestämda artikeln i nominativ : Maskulinum (m) : der Mann , der Tisch , der Tag Femininum (f) : die Frau , die Tür , die Nacht Neutrum (n) : das Kind , das Buch , das Haus Det finns två gyllene principer för att förstå genuset: 1. Morfologiska avledningssuffix styr genuset regelbundet : Har ordet ett produktivt suffix som -ung, -heit, -keit eller diminutivet -chen är genuset grammatiskt bestämt oavsett ordets betydelse. 2. Grammatiskt genus är inte samma sak som biologiskt kön : Det handlar om ordets form och morfologi, inte om objektets natur! --- 1. De säkra femininändelserna (Alltid DIE!) Om ett substantiv slutar på någon av följande ändelser är det nästan utan undantag femininum : Ändelse Regel Exempel Betydelse :--- :--- :--- :--- -ung 100 % femininum die Zeitung , die Wohnung tidning, lägenhet -heit 100 % femininum die Freiheit , die Krankheit frihet, sjukdom -keit 100 % femininum die Möglichkeit , die Schnelligkeit möjlighet, snabbhet -schaft 100 % femininum die Freundschaft , die Mannschaft vänskap, lag -tion 100 % femininum (lånord) die Station , die Situation station, situation -tät 100 % femininum (lånord) die Universität , die Qualität universitet, kvalitet -ie (betonat) Franska/grekiska lånord (femininum, jfr lånordet das Genie ) die Energie , die Familie energi, familj -e Ca 90 % femininum (tvåstavingar) die Lampe , die Straße , die Tasche lampa, gata, väska --- 2. De säkra neutrumändelserna (Alltid DAS!) Ändelse / Typ Regel Exempel Betydelse :--- :--- :--- :--- -chen / -lein Förminskningsord (diminutiv) das Mädchen , das Brötchen flicka, småfranska -ment Lånord das Dokument , das Instrument dokument, instrument -um Latinska lånord das Museum , das Zentrum museum, centrum Infinitiver Substantiverade verb das Essen , das Leben maten, livet Ge-...-e Kollektivbildningar das Gebäude , das Gebirge byggnad, bergskedja 💡 Varför heter det \"das Mädchen\"? En flicka är förstås biologiskt en person av kvinnligt kön. Men i ordet Mädchen finns det produktiva diminutivsuffixet -chen (förminskningsform av det äldre ordet Magd , mö/flicka). I tysk grammatik vinner diminutivsuffixet över biologin : avledningar med diminutiven -chen och -lein är alltid grammatiskt neutrum! (Obs: Förväxla inte diminutivsuffixet med ord som råkar sluta på bokstäverna -chen som del av stammen, t.ex. det maskulina ordet der Kuchen [kakan] eller der Knochen [benet].) --- 3. De säkra maskulinändelserna (Alltid DER!) Ändelse / Betydelse Regel Exempel Betydelse :--- :--- :--- :--- -ismus Ismer och åskådningar der Optimismus , der Tourismus optimism, turism -or Lånord (aktörer, apparater) der Motor , der Professor motor, professor -ling Personer / små ting der Frühling , der Schmetterling vår, fjäril -er Manliga yrkesutövare och verktyg der Lehrer , der Computer lärare, dator Dagar, månader, årstider Semantisk grupp (alltid mask.) der Montag , der Juli , der Sommer måndag, juli, sommar Väderfenomen Vind, regn, snö der Regen , der Wind , der Schnee regn, vind, snö --- 10 autentiska exempel 1. Die Wohnung ist sehr hell und modern. (-ung är alltid femininum: die Wohnung.) 2. Das Mädchen liest ein spannendes Buch. (-chen ger alltid neutrum: das Mädchen.) 3. Der Sommer in Schweden ist wunderschön. (Årstider är alltid maskulinum: der Sommer.) 4. Wir besuchen morgen das Museum für Kunst. (-um är neutrum: das Museum.) 5. Die Freiheit der Presse ist ein hohes Gut. (-heit är alltid femininum: die Freiheit.) 6. Er arbeitet als der neue Professor an der Universität. (-or är maskulinum; -tät är femininum.) 7. Möchtest du noch ein kleines Brötchen ? (-chen ger neutrum: das Brötchen.) 8. Die Qualität dieser Produkte ist hervorragend. (-tät ger alltid femininum.) 9. Der Regen hat den ganzen Tag nicht aufgehört. (Väderord är maskulinum: der Regen.) 10. Das Leben in einer Großstadt ist oft hektisch. (Substantiverad infinitiv är alltid neutrum: das Leben.) ---",
+    "bl": ""
+  },
+  {
+    "id": "S05",
+    "t": "N-deklination och blandade substantiv",
+    "d": "Lär dig tyskans svaga maskulina substantiv (n-deklination): ord som der Junge, der Mensch och der Student, vilka får ändelsen -(e)n i alla oblika kasus. Inklusive särfallen der Name och das Herz.",
+    "h": "/docs/substantiv/n-deklination",
+    "c": "Substantiv",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Vilka ord tillhör n-deklinationen?",
+      "Grupp 1: Maskulina levande varelser som slutar på -e",
+      "Grupp 2: Maskulina lånord med betoning på sista stavelsen",
+      "Grupp 3: Enstaka gamla basord (enstaviga)",
+      "2. Blandade substantiv: Gruppen \"der Name\" (-ns i genitiv)",
+      "3. Särfallet \"das Herz\" (enda neutrala ordet)",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Substantiv som tillhör n-deklinationen (svag böjning) är nästan uteslutande maskulina ord. De får ändelsen -(e)n i alla kasus i singular utom nominativ , samt i hela pluralen: Lägg märke till att i genitiv singular får dessa ord inte något extra -s (det heter des Jungen , INTE des Jungens )! --- 1. Vilka ord tillhör n-deklinationen? Det finns tre tydliga grupper att memorera: Grupp 1: Maskulina levande varelser som slutar på -e der Junge (pojken) - den Jungen der Kollege (kollegan) - den Kollegen der Kunde (kunden) - den Kunden der Nachbar (grannen - obs, slutar på -ar men böjs svagt) Djur: der Löwe (lejonet) , der Affe (apan) , der Hase (haren) Grupp 2: Maskulina lånord med betoning på sista stavelsen Särskilt lånord av grekiskt eller romanskt ursprung: -ent / -ant : der Student , der Assistent , der Praktikant , der Elefant -ist : der Polizist , der Tourist , der Journalist , der Spezialist -at / -ot : der Soldat , der Demokrat , der Pilot -oge / -ad : der Biologe , der Psychologe , der Kamerad Grupp 3: Enstaka gamla basord (enstaviga) der Mensch (människan) - den Menschen der Herr (herrn) - den Herrn (plural: die Herren) der Bär (björnen) - den Bären der Held (hjälten) - den Helden --- 2. Blandade substantiv: Gruppen \"der Name\" (-ns i genitiv) En liten handfull maskulina substantiv tar -n i ackusativ och dativ, men lägger till ett extra -s i genitiv ( -(e)ns ): Kasus der Name (namnet) der Gedanke (tanken) :--- :--- :--- Nominativ der Name der Gedanke Ackusativ den Name n den Gedanke n Dativ dem Name n dem Gedanke n Genitiv des Name ns des Gedanke ns Hit hör även: der Glaube (tron), der Wille (viljan), der Friede(n) (freden), der Buchstabe (bokstaven). --- 3. Särfallet \"das Herz\" (enda neutrala ordet) Det neutrala ordet das Herz (hjärtat) har en alldeles egen böjning som kombinerar stark och svag böjning: Fras: von ganzem Herzen (av hela mitt hjärta) . --- 10 autentiska exempel 1. Ich habe gestern einen neuen Kollegen kennengelernt. (ackusativ singular: der Kollege - den Kollegen.) 2. Die Polizei befragte den Zeugen des Unfalls. (ackusativ singular av der Zeuge.) 3. Wir danken dem Präsidenten für seinen Besuch. (dativ singular av der Präsident efter danken.) 4. Guten Tag, Herr Weber! Haben Sie Herrn Müller gesehen? (ackusativ singular av der Herr: Herrn.) 5. Wie ist die genaue Schreibweise Ihres Namens ? (genitiv singular: des Namens med -ns.) 6. Der Arzt untersucht den kranken Patienten . (ackusativ singular av der Patient.) 7. Das Kind schenkte dem alten Nachbarn ein Bild. (dativ singular av der Nachbar: dem Nachbarn.) 8. Die Rechte des Menschen sind unantastbar. (genitiv singular: des Menschen.) 9. Er folgte seinem tiefsten Herzen . (dativ singular neutrum: dem Herzen.) 10. Kennen Sie diesen Journalisten persönlich? (ackusativ singular av der Journalist: diesen Journalisten.) ---",
     "bl": ""
   },
   {
@@ -729,6 +792,46 @@
       "10 autentiska exempel"
     ],
     "b": "die Äpfel, das Buch - die Bücher)\", \"Börja lära in tyska ord som ett par: t.ex. 'das Buch, die Bücher'\" ]} prerequisites={[ , ]} / Kärnan på en halv minut Den viktigaste och enklaste regeln i tysk plural: I nominativ plural är den bestämda artikeln ALLTID DIE , oavsett om ordet i singular var maskulint, feminint eller neutralt! Det finns fem sätt som tyska substantiv ändrar sin form på i plural: 1. -(e)n : die Frau - die Frauen (vanligast för feminina ord) 2. -e (ofta med omljud) : der Tag - die Tage , der Ball - die Bälle 3. -er (ofta med omljud) : das Kind - die Kinder , das Buch - die Bücher 4. -s : das Auto - die Autos (främst lånord och ord på vokal) 5. Ingen ändelse / nollplural (med eller utan omljud) : der Lehrer - die Lehrer , der Apfel - die Äpfel --- 1. De fem pluralmönstren i detalj Mönster Typiska ord Singular Plural Betydelse :--- :--- :--- :--- :--- 1. -(e)n Nästan alla feminina ord; svaga maskuliner die Blume die Zeitung der Student die Blumen die Zeitungen die Studenten blommor tidningar studenter 2. -e (med/utan omljud) Många maskuliner och neutrer der Tisch der Stuhl das Jahr die Tische die Stühle die Jahre bord stolar år 3. -er (nästan alltid omljud) Många enstaviga neutrer; ett fåtal maskuliner das Bild das Haus der Mann (maskulinum) die Bilder die Häuser die Männer bilder hus män 4. -s Lånord, förkortningar, ord på vokal das Auto das Foto das Hotel die Autos die Fotos die Hotels bilar foton hotell 5. Nollplural (–) Maskuliner/neutrer på -el, -en, -er der Lehrer der Koffer der Apfel die Lehrer die Koffer die Äpfel lärare resväskor äpplen --- 2. Praktiska tumregler som underlättar Du behöver inte gissa helt i blindo: 1. Feminina ord : Bildar nästan alltid plural med -(e)n : die Frau - die Frauen , die Frage - die Fragen , die Wohnung - die Wohnungen . Feminina ord på -(e)n får aldrig omljud i plural! 2. Ord som slutar på -el, -en, -er : Får ingen ändelse i plural (nollplural), men eventuellt omljud på stamvokalen: der Vater - die Väter , der Bruder - die Brüder . 3. Ord som slutar på vokal utom -e : Får -s : das Sofa - die Sofas , das Taxi - die Taxis . --- 3. Ord utan singular eller utan plural Bara i singular (Singulariatantum) : Mjölk ( die Milch ), regn ( der Regen ), guld ( das Gold ), hunger ( der Hunger ). Bara i plural (Pluraliatantum) : Föräldrar ( die Eltern ), semestrar/ledighet ( die Ferien ), syskon ( die Geschwister ), folk ( die Leute ). --- 10 autentiska exempel 1. Auf dem Tisch liegen viele Bücher und Zeitungen . (Bücher har -er + omljud; Zeitungen har -en.) 2. Die Kinder spielen im Park mit zwei Hunden . (Kinder har -er; Hunden har dativändelse -n i plural.) 3. Wir haben drei Zimmer in der neuen Wohnung. (Zimmer har nollplural: das Zimmer - die Zimmer.) 4. Hier stehen vier neue Autos . (Lånord och ord på vokal får -s: die Autos.) 5. Die Äpfel schmecken sehr süß. (Nollplural med omljud: der Apfel - die Äpfel.) 6. Haben Sie zwei Gläser Wasser für uns? (das Glas - die Gläser med -er och omljud.) 7. Alle Studenten müssen die Prüfung schreiben. (Svag maskulin med -en: die Studenten.) 8. Meine Eltern wohnen in Hamburg. (die Eltern finns bara i plural.) 9. Die Stühle in der Küche sind sehr bequem. (der Stuhl - die Stühle med -e och omljud.) 10. Zwei junge Mädchen warten an der Bushaltestelle. (Diminutiv på -chen har nollplural: das Mädchen - die Mädchen.) ---",
+    "bl": ""
+  },
+  {
+    "id": "S09",
+    "t": "Sammansatta substantiv",
+    "d": "Lär dig bygga och förstå tyskans sammansatta substantiv (Komposita). Den gyllene regeln om sista ledet (Grundwort), fogeelement som -s- och -en-, samt hur betoningen avslöjar ordets kärna.",
+    "h": "/docs/substantiv/sammansattningar",
+    "c": "Substantiv",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Fogelement (Fugenlaute): När orden fogas samman",
+      "A. Fugen-s (det vanligaste fogelementet)",
+      "B. Fugen-(e)n",
+      "C. Fugen-er",
+      "2. Betoning: Alltid på första ledet!",
+      "3. Hur du dekonstruerar långa monsterord",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Ett tyskt sammansatt ord ( Kompositum ) består av minst två delar: 1. Bestimmungswort (Första ledet): Beskriver vilken typ av sak det handlar om. Tar huvudbetoningen! 2. Grundwort (Sista ledet): Talar om vad saken är. Bestämmer genus, artikel och böjning! Oavsett om det första ordet är maskulint, feminint, ett verb eller ett adjektiv är det alltid sista ordets artikel som gäller: rot (adjektiv) + der Wein = der Rotwein schlafen (verb) + das Zimmer = das Schlafzimmer --- 1. Fogelement (Fugenlaute): När orden fogas samman Ofta sätts orden ihop direkt ( das Haus + die Tür = die Haustür ). Men mycket ofta skjuts ett litet bindeelement in mellan orden: A. Fugen-s (det vanligaste fogelementet) Uppträder särskilt när förledet slutar på feminina suffix som -ung, -heit, -keit, -schaft, -tät, -tion samt efter vissa neutrala/maskulina ord: die Hoffnung + s + los = hoffnung s los die Geburt + s + der Tag = der Geburtstag (födelsedag) die Arbeit + s + das Zimmer = das Arbeitszimmer (arbetsrum) die Universität + s + die Klinik = die Universitätsklinik B. Fugen-(e)n Uppträder ofta när förledet är ett feminint ord som bildar plural på -en , eller ett svagt maskulinum: die Küche + n + der Schrank = der Küchenschrank (köksskåp) die Birne + n + der Baum = der Birnenbaum (päronträd) der Student + en + das Wohnheim = das Studentenwohnheim C. Fugen-er När förledet är ett substantiv som bildar plural med -er : das Kind + er + der Garten = der Kindergarten das Bild + er + das Buch = das Bilderbuch (bilderbok) --- 2. Betoning: Alltid på första ledet! I alla tyska sammansättningar ligger den primära betoningen på det första ledet (Bestimmungswort) : die Au tobahn (inte autobahn) der Kaf feebecher die Bahn hofstraße Detta hjälper dig att skilja en sammansättning från två separata ord: ein Rot wein (rött vin som vintyp) ein roter Wein (ett vin som råkar vara rött) --- 3. Hur du dekonstruerar långa monsterord När du möter ett långt sammansatt ord som du inte känner igen, följ denna enkla trestegsmetod: 1. Dela ordet från höger till vänster: Hitta sista ordet först. Det är kärnbegreppet! 2. Identifiera fogelement: Skala bort eventuella -s- eller -en- . 3. Översätt förledet: Förledet talar om vad för sorts kärnord det rör sig om. Exempel: Reisekrankenversicherung Versicherung (försäkring, die) + s + kranken (sjuk) + Reise (resa) = Resesjukförsäkring! Genus: die (efter die Versicherung). --- 10 autentiska exempel 1. Ich muss mir noch eine neue Zahnbürste kaufen. (die Zähne + die Bürste = die Zahnbürste.) 2. Wir treffen uns heute Nachmittag vor dem Hauptbahnhof . (die Haupt- + der Bahnhof = der Hauptbahnhof.) 3. Der Apfelsaft steht gekühlt im Kühlschrank. (der Apfel + der Saft = der Apfelsaft.) 4. Hast du deinen Reisepass eingepackt? (die Reise + der Pass = der Reisepass.) 5. Das Wörterbuch liegt auf meinem Schreibtisch. (die Wörter + das Buch = das Wörterbuch.) 6. Sie feierten bis spät in die Nacht den Geburtstag ihrer Tochter. (die Geburt + s + der Tag = der Geburtstag.) 7. In der Großstadt gibt es viele moderne Wohnhochhäuser . (wohnen + hoch + das Haus - Häuser.) 8. Das neue Umweltschutzgesetz tritt nächsten Monat in Kraft. (die Umwelt + der Schutz + s + das Gesetz = das Gesetz.) 9. Er hat sich eine schwere Grippeimpfung geben lassen. (die Grippe + die Impfung = die Impfung.) 10. Auf dem Kinderspielplatz spielten viele Kinder im Sand. (die Kinder + das Spiel + der Platz = der Spielplatz.) ---",
+    "bl": ""
+  },
+  {
+    "id": "S08",
+    "t": "Substantiverade adjektiv och infinitiver",
+    "d": "Lär dig hur verb och adjektiv omvandlas till substantiv: från substantiverade infinitiver (das Lesen, das Essen) till personbeteckningar som böjs som adjektiv (der Deutsche, ein Deutscher) och abstrakta uttryck (etwas Neues).",
+    "h": "/docs/substantiv/substantiveringar",
+    "c": "Substantiv",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Substantiverade infinitiver (Alltid Neutrum)",
+      "2. Personbeteckningar: Ord som böjs som adjektiv",
+      "Böjningstabell: \"Deutsch\" som person",
+      "3. Efter obestämda pronomen: \"etwas Neues\"",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut I tyskan finns tre huvudtyper av substantiveringar: Gemensamt för alla tre: De skrivs alltid med stor begynnelsebokstav ! --- 1. Substantiverade infinitiver (Alltid Neutrum) Att göra ett verb till ett substantiv är extremt enkelt i tyskan: Ta verbets grundform (infinitiv). Sätt artikeln das framför. Skriv verbet med stor begynnelsebokstav ! Infinitiv Substantiverad form Betydelse :--- :--- :--- leben (leva) das Leben livet sprechen (tala) das Sprechen talandet arbeiten (arbeta) das Arbeiten arbetet / arbetandet rauchen (röka) das Rauchen rökningen Exempel i meningar: Das Rauchen ist hier streng verboten. (Rökning är strikt förbjuden här.) Beim Lesen trinke ich gern Tee. (Vid läsning dricker jag gärna te.) --- 2. Personbeteckningar: Ord som böjs som adjektiv Många vanliga tyska ord för personer är ursprungligen adjektiv eller particip. De fungerar som substantiv men behåller fullständig adjektivböjning : der/ein Deutsche (tysk) , der/ein Bekannte (bekant) , der/ein Verwandte (släkting) , der/ein Angestellte (anställd) , der/ein Erwachsene (vuxen) , der/ein Jugendliche (ungdom) . Böjningstabell: \"Deutsch\" som person Kasus Bestämd form (svag böjning) Obestämd form (blandad böjning) :--- :--- :--- Maskulin Nominativ der Deutsche (tysken) ein Deutscher (en tysk) Maskulin Ackusativ den Deutschen einen Deutschen Maskulin Dativ dem Deutschen einem Deutschen Feminin Nominativ die Deutsche (tyskan) eine Deutsche (en tysk kvinna) Plural Nominativ die Deutschen (tyskarna) Deutsche / viele Deutsche Detta förklarar varför man säger: Er ist Deutscher (stark nollartikel: er ist ein Deutscher / Deutscher). Der Deutsche wohnt in Berlin. --- 3. Efter obestämda pronomen: \"etwas Neues\" När ett adjektiv står efter orden etwas (något) , nichts (inget) , viel (mycket) eller wenig (lite) substantiveras det: Det skrivs med stor bokstav . Det får ändelsen -es (stark neutral böjning): Haben Sie etwas Neues gehört? (Har ni hört något nytt?) Es gibt nichts Besseres als eine heiße Tasse Tee. (Det finns inget bättre än...) Ich wünsche dir viel Schönes für die Zukunft! (Jag önskar dig mycket vackert...) Undantag: Efter ordet alles (allt) böjs adjektivet svagt med -e : Ich wünsche dir alles Gute zum Geburtstag! (Allt gott på födelsedagen!) --- 10 autentiska exempel 1. Das Schwimmen im kalten See ist sehr erfrischend. (substantiverad infinitiv neutrum: das Schwimmen.) 2. Ich habe gestern mit einem Bekannten aus Hamburg telefoniert. (substantiverat adjektiv i dativ maskulinum: einem Bekannten.) 3. Gibt es etwas Wichtiges , das wir heute besprechen müssen? (etwas Wichtiges med stor bokstav och -es.) 4. Die Angestellten der Firma fordern faire Gehälter. (substantiverat particip i plural: die Angestellten.) 5. Wir haben im Urlaub viele Deutsche und Schweizer getroffen. (substantiverade nationaliteter i plural: Deutsche.) 6. Das lange Warten am Flughafen war ziemlich anstrengend. (das Warten med attributivt adjektiv.) 7. Hinter der Tür hörte man ein leises Flüstern . (substantiverad infinitiv: das Flüstern.) 8. Er hat nichts Interessantes zu diesem Thema beizutragen. (nichts Interessantes.) 9. Der Film ist nur für Erwachsene geeignet. (plural utan artikel: für Erwachsene.) 10. Ich wünsche Ihnen vom Herzen alles Liebe und alles Gute ! (fast gratulationsfras efter alles: alles Liebe / alles Gute.) ---",
     "bl": ""
   },
   {
@@ -1301,76 +1404,6 @@
       "Kommande lektion"
     ],
     "b": "Komma och skrivregler Huvud- och bisatser, relativsatser och infinitivgrupper enligt verifierat regelverk; sammanskrivning, bindestreck och citat; skilj bindande regel från rekommendation. G07 A2–B2"
-  },
-  {
-    "id": "S05",
-    "t": "N-deklination och blandade substantiv",
-    "d": "Der Junge, der Mensch, der Student och undantagsgrupper; singular och plural; der Name och das Herz behandlas separat; substantivets ändelse utöver artikeln.",
-    "h": "/docs/substantiv/n-deklination",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "N-deklination och blandade substantiv Der Junge, der Mensch, der Student och undantagsgrupper; singular och plural; der Name och das Herz behandlas separat; substantivets ändelse utöver artikeln. S05 A2–B2"
-  },
-  {
-    "id": "S06",
-    "t": "Genitivändelser och namn",
-    "d": "Maskulina/neutrala substantiv med -(e)s, personnamn och apostrof; genitiv i nominalfraser; von-konstruktioner med registerskillnader; K05 äger satsfunktionen.",
-    "h": "/docs/substantiv/genitivformer",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Genitivändelser och namn Maskulina/neutrala substantiv med -(e)s, personnamn och apostrof; genitiv i nominalfraser; von-konstruktioner med registerskillnader; K05 äger satsfunktionen. S06 A2–B2"
-  },
-  {
-    "id": "S07",
-    "t": "Substantivböjning och dativ plural",
-    "d": "Dativ plural med -n och villkoren för uteblivet extra n, exempel med Kindern, Frauen och Autos; skilj pluralbildning från kasusändelse.",
-    "h": "/docs/substantiv/dativ-plural",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Substantivböjning och dativ plural Dativ plural med -n och villkoren för uteblivet extra n, exempel med Kindern, Frauen och Autos; skilj pluralbildning från kasusändelse. S07 A2"
-  },
-  {
-    "id": "S08",
-    "t": "Substantiverade adjektiv och infinitiver",
-    "d": "Das Lesen, der Deutsche, ein Deutscher, etwas Neues och nichts Wichtiges; adjektivisk böjning hos personbeteckningar; versal och betydelse i kontext.",
-    "h": "/docs/substantiv/substantiveringar",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Substantiverade adjektiv och infinitiver Das Lesen, der Deutsche, ein Deutscher, etwas Neues och nichts Wichtiges; adjektivisk böjning hos personbeteckningar; versal och betydelse i kontext. S08 B1–B2"
-  },
-  {
-    "id": "S09",
-    "t": "Sammansatta substantiv",
-    "d": "Sista ledets genus och böjning, fogeelement utan falsk universell regel, betoning och tolkning; produktiva egna ord och lexikaliserade undantag; derivation ägs av E05.",
-    "h": "/docs/substantiv/sammansattningar",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Sammansatta substantiv Sista ledets genus och böjning, fogeelement utan falsk universell regel, betoning och tolkning; produktiva egna ord och lexikaliserade undantag; derivation ägs av E05. S09 A2–B2"
   },
   {
     "id": "K07",

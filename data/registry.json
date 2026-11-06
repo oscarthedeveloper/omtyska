@@ -79,8 +79,8 @@
     "minimumMainQuizItems": 600,
     "minimumAdditionalQuizItems": 44,
     "totalLessons": 112,
-    "writtenLessons": 66,
-    "missingLessons": 46,
+    "writtenLessons": 71,
+    "missingLessons": 41,
     "auditStage": 0,
     "auditStatus": "etapp-0-completed"
   },
@@ -437,15 +437,15 @@
         "K04"
       ],
       "requiredCoverage": "Der Junge, der Mensch, der Student och undantagsgrupper; singular och plural; der Name och das Herz behandlas separat; substantivets ändelse utöver artikeln.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Substantiv/n-deklination.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "S06",
@@ -458,15 +458,15 @@
         "K05"
       ],
       "requiredCoverage": "Maskulina/neutrala substantiv med -(e)s, personnamn och apostrof; genitiv i nominalfraser; von-konstruktioner med registerskillnader; K05 äger satsfunktionen.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Substantiv/genitivformer.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "S07",
@@ -480,15 +480,15 @@
         "K04"
       ],
       "requiredCoverage": "Dativ plural med -n och villkoren för uteblivet extra n, exempel med Kindern, Frauen och Autos; skilj pluralbildning från kasusändelse.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Substantiv/dativ-plural.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "S08",
@@ -504,15 +504,15 @@
         "A04"
       ],
       "requiredCoverage": "Das Lesen, der Deutsche, ein Deutscher, etwas Neues och nichts Wichtiges; adjektivisk böjning hos personbeteckningar; versal och betydelse i kontext.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Substantiv/substantiveringar.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "S09",
@@ -526,15 +526,15 @@
         "S02"
       ],
       "requiredCoverage": "Sista ledets genus och böjning, fogeelement utan falsk universell regel, betoning och tolkning; produktiva egna ord och lexikaliserade undantag; derivation ägs av E05.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
       "languageReview": "not-started",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Substantiv/sammansattningar.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "K01",

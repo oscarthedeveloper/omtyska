@@ -2874,7 +2874,7 @@
       ],
       "href": "/docs/fordjupning/syntax/satsflator-och-langvaga-beroenden",
       "requiredCoverage": "Extraktion, inbäddningsverb, w-rörelse och begränsningar; analys med graderad acceptabilitet och belagda variationer.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X044",
@@ -2887,7 +2887,7 @@
       ],
       "href": "/docs/fordjupning/syntax/kontroll-och-hojning",
       "requiredCoverage": "Vem som tolkas som infinitivens subjekt, subjekt-/objektskontroll och höjning; argumentstruktur och skillnad mot samma-subjekt-regeln.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X045",
@@ -2901,7 +2901,7 @@
       ],
       "href": "/docs/fordjupning/syntax/koherenta-och-icke-koherenta-infinitivgrupper",
       "requiredCoverage": "Gemensam verbgrupp, extraposition, skopus och konstruktionsberoende alternativ; diagram med tydliga gränser.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X046",
@@ -2915,7 +2915,7 @@
       ],
       "href": "/docs/fordjupning/syntax/verbkluster-oberfeld-och-unterfeld",
       "requiredCoverage": "Två–fyrdelade kluster, obligatoriska/fakultativa ordningar per verbklass och region; varje paradigm förankras i referens.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X047",

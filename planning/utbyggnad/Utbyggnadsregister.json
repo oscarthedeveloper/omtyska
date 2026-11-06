@@ -3042,7 +3042,7 @@
       ],
       "href": "/docs/fordjupning/satstyper/konsekutiva-och-instrumentala-satser",
       "requiredCoverage": "Sodass/als dass/indem/dadurch dass, grad/konsekvens/medel och negation; ingen generell ekvivalens mellan alla omskrivningar.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X056",
@@ -3056,7 +3056,7 @@
       ],
       "href": "/docs/fordjupning/satstyper/konditionalitet-och-irrelevansvillkor",
       "requiredCoverage": "Wenn/falls/sofern, V1-villkor, auch wenn/selbst wenn/ob … oder; realitet, relevans och skalära betydelser.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X057",
@@ -3070,7 +3070,7 @@
       ],
       "href": "/docs/fordjupning/satstyper/kausala-koncessiva-och-adversativa-relationer",
       "requiredCoverage": "Weil/da/zumal/denn, obwohl/trotzdem/während; orsak, motivering av påstående och talhandling hålls isär.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X058",
@@ -3084,7 +3084,7 @@
       ],
       "href": "/docs/fordjupning/satstyper/indirekta-fragor-och-inbaddade-utrop",
       "requiredCoverage": "Ob/w-led, frågeinnehåll, utropsläsning, grad och selektion av huvudverb; kontext styr tolkningen.",
-      "status": "proposed-not-written"
+      "status": "written-and-registered"
     },
     {
       "id": "X059",

@@ -2710,6 +2710,111 @@
       "contentExists": true,
       "contentFile": "content/docs/Fordjupning/LjudOchProsodi/ordaccent-och-morfologisk-struktur.mdx",
       "reviewEvidence": "internal-crosscheck-phonetics-approved"
+    },
+    {
+      "id": "X006",
+      "section": "docs",
+      "slug": "/fordjupning/morfologi/morfem-allomorfi-och-produktivitet",
+      "href": "/docs/fordjupning/morfologi/morfem-allomorfi-och-produktivitet",
+      "title": "Morfem, allomorfi och produktivitet",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "E05",
+        "V01"
+      ],
+      "requiredCoverage": "Stam, rot, affix, böjning/avledning, nollmorf och allomorf; synkron analys skild från etymologi.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "IDS Grammis"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 106,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Morfologi/morfem-allomorfi-och-produktivitet.mdx",
+      "reviewEvidence": "internal-crosscheck-morphology-approved"
+    },
+    {
+      "id": "X007",
+      "section": "docs",
+      "slug": "/fordjupning/morfologi/nominala-bojningsklasser-och-synkretism",
+      "href": "/docs/fordjupning/morfologi/nominala-bojningsklasser-och-synkretism",
+      "title": "Nominala böjningsklasser och synkretism",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "S05",
+        "S06",
+        "S07"
+      ],
+      "requiredCoverage": "Stark/svag/blandad substantivböjning, restformer och sammanfall; fulla paradigm samt gränsen mot adjektivisk deklination.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "IDS Grammis"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 107,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Morfologi/nominala-bojningsklasser-och-synkretism.mdx",
+      "reviewEvidence": "internal-crosscheck-morphology-approved"
+    },
+    {
+      "id": "X008",
+      "section": "docs",
+      "slug": "/fordjupning/morfologi/genusvariation-och-genuskonflikt",
+      "href": "/docs/fordjupning/morfologi/genusvariation-och-genuskonflikt",
+      "title": "Genusvariation och genuskonflikt",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "S01",
+        "R01"
+      ],
+      "requiredCoverage": "Der/das- och andra varierande ord, genus som skiljer betydelse, lånord och kongruens med personreferens; register/nation anges.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "IDS Grammis"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 108,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Morfologi/genusvariation-och-genuskonflikt.mdx",
+      "reviewEvidence": "internal-crosscheck-morphology-approved"
+    },
+    {
+      "id": "X009",
+      "section": "docs",
+      "slug": "/fordjupning/morfologi/pluralvariation-dubbelplural-och-massord",
+      "href": "/docs/fordjupning/morfologi/pluralvariation-dubbelplural-och-massord",
+      "title": "Pluralvariation, dubbelplural och massord",
+      "suggestedLevel": "C1",
+      "prerequisites": [
+        "S02",
+        "D07"
+      ],
+      "requiredCoverage": "Wörter/Worte och andra betydelseskillnader, lånordsplural, måttord, pluralia/singularia och räknebarhetsväxling; lexikal referens.",
+      "status": "ready",
+      "sources": [
+        "Duden Band 4 - Die Grammatik",
+        "Eisenberg Grundriss der deutschen Grammatik",
+        "IDS Grammis"
+      ],
+      "languageReview": "approved",
+      "learningPathStep": 109,
+      "minimumExamples": 10,
+      "minimumQuizItems": 6,
+      "contentExists": true,
+      "contentFile": "content/docs/Fordjupning/Morfologi/pluralvariation-dubbelplural-och-massord.mdx",
+      "reviewEvidence": "internal-crosscheck-morphology-approved"
     }
   ]
 }

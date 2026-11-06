@@ -610,6 +610,28 @@
     "bl": ""
   },
   {
+    "id": "P05",
+    "t": "Aus och von: varifrån?",
+    "d": "Lär dig skilja mellan tyskans två viktigaste frånträdesprepositioner: aus och von. Förstå systemet med inifrån kontra från en yta, person eller institution.",
+    "h": "/docs/prepositioner/aus-och-von",
+    "c": "Prepositioner",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Systemet: Kopplingen till riktningsprepositionerna",
+      "2. Geografiskt ursprung: Länder och städer",
+      "3. Personer och institutioner: alltid \"von\"!",
+      "4. Material och överförd betydelse",
+      "Material: alltid \"aus\"",
+      "Orsak och motiv: \"aus\"",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Både aus och von styr dativ , men speglar två helt olika rörelser: 1. aus = ut ur / inifrån ett tredimensionellt rum, en byggnad, en stad eller ett land: Er kommt aus dem Haus . (Han kommer ut ur huset.) Ich komme aus Schweden . (Jag kommer från Sverige.) 2. von = från en punkt, en yta, en person eller en öppen plats: Er kommt gerade vom Arzt . (Han kommer just från doktorn.) Der Brief ist von meiner Schwester . (Brevet är från min syster.) Das Buch fiel vom Tisch . (Boken föll från bordet.) --- 1. Systemet: Kopplingen till riktningsprepositionerna Det enklaste och säkraste sättet att välja rätt mellan aus och von är att tänka på hur du tog dig dit: [!TIP] Minnesregel: Var du inne i det? Då kommer du aus ! Var du hos/på/vid det? Då kommer du von ! --- 2. Geografiskt ursprung: Länder och städer När du anger var du eller någon annan har sitt hemland, sin hemstad eller sitt ursprung används alltid aus : Ich komme aus Schweden . Sie stammt aus Berlin . Dieser Wein kommt aus Italien . Undantag med von gäller endast om du talar om en rent geografisk riktning eller avstånd: Der Zug fährt von Hamburg nach Berlin . (Från Hamburg till Berlin – sträcka.) --- 3. Personer och institutioner: alltid \"von\"! När startpunkten är en människa, ett yrke eller en organisation används alltid von : Ich komme gerade vom Zahnarzt (von dem Zahnarzt). Wir kommen direkt von unseren Großeltern . Er holt Geld von der Bank . Ich habe das von einem Kollegen gehört. --- 4. Material och överförd betydelse Material: alltid \"aus\" När ett föremål är tillverkat av ett visst råmaterial: Der Ring ist aus reinem Gold . Ein Tisch aus Holz . Die Jacke ist aus Leder . Orsak och motiv: \"aus\" När en inre känsla driver en handling: Er hat das aus Liebe getan. (av kärlek) Sie schwieg aus Angst . (av rädsla) Das geschah aus Versehen . (av misstag) --- Svenska interferenser och fallgropar 1. \"Komma från doktorn\" : Säg aldrig \\ Ich komme aus dem Arzt . Det betyder att du bokstavligen kryper ut ur doktorns kropp! Det heter uteslutande: Ich komme vom Arzt . 2. \"Tillverkad av\" : Översätt inte svenskans \"av trä\" med von Holz . Råmaterial heter alltid: aus Holz . --- 10 autentiska exempel 1. Meine Großeltern stammen ursprünglich aus Polen . (Geografiskt ursprung: aus.) 2. Er ging eilig aus dem Büro , um den Bus zu erreichen. (Ut ur byggnaden/rummet: aus dem Büro.) 3. Ich habe gestern einen langen Brief von meiner Tante erhalten. (Ursprung hos en person: von meiner Tante.) 4. Der Flug von Frankfurt nach Tokio dauert etwa elf Stunden. (Resväg och sträckning: von ... nach.) 5. Wir tranken kühles Quellwasser aus einem Glas . (Inifrån en behållare: aus einem Glas.) 6. Kommst du gerade von der Arbeit oder hast du frei? (Aktivitet/institution: von der Arbeit.) 7. Diese historische Taschenuhr ist ganz aus Silber gefertigt. (Material: aus Silber.) 8. Sie hat die Entscheidung rein aus Vernunft getroffen. (Inre orsak/skäl: aus Vernunft.) 9. Der Apfel fiel vom Baum direkt ins Gras. (Från en yta/punkt: vom = von dem.) 10. Gestern kamen wir erst spät aus dem Theater nach Hause. (Ut ur teaterlokalen: aus dem Theater.) ---",
+    "bl": ""
+  },
+  {
     "id": "P02",
     "t": "Prepositioner med dativ",
     "d": "Lär dig de fasta dativprepositionerna i tyskan: aus, außer, bei, mit, nach, seit, von, zu samt gegenüber. De styr ALLTID dativ, även vid rörelse och förflyttning.",
@@ -628,6 +650,70 @@
     "bl": ""
   },
   {
+    "id": "P08",
+    "t": "Verb och andra ord med fast preposition",
+    "d": "Lär dig tyskans viktigaste verb med fast preposition och kasus. Behärska mönster som warten auf, denken an och teilnehmen an samt kopplingen till pronominaladverb och bisatser.",
+    "h": "/docs/prepositioner/fasta-forbindelser",
+    "c": "Prepositioner",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Verbgrupp 1: Fasta prepositioner med ackusativ",
+      "2. Verbgrupp 2: Fasta prepositioner med dativ",
+      "3. Två berömda skillnader",
+      "1. sich freuen auf kontra sich freuen über",
+      "2. leiden an kontra leiden unter",
+      "4. Frågor och koppling till pronominaladverb",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Ett verb med fast preposition är en fast enhet som alltid måste läras in som Verb + Preposition + Kasus : --- 1. Verbgrupp 1: Fasta prepositioner med ackusativ Dessa verb styr ofta en handling eller en tanke som riktas mot ett mål: auf + ackusativ: warten auf (vänta på) : Ich warte auf dich. hoffen auf (hoppas på) : Wir hoffen auf besseres Wetter. achten auf (akta sig för / lägga märke till) : Achte auf den Verkehr! verzichten auf (avstå från) : Er verzichtet auf das Dessert. an + ackusativ: denken an (tänka på) : Ich denke oft an meine Heimat. glauben an (tro på) : Glaubst du an Wunder? sich erinnern an (minnas / komma ihåg) : Erinnert ihr euch an mich? um + ackusativ: bitten um (be om) : Ich bitte um Verzeihung. es geht um (det handlar om) : Worum geht es in dem Film? sich bewerben um (söka [en tjänst]) : Sie bewirbt sich um die Stelle. --- 2. Verbgrupp 2: Fasta prepositioner med dativ Dessa verb styr ofta en koppling, källa eller orsak: von + dativ: träumen von (drömma om) : Er träumt von einem eigenen Haus. abhängen von (bero på) : Alles hängt vom Zufall ab. erzählen von (berätta om) : Erzähl mir von deiner Reise! an + dativ: teilnehmen an (delta i) : Wer nimmt an der Besprechung teil? zweifeln an (tvivla på) : Ich zweifle an seinen Worten. leiden an (lida av en specifik sjukdom) : Er leidet an Diabetes. vor + dativ: Angst haben vor (vara rädd för) : Hast du Angst vor Spinnen? warnen vor (varna för) : Man warnte uns vor dem Sturm. schützen vor (skydda mot) : Die Creme schützt vor der Sonne. --- 3. Två berömda skillnader 1. sich freuen auf kontra sich freuen über sich freuen auf (+ ack) = glädjas åt något som ligger i framtiden (förväntan): Ich freue mich auf die Ferien nächste Woche. sich freuen über (+ ack) = vara glad över något som redan hänt eller finns i nuet : Ich habe mich sehr über deinen Brief gefreut. 2. leiden an kontra leiden unter leiden an (+ dat) = lida av en medicinsk diagnos eller sjukdom : Sie leidet an einer schweren Grippe . leiden unter (+ dat) = plågas av en yttre eller psykisk omständighet : Viele Menschen leiden unter dem Lärm der Großstadt. --- 4. Frågor och koppling till pronominaladverb När du frågar eller svarar gäller den etablerade person/sak-regeln (se R11): --- Svenska interferenser och fallgropar 1. \"Drömma om\" : Översätt aldrig svenskans \"om\" med über . Det heter alltid träumen von + dativ . 2. \"Tänka på\" : Översätt inte med auf . Det heter denken an + ackusativ . 3. \"Delta i\" : Översätt inte med in . Det heter teilnehmen an + dativ . --- 10 autentiska exempel 1. Wir warten schon seit zwanzig Minuten auf das Taxi . (warten auf + ackusativ: das Taxi.) 2. Ich habe den ganzen Abend an dich gedacht . (denken an + ackusativ vid person: an dich.) 3. Die Kinder freuen sich schon riesig auf Weihnachten . (sich freuen auf för framtida högtid.) 4. Vielen Dank, ich habe mich sehr über die Blumen gefreut ! (sich freuen über för mottagen present.) 5. Möchtest du auch an dem Ausflug teilnehmen ? (teilnehmen an + dativ: dem Ausflug.) 6. Darf ich Sie um einen kurzen Moment Geduld bitten ? (bitten um + ackusativ.) 7. Er träumt schon lange von einer Reise um die Welt. (träumen von + dativ: einer Reise.) 8. Die Entscheidung hängt von vielen verschiedenen Faktoren ab . (abhängen von + dativ plural: Faktoren.) 9. Der Wetterdienst warnt vor schweren Gewittern am Abend. (warnen vor + dativ plural: Gewittern.) 10. Sie hat überhaupt keine Angst vor Prüfungen . (Angst vor + dativ plural.) ---",
+    "bl": ""
+  },
+  {
+    "id": "P07",
+    "t": "Genitivprepositioner och register",
+    "d": "Lär dig tyskans genitivprepositioner: während, wegen, trotz, (an)statt, innerhalb och außerhalb. Förstå skillnaden mellan formell skriftlig standard och vardagligt talspråk.",
+    "h": "/docs/prepositioner/genitiv",
+    "c": "Prepositioner",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Register och stil: Kampen mellan genitiv och dativ",
+      "2. Etablerade specialfall där dativ är obligatoriskt",
+      "3. Pronominalformerna: meinetwegen och deinetwegen",
+      "4. Andra formella genitivprepositioner i sakprosa",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Genitivprepositioner uttrycker orsak, tid, motsats och avgränsning i vårdad tyska: Kom ihåg att maskulina och neutrala substantiv får genitivändelsen -(e)s : der Regen wegen des Regen s das Spiel während des Spiel s --- 1. Register och stil: Kampen mellan genitiv och dativ I modern tyska pågår en välkänd stilistisk glidning som ofta sammanfattas i boktiteln \"Der Dativ ist dem Genitiv sein Tod\" : I formell skrift, essäer, journalistik och officiella prov: Krävs alltid genitiv : Wegen des Unwetters fiel der Zug aus. (korrekt skriftlig standard) Trotz des starken Windes landete die Maschine sicher. I vardagligt talspråk: Kombineras wegen och trotz mycket ofta med dativ : Talspråk: wegen dem Unwetter , trotz dem Wind . [!IMPORTANT] Skriv alltid genitiv i skriftliga uppgifter, tester och formella mejl ! Även om dativ förstås och är vanligt i talsamtal, bedöms det som stilistiskt undermåligt i formella sammanhang. --- 2. Etablerade specialfall där dativ är obligatoriskt Det finns situationer där till och med den striktaste grammatikern måste använda dativ efter en genitivpreposition: 1. Pluralsubstantiv utan artikel eller adjektiv: Eftersom ett substantiv utan artikel inte kan visa genitiv i plural (inga genitiv-s finns i plural), slår kasus över till dativ för att markera böjning: während zwei Monaten (dativ -n visar kasus; während zwei Monate vore tvetydigt) trotz Beweisen (inte trotz Beweise) 2. Omskrivning med \"von\" vid personliga pronomen i talspråk: I stället för genitivpronomen säger man i tal: wegen mir eller wegen uns . I vårdad skrift används i stället de speciella sammansatta formerna! --- 3. Pronominalformerna: meinetwegen och deinetwegen När wegen kombineras med ett personligt pronomen i vårdad tyska bildas unika sammansatta ord med ett inskjutet -et- : Exempel: Mach dir meinetwegen keine Sorgen! (Oroa dig inte för min skull!) --- 4. Andra formella genitivprepositioner i sakprosa I officiella meddelanden, juridik och byråkratisk text möter du ofta dessa: infolge (till följd av) : infolge eines technischen Defekts anlässlich (med anledning av) : anlässlich des Firmenjubiläums bezüglich / hinsichtlich (beträffande / avseende) : bezüglich Ihrer Anfrage diesseits / jenseits (på denna/andra sidan om) : jenseits der Grenze --- Svenska interferenser och fallgropar 1. \"Under sommaren\" : Svenskans \"under\" översätts inte med unter när det handlar om tidsperioder. Säg aldrig \\ unter dem Sommer ; det heter uteslutande während des Sommers . 2. Glömda genitiv-s : Kom ihåg att maskulina och neutrala substantiv måste få ändelsen -s eller -es: während des Flug es , trotz des Regen s . --- 10 autentiska exempel 1. Während des langen Meetings durften keine Mobiltelefone benutzt werden. (während + maskulinum genitiv des langen Meetings.) 2. Wegen einer technischen Störung kommt es heute zu Verspätungen. (wegen + femininum genitiv einer technischen Störung.) 3. Trotz aller Bemühungen konnte das alte Gebäude nicht gerettet werden. (trotz + plural genitiv aller Bemühungen.) 4. Er ging spazieren, anstatt seiner Schwester bei den Hausaufgaben zu helfen. (anstatt + femininum genitiv seiner Schwester.) 5. Bitte überweisen Sie den Betrag innerhalb eines Monats . (innerhalb + maskulinum genitiv eines Monats.) 6. Die Parkplätze außerhalb des Firmengeländes sind gebührenfrei. (außerhalb + neutrum genitiv des Firmengeländes.) 7. Du brauchst meinetwegen nicht extra aufzustehen. (meinetwegen för min skull.) 8. Infolge starker Regenfälle trat der Fluss über die Ufer. (infolge + plural genitiv starker Regenfälle.) 9. Das Dorf liegt malerisch jenseits der Berge . (jenseits + plural genitiv der Berge.) 10. Wir bitten Sie bezüglich dieses Schreibens um eine rasche Rückmeldung. (bezüglich + neutrum genitiv dieses Schreibens.) ---",
+    "bl": ""
+  },
+  {
+    "id": "P10",
+    "t": "Liegen/legen, stehen/stellen och sitzen/setzen",
+    "d": "Lär dig tyskans verbpar för placering och befintlighet. Förstå systemet med svaga handlingsverb (ackusativ) kontra starka tillståndsverb (dativ) och specialverbet hängen.",
+    "h": "/docs/prepositioner/lage-och-placering",
+    "c": "Prepositioner",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. De tre verbparen i detalj",
+      "Par 1: stellen (ställa) kontra stehen (stå)",
+      "Par 2: legen (lägga) kontra liegen (ligga)",
+      "Par 3: setzen (sätta) kontra sitzen (sitta)",
+      "2. När människor själva rör sig: Reflexiva verb",
+      "3. Specialfallet: \"hängen\" (två verb i ett!)",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Systemet bygger på en perfekt symmetri mellan handling (orsakande) och tillstånd (befintlighet): --- 1. De tre verbparen i detalj Par 1: stellen (ställa) kontra stehen (stå) Används för upprätta föremål (flaskor, vaser, glas, böcker på högkant) och stående personer: Handling: Er stellt die Tasse auf den Tisch (ack). Tillstånd: Die Tasse steht auf dem Tisch (dat). Par 2: legen (lägga) kontra liegen (ligga) Används för platta, vilande föremål (pennor, mattor, papper, böcker som vilar plant): Handling: Sie legt den Teppich auf den Boden (ack). Tillstånd: Der Teppich liegt auf dem Boden (dat). Par 3: setzen (sätta) kontra sitzen (sitta) Används när någon placerar en person/sak på en stol, bänk eller säte: Handling: Der Vater setzt das Baby in den Kinderwagen (ack). Tillstånd: Das Baby sitzt in dem Kinderwagen (dat). --- 2. När människor själva rör sig: Reflexiva verb När en människa själv sätter sig, lägger sig eller ställer sig används placeringsverben reflexivt med ackusativ : Uppmaningar i vardagen: Setz dich bitte! (Sätt dig, är du snäll!) Leg dich hin und ruh dich aus! (Lägg dig ner och vila!) --- 3. Specialfallet: \"hängen\" (två verb i ett!) Verbet hängen ser likadant ut i infinitiv presens, men är i själva verket två helt olika verb : Handling (svagt): Ich hänge das Bild an die Wand. Gestern hängte er den Mantel an den Haken. Er hat die Lampe über den Tisch gehängt . Tillstånd (starkt): Das Bild hängt an der Wand. Das Bild hing jahrelang im Wohnzimmer. Die Lampe hat über dem Tisch gehangen . --- Svenska interferenser och fallgropar 1. Ställa kontra lägga : Tyskar är mycket mer petiga än svenskar med om något steht eller liegt . En flaska eller ett glas kan nästan aldrig liegen om det inte har vält omkull! En bok steht om den står upprätt i en bokhylla, men liegt om den vilar platt på bordet. 2. Dativ vid läge : Kom ihåg att efter liegen , stehen och sitzen måste växelprepositionen alltid ha dativ : im Bett , auf dem Stuhl , an der Wand . --- 10 autentiska exempel 1. Er stellte die Weinflasche vorsichtig auf den Küchentisch. (Handling: stellen + ackusativ den Küchentisch.) 2. Die Milch steht schon seit heute Morgen in dem Kühlschrank. (Tillstånd: stehen + dativ dem Kühlschrank.) 3. Bitte legen Sie die ausgefüllten Formulare auf meinen Schreibtisch! (Handling: legen + ackusativ meinen Schreibtisch.) 4. Mein Pass lag die ganze Zeit ganz unten in der Schublade. (Tillstånd: liegen i präteritum lag + dativ der Schublade.) 5. Kommen Sie herein und setzen Sie sich bitte in diesen Sessel! (Reflexiv handling: sich setzen + ackusativ diesen Sessel.) 6. Der alte Mann saß stundenlang auf einer Bank im Park. (Tillstånd: sitzen i präteritum saß + dativ einer Bank.) 7. Wir haben das neue Gemälde im Flur an die Wand gehängt . (Handling: svagt verb gehängt + ackusativ die Wand.) 8. Die Uhr hat über vierzig Jahre lang an dieser Wand gehangen . (Tillstånd: starkt verb gehangen + dativ dieser Wand.) 9. Er war so müde, dass er sich sofort ins Bett gelegt hat. (Reflexivt placeringsverb: sich legen ins Bett.) 10. Vor dem Eingang standen zwei Sicherheitskräfte in schwarzer Uniform. (Tillstånd: standen i präteritum.) ---",
+    "bl": ""
+  },
+  {
     "id": "P04",
     "t": "Nach, in, zu, an eller auf?",
     "d": "Lär dig vilken tysk preposition du ska välja när du ska resa eller gå någonstans: nach (städer, länder utan artikel), in (länder med artikel, byggnader), zu (personer), an (vatten) och auf (öppna platser/öar).",
@@ -643,6 +729,31 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut Här är den ultimata guiden för att välja rätt preposition för målet: Mål / Destination Rätt preposition Kasus Exempel Betydelse :--- :--- :--- :--- :--- Städer och länder UTAN artikel nach Dativ (utan art.) nach Berlin, nach Schweden till Berlin, till Sverige Länder MED artikel in Ackusativ in die Schweiz, in die USA till Schweiz, till USA Byggnader (när man går in i dem) in Ackusativ ins Kino, in den Supermarkt på bio, till snabbköpet Personer och yrkesutövare zu Dativ zum Arzt, zu meiner Oma till doktorn, till mormor Vatten och kuster an Ackusativ an den Strand, ans Meer till stranden, till havet Öppna torg, berg och öar auf Ackusativ auf den Markt, auf die Insel till marknaden/torget, till ön Att gå hem (riktning) nach Hause Fast uttryck Ich gehe nach Hause. Jag går hem. Att vara hemma (befintlighet) zu Hause Fast uttryck Ich bin zu Hause. Jag är hemma. --- 1. Länder: \"nach\" eller \"in\"? De flesta länder har nollartikel i tyskan, men en liten grupp länder bär alltid bestämd artikel: Länder utan artikel - NACH : Ich fliege nach Deutschland / nach Schweden / nach Spanien . Länder med feminin artikel - IN DIE : Ich fahre in die Schweiz / in die Türkei / in die Slowakei . Länder med pluralartikel - IN DIE : Wir reisen in die USA / in die Niederlande . Länder med maskulin artikel - IN DEN : Er fliegt in den Irak / in den Libanon . --- 2. Rörelse mot personer: Prepositionen \"ZU\" (+ Dativ) När destinationen för en förflyttning är en person, ett yrke eller en funktion används zu + dativ : Ich gehe zum Arzt (zu + dem Arzt). Kommst du heute zu mir ? (till mig) Wir gehen zum Bäcker / zum Friseur . (till bagaren / till frisören) Jämför person med lokal: Går du till själva byggnaden/butiken säger du: Ich gehe in die Bäckerei (in i bagerilokalen, in + ackusativ). Går du till yrkespersonen eller mottagningen säger du: Ich gehe zum Bäcker / zum Arzt (zu + dativ). --- 3. \"Nach Hause\" vs. \"Zu Hause\" De två idiomatiska uttrycken med Hause är historiskt lexikaliserade fasta fraser: Observera att zu Hause är en fast fossiliserad fras för just \"hemma\". I modern tyska används annars inte zu för allmän befintlighet (där används vanligen in eller an , t.ex. im Büro, am Tisch ), utan zu är i övrigt en riktningspreposition som styr dativ ( zum Arzt, zu mir ). --- 10 autentiska exempel 1. Morgen fliegen wir für zwei Wochen nach Spanien . (Land utan artikel - nach Spanien.) 2. Im Sommer reisen viele Touristen in die Schweiz . (Land med feminin artikel - in die Schweiz.) 3. Ich habe Zahnschmerzen, ich muss sofort zum Zahnarzt gehen. (Person/yrke - zum Zahnarzt i dativ.) 4. Am Wochenende fahren wir ans Meer und gehen an den Strand . (Vatten och kust - ans Meer, an den Strand.) 5. Es ist schon spät, lass uns nach Hause gehen! (Rörelse hemåt - nach Hause.) 6. Bist du heute Abend zu Hause ? (Befintlighet hemma - zu Hause.) 7. Wir gehen heute Abend ins Kino und danach in eine Bar . (Gå in i en lokal - ins Kino, in eine Bar.) 8. Die Kinder spielen draußen auf dem Spielplatz . (Öppen yta befintlighet - auf dem Spielplatz.) 9. Sie flog geschäftlich in die Vereinigten Staaten (in die USA). (Pluralland - in die USA.) 10. Kommst du morgen mit zu Peter ? (Personmål - zu Peter.) ---",
+    "bl": ""
+  },
+  {
+    "id": "P09",
+    "t": "Im, ins, am, ans, zum och zur",
+    "d": "Lär dig hur prepositioner smälter samman med bestämda artiklar i tyskan. Förstå standardformer som im, am, zum och zur samt när sammandragning är obligatorisk respektive otillåten.",
+    "h": "/docs/prepositioner/sammandragningar",
+    "c": "Prepositioner",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Obligatorisk sammandragning",
+      "1. Tidsuttryck, veckodagar och månader",
+      "2. Måltider och fasta aktiviteter",
+      "3. Fasta idiom och ordpar",
+      "2. När full form (särskrivning) är obligatorisk",
+      "1. Vid stark betoning och kontrast (demonstrativ funktion)",
+      "2. När substantivet följs av en förklarande relativsats",
+      "3. Informella sammandragningar med neutrum (-s)",
+      "4. Falska sammandragningar: Vad som ALDRIG dras samman!",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut I tyskan smälter prepositioner och bestämda artiklar ofta samman till ett enda ord: --- 1. Obligatorisk sammandragning I många sammanhang är sammandragningen inte valfri , utan obligatorisk i naturlig tyska. Att skriva ut orden separat ( in dem Sommer ) låter klumpigt och onaturligt: 1. Tidsuttryck, veckodagar och månader Veckodagar: am Montag, am Freitag (aldrig an dem Montag) Tider på dygnet: am Morgen, am Abend (undantag: in der Nacht) Månader och årstider: im Januar, im Mai, im Frühling, im Sommer Datum: am 15. Mai 2. Måltider och fasta aktiviteter Was isst du zum Frühstück? (till frukost) Wir treffen uns beim Mittagessen. (under lunchen) Er ist noch beim Kochen. (substantiverad infinitiv) 3. Fasta idiom och ordpar im Grunde (i grund och botten) am Leben sein (vara vid liv) ans Licht kommen (komma fram i ljuset) zur Zeit (för närvarande) --- 2. När full form (särskrivning) är obligatorisk Du får inte använda sammandragning i följande fall: 1. Vid stark betoning och kontrast (demonstrativ funktion) När artikeln fungerar som ett demonstrativt \"den där specifika\": Wir wohnen in dem Haus da drüben, nicht in diesem. (Här kan du inte säga \"im Haus\", eftersom \"dem\" är starkt betonat!) Er ging an das Fenster, das offen stand. 2. När substantivet följs av en förklarande relativsats Om artikeln förbereder en relativsats föredras full form: In dem Moment, als der Zug abfuhr, bemerkte er seinen Fehler. --- 3. Informella sammandragningar med neutrum (-s) I ledig skrift och talspråk dras artikeln das ofta samman med flera ackusativprepositioner: für + das fürs : Danke fürs Mitkommen! um + das ums : Wir gingen ums Haus herum. durch + das durchs : Der Vogel flog durchs Fenster. hinter / über / unter + das hinters, übers, unters --- 4. Falska sammandragningar: Vad som ALDRIG dras samman! Lägg märke till vad som inte existerar: in + die dras aldrig samman (det heter alltid in die Stadt ). zu + den (dativ plural) dras aldrig samman (det heter alltid zu den Kindern , aldrig \\ zuden ). an + die dras aldrig samman (det heter an die Wand ). mit + dem dras inte samman i skriftspråk ( \\ mitm är ren dialekt). --- Svenska interferenser och fallgropar 1. \"Till frukost\" : Säg inte \\ zu Frühstück ; tyskans sammandragning är obligatorisk: zum Frühstück . 2. \"I skolan / till skolan\" : Kom ihåg att skola är femininum ( die Schule ): \"till skolan\" heter zur Schule ( zu der ). --- 10 autentiska exempel 1. Wir fahren am Wochenende ans Meer und bleiben dort bis Sonntag. (ans = an das: ackusativ neutrum riktning.) 2. Treffen wir uns morgen um acht Uhr am Bahnhof ? (am = an dem: dativ maskulinum befintlighet.) 3. Ich muss heute noch dringend zur Bank gehen. (zur = zu der: dativ femininum.) 4. Die Kinder gehen jeden Morgen pünktlich ins Bett . (ins = in das: ackusativ neutrum.) 5. Mein Geburtstag ist im August . (im = in dem: obligatoriskt vid månader.) 6. Er rief mich beim Abendessen an, als wir gerade am Tisch saßen. (beim = bei dem: dativ neutrum vid måltider.) 7. Was möchtest du zum Geburtstag haben? (zum = zu dem Geburtstag.) 8. Er holte den schweren Koffer vom Dachboden herunter. (vom = von dem Dachboden.) 9. Vielen herzlichen Dank fürs Zuhören ! (fürs = für das Zuhören.) 10. In dem Augenblick, als die Musik verstummte, klopfte es an die Tür. (Full form in dem framför relativ bisats.) ---",
     "bl": ""
   },
   {
@@ -908,6 +1019,28 @@
     "bl": ""
   },
   {
+    "id": "B06",
+    "t": "Um … zu, damit, ohne … zu och anstatt … zu",
+    "d": "Lär dig uttrycka avsikt och syfte på tyska. Förstå när um … zu är obligatoriskt kontra när damit måste väljas vid olika subjekt, samt användningen av ohne … zu och anstatt … zu.",
+    "h": "/docs/satser/avsikt-och-infinitivsatser",
+    "c": "Satser",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. \"um … zu\" vid identiskt subjekt",
+      "Hur zu placeras:",
+      "2. \"damit\" vid olika (och samma) subjekt",
+      "3. \"ohne … zu\" och \"ohne dass\" (utan att)",
+      "4. \"anstatt … zu\" och \"anstatt dass\" (i stället för att)",
+      "5. Kommatering",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut När du vill uttrycka syfte och avsikt ( för att göra något ) styrs valet helt av subjektet : [!WARNING] Att säga \\ Ich helfe dir, um du die Prüfung bestehst är totalt omöjligt i tysk grammatik. Så fort den som utför handlingen i bisatsen är en annan person än huvudsatsens subjekt måste konjunktionen damit användas! --- 1. \"um … zu\" vid identiskt subjekt När samma person utför handlingen i båda satserna är um … zu + Infinitiv det mest eleganta och naturliga valet: Er spart jeden Monat Geld, um ein neues Auto zu kaufen . (Vem sparar? Han. Vem köper bilen? Han identiskt subjekt!) Wir sind früh aufgestanden, um den ersten Zug nicht zu verpassen . Hur zu placeras: Vid vanliga verb: står direkt framför infinitiven: zu kaufen , zu verstehen . Vid partikelverb (löstagbara prefix): skjuts in mellan prefixet och stammen : aufstehen auf zu stehen einkaufen ein zu kaufen vorbereiten vor zu bereiten --- 2. \"damit\" vid olika (och samma) subjekt När två olika personer eller krafter är inblandade fungerar damit som en vanlig underordnande konjunktion (subjunktion). Det böjda verbet hamnar alltså allra sist : Der Lehrer erklärt die Regel langsam, damit alle Schüler sie verstehen . (Läraren förklarar eleverna förstår.) Ich schicke dir den Link, damit du dich anmelden kannst . (Jag skickar du anmäler dig.) [!NOTE] damit kan tekniskt sett även användas när subjekten är desamma ( Ich lerne viel, damit ich bestehe ), men um ... zu föredras starkt i stilistiskt gott skriftspråk. --- 3. \"ohne … zu\" och \"ohne dass\" (utan att) För att uttrycka att något sker utan att en förväntad handling utförs: Samma subjekt ohne … zu + Infinitiv: Er ging an mir vorbei, ohne mich zu grüßen . (Han gick förbi mig utan att hälsa.) Sie verließ den Raum, ohne ein Wort zu sagen . Olika subjekt ohne dass + finit bisats: Er ging hinaus, ohne dass ich es bemerkte . (Han gick ut utan att jag märkte det.) --- 4. \"anstatt … zu\" och \"anstatt dass\" (i stället för att) För att uttrycka att ett alternativ väljs bort: Samma subjekt anstatt … zu + Infinitiv (eller statt … zu): Er blieb den ganzen Tag im Bett, anstatt zur Arbeit zu gehen . Lies ein Buch, statt fernzusehen ! Olika subjekt anstatt dass + finit bisats: Er reparierte den Wagen selbst, anstatt dass ein Mechaniker es tat . --- 5. Kommatering I modern tysk rättskrivning är regeln tydlig: Infinitivgrupper med um zu , ohne zu och anstatt zu avgränsas alltid med kommatecken från huvudsatsen! Ich beeile mich , um pünktlich anzukommen . --- Svenska interferenser och fallgropar 1. \"För att\" med olika subjekt : Svenskans \"Jag talar högt för att du ska höra\" frestar många att skriva um du sollst hören . Kom ihåg: på tyska är detta en damit-bisats : ... damit du mich hörst . 2. Glömt zu vid partikelverb : Skriv inte \\ zu aufstehen eller \\ aufstehen zu ; det heter alltid aufzustehen i ett enda ord. --- 10 autentiska exempel 1. Ich lerne jeden Tag Vokabeln, um meinen Wortschatz zu erweitern . (um ... zu vid samma subjekt: ich lerne / ich erweitere.) 2. Der Vater arbeitet Überstunden, damit seine Kinder studieren können . (damit vid olika subjekt: der Vater arbeitet / seine Kinder studieren.) 3. Er packte seinen Rucksack, um am nächsten Morgen früh aufzubrechen . (um ... zu med partikelverb: aufzubrechen.) 4. Er ging aus dem Haus, ohne den Schlüssel mitzunehmen . (ohne ... zu med partikelverbet mitnehmen: mitzunehmen.) 5. Die Diebe drangen ins Gebäude ein, ohne dass der Wachmann etwas hörte . (ohne dass vid olika subjekt: Diebe drangen ein / der Wachmann hörte.) 6. Sie kaufte sich ein Fahrrad, anstatt den teuren Bus zu nehmen . (anstatt ... zu vid samma subjekt.) 7. Ich gebe dir meinen Wohnungsschlüssel, damit du die Blumen gießen kannst . (damit med modalt hjälpverb kannst sist.) 8. Man muss viel trainieren, um einen Marathon durchzustehen . (durchzustehen: inskjutet zu mellan prefix och stam.) 9. Sie saß stundenlang am Schreibtisch, ohne eine Pause zu machen . (ohne ... zu machen.) 10. Wir haben das Treffen verschoben, damit alle Kollegen teilnehmen können . (damit vid olika subjekt.) ---",
+    "bl": ""
+  },
+  {
     "id": "B04",
     "t": "Bygg relativsatser",
     "d": "Lär dig att bygga fullständiga tyska relativsatser. Steg-för-steg-guide från korrelat till verbplacering, prepositioner framför relativpronomen samt specialkonstruktioner med was och wo.",
@@ -923,6 +1056,26 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut En relativsats är en bisats som beskriver ett substantiv eller pronomen (korrelatet) i huvudsatsen. Den följer alltid dessa fyra regler: --- 1. Preposition + relativpronomen När verbet eller betydelsen i relativsatsen kräver en preposition, placeras prepositionen alltid framför relativpronomenet : Prepositionen bestämmer vilket kasus relativpronomenet får! Kombination Prepositionens kasus Exempel :--- :--- :--- mit + Dativ mit dem / mit der / mit denen Der Kollege, mit dem ich spreche... für + Ackusativ für den / für das / für die Das Geschenk, für das ich bezahlt habe... in + Dativ (befintlighet) in dem (im) / in der / in denen Die Stadt, in der wir leben... ohne + Ackusativ ohne den / ohne die Der Freund, ohne den ich nicht fahre... Obs: Sammandragningar som ins eller im används inte vid relativpronomen. Det heter alltid in dem , an das osv. --- 2. När används \"was\"? Relativpronomenet was ( vad / som ) används istället för der/die/das i följande situationer: 1. Efter neutrala obestämda pronomen : alles, etwas, nichts, vieles, weniges : Das ist alles, was ich weiß. (Det är allt som jag vet.) Es gibt nichts, was mich mehr ärgert. (Det finns ingenting som irriterar mig mer.) 2. Efter substantiverade superlativ i neutrum : Das ist das Schönste, was ich je gesehen habe. (Det är det finaste som jag någonsin sett.) 3. När relativsatsen syftar tillbaka på hela föregående satsinnehåll : Er hat die Prüfung bestanden, was uns alle sehr freut. (Han klarade tentan, vilket gläder oss alla.) --- 3. När används \"wo\"? Efter ortnamn och städer utan artikel används ofta relativadverbet wo ( där ) i ledigt och naturligt språk: Berlin ist eine Stadt, in der / wo immer etwas los ist. Deutschland ist das Land, wo ich geboren wurde. --- 10 autentiska exempel 1. Der Schlüssel, den ich die ganze Woche gesucht habe, lag unter dem Sofa. (ackusativ maskulinum med verbet lag i slutet.) 2. Die Wohnung, in der wir seit zwei Jahren wohnen, ist sehr hell. (preposition in + dativ femininum in der.) 3. Das ist alles, was du für die Reise einpacken musst. (was efter det obestämda ordet alles.) 4. Die Kollegen, mit denen wir das Projekt planen, sind sehr kompetent. (mit + dativ plural: mit denen.) 5. Der Wagen, dessen Motor nicht mehr anspringt, muss abgeschleppt werden. (genitiv maskulinum: dessen Motor.) 6. Gibt es etwas, was ich für dich tun kann? (was efter etwas.) 7. Das Thema, über das wir gestern debattiert haben, ist äußerst komplex. (über + ackusativ neutrum: über das.) 8. Die Ärztin, zu der ich immer gehe, hat heute keine Sprechstunde. (zu + dativ femininum: zu der.) 9. Er kam eine Stunde zu spät, was den Chef verärgerte. (was som syftar på hela händelsen att han kom för sent.) 10. Die Kinder, denen wir die Geschenke brachten, freuten sich riesig. (dativ plural med denen.) ---",
+    "bl": ""
+  },
+  {
+    "id": "B03",
+    "t": "Deshalb, trotzdem, außerdem och däremellan",
+    "d": "Lär dig tyskans sambandsadverb (deshalb, trotzdem, außerdem, dann). Förstå ordföljden med inversion och jämför weil, denn och deshalb för samma sakförhållande.",
+    "h": "/docs/satser/sambandsadverb",
+    "c": "Satser",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. De viktigaste sambandsadverben indelade efter funktion",
+      "2. Den stora jämförelsen: \"weil\" kontra \"denn\" kontra \"deshalb\"",
+      "3. Kontrastjämförelsen: \"obwohl\" kontra \"aber\" kontra \"trotzdem\"",
+      "4. Placering i mittfältet",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "verbet kommer PÅ POSITION 2!\", \"Bilda orsak och verkan: deshalb, deswegen, darum, daher\", \"Bilda kontrast och medgivande: trotzdem, dennoch, allerdings\", \"Jämföra orsakstrion: weil (verb sist) vs denn (nollplats) vs deshalb (inversion)\", \"Jämföra kontrasttrion: obwohl (verb sist) vs aber (nollplats) vs trotzdem (inversion)\" ]} prerequisites={[ , , ]} / Kärnan på en halv minut Sambandsadverb ( Konjunktionaladverbien ) binder samman meningar semantiskt, men fungerar syntaktiskt som en vanlig satsdel i en huvudsats : När ett sambandsadverb står först utgör det Position 1 . Det böjda verbet måste därför komma omedelbart på Position 2 , direkt följt av subjektet: [!WARNING] Att säga \\ Deshalb ich lerne eller \\ Trotzdem er ging är ett av de vanligaste felen hos svensktalande. På tyska krävs alltid inversion (verbet före subjektet) efter dessa adverb! --- 1. De viktigaste sambandsadverben indelade efter funktion --- 2. Den stora jämförelsen: \"weil\" kontra \"denn\" kontra \"deshalb\" Samma sakförhållande kan uttryckas med tre olika strukturer. Lägg märke till verbets placering: Med weil : orsakssatsen är en underordnad bisats (verbet will sist). Med denn : denn räknas inte som en position (Position 0). Verbet will står på position 2, efter subjektet er . Med deshalb : deshalb är position 1 i huvudsatsen. Verbet lernt måste komma på position 2 direkt efter adverbialet! --- 3. Kontrastjämförelsen: \"obwohl\" kontra \"aber\" kontra \"trotzdem\" Samma princip gäller för motstridiga händelser: --- 4. Placering i mittfältet Till skillnad från konjunktioner kan sambandsadverb också flyttas in i mittfältet i satsen, direkt efter det böjda verbet: På position 1: Trotzdem ging er zur Arbeit. I mittfältet: Er ging trotzdem zur Arbeit. På position 1: Deshalb habe ich dich angerufen. I mittfältet: Ich habe dich deshalb angerufen. --- Svenska interferenser och fallgropar 1. \"Därför jag ville\" : På svenska kan vi säga \"Därför jag ville...\". På tyska krävs ovillkorligen inversion: Deshalb wollte ich . 2. Koma eller semikolon : Eftersom sambandsadverb inleder en självständig huvudsats kan de inte kopplas ihop med föregående huvudsats med bara ett kommatecken utan konjunktion. Använd punkt eller semikolon: Rätt: Es regnete. Trotzdem gingen wir raus. Rätt: Es regnete; trotzdem gingen wir raus. --- 10 autentiska exempel 1. Es war bitterkalt; trotzdem trug er nur eine dünne Jacke. (trotzdem på position 1 kräver verbet trug på position 2.) 2. Ich habe den Wecker nicht gehört; deshalb bin ich zu spät gekommen. (deshalb på position 1 följt av hjälpverbet bin.) 3. Die Wohnung war zu teuer; deswegen haben wir sie nicht gemietet. (deswegen följt av haben wir.) 4. Sie spricht fließend Deutsch und Englisch; außerdem lernt sie jetzt Spanisch. (außerdem följt av lernt sie.) 5. Zuerst besprechen wir den Zeitplan, dann verteilen wir die Aufgaben. (dann med verbet verteilen på plats 2.) 6. Er hat sich das Bein gebrochen; folglich kann er nicht am Marathon teilnehmen. (folglich uttrycker logisk konsekvens.) 7. Das Hotel war sehr alt, dennoch fühlten wir uns dort ausgesprochen wohl. (dennoch som formell synonym till trotzdem.) 8. Ich habe große Lust auf Kino; darum kaufe ich jetzt zwei Karten. (darum följt av kaufe ich.) 9. Wir hatten keinen Hunger mehr; wir aßen den Kuchen trotzdem . (trotzdem placerat i mittfältet.) 10. Das Projekt ist sehr anspruchsvoll; allerdings bietet es eine große Chance. (allerdings följt av bietet es.) ---",
     "bl": ""
   },
   {
@@ -982,6 +1135,27 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut En underordnande konjunktion (subjunktion) binder samman en bisats med en överordnad huvudsats. Den viktigaste tyska regeln för underordnade satser är: Alla tyska bisatser måste dessutom alltid avskiljas med komma ! --- 1. De vanligaste bisatsinledarna Här är de centrala underordnande konjunktionerna som du möter varje dag: Konjunktion Svensk betydelse Exempel i tysk kontext :--- :--- :--- dass att Ich weiß, dass du Deutsch lernst . ob om / huruvida (indirekt fråga) Er fragt, ob der Zug pünktlich ist . weil eftersom / därför att Sie bleibt im Bett, weil sie krank ist . da eftersom / då (ofta i början) Da es regnet, bleiben wir drinnen. obwohl fastän / trots att Er geht joggen, obwohl er müde ist . damit för att / så att (avsikt) Ich lerne viel, damit ich die Prüfung bestehe . wenn om / ifall (villkor) Wenn du Zeit hast, trinken wir Kaffee. --- 2. Den stora svenska fällan: \"ob\" eller \"wenn\"? På svenska använder vi ordet \"om\" för två helt skilda saker: 1. OB = om / huruvida (osäkerhet, indirekt ja/nej-fråga): Du undrar, frågar eller vet inte: Ich weiß nicht, ob er heute kommt. (Jag vet inte OM/huruvida han kommer idag.) Testa: Kan du byta ut \"om\" mot \"huruvida\"? Då ska det heta ob ! 2. WENN = om / ifall (villkor) eller när (upprepad händelse): Ett villkor som måste uppfyllas: Wenn das Wetter schön ist, machen wir ein Picknick. (OM vädret är fint [villkor], har vi picknick.) Testa: Kan du byta ut \"om\" mot \"ifall / förutsatt att\"? Då ska det heta wenn ! --- 3. \"Dass\" kontra \"das\" (med ett eller två s) Detta är ett av tyskans vanligaste rättskrivningsfel även bland infödda: dass (konjunktion = att ): Kan inte bytas ut mot dieses , jenes eller welches . Ich hoffe, dass du gesund bist. (Jag hoppas att du är frisk.) das (artikel eller pronomen = det / som ): Kan bytas ut mot dieses eller welches . Das Buch, das ich lese, ist spannend. (Boken SOM jag läser...) --- 10 autentiska exempel 1. Ich glaube, dass wir die richtige Entscheidung getroffen haben. (dass inleder påståendesats, hjälpverbet haben hamnar sist.) 2. Kannst du mir sagen, ob das Museum heute geöffnet ist? (ob inleder indirekt ja/nej-fråga: huruvida det är öppet.) 3. Wir können heute nicht kommen, weil mein Sohn Fieber hat. (weil anger orsak, hat hamnar sist.) 4. Da er kein Geld hat, kann er die Reise nicht buchen. (da inleder orsakssats i förfältet; huvudsatsen börjar med verbet kann.) 5. Sie ging zur Arbeit, obwohl sie starke Kopfschmerzen hatte. (obwohl uttrycker medgivande: fastän hon hade huvudvärk.) 6. Ich frage den Kellner, ob dieser Tisch noch frei ist. (ob vid osäkerhet och efterfrågan.) 7. Wenn du Hilfe brauchst, ruf mich einfach an! (wenn uttrycker villkor: ifall du behöver hjälp.) 8. Er spricht langsam, damit alle ihn gut verstehen können. (damit uttrycker avsikt: så att alla kan förstå.) 9. Es ist schön, dass ihr alle gekommen seid. (dass efter opersonligt uttryck es ist schön.) 10. Niemand weiß genau, ob die Konferenz online stattfindet. (ob med partikelverb: partikeln statt och finita verbet findet förenas sist!) ---",
+    "bl": ""
+  },
+  {
+    "id": "B07",
+    "t": "Wenn, falls, obwohl och als ob",
+    "d": "Lär dig uttrycka villkor, medgivande och hypotetiska jämförelser på tyska. Behärska wenn och falls, konditionalsatser utan wenn (V1-satser), obwohl samt als ob med Konjunktiv II.",
+    "h": "/docs/satser/villkor-och-medgivande",
+    "c": "Satser",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Villkorssatser: \"wenn\" och \"falls\"",
+      "Huvudsatsens ordföljd efter en wenn-sats:",
+      "2. Konditionalsatser utan \"wenn\" (Verb-1-struktur)",
+      "3. Medgivandesatser: \"obwohl\" (fastän / trots att)",
+      "4. Irreella jämförelser: \"als ob\" och \"als\" + Konjunktiv II",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Tyskan skiljer strikt mellan tre olika typer av bisatser som på svenska ofta översätts med \"om\": --- 1. Villkorssatser: \"wenn\" och \"falls\" Både wenn och falls introducerar ett villkor. Verbet hamnar allra sist i bisatsen: Reellt villkor (presens indikativ): Wenn du Hilfe brauchst, ruf mich einfach an! Falls der Zug Verspätung hat, melde ich mich. (falls betonar osäkerhet: \"i händelse av att\") Irreellt villkor (hypotetiskt, med Konjunktiv II): Wenn ich mehr Geld hätte, würde ich eine Weltreise machen. Wenn er gestern vorsichtiger gefahren wäre, wäre nichts passiert. Huvudsatsens ordföljd efter en wenn-sats: När bisatsen står först utgör hela bisatsen Position 1 i huvudsatsen. Huvudsatsen inleds därför omedelbart med sitt finita verb: [Wenn du Zeit hast], komme ich vorbei. --- 2. Konditionalsatser utan \"wenn\" (Verb-1-struktur) Ett av de mest eleganta stilgreppen i tyskan är att slopa ordet wenn helt och hållet. I stället sätts det böjda verbet allra först i satsen: Denna konstruktion används mycket frekvent i både tal och litteratur och motsvarar svenskans \"Hade jag tid, så...\" . --- 3. Medgivandesatser: \"obwohl\" (fastän / trots att) Konjunktionen obwohl (eller de mer litterära obgleich och obschon ) introducerar ett hinder som inte hindrar huvudsatsens handling från att inträffa: Wir gingen spazieren, obwohl es in Strömen regnete . Obwohl er sehr müde war , arbeitete er die ganze Nacht durch. [!NOTE] Jämför obwohl med trotzdem (se B03): Med obwohl (bisats): Obwohl er müde war, arbeitete er weiter. Med trotzdem (huvudsatsadverb): Er war müde; trotzdem arbeitete er weiter. --- 4. Irreella jämförelser: \"als ob\" och \"als\" + Konjunktiv II När man beskriver något som verkar vara på ett visst sätt men inte är det ( som om ): 1. als ob / als wenn + Konjunktiv II (verbet sist): Er spricht so gut Deutsch, als ob er in Berlin geboren wäre . Sie tut so, als ob sie mich nicht kennen würde . 2. als + Konjunktiv II (verbet på position 2 direkt efter als!): Er tut so, als wäre er der Chef. Sie tat so, als wüsste sie von nichts. --- Svenska interferenser och fallgropar 1. \"Jag vet inte om han kommer\" : Detta är en indirekt fråga (ja/nej-fråga), INTE ett villkor. Översätt aldrig med wenn ! Det heter uteslutande: Ich weiß nicht, ob er kommt . 2. \"När\" kontra \"om\" : Kom ihåg att wenn även betyder \"när\" vid upprepade handlingar i dåtid eller framtida tillfällen. Vill du vara 100 % entydig med att det är ett hypotetiskt villkor kan du använda falls . --- 10 autentiska exempel 1. Wenn das Wetter am Wochenende schön ist, fahren wir an die Ostsee. (Reell villkorssats med wenn.) 2. Ich weiß noch nicht sicher, ob ich morgen zum Training kommen kann. (Indirekt fråga med ob, inte wenn.) 3. Falls Sie noch Fragen haben, stehe ich Ihnen gerne zur Verfügung. (falls för artig hypotetisk förutsättning.) 4. Hätte ich gestern besser aufgepasst, wäre dieser Fehler nicht passiert. (Konditionalsats utan wenn med verbet hätte först.) 5. Obwohl der Film sehr lang war, wurde er keine Minute langweilig. (obwohl som medgivandekonjunktion med verbet wurde sist.) 6. Er tut immer so, als ob er alles besser wüsste als die anderen. (als ob med Konjunktiv II wüsste sist.) 7. Der Hund schaute mich an, als wollte er mir etwas Wichtiges sagen. (Irreell jämförelse med als + V1: als wollte er.) 8. Wenn wir mehr Zeit hätten, könnten wir das Museum ausführlicher besichtigen. (Irreellt villkor i presens med hätten och könnten.) 9. Frag bitte an der Rezeption nach, ob noch ein Einzelzimmer frei ist! (ob i indirekt fråga.) 10. Kommst du heute nicht, dann sehen wir uns eben erst nächste Woche. (Verb-först villkorssats i vardagsspråk: Kommst du heute nicht = Wenn du heute nicht kommst.) ---",
     "bl": ""
   },
   {
@@ -1180,6 +1354,52 @@
       "10 autentiska exempel"
     ],
     "b": "Kärnan på en halv minut I tyskan finns två grundläggande frågetyper: 1. Ja/Nej-frågor (Verbet på plats 1 = V1) : Det finita verbet inleder meningen: Kommst du aus Schweden? (Kommer du från Sverige?) Trinken Sie Kaffee? (Dricker Ni kaffe?) 2. Frågeordsfrågor (W-Fragen: Verbet på plats 2 = V2) : Frågeordet står på plats 1, och verbet följer omedelbart på plats 2: Wo wohnst du? (Var bor du?) Warum lernst du Deutsch? (Varför lär du dig tyska?) Tyskan konstruerar aldrig frågor med hjälpor som engelskans \"do you like\" — påståendet ställs bara om direkt: Påstående: Du trinkst Tee. - Fråga: Trinkst du Tee? --- 1. De centrala tyska frågeorden (W-Fragen) Frågeord Betydelse Exempel Svar :--- :--- :--- :--- Wer Vem (nominativ) Wer ist das? Das ist Peter. Wen Vem (ackusativ) Wen suchst du? Ich suche den Lehrer. Wem Vem (dativ) Wem hilfst du? Ich helfe der Oma. Was Vad Was machst du? Ich koche. Wo Var (befintlighet) Wo bist du? Im Park. Wohin Vart (riktning) Wohin gehst du? In den Park. Woher Varifrån (ursprung) Woher kommst du? Aus Schweden. Wann När Wann beginnt der Film? Um acht Uhr. Warum Varför Warum lachst du? Weil es lustig ist. Wie Hur Wie geht es dir? Sehr gut, danke. Wie viel Hur mycket / hur många Wie viel kostet das? Zehn Euro. --- 2. Wo, Wohin och Woher (Platsfrågorna) Observera precisionen i tyskans platsfrågor: Wo? kräver befintlighet (ofta dativ): Wo ist das Buch? — Auf dem Tisch. Wohin? kräver rörelse mot ett mål (ofta ackusativ): Wohin legst du das Buch? — Auf den Tisch. Woher? kräver ursprung (ofta prepositionen aus eller von + dativ): Woher hast du das Buch? — Aus der Bibliothek. --- 3. Frågor med sammansatta verb eller modalverb När meningen innehåller två verb (finit hjälpverb/modalverb + infinitiv/supinum): Det finita verbet står på plats 1 eller 2. Det andra verbet skjuts längst bak i frågan : --- 10 autentiska exempel 1. Sprechen Sie Deutsch? (V1 ja/nej-fråga i artigt tilltal: Sprechen först, Sie direkt efter.) 2. Woher kommen Sie? — Ich komme aus Stockholm. (W-fråga om ursprung: Woher på plats 1, kommen på plats 2.) 3. Wohin fahrt ihr in den Sommerferien? (Wohin för målriktning.) 4. Haben Sie einen Tisch für zwei Personen frei? (V1 i restaurangsammanhang.) 5. Wie viel kostet eine Fahrkarte nach Berlin? (Fråga om pris med Wie viel.) 6. Warum hast du mich gestern nicht angerufen? (Warum + finit hjälpverb hast på plats 2 + supinum angerufen sist.) 7. Können Sie das bitte noch einmal wiederholen? (Artig förfrågan med modalverbet können på plats 1.) 8. Um wie viel Uhr beginnt das Konzert? (Hela frågefrasen \"Um wie viel Uhr\" bildar förfältet på plats 1!) 9. Wem gehört dieses Fahrrad hier? (Fråga med wem i dativ eftersom gehören styr dativ.) 10. Bist du heute Abend zu Hause? (sein i V1 ja/nej-fråga: Bist du...?) ---",
+    "bl": ""
+  },
+  {
+    "id": "Y05",
+    "t": "Mittfältet och vad som betonas",
+    "d": "Lär dig hur tyskans mittfält struktureras mellan verbramens klamrar. Behärska objektens ordningsföljd, TeKaMoLo-regeln för adverbial samt principen om känt före nytt.",
+    "h": "/docs/syntax/mittfalt-och-informationsstruktur",
+    "c": "Syntax",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. Objektens ordningsföljd i mittfältet",
+      "Regel A: Två substantiv &rarr; Dativ före ackusativ!",
+      "Regel B: Två pronomen &rarr; Ackusativ före dativ!",
+      "Regel C: Ett pronomen och ett substantiv &rarr; Pronomenet står ALLTID först!",
+      "2. Adverbialens ordning: TeKaMoLo",
+      "Fullständigt TeKaMoLo-exempel:",
+      "3. Informationsstruktur: Känt före nytt",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Orsak - Sätt - Plats\", \"Förstå informationsflödet: känt (bestämt) står till vänster; nytt (fokus) står till höger\", \"Undvika stelhet: förstå att TeKaMoLo är en naturlig tendens, inte ett juridiskt förbud\" ]} prerequisites={[ , ]} / Kärnan på en halv minut I tyskans satsram är mittfältet allt som befinner sig mellan de två verbdelarna: I mittfältet gäller två grundläggande organisationsprinciper: 1. Objektens inbördes ordning styrs strikt av om orden är pronomen eller substantiv . 2. Adverbialens ordning följer grundmönstret TeKaMoLo (Tid Orsak Sätt Plats). --- 1. Objektens ordningsföljd i mittfältet När en sats innehåller både ett dativobjekt (personen) och ett ackusativobjekt (saken) avgörs ordningen av formen: Regel A: Två substantiv Dativ före ackusativ! Ich gebe dem Mann (dat) das Buch (ack). Der Lehrer erklärt den Schülern (dat) die Grammatik (ack). Regel B: Två pronomen Ackusativ före dativ! När båda objekten är korta pronomen byter de plats: Ich gebe es (ack) ihm (dat). (INTE \\ Ich gebe ihm es!) Er erklärt sie (ack) ihnen (dat). Regel C: Ett pronomen och ett substantiv Pronomenet står ALLTID först! Ett lätt, känt pronomen tränger sig alltid längst fram i mittfältet, oavsett vilket kasus det har: Pronomen i ackusativ: Ich gebe es (ack) dem Mann (dat). Pronomen i dativ: Ich gebe ihm (dat) das Buch (ack). --- 2. Adverbialens ordning: TeKaMoLo När flera adverbial staplas i mittfältet är den mest neutrala och naturliga ordningsföljden TeKaMoLo : Fullständigt TeKaMoLo-exempel: Ich fahre heute (Te) wegen des Bahnstreiks (Ka) mit dem Auto (Mo) nach Hamburg (Lo). [!NOTE] TeKaMoLo är en tendens, inte en absolut lag: TeKaMoLo beskriver standardspråkets neutrala grundmönster. Om talaren vill lägga särskild emfas på platsen eller sättet kan ordningen förskjutas av informationsstrukturella skäl. --- 3. Informationsstruktur: Känt före nytt Bakom reglerna för mittfältet ligger en universell mänsklig princip: Känd information (Tema) placeras så tidigt som möjligt till vänster. Bestämda artiklar och pronomen representerar redan kända fakta. Ny information (Rema / Fokus) placeras mot slutet av mittfältet, alldeles intill den högra klammern. Obestämda artiklar ( ein ) introducerar nya företeelser. Jämför: Ich habe das Buch (bestämt, känt) gestern einem Freund (obestämt, nytt) geliehen. (Här bryts \"dativ före ackusativ\" därför att det bestämda ackusativobjektet redan var känt i samtalet!) --- Svenska interferenser och fallgropar 1. \"Ge honom det\" : På svenska säger vi helt naturligt \"Jag gav honom det\" (dativ före ackusativ vid pronomen). På tyska är detta totalt förbjudet : med två pronomen MÅSTE ackusativ komma först: Ich gab es ihm ! 2. Plats före tid : På svenska sätter vi ofta platsen före tiden (\"Jag åker till Berlin i morgon\"). På tyska sätts tiden nästan alltid före platsen : Ich fahre morgen (Te) nach Berlin (Lo) . --- 10 autentiska exempel 1. Ich habe meinem Bruder (dat) einen Brief (ack) geschrieben. (Två substantiv: dativ före ackusativ.) 2. Hast du das Buch schon gelesen? – Ja, ich habe es (ack) ihm (dat) gestern zurückgegeben. (Två pronomen: ackusativ före dativ: es ihm.) 3. Kannst du es (ack) meinem Vater (dat) bitte ausrichten? (Ett pronomen och ett substantiv: pronomenet es står först.) 4. Wir fahren morgen (Te) mit dem Zug (Mo) nach Wien (Lo). (Klassisk TeKaMoLo-ordning: Zeit vor Art vor Ort.) 5. Er blieb gestern (Te) wegen einer Erkältung (Ka) den ganzen Tag im Bett (Lo). (Temporal före Kausal före Lokal.) 6. Sie hat ihm (dat) die Wahrheit (ack) schließlich anvertraut. (Dativpronomen ihm före ackusativsubstantiv die Wahrheit.) 7. Die Studentin lernte letzte Woche (Te) fleißig (Mo) in der Bibliothek (Lo). (Te - Mo - Lo i naturlig ordföljd.) 8. Der Arzt hat den Patienten (ack) gestern (Te) gründlich (Mo) untersucht. (Bestämt objekt dras till vänster före tidsadverbialet.) 9. Ich habe ihr (dat) den Schlüssel (ack) an der Rezeption hinterlegt. (Dativpronomen tränger sig längst fram i mittfältet.) 10. Er kaufte gestern (Te) ohne zu zögern (Mo) ein neues Auto (nytt objekt sist). (Nyckelinformation med obestämd artikel placeras sist intill högra klammern.) ---",
+    "bl": ""
+  },
+  {
+    "id": "Y07",
+    "t": "Doch, ja, denn och mal",
+    "d": "Lär dig tyskans modalpartiklar (doch, ja, denn, mal, wohl, eben). Förstå hur de färgar samtalet med attityd och förväntan och skilj dem från konjunktioner och adverb.",
+    "h": "/docs/syntax/modalpartiklar",
+    "c": "Syntax",
+    "k": "grammatik",
+    "r": false,
+    "s": [
+      "Kärnan på en halv minut",
+      "1. De fyra stora modalpartiklarna",
+      "1. doch (påminnelse, vädjan, mild uppmaning)",
+      "2. ja (delad kunskap eller plötslig förvåning)",
+      "3. denn (vänlig nyfikenhet eller otålighet i frågor)",
+      "4. mal (mjukgörare vid uppmaningar)",
+      "2. Skilj partiklar från likalydande ord!",
+      "3. Syntax: Var placeras modalpartiklarna?",
+      "Svenska interferenser och fallgropar",
+      "10 autentiska exempel"
+    ],
+    "b": "Kärnan på en halv minut Modalpartiklar ( Abtönungspartikeln ) är korta, obetonade ord som speglar talarens känslor, antaganden och förväntningar. De kan tas bort utan att meningen blir grammatiskt felaktig, men samtalet förlorar då sin mänskliga värme och nyans: --- 1. De fyra stora modalpartiklarna 1. doch (påminnelse, vädjan, mild uppmaning) Vänlig uppmaning: Setz dich doch ! (Slå dig ner, vetja! Gör en befallning till en varm inbjudan.) Påminnelse om något lyssnaren borde veta: Das habe ich dir doch gestern erzählt. (Det berättade jag ju för dig igår!) Hoppfull vädjan: Du kommst doch heute Abend, oder? (Du kommer väl ikväll?) 2. ja (delad kunskap eller plötslig förvåning) Överraskning och häpnad (när något upptäcks i stunden): Das ist ja fantastisch! (Det här är ju alldeles fantastiskt!) Du bist ja schon da! (Men du är ju redan här!) Hänvisning till delad kunskap (vi båda vet detta): Wir haben ja morgen keine Schule. (Vi har ju ingen skola i morgon.) 3. denn (vänlig nyfikenhet eller otålighet i frågor) Gör en fråga personlig och empatisk: Wie geht es dir denn heute? (Hur mår du då idag? Låter varmare än det stela \"Wie geht es dir?\".) Otålighet eller förvåning i frågor: Wo bleibst du denn so lange? (Var dröjer du egentligen?) Was machst du denn hier? (Vad gör du egentligen här?) 4. mal (mjukgörare vid uppmaningar) Det mest använda ordet för att ta bort udden ur en befallning: Utan partikel (barskt): Gib mir das Salz! (Ge mig saltet!) Med mal (vänligt och naturligt): Gib mir mal das Salz, bitte! (Kan du skicka saltet?) Schau mal da drüben! (Kolla där borta!) --- 2. Skilj partiklar från likalydande ord! Många modalpartiklar har tvillingar som tillhör helt andra ordklasser: --- 3. Syntax: Var placeras modalpartiklarna? Modalpartiklar har en mycket specifik hemvist i den tyska meningen: 1. De är alltid obetonade . Om du lägger kraftig emfas på ordet uppfattas det som ett adverb eller en konjunktion! 2. De placeras i mittfältet , direkt efter personliga pronomen och det finita hjälpverbet: Er hat es mir doch gestern versprochen. (Subjekt + Finit verb + Pronomen + Pronomen + doch + Övrigt). --- Svenska interferenser och fallgropar 1. Översätt inte ord för ord: Försök inte slå upp varje doch eller denn i ordboken som separata ord. Lär dig i stället känslan i hela frasen: Schau mal = Kolla lite/här . 2. Undvik att låta för barsk: Tysktalande uppfattar imperativ utan partiklar ( Kommen Sie! , Geben Sie mir das! ) som mycket orderaktigt och kallt. Lägg till mal eller doch för att låta artig och social: Kommen Sie doch rein! --- 10 autentiska exempel 1. Kommen Sie doch herein und nehmen Sie Platz! (Varm och välkomnande inbjudan med doch.) 2. Das schmeckt ja wirklich hervorragend! (Överraskad positiv upplevelse med ja.) 3. Was hast du denn gestern Abend Schönes gemacht? (Engagerad och vänlig samtalsfråga med denn.) 4. Kannst du mir mal kurz deinen Stift leihen? (Mjuk och vardaglig förfrågan med mal.) 5. Du weißt doch , dass ich montags immer Training habe. (Påminnelse med doch.) 6. Wir können das Problem jetzt leider nicht ändern; das ist halt so. (halt/eben uttrycker resignerat accepterande av ett faktum.) 7. Wo hast du denn deine schöne Brille gekauft? (Intresserad fråga med denn.) 8. Hör mal gut zu, was ich dir jetzt sage! (Uppmärksamhetsväckande mal i uppmaning.) 9. Er wird wohl den Schlüssel im Büro vergessen haben. (wohl som modalpartikel för förmodan/antagande.) 10. Seid doch bitte mal für zwei Minuten ganz leise! (Kombination av doch och mal för en vädjande uppmaning.) ---",
     "bl": ""
   },
   {
@@ -1853,146 +2073,6 @@
       "Kommande lektion"
     ],
     "b": "Oseparerbara prefix och betydelseskiften Be-, emp-, ent-, er-, ge-, miss-, ver-, zer- samt prefix med varierande betoning/separation; jämför omsorgsfullt valda betydelser med separat lexem-ID. V06 A2–B2"
-  },
-  {
-    "id": "P05",
-    "t": "Aus och von: varifrån?",
-    "d": "Ursprung, inifrån/ifrån och personer/verksamheter i kontext; utvalda meningspar och motsvarande destinationsuttryck utan överdriven en-till-en-karta.",
-    "h": "/docs/prepositioner/aus-och-von",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Aus och von: varifrån? Ursprung, inifrån/ifrån och personer/verksamheter i kontext; utvalda meningspar och motsvarande destinationsuttryck utan överdriven en-till-en-karta. P05 A2–B1"
-  },
-  {
-    "id": "P07",
-    "t": "Genitivprepositioner och register",
-    "d": "Wegen, trotz, während, innerhalb, außerhalb och andra relevanta uttryck; standard, etablerade specialfall och talspråk skiljs åt; aldrig omärkt universell dativ/genitivregel.",
-    "h": "/docs/prepositioner/genitiv",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Genitivprepositioner och register Wegen, trotz, während, innerhalb, außerhalb och andra relevanta uttryck; standard, etablerade specialfall och talspråk skiljs åt; aldrig omärkt universell dativ/genitivregel. P07 B1–B2"
-  },
-  {
-    "id": "P08",
-    "t": "Verb och andra ord med fast preposition",
-    "d": "Warten auf, denken an, teilnehmen an och liknande högfrekventa konstruktioner; preposition plus kasus plus betydelse; frågor och pronominaladverb länkas till R11.",
-    "h": "/docs/prepositioner/fasta-forbindelser",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Verb och andra ord med fast preposition Warten auf, denken an, teilnehmen an och liknande högfrekventa konstruktioner; preposition plus kasus plus betydelse; frågor och pronominaladverb länkas till R11. P08 A2–B2"
-  },
-  {
-    "id": "P09",
-    "t": "Im, ins, am, ans, zum och zur",
-    "d": "Former och kasus, obligatoriskt/vanligt respektive kontrastbetonad full form; beim/vom och relevanta vardagsformer; inga falska tabellformer genereras.",
-    "h": "/docs/prepositioner/sammandragningar",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Im, ins, am, ans, zum och zur Former och kasus, obligatoriskt/vanligt respektive kontrastbetonad full form; beim/vom och relevanta vardagsformer; inga falska tabellformer genereras. P09 A1–B1"
-  },
-  {
-    "id": "P10",
-    "t": "Liegen/legen, stehen/stellen och sitzen/setzen",
-    "d": "Befintlighet och placering i kontext, reflexiva setzen/stellen/legen; hängen med två konstruktionsmönster och skilda huvudformer; inte synonymt med rörelse kontra stillhet.",
-    "h": "/docs/prepositioner/lage-och-placering",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Liegen/legen, stehen/stellen och sitzen/setzen Befintlighet och placering i kontext, reflexiva setzen/stellen/legen; hängen med två konstruktionsmönster och skilda huvudformer; inte synonymt med rörelse kontra stillhet. P10 A2–B1"
-  },
-  {
-    "id": "Y05",
-    "t": "Mittfältet och vad som betonas",
-    "d": "Pronomen/substantiv, bestämdhet, känt/nytt och tids-/sätts-/platsadverbial; TeKaMoLo som tendens, inga absoluta regler som underkänner idiomatiska alternativ.",
-    "h": "/docs/syntax/mittfalt-och-informationsstruktur",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Mittfältet och vad som betonas Pronomen/substantiv, bestämdhet, känt/nytt och tids-/sätts-/platsadverbial; TeKaMoLo som tendens, inga absoluta regler som underkänner idiomatiska alternativ. Y05 B1–B2"
-  },
-  {
-    "id": "Y07",
-    "t": "Doch, ja, denn och mal",
-    "d": "Talarnas förväntningar, tonfall och dialogkontext; skilj partiklar från likalydande adverb/konjunktioner; inga entydiga ord-för-ord-översättningar.",
-    "h": "/docs/syntax/modalpartiklar",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Doch, ja, denn och mal Talarnas förväntningar, tonfall och dialogkontext; skilj partiklar från likalydande adverb/konjunktioner; inga entydiga ord-för-ord-översättningar. Y07 B1–B2"
-  },
-  {
-    "id": "B03",
-    "t": "Deshalb, trotzdem, außerdem och däremellan",
-    "d": "Orsak, konsekvens, kontrast och tillägg; ordföljd efter adverb i förfält; jämför weil/denn/deshalb och obwohl/trotzdem med samma sakförhållande.",
-    "h": "/docs/satser/sambandsadverb",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Deshalb, trotzdem, außerdem och däremellan Orsak, konsekvens, kontrast och tillägg; ordföljd efter adverb i förfält; jämför weil/denn/deshalb och obwohl/trotzdem med samma sakförhållande. B03 A2–B2"
-  },
-  {
-    "id": "B06",
-    "t": "Um … zu, damit, ohne … zu och anstatt … zu",
-    "d": "Syfte, negation och alternativ; subjektanknytning och motsvarande finita satser; zu vid partikelverb samt korrekt kommatering.",
-    "h": "/docs/satser/avsikt-och-infinitivsatser",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Um … zu, damit, ohne … zu och anstatt … zu Syfte, negation och alternativ; subjektanknytning och motsvarande finita satser; zu vid partikelverb samt korrekt kommatering. B06 A2–B2"
-  },
-  {
-    "id": "B07",
-    "t": "Wenn, falls, obwohl och als ob",
-    "d": "Villkor, medgivande och irreell jämförelse; om i svensk indirekt fråga jämfört med villkor; je … desto hänvisar till A07 och former till M03/M04.",
-    "h": "/docs/satser/villkor-och-medgivande",
-    "c": "Grammatik",
-    "k": "grammatik",
-    "r": false,
-    "s": [
-      "Översikt",
-      "Kommande lektion"
-    ],
-    "b": "Wenn, falls, obwohl och als ob Villkor, medgivande och irreell jämförelse; om i svensk indirekt fråga jämfört med villkor; je … desto hänvisar till A07 och former till M03/M04. B07 B1–B2"
   },
   {
     "id": "D01",

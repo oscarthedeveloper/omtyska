@@ -1772,15 +1772,15 @@
         "P04"
       ],
       "requiredCoverage": "Ursprung, inifrån/ifrån och personer/verksamheter i kontext; utvalda meningspar och motsvarande destinationsuttryck utan överdriven en-till-en-karta.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Prepositioner/aus-och-von.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "P06",
@@ -1815,15 +1815,15 @@
         "K05"
       ],
       "requiredCoverage": "Wegen, trotz, während, innerhalb, außerhalb och andra relevanta uttryck; standard, etablerade specialfall och talspråk skiljs åt; aldrig omärkt universell dativ/genitivregel.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Prepositioner/genitiv.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "P08",
@@ -1837,15 +1837,15 @@
         "V02"
       ],
       "requiredCoverage": "Warten auf, denken an, teilnehmen an och liknande högfrekventa konstruktioner; preposition plus kasus plus betydelse; frågor och pronominaladverb länkas till R11.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Prepositioner/fasta-forbindelser.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "P09",
@@ -1860,15 +1860,15 @@
         "P02"
       ],
       "requiredCoverage": "Former och kasus, obligatoriskt/vanligt respektive kontrastbetonad full form; beim/vom och relevanta vardagsformer; inga falska tabellformer genereras.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Prepositioner/sammandragningar.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "P10",
@@ -1882,15 +1882,15 @@
         "V03"
       ],
       "requiredCoverage": "Befintlighet och placering i kontext, reflexiva setzen/stellen/legen; hängen med två konstruktionsmönster och skilda huvudformer; inte synonymt med rörelse kontra stillhet.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Prepositioner/lage-och-placering.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "Y01",
@@ -1990,15 +1990,15 @@
         "Y02"
       ],
       "requiredCoverage": "Pronomen/substantiv, bestämdhet, känt/nytt och tids-/sätts-/platsadverbial; TeKaMoLo som tendens, inga absoluta regler som underkänner idiomatiska alternativ.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Syntax/mittfalt-och-informationsstruktur.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "Y06",
@@ -2033,15 +2033,15 @@
         "Y04"
       ],
       "requiredCoverage": "Talarnas förväntningar, tonfall och dialogkontext; skilj partiklar från likalydande adverb/konjunktioner; inga entydiga ord-för-ord-översättningar.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Syntax/modalpartiklar.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "B01",
@@ -2097,15 +2097,15 @@
         "Y04"
       ],
       "requiredCoverage": "Orsak, konsekvens, kontrast och tillägg; ordföljd efter adverb i förfält; jämför weil/denn/deshalb och obwohl/trotzdem med samma sakförhållande.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Satser/sambandsadverb.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "B04",
@@ -2163,15 +2163,15 @@
         "Y04"
       ],
       "requiredCoverage": "Syfte, negation och alternativ; subjektanknytning och motsvarande finita satser; zu vid partikelverb samt korrekt kommatering.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Satser/avsikt-och-infinitivsatser.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "B07",
@@ -2185,15 +2185,15 @@
         "Y04"
       ],
       "requiredCoverage": "Villkor, medgivande och irreell jämförelse; om i svensk indirekt fråga jämfört med villkor; je … desto hänvisar till A07 och former till M03/M04.",
-      "status": "planned",
+      "status": "ready",
       "sources": [],
-      "languageReview": "not-started",
+      "languageReview": "passed-internal-audit",
       "learningPathStep": null,
       "minimumExamples": 10,
       "minimumQuizItems": 6,
-      "contentExists": false,
-      "contentFile": null,
-      "reviewEvidence": "not-started"
+      "contentExists": true,
+      "contentFile": "content/docs/Satser/villkor-och-medgivande.mdx",
+      "reviewEvidence": "internal-crosscheck-pending-external"
     },
     {
       "id": "D01",

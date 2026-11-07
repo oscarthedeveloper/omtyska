@@ -1,3 +1,5 @@
+> Denna tidigare designriktning har ersatts av [sidgestaltningen utifrån varje referensbild](design-sidtyper.md). Dokumentet behålls som historik.
+
 # Om Tyska — Språk & Bildning
 
 Designbeskrivning och riktlinjer för fortsatt utveckling · 6 november 2026

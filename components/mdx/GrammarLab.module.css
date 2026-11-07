@@ -184,3 +184,7 @@
   font-size: 0.9375rem;
   color: #444;
 }
+
+/* Teaching notes follow the technical publication, with a quiet paper surface. */
+.intro{background:transparent;border:1px solid var(--hairline);border-left:2px solid var(--brand);padding:20px 22px;font:15px/1.7 var(--font-serif)}
+.intro ul{margin:18px 0;padding-left:18px}.intro p{font:14px/1.7 var(--font-serif)}.intro p:first-child{font:9px var(--font-mono);color:var(--brand)}.intro .situation{margin:15px 0}.related{background:transparent;border-top:2px solid var(--brand);padding:20px 0;border-left:0;border-right:0;border-bottom:0}.related a{font:13px/1.6 var(--font-serif)}

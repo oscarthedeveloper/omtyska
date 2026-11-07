@@ -71,7 +71,9 @@ const PHASES_CONFIG = [
 
 // Extract steps from registry
 const rawSteps = registry.lessons
-  .filter(l => typeof l.learningPathStep === 'number')
+  .filter(l => typeof l.learningPathStep === 'number' && PHASES_CONFIG.some(phase =>
+    l.learningPathStep >= phase.stepRange[0] && l.learningPathStep <= phase.stepRange[1]
+  ))
   .sort((a, b) => (a.learningPathStep as number) - (b.learningPathStep as number));
 
 export const LEARNING_STEPS: LearningPathStep[] = rawSteps.map(s => {

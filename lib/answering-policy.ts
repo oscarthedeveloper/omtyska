@@ -33,6 +33,36 @@ export type GradingOptions = {
   feedbackOnErrors?: Record<string, string>;
 };
 
+const GERMAN_NON_NOUN_STARTERS = new Set([
+  'der', 'die', 'das', 'den', 'dem', 'des',
+  'ein', 'eine', 'einen', 'einem', 'einer', 'eines',
+  'kein', 'keine', 'keinen', 'keinem', 'keiner', 'keines',
+  'mein', 'meine', 'meinen', 'meinem', 'meiner', 'meines',
+  'dein', 'deine', 'deinen', 'deinem', 'deiner', 'deines',
+  'sein', 'seine', 'seinen', 'seinem', 'seiner', 'seines',
+  'ihr', 'ihre', 'ihren', 'ihrem', 'ihrer', 'ihres',
+  'unser', 'unsere', 'unseren', 'unserem', 'unserer', 'unseres',
+  'euer', 'eure', 'euren', 'eurem', 'eurer', 'eures',
+  'dieser', 'diese', 'dieses', 'diesem', 'diesen',
+  'jeder', 'jede', 'jedes', 'jedem', 'jeden',
+  'alle', 'allen', 'aller', 'alles',
+  'wer', 'wen', 'wem', 'wessen',
+  'ich', 'du', 'er', 'sie', 'es', 'wir', 'uns', 'euch', 'mir', 'dir', 'ihm', 'ihnen',
+  'man', 'sich',
+  'durch', 'für', 'gegen', 'ohne', 'um',
+  'aus', 'bei', 'mit', 'nach', 'seit', 'von', 'zu',
+  'an', 'auf', 'hinter', 'in', 'neben', 'über', 'unter', 'vor', 'zwischen',
+  'wegen', 'trotz', 'statt',
+  'gut', 'guter', 'gute', 'gutes', 'guten', 'gutem',
+  'groß', 'großer', 'große', 'großes', 'großen', 'großem',
+  'alt', 'alter', 'alte', 'altes', 'alten', 'altem',
+  'neu', 'neuer', 'neue', 'neues', 'neuen', 'neuem',
+  'schön', 'schöner', 'schöne', 'schönes', 'schönen', 'schönem',
+  'stark', 'starker', 'starke', 'starkes', 'starken', 'starkem',
+  'erfolgreich', 'erfolgreiche', 'erfolgreichen', 'erfolgreicher',
+  'sehr', 'so', 'heute', 'gestern', 'morgen'
+]);
+
 /**
  * Clean and normalize a string while strictly preserving German diacritics.
  */
@@ -154,9 +184,17 @@ export function gradeGermanAnswer(
     }
   }
 
-  // 6. Polite 'Sie' / 'Ihnen' / 'Ihr' vs 'sie' / 'ihnen' / 'ihr'
+  // 6. Capitalization handling (nouns, polite forms, sentence-initial words)
   if (user.toLowerCase() === target.toLowerCase()) {
-    if (target.includes('Sie') && user.includes('sie')) {
+    // 6a. Polite 'Sie' / 'Ihnen' / 'Ihr' vs 'sie' / 'ihnen' / 'ihr'
+    const politeWords = ['Sie', 'Ihnen', 'Ihr', 'Ihre', 'Ihrem', 'Ihren', 'Ihrer'];
+    const hasPoliteMismatch = politeWords.some(pw => {
+      const reTarget = new RegExp(`\\b${pw}\\b`);
+      const reUser = new RegExp(`\\b${pw.toLowerCase()}\\b`);
+      return reTarget.test(target) && reUser.test(user);
+    });
+
+    if (hasPoliteMismatch) {
       return {
         isCorrect: false,
         isPartial: true,
@@ -166,8 +204,45 @@ export function gradeGermanAnswer(
       };
     }
 
-    // Capitalization of nouns
-    // German nouns are capitalized. If target has a capital noun and user lowercase:
+    // 6b. Compare word by word: allow initial casing differences for non-noun words
+    // (e.g. "Der Mann" vs "der Mann", "Mir" vs "mir", "Jeden Tag" vs "jeden Tag")
+    const targetWords = target.split(/\s+/);
+    const userWords = user.split(/\s+/);
+
+    if (targetWords.length === userWords.length) {
+      let hasNounCapitalizationError = false;
+
+      for (let i = 0; i < targetWords.length; i++) {
+        const tw = targetWords[i];
+        const uw = userWords[i];
+        if (tw === uw) continue;
+
+        const isNonNounStarter = GERMAN_NON_NOUN_STARTERS.has(tw.toLowerCase());
+
+        if (i === 0 && isNonNounStarter) {
+          // Difference is on the initial non-noun word (e.g. "Der Mann" vs "der Mann").
+          // Both sentence-initial capital and lower-case base form are accepted.
+          continue;
+        }
+
+        // If target word starts with uppercase (noun or proper name) and user wrote lowercase:
+        if (/^[A-ZÄÖÜ]/.test(tw) && /^[a-zäöü]/.test(uw)) {
+          hasNounCapitalizationError = true;
+          break;
+        }
+      }
+
+      if (!hasNounCapitalizationError) {
+        return {
+          isCorrect: true,
+          isPartial: false,
+          score: 1.0,
+          feedback: 'Helt rätt!',
+        };
+      }
+    }
+
+    // German nouns are capitalized. If user wrote lowercase for a noun:
     return {
       isCorrect: false,
       isPartial: true,

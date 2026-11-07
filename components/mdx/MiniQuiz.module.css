@@ -168,3 +168,4 @@
     grid-template-columns: minmax(0, 1fr);
   }
 }
+@media(max-width:560px){.quiz{margin-left:0;margin-right:0;padding:22px 18px}.topline{flex-wrap:wrap}.option{min-width:0;overflow-wrap:anywhere}}

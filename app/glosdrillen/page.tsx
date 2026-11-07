@@ -4,6 +4,25 @@ import { useState } from 'react';
 import { VOCAB_DECKS, type VocabItem } from '@/data/decks';
 import { gradeGermanAnswer } from '@/lib/answering-policy';
 import { scheduleRepetition } from '@/lib/storage';
+import styles from './page.module.css';
+
+const DECK_ICONS: Record<number, string> = {
+  1: '👨‍👩‍👦',
+  2: '🏠',
+  3: '🛒',
+  4: '⏱️',
+  5: '🗺️',
+  6: '⚽',
+  7: '✈️',
+  8: '🩺',
+  9: '💼',
+  10: '💬',
+  11: '🌲',
+  12: '🎭',
+  13: '🏛️',
+  14: '🧩',
+  15: '📜',
+};
 
 export default function GlosdrillenPage() {
   const [selectedDeckId, setSelectedDeckId] = useState<number>(1);
@@ -42,7 +61,7 @@ export default function GlosdrillenPage() {
   }
 
   return (
-    <main style={{ maxWidth: 840, margin: '0 auto', padding: 'var(--s-xxl) var(--s-lg)' }}>
+    <main style={{ maxWidth: 960, margin: '0 auto', padding: 'var(--s-xxl) var(--s-lg)' }}>
       <header style={{ borderBottom: '1px solid var(--hairline)', paddingBottom: 'var(--s-lg)', marginBottom: 'var(--s-xl)' }}>
         <p className="eyebrow">Övningsverktyg</p>
         <h1 style={{ fontSize: '2.5rem', fontWeight: 400, margin: '4px 0 8px' }}>Glosdrillen</h1>
@@ -52,35 +71,38 @@ export default function GlosdrillenPage() {
         </p>
       </header>
 
-      {/* Kortleksväljare */}
-      <div style={{ marginBottom: '1.5rem' }}>
-        <label style={{ display: 'block', fontSize: '0.875rem', fontWeight: 600, marginBottom: '0.5rem' }}>
-          Välj kortlek (15 teman):
-        </label>
-        <select
-          value={selectedDeckId}
-          onChange={e => {
-            setSelectedDeckId(Number(e.target.value));
-            setItemIndex(0);
-            setUserInput('');
-            setFeedback(null);
-            setShowAnswer(false);
-          }}
-          style={{
-            padding: '10px 14px',
-            fontSize: '1rem',
-            borderRadius: 'var(--r-md)',
-            border: '1px solid var(--hairline)',
-            background: 'var(--canvas)',
-            maxWidth: '100%',
-          }}
-        >
-          {VOCAB_DECKS.map(deck => (
-            <option key={deck.id} value={deck.id}>
-              Kortlek {deck.id}: {deck.name} ({deck.items.length} ord)
-            </option>
-          ))}
-        </select>
+      {/* Kortleksväljare i rutor med ikon och rubrik */}
+      <div style={{ marginBottom: '2rem' }}>
+        <p className="eyebrow" style={{ marginBottom: '0.75rem' }}>
+          Välj kortlek (15 teman)
+        </p>
+        <div className={styles.deckGrid} role="radiogroup" aria-label="Välj kortlek">
+          {VOCAB_DECKS.map(deck => {
+            const isSelected = deck.id === selectedDeckId;
+            return (
+              <button
+                key={deck.id}
+                type="button"
+                role="radio"
+                aria-checked={isSelected}
+                className={`${styles.deckCard} ${isSelected ? styles.deckCardActive : ''}`}
+                onClick={() => {
+                  setSelectedDeckId(deck.id);
+                  setItemIndex(0);
+                  setUserInput('');
+                  setFeedback(null);
+                  setShowAnswer(false);
+                }}
+              >
+                <span className={styles.deckIcon} aria-hidden="true">
+                  {DECK_ICONS[deck.id] || '📖'}
+                </span>
+                <span className={styles.deckTitle}>{deck.name}</span>
+                <span className={styles.deckCount}>{deck.items.length} ord</span>
+              </button>
+            );
+          })}
+        </div>
       </div>
 
       <section

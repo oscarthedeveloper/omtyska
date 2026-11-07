@@ -1,60 +1,18 @@
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { getAllPosts, formatDate } from '@/lib/content';
-
-export const metadata: Metadata = {
-  title: 'Blogg — Pedagogiska djupdykningar och språkartiklar',
-  description:
-    'Läs våra språkartiklar om tysk grammatik: varför det heter dem Mann men den Mann, varför verbet hamnar sist efter weil, och typiska tyska falska vänner.',
-  alternates: { canonical: '/blog' },
-};
-
-export default function BlogIndexPage() {
-  const posts = getAllPosts();
-
-  return (
-    <main style={{ maxWidth: 880, margin: '0 auto', padding: 'var(--s-xxl) var(--s-lg)' }}>
-      <header style={{ borderBottom: '1px solid var(--hairline)', paddingBottom: 'var(--s-lg)', marginBottom: 'var(--s-xl)' }}>
-        <p className="eyebrow">Språkartiklar & Klurigheter</p>
-        <h1 style={{ fontSize: '2.5rem', fontWeight: 400, margin: '4px 0 8px' }}>Bloggen om tyska</h1>
-        <p style={{ fontSize: '1.125rem', color: '#555', margin: 0 }}>
-          Korta, resonerande artiklar som reder ut tyskans mest spännande skillnader, typiska
-          svenska fällor och vardagliga språkmönster.
-        </p>
-      </header>
-
-      <div style={{ display: 'flex', flexDirection: 'column', gap: 'var(--s-lg)' }}>
-        {posts.map(post => (
-          <article
-            key={post.slug}
-            style={{
-              padding: 'var(--s-lg)',
-              background: 'var(--canvas)',
-              border: '1px solid var(--hairline)',
-              borderRadius: 'var(--r-md)',
-              display: 'flex',
-              flexDirection: 'column',
-              gap: 6,
-            }}
-          >
-            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', fontSize: '0.75rem', color: 'var(--muted)', fontFamily: 'var(--font-mono)' }}>
-              <span>{formatDate(post.date)}</span>
-              {post.mainLessonId && <span>· Tillhör [{post.mainLessonId}]</span>}
-            </div>
-            <h2 style={{ fontSize: '1.4rem', margin: '4px 0' }}>
-              <Link href={post.href} style={{ textDecoration: 'none', color: 'var(--ink)' }}>
-                {post.title}
-              </Link>
-            </h2>
-            <p style={{ color: '#555', margin: '0 0 var(--s-xs)', fontSize: '0.9375rem', lineHeight: 1.5 }}>
-              {post.description}
-            </p>
-            <Link href={post.href} style={{ fontWeight: 600, fontSize: '0.875rem' }}>
-              Läs artikeln →
-            </Link>
-          </article>
-        ))}
-      </div>
-    </main>
-  );
+import styles from './page.module.css';
+export const metadata: Metadata = {title:'Språkanteckningar — frågor, iakttagelser och förklaringar',description:'Resonerande artiklar om det tyska språket. Svenska fällor, grammatiska skillnader och frågor som förtjänar en närmare läsning.',alternates:{canonical:'/blog'}};
+export default function BlogIndexPage(){
+  const posts=getAllPosts();const featured=posts.find(p=>p.mainLessonId==='P03')||posts[0];
+  return <main className={styles.page}>
+    <header className={styles.masthead}><p>Språk, iakttagelser<br />och små upptäckter.</p><h1>Språk<span>anteckningar.</span></h1><p>Om Tyska<br />Journal / {posts.length} texter</p></header>
+    <div className={styles.columns}>
+      <section className={styles.feature} aria-labelledby="feature-title"><p className={styles.label}>Ur anteckningsboken</p>{featured?<><h2 id="feature-title"><Link href={featured.href}>{featured.title}</Link></h2><p className={styles.description}>{featured.description}</p><Link className={styles.read} href={featured.href}>Läs anteckningen ↗</Link></>:null}
+        <figure className={styles.specimen}><span className={styles.specimenMeta}>TECKENSTUDIE / DET TYSKA ALFABETET</span><p lang="de">Ä ö ß</p><figcaption>Former att känna igen.<br /><Link href="/docs/grunder/alfabet">Till alfabetet och tecknen →</Link></figcaption></figure>
+        <div className={styles.editorialNote}><h3>Stanna vid en fråga.</h3><p>Här får skillnaderna utrymme. Vad händer när ett ord byter ändelse, när verbet flyttar eller när svenskan leder tanken fel?</p><p>Välj en anteckning till höger och läs vidare i grammatikan när du vill se hela systemet.</p></div>
+      </section>
+      <section className={styles.index} aria-labelledby="index-title"><div className={styles.indexTop}><h2 id="index-title">Alla anteckningar</h2><span>REGISTER ↓</span></div><ol>{posts.map((post,i)=><li key={post.slug}><div className={styles.meta}><span>{String(i+1).padStart(2,'0')} / {post.mainLessonId}</span><time dateTime={post.date}>{formatDate(post.date)}</time></div><h3><Link href={post.href}>{post.title} <span aria-hidden="true">↗</span></Link></h3><p>{post.description}</p></li>)}</ol></section>
+    </div><footer className={styles.folio}><span>OM TYSKA / ANTECKNINGAR</span><span>Språket förtjänar en närmare läsning.</span></footer>
+  </main>;
 }

@@ -3,8 +3,6 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useEffect, useRef, useState } from 'react';
-import BrandEmblem from './BrandEmblem';
-import GrammarModeToggle from './GrammarModeToggle';
 import SearchDialog from './SearchDialog';
 import { siteConfig } from '../site.config';
 import styles from './Navbar.module.css';
@@ -35,7 +33,7 @@ export default function Navbar() {
         <div className={styles.inner}>
           <div className={styles.left}>
             <Link href="/" className={styles.brand}>
-              <BrandEmblem className={styles.emblem} /><span><span className={styles.brandName}>Om Tyska.</span><span className={styles.brandTag}>Språk · Bildning · Kultur</span></span>
+              <span><span className={styles.brandName}>omtyska.se</span><span className={styles.brandTag}>Språk · Bildning · Kultur</span></span>
             </Link>
 
             <nav className={styles.links} aria-label="Huvudmeny">
@@ -54,6 +52,8 @@ export default function Navbar() {
                 <button
                   type="button"
                   className={
+                    pathname.startsWith('/tabellpusslet') ||
+                    pathname.startsWith('/ovningar') ||
                     pathname.startsWith('/verbdrillen') ||
                     pathname.startsWith('/glosdrillen') ||
                     pathname.startsWith('/kasusdrillen') ||
@@ -70,6 +70,7 @@ export default function Navbar() {
 
                 {toolsOpen && (
                   <div id="ovningsmeny" className={styles.dropdownMenu}>
+                    <Link href="/ovningar" onClick={() => setToolsOpen(false)}><strong>Alla övningar →</strong></Link>
                     {siteConfig.tools.map(tool => (
                       <Link
                         key={tool.id}
@@ -103,8 +104,6 @@ export default function Navbar() {
           </div>
 
           <div className={styles.actions}>
-            <GrammarModeToggle />
-
             <button
               type="button"
               className={styles.searchBtn}
@@ -171,6 +170,7 @@ export default function Navbar() {
             </Link>
 
             <p className={styles.mobileHeading}>Övningsverktyg</p>
+            <Link href="/ovningar" className={styles.mobileLink}>Alla övningar</Link>
             {siteConfig.tools.map(tool => (
               <Link
                 key={tool.id}
@@ -197,8 +197,6 @@ export default function Navbar() {
             >
               Repetition
             </Link>
-
-            <GrammarModeToggle mobile />
           </div>
         )}
       </header>

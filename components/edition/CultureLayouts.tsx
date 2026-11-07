@@ -1,0 +1,8 @@
+import type { ReactNode } from 'react';
+import styles from './CultureLayouts.module.css';
+/** Prepared publication layouts. No cultural article or image is published by these components. */
+type CultureProps={title:string;eyebrow:string;media:ReactNode;caption:ReactNode;children:ReactNode};
+export function PortraitSheet({title,eyebrow,media,caption,children}:CultureProps){return <article className={styles.portrait}><header><p>{eyebrow}</p><h1>{title}</h1></header><figure>{media}<figcaption>{caption}</figcaption></figure><div className={styles.portraitText}>{children}</div></article>;}
+export function ObjectSheet({title,eyebrow,media,caption,children}:CultureProps){return <article className={styles.object}><figure>{media}<figcaption>{caption}</figcaption></figure><div><header><p>{eyebrow}</p><h1>{title}</h1></header><div className={styles.objectText}>{children}</div></div></article>;}
+export function VisualEssay({title,eyebrow,media,caption,children}:CultureProps){return <article className={styles.visual}><figure>{media}<figcaption>{caption}</figcaption></figure><header><p>{eyebrow}</p><h1>{title}</h1></header><div>{children}</div></article>;}
+export function LiterarySpread({title,eyebrow,source,notes,children}:{title:string;eyebrow:string;source:ReactNode;notes:ReactNode;children:ReactNode}){return <article className={styles.literary}><header><p>{eyebrow}</p><h1>{title}</h1><div className={styles.source}>{source}</div></header><div className={styles.literaryBody}><div className={styles.literaryText}>{children}</div><aside aria-label="Kommentarer till texten">{notes}</aside></div></article>;}

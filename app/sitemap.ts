@@ -16,6 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/verbdrillen`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/glosdrillen`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/kasusdrillen`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/tabellpusslet`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/meningsbygget`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/blog`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
     { url: `${base}/kontakt`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.4 },

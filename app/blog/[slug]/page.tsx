@@ -5,7 +5,7 @@ import Mdx from '@/components/mdx/Mdx';
 import TableOfContents from '@/components/TableOfContents';
 import { getAllPosts, getPostBySlug, formatDate } from '@/lib/content';
 import { siteConfig } from '@/site.config';
-import styles from '@/app/docs/[...slug]/doc.module.css';
+import styles from './page.module.css';
 
 type Params = { slug: string };
 
@@ -39,36 +39,15 @@ export default async function BlogPostPage({ params }: { params: Promise<Params>
   const post = getPostBySlug(slug);
   if (!post) notFound();
 
-  return (
-    <div style={{ maxWidth: 1100, margin: '0 auto', padding: 'var(--s-xxl) var(--s-lg)' }}>
-      <div className={styles.layout}>
-        <article className={styles.article}>
-          <nav className={styles.breadcrumbs} aria-label="Brödsmulor">
-            <Link href="/blog">Blogg</Link>
-            <span aria-hidden="true"> / </span>
-            <span>{post.title}</span>
-          </nav>
 
-          <div style={{ fontFamily: 'var(--font-mono)', fontSize: '0.8125rem', color: 'var(--muted)', marginBottom: '0.5rem' }}>
-            Publicerad {formatDate(post.date)}
-          </div>
-
-          <h1>{post.title}</h1>
-          {post.description && <p className={styles.lead}>{post.description}</p>}
-
-          <div className={`${styles.content} mdxContent`}>
-            <Mdx key={post.href} source={post.content} />
-          </div>
-
-          <div style={{ marginTop: 'var(--s-xxl)', paddingTop: 'var(--s-lg)', borderTop: '1px solid var(--hairline)' }}>
-            <Link href="/blog" className="pillButton pillButton--secondary">
-              ← Tillbaka till alla bloggartiklar
-            </Link>
-          </div>
-        </article>
-
-        <TableOfContents headings={post.headings} />
-      </div>
-    </div>
-  );
+  const contrasts: Record<string,[string,string]>={K03:['dem Mann','den Mann'],T02:['ich habe','ich bin'],A03:['ein guter','der gute'],E03:['muss nicht','darf nicht'],V09:['zu','dass'],P03:['im Park','in den Park'],Y04:['Hauptsatz','weil …'],E01:['bekommen','werden'],T08:['seit','presens'],R01:['Sie','sie / ihr']};
+  const contrast=contrasts[post.mainLessonId||''];
+  return <main className={styles.page}>
+    <nav className={styles.running} aria-label="Brödsmulor"><Link href="/blog">← Språkanteckningar</Link><span>Om Tyska / {post.mainLessonId||'Journal'}</span><time dateTime={post.date}>{formatDate(post.date)}</time></nav>
+    <header className={styles.spread}>
+      <div className={styles.titlePage}><p className={styles.label}>En fråga / En närmare läsning</p><h1>{post.title}</h1><p className={styles.lead}>{post.description}</p><a className={styles.start} href="#texten">Läs anteckningen ↓</a></div>
+      <div className={styles.bluePage}><span className={styles.blueMeta}>SPRÅKLIGA SKILLNADER / SV — DE</span><div lang="de">{contrast?<><span>{contrast[0]}</span><i aria-hidden="true">/</i><span>{contrast[1]}</span></>:<span>Språket i detalj.</span>}</div><span className={styles.blueFoot}>Se vad som skiljer. Förstå vad det betyder.</span></div>
+    </header>
+    <div className={styles.reading} id="texten"><aside className={styles.margin}><span className={styles.label}>Läsanteckning</span><p>{post.tags.join(' / ')}</p><TableOfContents headings={post.headings}/><Link href="/blog">Alla anteckningar ↗</Link></aside><article className={`${styles.prose} mdxContent`}><Mdx key={post.href} source={post.content}/><div className={styles.endnote}><span>OM TYSKA / SPRÅKANTECKNINGAR</span><Link href="/blog">Till registret →</Link></div></article></div>
+  </main>;
 }

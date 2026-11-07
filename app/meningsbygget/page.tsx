@@ -1,192 +1,222 @@
 'use client';
-
+import Link from 'next/link';
 import { useState } from 'react';
 import { SYNTAX_EXERCISES } from '@/data/syntax-exercises';
 import { checkSentenceOrder } from '@/lib/answering-policy';
 import { scheduleRepetition } from '@/lib/storage';
+import styles from './page.module.css';
+
+const THEMES: Record<string, string> = {
+  v2: 'Huvudsats (V2)',
+  satsram: 'Satsramen',
+  bisats: 'Bisats (Verbet sist)',
+  fragor: 'Frågor'
+};
+
+type ThemeFilter = 'all' | 'v2' | 'satsram' | 'bisats';
 
 export default function MeningsbyggetPage() {
+  const [filter, setFilter] = useState<ThemeFilter>('all');
   const [index, setIndex] = useState(0);
-  const current = SYNTAX_EXERCISES[index];
-
-  // Current order of chunks (initially shuffled or reversed)
-  const [chunks, setChunks] = useState<string[]>(() => {
-    return [...current.chunks].sort(() => 0.5 - Math.random());
-  });
-
   const [feedback, setFeedback] = useState<{ isCorrect: boolean; feedback: string } | null>(null);
-  const [score, setScore] = useState(0);
+  const [solved, setSolved] = useState<string[]>([]);
 
-  function moveLeft(idx: number) {
-    if (idx === 0) return;
+  const activeExercises = filter === 'all'
+    ? SYNTAX_EXERCISES
+    : SYNTAX_EXERCISES.filter((ex) => ex.theme === filter);
+
+  const current = activeExercises[index] ?? activeExercises[0];
+  const [chunks, setChunks] = useState<string[]>(() => [...SYNTAX_EXERCISES[0].chunks].reverse());
+
+  function changeFilter(newFilter: ThemeFilter) {
+    setFilter(newFilter);
+    setIndex(0);
+    const pool = newFilter === 'all'
+      ? SYNTAX_EXERCISES
+      : SYNTAX_EXERCISES.filter((ex) => ex.theme === newFilter);
+    setChunks([...pool[0].chunks].reverse());
+    setFeedback(null);
+  }
+
+  function move(idx: number, delta: number) {
+    const target = idx + delta;
+    if (target < 0 || target >= chunks.length) return;
     const next = [...chunks];
-    const temp = next[idx - 1];
-    next[idx - 1] = next[idx];
-    next[idx] = temp;
+    [next[idx], next[target]] = [next[target], next[idx]];
     setChunks(next);
     setFeedback(null);
   }
 
-  function moveRight(idx: number) {
-    if (idx === chunks.length - 1) return;
-    const next = [...chunks];
-    const temp = next[idx + 1];
-    next[idx + 1] = next[idx];
-    next[idx] = temp;
-    setChunks(next);
-    setFeedback(null);
-  }
-
-  function handleCheck() {
-    const res = checkSentenceOrder(chunks, current.acceptableOrders);
-    setFeedback(res);
-
-    if (res.isCorrect) {
-      setScore(s => s + 1);
+  function check() {
+    const result = checkSentenceOrder(chunks, current.acceptableOrders);
+    setFeedback(result);
+    if (result.isCorrect) {
+      setSolved((previous) => (previous.includes(current.id) ? previous : [...previous, current.id]));
     } else {
       scheduleRepetition({
         id: `syntax:${current.id}`,
         sourceType: 'syntax',
         prompt: `Bygg: ${current.swedishMeaning}`,
         targetAnswer: current.acceptableOrders[0].join(' '),
-        explanation: current.explanation,
+        explanation: current.explanation
       });
     }
   }
 
-  function handleNext() {
-    const nextIndex = (index + 1) % SYNTAX_EXERCISES.length;
+  function next() {
+    const nextIndex = (index + 1) % activeExercises.length;
     setIndex(nextIndex);
-    const nextItem = SYNTAX_EXERCISES[nextIndex];
-    setChunks([...nextItem.chunks].sort(() => 0.5 - Math.random()));
+    setChunks([...activeExercises[nextIndex].chunks].reverse());
     setFeedback(null);
   }
 
+  const solvedInPool = activeExercises.filter((ex) => solved.includes(ex.id));
+
   return (
-    <main style={{ maxWidth: 840, margin: '0 auto', padding: 'var(--s-xxl) var(--s-lg)' }}>
-      <header style={{ borderBottom: '1px solid var(--hairline)', paddingBottom: 'var(--s-lg)', marginBottom: 'var(--s-xl)' }}>
-        <p className="eyebrow">Övningsverktyg</p>
-        <h1 style={{ fontSize: '2.5rem', fontWeight: 400, margin: '4px 0 8px' }}>Meningsbygget</h1>
-        <p style={{ fontSize: '1.125rem', color: '#555', margin: 0 }}>
-          Träna tyskans ordföljd: <strong>V2-regeln</strong> i huvudsats, <strong>satsramen (Satzklammer)</strong>{' '}
-          och <strong>verbet sist i bisats</strong>.
-        </p>
+    <main className={styles.page}>
+      <header className={styles.header}>
+        <div className={styles.running}>
+          <Link href="/ovningar">OM TYSKA / VERKSTADEN</Link>
+          <span>SYNTAX / ÖVNING 04</span>
+        </div>
+        <h1>
+          Menings<span>bygget.</span>
+        </h1>
+        <p>Ord för ord. Led för led. Lär känna den tyska meningens konstruktion.</p>
+        <div className={styles.principles}>
+          <Link href="/docs/syntax/verb-pa-andra-plats">
+            <span>01 /</span>
+            <strong>Huvudsatsen</strong>
+            <p>Se hur förfältet och det böjda verbet förhåller sig till varandra.</p>
+          </Link>
+          <Link href="/docs/syntax/satsram">
+            <span>02 /</span>
+            <strong>Satsramen</strong>
+            <p>Hitta förbindelsen mellan den vänstra och den högra verbdelen.</p>
+          </Link>
+          <Link href="/docs/syntax/ordfoljd-i-bisatser">
+            <span>03 /</span>
+            <strong>Bisatsen</strong>
+            <p>Undersök vad som händer med verbets placering efter ett bindeord.</p>
+          </Link>
+        </div>
       </header>
-
-      <section
-        style={{
-          background: 'var(--canvas)',
-          border: '1px solid var(--hairline)',
-          borderRadius: 'var(--r-lg)',
-          padding: 'var(--s-xl)',
-          boxShadow: '0 4px 16px rgba(0,0,0,0.04)',
-        }}
-      >
-        <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '1rem' }}>
-          <span className="eyebrow">Mening {index + 1} av {SYNTAX_EXERCISES.length}</span>
-          <span style={{ fontFamily: 'var(--font-mono)', fontSize: '0.8125rem', color: 'var(--muted)' }}>
-            Poäng: {score}
-          </span>
-        </div>
-
-        <p style={{ color: '#444', fontSize: '1rem', fontWeight: 500, margin: '0 0 6px' }}>
-          🇸🇪 {current.swedishMeaning}
-        </p>
-        <p style={{ color: 'var(--muted)', fontSize: '0.875rem', margin: '0 0 1.5rem' }}>
-          💡 {current.instruction}
-        </p>
-
-        {/* Flyttbara fraser */}
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', marginBottom: '1.5rem' }}>
-          <p className="eyebrow" style={{ color: 'var(--muted)' }}>
-            Ordna fraserna (använd knapparna ◀ och ▶):
-          </p>
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
-            {chunks.map((chunk, idx) => (
-              <div
-                key={idx}
-                style={{
-                  display: 'inline-flex',
-                  alignItems: 'center',
-                  gap: 6,
-                  padding: '8px 12px',
-                  background: 'var(--surface-soft)',
-                  border: '1px solid var(--hairline)',
-                  borderRadius: 'var(--r-md)',
-                }}
-              >
-                <button
-                  type="button"
-                  onClick={() => moveLeft(idx)}
-                  disabled={idx === 0}
-                  style={{ border: 0, background: 'transparent', cursor: idx > 0 ? 'pointer' : 'default', opacity: idx > 0 ? 1 : 0.2 }}
-                  aria-label="Flytta vänster"
-                >
-                  ◀
-                </button>
-                <span lang="de" style={{ fontWeight: 600, fontSize: '1rem' }}>
-                  {chunk}
-                </span>
-                <button
-                  type="button"
-                  onClick={() => moveRight(idx)}
-                  disabled={idx === chunks.length - 1}
-                  style={{ border: 0, background: 'transparent', cursor: idx < chunks.length - 1 ? 'pointer' : 'default', opacity: idx < chunks.length - 1 ? 1 : 0.2 }}
-                  aria-label="Flytta höger"
-                >
-                  ▶
-                </button>
-              </div>
+      <div className={styles.blueprint}>
+        <section className={styles.workspace} aria-label="Ordna meningen">
+          <div className={styles.workspaceMeta}>
+            <span>BYGGYTA / {THEMES[current.theme] ?? current.theme}</span>
+            <span>
+              {String(index + 1).padStart(2, '0')} / {String(activeExercises.length).padStart(2, '0')}
+            </span>
+          </div>
+          <p className={styles.label}>Utgångspunkt / Svenska</p>
+          <h2>{current.swedishMeaning}</h2>
+          <p className={styles.instruction}>{current.instruction}</p>
+          <p className={styles.label}>Flytta fraserna med pilarna</p>
+          <ol className={styles.chunks}>
+            {chunks.map((chunk, i) => (
+              <li key={`${index}-${chunk}`}>
+                <span className={styles.position}>{String(i + 1).padStart(2, '0')}</span>
+                <div>
+                  <button
+                    type="button"
+                    disabled={i === 0}
+                    onClick={() => move(i, -1)}
+                    aria-label={`Flytta ${chunk} åt vänster`}
+                  >
+                    ←
+                  </button>
+                  <span lang="de">{chunk}</span>
+                  <button
+                    type="button"
+                    disabled={i === chunks.length - 1}
+                    onClick={() => move(i, 1)}
+                    aria-label={`Flytta ${chunk} åt höger`}
+                  >
+                    →
+                  </button>
+                </div>
+              </li>
             ))}
+          </ol>
+          <div className={styles.sentence}>
+            <span className={styles.label}>Din mening / Tyska</span>
+            <p lang="de">{chunks.join(' ')}</p>
           </div>
-        </div>
-
-        {/* Renderad mening */}
-        <div
-          style={{
-            padding: '12px 16px',
-            background: 'var(--surface-soft)',
-            borderRadius: 'var(--r-md)',
-            marginBottom: '1.5rem',
-          }}
-        >
-          <span className="eyebrow" style={{ color: 'var(--muted)', display: 'block', marginBottom: 4 }}>
-            Din nuvarande mening:
-          </span>
-          <p lang="de" style={{ fontSize: '1.2rem', fontWeight: 600, margin: 0 }}>
-            {chunks.join(' ')}
-          </p>
-        </div>
-
-        <div style={{ display: 'flex', gap: '8px' }}>
-          <button type="button" className="pillButton pillButton--primary" onClick={handleCheck}>
-            Kontrollera meningen
-          </button>
-          {feedback !== null && (
-            <button type="button" className="pillButton pillButton--secondary" onClick={handleNext}>
-              {index < SYNTAX_EXERCISES.length - 1 ? 'Nästa mening →' : 'Börja om →'}
+          <div className={styles.controls}>
+            <button type="button" onClick={check}>
+              Kontrollera meningen ↗
             </button>
-          )}
-        </div>
-
-        {feedback !== null && (
-          <div
-            style={{
-              marginTop: '1.25rem',
-              padding: '14px 18px',
-              borderRadius: 'var(--r-md)',
-              background: feedback.isCorrect ? 'var(--block-mint)' : 'var(--block-pink)',
-              border: `1px solid ${feedback.isCorrect ? '#a3e2b2' : '#f6b8b8'}`,
-            }}
-          >
-            <strong>{feedback.isCorrect ? '✅ Helt rätt ordföljd!' : '⚠️ Inte riktigt rätt:'}</strong>
-            <p style={{ margin: '4px 0 0' }}>{feedback.feedback}</p>
-            <p style={{ margin: '8px 0 0', fontSize: '0.875rem', color: '#444' }}>
-              💡 {current.explanation}
-            </p>
+            {feedback ? (
+              <button type="button" onClick={next}>
+                {index < activeExercises.length - 1 ? 'Nästa mening →' : 'Börja om →'}
+              </button>
+            ) : null}
           </div>
-        )}
-      </section>
+        </section>
+        <aside className={styles.inspector}>
+          <div className={styles.specRow}>
+            <span>Genomförda meningar</span>
+            <strong>
+              {solvedInPool.length} / {activeExercises.length}
+            </strong>
+          </div>
+          <div className={styles.specRow}>
+            <span>Aktuellt mönster</span>
+            <strong>{THEMES[current.theme] ?? current.theme}</strong>
+          </div>
+          <div className={styles.filterBox}>
+            <span className={styles.label}>Välj mönster</span>
+            <div className={styles.filterGrid}>
+              <button
+                type="button"
+                className={filter === 'all' ? `${styles.filterBtn} ${styles.filterBtnActive}` : styles.filterBtn}
+                onClick={() => changeFilter('all')}
+              >
+                Blandat
+              </button>
+              <button
+                type="button"
+                className={filter === 'v2' ? `${styles.filterBtn} ${styles.filterBtnActive}` : styles.filterBtn}
+                onClick={() => changeFilter('v2')}
+              >
+                Huvudsats
+              </button>
+              <button
+                type="button"
+                className={filter === 'satsram' ? `${styles.filterBtn} ${styles.filterBtnActive}` : styles.filterBtn}
+                onClick={() => changeFilter('satsram')}
+              >
+                Satsramen
+              </button>
+              <button
+                type="button"
+                className={filter === 'bisats' ? `${styles.filterBtn} ${styles.filterBtnActive}` : styles.filterBtn}
+                onClick={() => changeFilter('bisats')}
+              >
+                Bisats
+              </button>
+            </div>
+          </div>
+          {feedback ? (
+            <div className={styles.feedback} aria-live="polite" aria-atomic="true">
+              <span className={styles.label}>Återkoppling</span>
+              <h3>{feedback.isCorrect ? 'Rätt ordföljd.' : 'Pröva en gång till.'}</h3>
+              <p>{feedback.feedback}</p>
+              <p>{current.explanation}</p>
+            </div>
+          ) : null}
+          <div className={styles.inspectorFoot}>
+            <span>ATT LÄSA VIDARE</span>
+            <Link href="/docs/syntax/satsram">Satsramens uppbyggnad ↗</Link>
+            <Link href="/repetition">Din repetitionskö ↗</Link>
+          </div>
+        </aside>
+      </div>
+      <footer className={styles.folio}>
+        <span>OM TYSKA / MENINGSBYGGET</span>
+        <span>Flytta. Pröva. Förstå.</span>
+      </footer>
     </main>
   );
 }

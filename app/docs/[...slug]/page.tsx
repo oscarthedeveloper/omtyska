@@ -1,11 +1,10 @@
 import type { Metadata } from 'next';
-import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import Mdx from '@/components/mdx/Mdx';
 import TableOfContents from '@/components/TableOfContents';
 import LearningStepProgress from '@/components/learning/LearningStepProgress';
 import MiniQuiz from '@/components/mdx/MiniQuiz';
-import RigorosBanner from '@/components/RigorosBanner';
+import LessonHeader from '@/components/edition/LessonHeader';
 import DocPager from '@/components/DocPager';
 import { LEARNING_QUIZZES } from '@/data/learning-quizzes';
 import { getAllDocs, getDocBySegments, getDocNeighbours, getRegistryLessons } from '@/lib/content';
@@ -65,42 +64,9 @@ export default async function DocPage({ params }: { params: Promise<Params> }) {
   const quiz = LEARNING_QUIZZES[doc.href] || (doc.id ? LEARNING_QUIZZES[doc.id] : undefined);
 
   return (
-    <div className={styles.layout}>
+    <main className={`${styles.layout} ${doc.id.startsWith('X') ? styles.dossier : ''}`}>
+      <LessonHeader doc={doc} />
       <article className={styles.article}>
-        <nav className={styles.breadcrumbs} aria-label="Brödsmulor">
-          <Link href="/grammatik">Grammatik</Link>
-          {doc.categoryPath.map(part => (
-            <span key={part}>
-              <span aria-hidden="true"> / </span>
-              {part}
-            </span>
-          ))}
-          <span>
-            <span aria-hidden="true"> / </span>
-            [{doc.id}]
-          </span>
-        </nav>
-
-        {doc.titleLattsam && doc.titleLattsam !== doc.title ? (
-          <>
-            <h1 className="lattsam-only">{doc.titleLattsam}</h1>
-            <h1 className="rigoros-only">{doc.title}</h1>
-          </>
-        ) : (
-          <h1>{doc.title}</h1>
-        )}
-
-        {doc.rigoros && <RigorosBanner />}
-
-        {doc.descriptionLattsam ? (
-          <>
-            <p className={`${styles.lead} lattsam-only`}>{doc.descriptionLattsam}</p>
-            {doc.description && <p className={`${styles.lead} rigoros-only`}>{doc.description}</p>}
-          </>
-        ) : (
-          doc.description && <p className={styles.lead}>{doc.description}</p>
-        )}
-
         {doc.contentLattsam ? (
           <>
             <div className={`${styles.content} mdxContent lattsam-only`}>
@@ -135,6 +101,6 @@ export default async function DocPage({ params }: { params: Promise<Params> }) {
       </article>
 
       <TableOfContents headings={doc.headings} headingsLattsam={doc.headingsLattsam} />
-    </div>
+    </main>
   );
 }

@@ -50,7 +50,7 @@
   text-underline-offset: 3px;
 }
 
-@media (max-width: 1240px) {
+@media (max-width: 1260px) {
   .toc {
     display: none;
   }

@@ -1,104 +1,23 @@
 'use client';
-
 import Link from 'next/link';
-import { useEffect, useState } from 'react';
-import { getCompletedLessons, getQuizResults, getRepetitionItems } from '@/lib/storage';
-import { getRegistryLessons } from '@/lib/content';
+import { useEffect,useState } from 'react';
+import { getCompletedLessons,getQuizResults,getRepetitionItems } from '@/lib/storage';
 import { LEARNING_STEPS } from '@/lib/learning-path';
-
-export default function FramstegPage() {
-  const [completed, setCompleted] = useState<string[]>([]);
-  const [quizzes, setQuizzes] = useState<Record<string, any>>({});
-  const [repetitionItems, setRepetitionItems] = useState<any[]>([]);
-
-  useEffect(() => {
-    setCompleted(getCompletedLessons());
-    setQuizzes(getQuizResults());
-    setRepetitionItems(getRepetitionItems());
-  }, []);
-
-  const totalLessons = 112;
-  const readCount = completed.length;
-  const passedQuizzesCount = Object.values(quizzes).filter((q: any) => q.passed).length;
-
-  const nextStep = LEARNING_STEPS.find(s => !completed.includes(s.id));
-
-  return (
-    <main style={{ maxWidth: 960, margin: '0 auto', padding: 'var(--s-xxl) var(--s-lg)' }}>
-      <header style={{ borderBottom: '1px solid var(--hairline)', paddingBottom: 'var(--s-lg)', marginBottom: 'var(--s-xl)' }}>
-        <p className="eyebrow">Min studieplan</p>
-        <h1 style={{ fontSize: '2.5rem', fontWeight: 400, margin: '4px 0 8px' }}>Mina framsteg</h1>
-        <p style={{ fontSize: '1.125rem', color: '#555', margin: 0 }}>
-          Dina resultat och lästa lektioner sparas lokalt i din webbläsare. Du behöver inget konto och
-          ingen information skickas till någon extern server.
-        </p>
-      </header>
-
-      {/* Summeringskort */}
-      <div
-        style={{
-          display: 'grid',
-          gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))',
-          gap: 'var(--s-md)',
-          marginBottom: 'var(--s-xxl)',
-        }}
-      >
-        <div style={{ padding: 'var(--s-lg)', background: 'var(--surface-soft)', borderRadius: 'var(--r-md)', border: '1px solid var(--hairline)' }}>
-          <span className="eyebrow">Lästa lektioner</span>
-          <p style={{ fontSize: '2.25rem', fontWeight: 600, margin: '6px 0 0' }}>
-            {readCount} <span style={{ fontSize: '1rem', fontWeight: 400, color: 'var(--muted)' }}>/ {totalLessons}</span>
-          </p>
-        </div>
-
-        <div style={{ padding: 'var(--s-lg)', background: 'var(--surface-soft)', borderRadius: 'var(--r-md)', border: '1px solid var(--hairline)' }}>
-          <span className="eyebrow">Klarade övningar</span>
-          <p style={{ fontSize: '2.25rem', fontWeight: 600, margin: '6px 0 0' }}>
-            {passedQuizzesCount}
-          </p>
-        </div>
-
-        <div style={{ padding: 'var(--s-lg)', background: 'var(--surface-soft)', borderRadius: 'var(--r-md)', border: '1px solid var(--hairline)' }}>
-          <span className="eyebrow">I repetitionskön</span>
-          <p style={{ fontSize: '2.25rem', fontWeight: 600, margin: '6px 0 0' }}>
-            {repetitionItems.length}
-          </p>
-        </div>
-      </div>
-
-      {/* Nästa rekommenderade steg */}
-      {nextStep && (
-        <section
-          style={{
-            padding: 'var(--s-lg)',
-            background: 'var(--block-cream)',
-            border: '1px solid var(--hairline)',
-            borderRadius: 'var(--r-lg)',
-            marginBottom: 'var(--s-xxl)',
-          }}
-        >
-          <p className="eyebrow">Nästa rekommenderade steg</p>
-          <h2 style={{ margin: '4px 0 6px', fontSize: '1.5rem' }}>
-            Steg {nextStep.stepNumber}: [{nextStep.id}] {nextStep.title}
-          </h2>
-          <p style={{ margin: '0 0 1rem', color: '#555' }}>{nextStep.description}</p>
-          <Link href={nextStep.href} className="pillButton pillButton--primary">
-            Fortsätt till lektionen →
-          </Link>
-        </section>
-      )}
-
-      {/* Snabblänkar */}
-      <section style={{ display: 'flex', gap: 'var(--s-md)', flexWrap: 'wrap' }}>
-        <Link href="/larstig" className="pillButton pillButton--secondary">
-          Öppna hela lärstigen (54 steg)
-        </Link>
-        <Link href="/repetition" className="pillButton pillButton--secondary">
-          Öva repetition ({repetitionItems.length} frågor)
-        </Link>
-        <Link href="/grammatik" className="pillButton pillButton--secondary">
-          Se alla grammatikområden
-        </Link>
-      </section>
-    </main>
-  );
+import type { SavedQuizResult,RepetitionItem } from '@/lib/types';
+import registry from '@/data/registry.json';
+import styles from './page.module.css';
+export default function FramstegPage(){
+ const [completed,setCompleted]=useState<string[]>([]);const [quizzes,setQuizzes]=useState<Record<string,SavedQuizResult>>({});const [repetition,setRepetition]=useState<RepetitionItem[]>([]);
+ useEffect(()=>{function update(){setCompleted(getCompletedLessons());setQuizzes(getQuizResults());setRepetition(getRepetitionItems());}update();window.addEventListener('omtyska:lesson-completed',update);window.addEventListener('omtyska:quiz-completed',update);return()=>{window.removeEventListener('omtyska:lesson-completed',update);window.removeEventListener('omtyska:quiz-completed',update);};},[]);
+ const knownIds=new Set(registry.lessons.map(l=>l.id));const read=completed.filter(id=>knownIds.has(id));const passed=Object.values(quizzes).filter(q=>q.passed).length;const next=LEARNING_STEPS.find(s=>!completed.includes(s.id));const readLessons=registry.lessons.filter(l=>completed.includes(l.id));
+ return <main className={styles.book}>
+  <div className={styles.running}><span>OM TYSKA / PERSONLIG STUDIEBOK</span><span>Läsning / Övning / Återkomst</span></div>
+  <div className={styles.spread}>
+   <section className={styles.left}><p className={styles.label}>Fältanteckningar / Din läsning</p><h1>Studieboken.</h1><p className={styles.intro}>Det du har läst. Det du har prövat. Det du vill återvända till.</p><p className={styles.privacy}>Dina framsteg sparas lokalt i den här webbläsaren.</p><dl className={styles.figures}><div><dt>Lästa genomgångar</dt><dd>{read.length}<small> / {registry.lessons.length} i registret</small></dd></div><div><dt>Klarade övningar</dt><dd>{passed}</dd></div><div><dt>I repetitionskön</dt><dd>{repetition.length}</dd></div></dl>
+    <section className={styles.next}><p className={styles.label}>Nästa blad</p>{next?<><h2>{String(next.stepNumber).padStart(2,'0')} / {next.title}</h2><p>{next.description}</p><Link href={next.href}>Fortsätt läsa ↗</Link></>:<><h2>Hela lärstigen är läst.</h2><Link href="/grammatik#fordjupning">Välj en fördjupning ↗</Link></>}</section>
+   </section>
+   <section className={styles.right}><div className={styles.indexHeading}><h2>Läsjournal</h2><span>{String(readLessons.length).padStart(2,'0')} NOTERINGAR</span></div>{readLessons.length?<ol className={styles.journal}>{readLessons.map(l=><li key={l.id}><span>{l.id}</span><Link href={l.href}>{l.title}</Link><span>✓ Läst</span></li>)}</ol>:<div className={styles.empty}><span aria-hidden="true">01 —</span><h3>Första anteckningen<br />börjar med en läsning.</h3><p>Markera en genomgång som läst, så dyker den upp i din läsjournal.</p><Link href={LEARNING_STEPS[0].href}>Till första steget →</Link></div>}
+   <nav className={styles.links} aria-label="Fortsätt studera"><Link href="/larstig"><span>01</span>Hela studiekartan <span>↗</span></Link><Link href="/repetition"><span>02</span>Repetera ({repetition.length} frågor) <span>↗</span></Link><Link href="/grammatik"><span>03</span>Grammatikans innehåll <span>↗</span></Link></nav></section>
+  </div><footer className={styles.folio}><span>OM TYSKA / STUDIEBOKEN</span><span>01 — 02</span></footer>
+ </main>;
 }

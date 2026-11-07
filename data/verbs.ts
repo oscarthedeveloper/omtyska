@@ -15,7 +15,7 @@ export type GermanVerbForm = {
 export type GermanVerbEntry = {
   infinitive: string;
   swedish: string;
-  type: 'svagt' | 'starkt' | 'blandat' | 'hjalpverb' | 'modalverb';
+  type: 'svagt' | 'starkt' | 'blandat' | 'hjalpverb' | 'modalverb' | 'reflexivt';
   auxiliary: 'haben' | 'sein';
   participleII: string;
   praeteritumStamm: string;
@@ -2510,6 +2510,298 @@ export const GERMAN_VERBS: GermanVerbEntry[] = [
       "german": "Kannst du bitte die Tür ___?",
       "swedish": "Kan du vara snäll och stänga dörren?",
       "blankWord": "zumachen"
+    }
+  },
+  {
+    "infinitive": "sich freuen",
+    "swedish": "glädja sig",
+    "type": "reflexivt",
+    "auxiliary": "haben",
+    "participleII": "gefreut",
+    "praeteritumStamm": "freute",
+    "present": {
+      "ich": "freue mich",
+      "du": "freust dich",
+      "erSieEs": "freut sich",
+      "wir": "freuen uns",
+      "ihr": "freut euch",
+      "sieSie": "freuen sich"
+    },
+    "praeteritum": {
+      "ich": "freute mich",
+      "du": "freutest dich",
+      "erSieEs": "freute sich",
+      "wir": "freuten uns",
+      "ihr": "freutet euch",
+      "sieSie": "freuten sich"
+    },
+    "sampleSentence": {
+      "german": "Ich ___ mich sehr auf das Wochenende.",
+      "swedish": "Jag gläder mig mycket åt helgen.",
+      "blankWord": "freue"
+    }
+  },
+  {
+    "infinitive": "sich waschen",
+    "swedish": "tvätta sig",
+    "type": "reflexivt",
+    "auxiliary": "haben",
+    "participleII": "gewaschen",
+    "praeteritumStamm": "wusch",
+    "present": {
+      "ich": "wasche mich",
+      "du": "wäschst dich",
+      "erSieEs": "wäscht sich",
+      "wir": "waschen uns",
+      "ihr": "wascht euch",
+      "sieSie": "waschen sich"
+    },
+    "praeteritum": {
+      "ich": "wusch mich",
+      "du": "wuschst dich",
+      "erSieEs": "wusch sich",
+      "wir": "wuschen uns",
+      "ihr": "wuscht euch",
+      "sieSie": "wuschen sich"
+    },
+    "sampleSentence": {
+      "german": "Er ___ sich vor dem Essen die Hände.",
+      "swedish": "Han tvättar händerna före maten.",
+      "blankWord": "wäscht"
+    }
+  },
+  {
+    "infinitive": "sich fühlen",
+    "swedish": "känna sig",
+    "type": "reflexivt",
+    "auxiliary": "haben",
+    "participleII": "gefühlt",
+    "praeteritumStamm": "fühlte",
+    "present": {
+      "ich": "fühle mich",
+      "du": "fühlst dich",
+      "erSieEs": "fühlt sich",
+      "wir": "fühlen uns",
+      "ihr": "fühlt euch",
+      "sieSie": "fühlen sich"
+    },
+    "praeteritum": {
+      "ich": "fühlte mich",
+      "du": "fühltest dich",
+      "erSieEs": "fühlte sich",
+      "wir": "fühlten uns",
+      "ihr": "ühltet euch",
+      "sieSie": "fühlten sich"
+    },
+    "sampleSentence": {
+      "german": "Wie ___ du dich heute?",
+      "swedish": "Hur känner du dig idag?",
+      "blankWord": "fühlst"
+    }
+  },
+  {
+    "infinitive": "sich interessieren",
+    "swedish": "intressera sig",
+    "type": "reflexivt",
+    "auxiliary": "haben",
+    "participleII": "interessiert",
+    "praeteritumStamm": "interessierte",
+    "present": {
+      "ich": "interessiere mich",
+      "du": "interessierst dich",
+      "erSieEs": "interessiert sich",
+      "wir": "interessieren uns",
+      "ihr": "interessiert euch",
+      "sieSie": "interessieren sich"
+    },
+    "praeteritum": {
+      "ich": "interessierte mich",
+      "du": "interessiertest dich",
+      "erSieEs": "interessierte sich",
+      "wir": "interessierten uns",
+      "ihr": "interessiertet euch",
+      "sieSie": "interessierten sich"
+    },
+    "sampleSentence": {
+      "german": "Wir ___ uns sehr für deutsche Grammatik.",
+      "swedish": "Vi intresserar oss mycket för tysk grammatik.",
+      "blankWord": "interessieren"
+    }
+  },
+  {
+    "infinitive": "sich erinnern",
+    "swedish": "minnas",
+    "type": "reflexivt",
+    "auxiliary": "haben",
+    "participleII": "erinnert",
+    "praeteritumStamm": "erinnerte",
+    "present": {
+      "ich": "erinnere mich",
+      "du": "erinnerst dich",
+      "erSieEs": "erinnert sich",
+      "wir": "erinnern uns",
+      "ihr": "erinnert euch",
+      "sieSie": "erinnern sich"
+    },
+    "praeteritum": {
+      "ich": "erinnerte mich",
+      "du": "erinnertest dich",
+      "erSieEs": "erinnerte sich",
+      "wir": "erinnerten uns",
+      "ihr": "erinnertet euch",
+      "sieSie": "erinnerten sich"
+    },
+    "sampleSentence": {
+      "german": "___ du dich noch an unsere Reise nach Wien?",
+      "swedish": "Minns du fortfarande vår resa till Wien?",
+      "blankWord": "Erinnerst"
+    }
+  },
+  {
+    "infinitive": "sich setzen",
+    "swedish": "sätta sig",
+    "type": "reflexivt",
+    "auxiliary": "haben",
+    "participleII": "gesetzt",
+    "praeteritumStamm": "setzte",
+    "present": {
+      "ich": "setze mich",
+      "du": "setzt dich",
+      "erSieEs": "setzt sich",
+      "wir": "setzen uns",
+      "ihr": "setzt euch",
+      "sieSie": "setzen sich"
+    },
+    "praeteritum": {
+      "ich": "setzte mich",
+      "du": "setztest dich",
+      "erSieEs": "setzte sich",
+      "wir": "setzten uns",
+      "ihr": "setztet euch",
+      "sieSie": "setzten sich"
+    },
+    "sampleSentence": {
+      "german": "Bitte ___ Sie sich auf diesen Stuhl.",
+      "swedish": "Vänligen sätt er på denna stol.",
+      "blankWord": "setzen"
+    }
+  },
+  {
+    "infinitive": "sich beeilen",
+    "swedish": "skynda sig",
+    "type": "reflexivt",
+    "auxiliary": "haben",
+    "participleII": "beeilt",
+    "praeteritumStamm": "beeilte",
+    "present": {
+      "ich": "beeile mich",
+      "du": "beeilst dich",
+      "erSieEs": "beeilt sich",
+      "wir": "beeilen uns",
+      "ihr": "beeilt euch",
+      "sieSie": "beeilen sich"
+    },
+    "praeteritum": {
+      "ich": "beeilte mich",
+      "du": "beeiltest dich",
+      "erSieEs": "beeilte sich",
+      "wir": "beeilten uns",
+      "ihr": "beeiltet euch",
+      "sieSie": "beeilten sich"
+    },
+    "sampleSentence": {
+      "german": "Wir müssen uns ___, der Zug kommt gleich.",
+      "swedish": "Vi måste skynda oss, tåget kommer strax.",
+      "blankWord": "beeilen"
+    }
+  },
+  {
+    "infinitive": "sich ärgern",
+    "swedish": "förarga sig",
+    "type": "reflexivt",
+    "auxiliary": "haben",
+    "participleII": "geärgert",
+    "praeteritumStamm": "ärgerte",
+    "present": {
+      "ich": "ärgere mich",
+      "du": "ärgerst dich",
+      "erSieEs": "ärgert sich",
+      "wir": "ärgern uns",
+      "ihr": "ärgert euch",
+      "sieSie": "ärgern sich"
+    },
+    "praeteritum": {
+      "ich": "ärgerte mich",
+      "du": "ärgerst dich",
+      "erSieEs": "ärgerte sich",
+      "wir": "ärgerten uns",
+      "ihr": "ärgertet euch",
+      "sieSie": "ärgerten sich"
+    },
+    "sampleSentence": {
+      "german": "Warum ___ du dich über Kleinigkeiten?",
+      "swedish": "Varför förargar du dig över småsaker?",
+      "blankWord": "ärgerst"
+    }
+  },
+  {
+    "infinitive": "sich treffen",
+    "swedish": "träffas",
+    "type": "reflexivt",
+    "auxiliary": "haben",
+    "participleII": "getroffen",
+    "praeteritumStamm": "traf",
+    "present": {
+      "ich": "treffe mich",
+      "du": "triffst dich",
+      "erSieEs": "trifft sich",
+      "wir": "treffen uns",
+      "ihr": "trefft euch",
+      "sieSie": "treffen sich"
+    },
+    "praeteritum": {
+      "ich": "traf mich",
+      "du": "trafst dich",
+      "erSieEs": "traf sich",
+      "wir": "trafen uns",
+      "ihr": "traft euch",
+      "sieSie": "trafen sich"
+    },
+    "sampleSentence": {
+      "german": "Wir ___ uns morgen um drei Uhr am Café.",
+      "swedish": "Vi träffas imorgon klockan tre på kaféet.",
+      "blankWord": "treffen"
+    }
+  },
+  {
+    "infinitive": "sich ausruhen",
+    "swedish": "vila upp sig",
+    "type": "reflexivt",
+    "auxiliary": "haben",
+    "participleII": "ausgeruht",
+    "praeteritumStamm": "ruhte aus",
+    "isSeparable": true,
+    "prefix": "aus",
+    "present": {
+      "ich": "ruhe mich aus",
+      "du": "ruhst dich aus",
+      "erSieEs": "ruht sich aus",
+      "wir": "ruhen uns aus",
+      "ihr": "ruht euch aus",
+      "sieSie": "ruhen sich aus"
+    },
+    "praeteritum": {
+      "ich": "ruhte mich aus",
+      "du": "ruhtest dich aus",
+      "erSieEs": "ruhte sich aus",
+      "wir": "ruhten uns aus",
+      "ihr": "ruhtet euch aus",
+      "sieSie": "ruhten sich aus"
+    },
+    "sampleSentence": {
+      "german": "Nach dem Sport muss ich mich erst einmal ___.",
+      "swedish": "Efter idrotten måste jag först vila upp mig.",
+      "blankWord": "ausruhen"
     }
   }
 ];

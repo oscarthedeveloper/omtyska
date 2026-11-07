@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import { siteConfig } from '../site.config';
 import styles from './Footer.module.css';
 
 export default function Footer() {
@@ -7,12 +6,8 @@ export default function Footer() {
     <footer className={styles.footer}>
       <div className={styles.inner}>
         <div className={styles.top}>
-          <div>
-            <div className={styles.brand}>Om Tyska.</div>
-            <p className={styles.lead}>
-              En svensk ingång till det tyska. Språket, tanken och bildningen — med grammatikan som utgångspunkt.
-            </p>
-            <div className={styles.sources} style={{ marginTop: '1rem' }}>
+          <div className={styles.sourcesCol}>
+            <div className={styles.sources}>
               <strong>Auktoritativa källor:</strong> Tysk grammatik kalibrerad mot{' '}
               <a href="https://grammis.ids-mannheim.de/" target="_blank" rel="noopener noreferrer">
                 IDS grammis
@@ -25,48 +20,37 @@ export default function Footer() {
             </div>
           </div>
 
-          <div>
-            <div className={styles.heading}>Grammatik</div>
+          <div className={styles.navGroup}>
+            <div className={styles.heading}>Meny</div>
             <ul className={styles.list}>
-              <li><Link href="/grammatik">Alla 12 ämnesområden</Link></li>
-              <li><Link href="/docs/grunder/vokaler">Grunder och uttal</Link></li>
-              <li><Link href="/docs/substantiv/bestamd-artikel">Substantiv och artiklar</Link></li>
-              <li><Link href="/docs/kasus/ackusativ">Kasus och rektion</Link></li>
-              <li><Link href="/docs/prepositioner/vaxelprepositioner">Växelprepositioner</Link></li>
-              <li><Link href="/docs/syntax/ordfoljd-i-bisatser">Syntax och ordföljd</Link></li>
-              <li><Link href="/grammatik#kat-E">Mer grammatik & fördjupning</Link></li>
+              <li><Link href="/grammatik">Grammatik</Link></li>
+              <li><Link href="/larstig">Lärstigen</Link></li>
+              <li><Link href="/blog">Anteckningar</Link></li>
+              <li><Link href="/framsteg">Framsteg</Link></li>
+              <li><Link href="/repetition">Repetition</Link></li>
             </ul>
           </div>
 
-          <div>
-            <div className={styles.heading}>Öva & Verktyg</div>
+          <div className={styles.navGroup}>
+            <div className={styles.heading}>Öva</div>
             <ul className={styles.list}>
+              <li><Link href="/ovningar">Alla övningar</Link></li>
+              <li><Link href="/tabellpusslet">Tabellpusslet</Link></li>
               <li><Link href="/verbdrillen">Verbdrillen</Link></li>
-              <li><Link href="/glosdrillen">Glosdrillen (750 ord)</Link></li>
+              <li><Link href="/glosdrillen">Glosdrillen</Link></li>
               <li><Link href="/kasusdrillen">Kasusdrillen</Link></li>
               <li><Link href="/meningsbygget">Meningsbygget</Link></li>
-              <li><Link href="/larstig">Lärstigen (54 steg)</Link></li>
-              <li><Link href="/framsteg">Mina framsteg</Link></li>
-              <li><Link href="/repetition">Dagens repetition</Link></li>
-            </ul>
-          </div>
-
-          <div>
-            <div className={styles.heading}>Om tjänsten</div>
-            <ul className={styles.list}>
-              <li><Link href="/blog">Språkanteckningar</Link></li>
-              <li><Link href="/kontakt">Kontakt och rättelser</Link></li>
-              <li><Link href="/tack">Tack till bidragsgivare</Link></li>
-              <li style={{ marginTop: '0.75rem', color: '#666', fontSize: '0.8125rem' }}>
-                Helt gratis. Inga annonser. Ingen registrering krävs — framsteg sparas lokalt i din webbläsare.
-              </li>
             </ul>
           </div>
         </div>
 
         <div className={styles.bottom}>
-          <div>© {new Date().getFullYear()} Om-Tyska. En svensk ingång till det tyska.</div>
-          <div>Språk · Tanke · Bildning</div>
+          <div>
+            omtyska.se ·{' '}
+            <a href="https://oscarohrn.com/" target="_blank" rel="noopener noreferrer">
+              oscarohrn.com
+            </a>
+          </div>
         </div>
       </div>
     </footer>

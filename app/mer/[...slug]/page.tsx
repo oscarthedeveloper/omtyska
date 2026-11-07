@@ -1,11 +1,10 @@
 import type { Metadata } from 'next';
-import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import Mdx from '@/components/mdx/Mdx';
 import TableOfContents from '@/components/TableOfContents';
 import LearningStepProgress from '@/components/learning/LearningStepProgress';
 import MiniQuiz from '@/components/mdx/MiniQuiz';
-import RigorosBanner from '@/components/RigorosBanner';
+import LessonHeader from '@/components/edition/LessonHeader';
 import DocPager from '@/components/DocPager';
 import { LEARNING_QUIZZES } from '@/data/learning-quizzes';
 import { getAllDocs, getDocBySegments, getDocNeighbours, getRegistryLessons } from '@/lib/content';
@@ -64,20 +63,9 @@ export default async function MerDocPage({ params }: { params: Promise<Params> }
   const quiz = LEARNING_QUIZZES[doc.href] || (doc.id ? LEARNING_QUIZZES[doc.id] : undefined);
 
   return (
-    <div className={styles.layout}>
+    <main className={styles.layout}>
+      <LessonHeader doc={doc} />
       <article className={styles.article}>
-        <nav className={styles.breadcrumbs} aria-label="Brödsmulor">
-          <Link href="/grammatik">Grammatik</Link>
-          <span aria-hidden="true"> / </span>
-          <Link href="/mer">Mer grammatik</Link>
-          <span aria-hidden="true"> / </span>
-          <span>[{doc.id}]</span>
-        </nav>
-
-        <h1>{doc.title}</h1>
-        {doc.rigoros && <RigorosBanner />}
-        {doc.description && <p className={styles.lead}>{doc.description}</p>}
-
         <div className={`${styles.content} mdxContent`}>
           <Mdx key={doc.href} source={doc.content} hideDrill={Boolean(quiz)} />
         </div>
@@ -101,6 +89,6 @@ export default async function MerDocPage({ params }: { params: Promise<Params> }
       </article>
 
       <TableOfContents headings={doc.headings} />
-    </div>
+    </main>
   );
 }

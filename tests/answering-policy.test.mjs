@@ -74,4 +74,33 @@ describe('Om-Tyska Answering Policy Tests', () => {
     const check3 = checkSentenceOrder(['Heute', 'ich', 'kaufe', 'ein Buch'], allowed);
     assert.equal(check3.isCorrect, false);
   });
+
+  test('9. Sentence-initial casing tolerance: approves der Mann when target is Der Mann', () => {
+    const res1 = gradeGermanAnswer('der Mann', 'Der Mann');
+    assert.equal(res1.isCorrect, true);
+    assert.equal(res1.score, 1.0);
+
+    const res2 = gradeGermanAnswer('Der Mann', 'der Mann');
+    assert.equal(res2.isCorrect, true);
+
+    const res3 = gradeGermanAnswer('mir', 'Mir');
+    assert.equal(res3.isCorrect, true);
+
+    const res4 = gradeGermanAnswer('jeden Tag', 'Jeden Tag');
+    assert.equal(res4.isCorrect, true);
+
+    const res5 = gradeGermanAnswer('dieses Buch', 'Dieses Buch');
+    assert.equal(res5.isCorrect, true);
+  });
+
+  test('10. Still strictly rejects lowercase German nouns even with sentence-initial articles', () => {
+    const res1 = gradeGermanAnswer('der mann', 'Der Mann');
+    assert.equal(res1.isCorrect, false);
+    assert.equal(res1.errorTag, 'wrong-capitalization');
+    assert.match(res1.feedback, /substantiv/i);
+
+    const res2 = gradeGermanAnswer('jeden tag', 'Jeden Tag');
+    assert.equal(res2.isCorrect, false);
+    assert.equal(res2.errorTag, 'wrong-capitalization');
+  });
 });

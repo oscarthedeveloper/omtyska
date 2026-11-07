@@ -12,7 +12,7 @@
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
     "search-index": "node scripts/build-search-index.mjs",
-    "test": "node --experimental-strip-types tests/answering-policy.test.mjs && node tests/mdx-structure.test.mjs"
+    "test": "node --experimental-strip-types tests/answering-policy.test.mjs && node tests/mdx-structure.test.mjs && node --experimental-strip-types --test tests/table-puzzles.test.mjs && node --experimental-strip-types --test tests/verb-tables.test.mjs && node --experimental-strip-types --test tests/kasus-drill.test.mjs && node --experimental-strip-types --test tests/syntax-exercises.test.mjs"
   },
   "dependencies": {
     "github-slugger": "^2.0.0",

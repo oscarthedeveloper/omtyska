@@ -25,10 +25,15 @@ export const siteConfig = {
 
   tools: [
     {
+      id: 'tabellpusslet', title: 'Tabellpusslet', href: '/tabellpusslet',
+      description: 'Fyll böjningstabeller genom att skriva eller placera pusselbitar. Artiklar, kein och n-deklination.',
+      tag: 'Artiklar & böjning',
+    },
+    {
       id: 'verbdrillen',
       title: 'Verbdrillen',
       href: '/verbdrillen',
-      description: 'Öva tyska verbformer, tempus och verb i fullständiga meningar.',
+      description: 'Fyll personböjningar i ett eller alla tempus. Välj modus och skriv eller pussla.',
       tag: 'Verb',
     },
     {

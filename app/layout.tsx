@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     'svenska',
   ],
   authors: [{ name: siteConfig.name }],
-  icons: { icon: '/brand/mark.svg' },
+  icons: { icon: '/images/brand/wagner.png' },
   alternates: { canonical: '/' },
   openGraph: {
     type: 'website',
@@ -52,6 +52,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html
       lang="sv"
+      data-scroll-behavior="smooth"
       data-grammar-mode="lattsam"
       suppressHydrationWarning
     >
@@ -71,7 +72,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           Hoppa till innehållet
         </a>
         <Navbar />
-        <main id="innehall">{children}</main>
+        <div id="innehall">{children}</div>
         <Footer />
       </body>
     </html>

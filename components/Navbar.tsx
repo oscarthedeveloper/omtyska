@@ -14,7 +14,40 @@ export default function Navbar() {
   const [toolsOpen, setToolsOpen] = useState(false);
 
   const navRef = useRef<HTMLElement>(null);
-  useEffect(() => { setMobileMenuOpen(false); setToolsOpen(false); }, [pathname]);
+  const innerRef = useRef<HTMLDivElement>(null);
+  const [navHeight, setNavHeight] = useState(71);
+
+  useEffect(() => {
+    setMobileMenuOpen(false);
+    setToolsOpen(false);
+  }, [pathname]);
+
+  // Lock body scroll when mobile menu is open to prevent background scrolling and sticky glitches on iOS/Android
+  useEffect(() => {
+    if (mobileMenuOpen) {
+      const originalOverflow = document.body.style.overflow;
+      document.body.style.overflow = 'hidden';
+      return () => {
+        document.body.style.overflow = originalOverflow;
+      };
+    }
+  }, [mobileMenuOpen]);
+
+  // Keep mobile menu positioned exactly below the navbar header bar
+  useEffect(() => {
+    function measureHeight() {
+      if (innerRef.current) {
+        const rect = innerRef.current.getBoundingClientRect();
+        if (rect.height > 0) {
+          setNavHeight(Math.round(rect.height) + 1);
+        }
+      }
+    }
+    measureHeight();
+    window.addEventListener('resize', measureHeight);
+    return () => window.removeEventListener('resize', measureHeight);
+  }, [mobileMenuOpen]);
+
   useEffect(() => {
     function keydown(event: KeyboardEvent) {
       if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') { event.preventDefault(); setSearchOpen(true); }
@@ -27,10 +60,17 @@ export default function Navbar() {
     document.addEventListener('pointerdown', pointerdown);
     return () => { window.removeEventListener('keydown', keydown); document.removeEventListener('pointerdown', pointerdown); };
   }, []);
+
+  function handleSearchOpen() {
+    setMobileMenuOpen(false);
+    setToolsOpen(false);
+    setSearchOpen(true);
+  }
+
   return (
     <>
       <header ref={navRef} className={styles.navbar}>
-        <div className={styles.inner}>
+        <div ref={innerRef} className={styles.inner}>
           <div className={styles.left}>
             <Link href="/" className={styles.brand}>
               <span><span className={styles.brandName}>omtyska.se</span><span className={styles.brandTag}>Språk · Bildning · Kultur</span></span>
@@ -107,7 +147,7 @@ export default function Navbar() {
             <button
               type="button"
               className={styles.searchBtn}
-              onClick={() => setSearchOpen(true)}
+              onClick={handleSearchOpen}
               aria-label="Öppna sökning"
               title="Sök (Cmd+K)"
             >
@@ -145,7 +185,15 @@ export default function Navbar() {
         </div>
 
         {mobileMenuOpen && (
-          <div id="mobilmeny" className={styles.mobile}>
+          <div
+            id="mobilmeny"
+            className={styles.mobile}
+            style={{
+              top: `${navHeight}px`,
+              height: `calc(100dvh - ${navHeight}px)`,
+              maxHeight: `calc(100dvh - ${navHeight}px)`
+            }}
+          >
             <p className={styles.mobileHeading}>Meny</p>
             <Link
               href="/grammatik"

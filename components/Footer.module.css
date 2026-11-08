@@ -101,7 +101,12 @@
 }
 @media (max-width: 600px) {
   .list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     column-gap: 16px;
+    row-gap: 6px;
+  }
+  .list a {
+    white-space: normal;
   }
   .navGroup {
     flex-basis: 100%;

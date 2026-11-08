@@ -121,8 +121,13 @@ export default function SearchDialog({
 
   useEffect(() => {
     if (open) {
+      const originalOverflow = document.body.style.overflow;
+      document.body.style.overflow = 'hidden';
       const t = window.setTimeout(() => inputRef.current?.focus(), 40);
-      return () => window.clearTimeout(t);
+      return () => {
+        document.body.style.overflow = originalOverflow;
+        window.clearTimeout(t);
+      };
     }
     setQuery('');
     setActive(0);

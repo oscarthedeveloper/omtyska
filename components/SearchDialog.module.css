@@ -61,7 +61,26 @@
 
 .results {
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-y: contain;
+  touch-action: pan-y;
   padding: var(--s-xs);
+}
+
+@media (max-width: 600px) {
+  .overlay {
+    padding: 12px 10px;
+  }
+  .dialog {
+    max-height: 85vh;
+    border-radius: var(--r-md);
+  }
+  .inputRow {
+    padding: 10px 12px;
+  }
+  .input {
+    font-size: 1rem;
+  }
 }
 
 .empty {

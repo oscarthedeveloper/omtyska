@@ -21,7 +21,7 @@ export default function Home() {
   return <main className={styles.page}>
     <section className={styles.portal} aria-labelledby="portal-title">
       <div className={styles.frontispiece}>
-        <div className={styles.intro}><p className={styles.label}>Om Tyska / Ett öppet verk</p><h1 id="portal-title">Ett språk.<br />En värld att <em>förstå.</em></h1></div>
+        <div className={styles.intro}><h1 id="portal-title">Allt<br /><em>om tyska</em></h1></div>
         <figure className={styles.plate}><Image src="/images/brand/wagner.png" alt="Porträtt av Richard Wagner i gravyrstil." width={1254} height={1254} priority sizes="(max-width: 760px) 80vw, 40vw" /><figcaption>Fig. I / Språk & bildning</figcaption></figure>
       </div>
       <nav className={styles.destinations} aria-label="Fyra ingångar till Om Tyska">{ENTRIES.map(e => <Link key={e.n} href={e.href} className={styles.destination}><div className={styles.entryTop}><span>{e.n} /</span><h2>{e.title}</h2><span aria-hidden="true">↗</span></div><div><p className={styles.subtitle}>{e.subtitle}</p><p>{e.text}</p></div></Link>)}</nav>

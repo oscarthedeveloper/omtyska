@@ -28,7 +28,6 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: siteConfig.name }],
   icons: { icon: '/images/brand/wagner.png' },
-  alternates: { canonical: '/' },
   openGraph: {
     type: 'website',
     locale: 'sv_SE',
